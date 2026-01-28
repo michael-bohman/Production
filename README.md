@@ -22,6 +22,6 @@ layout:
 [rtk-ppk](production-documentation-1/rtk-ppk/)
 {% endcontent-ref %}
 
-{% content-ref url="65r/" %}
-[65r](65r/)
+{% content-ref url="production-documentation-1/65r/" %}
+[65r](production-documentation-1/65r/)
 {% endcontent-ref %}
