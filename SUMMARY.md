@@ -28,3 +28,8 @@
     * [Final Assembly](production-documentation-1/gimbals/6x-65r/final-assembly/README.md)
       * [Final Assembly - 6X](production-documentation-1/gimbals/6x-65r/final-assembly/final-assembly-6x.md)
       * [Final Assembly - 65R](production-documentation-1/gimbals/6x-65r/final-assembly/final-assembly-65r.md)
+
+## Fault Isolation
+
+* [6X Fault Isolation Manual](fault-isolation/6x-fault-isolation-manual.md)
+* [RTK/PPK Fault Isolation Manual](fault-isolation/rtk-ppk-fault-isolation-manual.md)
