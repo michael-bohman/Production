@@ -1,27 +1,2 @@
----
-description: Here is where all of the Documentation for production purposes will be stored.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
+# RTK/PPK
 
-# Production Documentation
-
-{% content-ref url="production-documentation-1/rtk-ppk/" %}
-[rtk-ppk](production-documentation-1/rtk-ppk/)
-{% endcontent-ref %}
-
-{% content-ref url="production-documentation-1/65r/" %}
-[65r](production-documentation-1/65r/)
-{% endcontent-ref %}
