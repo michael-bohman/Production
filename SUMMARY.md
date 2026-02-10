@@ -11,6 +11,7 @@
 * [Pixel Scout](production-documentation-1/pixel-scout/README.md)
   * [Gimbal](production-documentation-1/pixel-scout/gimbal/README.md)
     * [Gimbal Assembly](production-documentation-1/pixel-scout/gimbal/gimbal-assembly.md)
+  * [Emlid Base Station Configuration](technical-instructions/pixel-scout/emlid-base-station-configuration.md)
 * [6X](production-documentation-1/6x.md)
   * [6X Assembly](technical-instructions/6x/6x-assembly.md)
   * [6X Programming](technical-instructions/6x/6x-programming.md)
@@ -54,3 +55,4 @@
 ## Space and General
 
 * [Software Installation Guide](space-and-general/software-installation-guide.md)
+* [Gitbook Page Export Guide](space-and-general/gitbook-page-export-guide.md)
