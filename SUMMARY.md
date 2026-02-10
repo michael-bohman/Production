@@ -17,6 +17,7 @@
   * [6X Programming](technical-instructions/6x/6x-programming.md)
   * [6X Focusing](technical-instructions/6x/6x-focusing.md)
   * [6X Pixel Alignment](technical-instructions/6x/6x-pixel-alignment.md)
+* [6XT](technical-instructions/6xt.md)
 * [65R](production-documentation-1/65r/README.md)
   * [65R Assembly](production-documentation-1/65r/65r-assembly.md)
   * [65R Programming](production-documentation-1/65r/65r-programming.md)

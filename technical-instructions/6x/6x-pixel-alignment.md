@@ -1,9 +1,13 @@
+---
+description: Stage 4 in the 6X process
+---
+
 # 6X Pixel Alignment
 
 ## Equipment Needed
 
 * Tall tripod and tripod camera mount
-* Computer&#x20;
+* Laptop
 * 12v 6x power supply&#x20;
 * USB-C cable
 
@@ -11,7 +15,7 @@
 
 1. Secure 6x camera onto the mount with the screws provided
 2. Connect the USB-C cable and the power supply to the 6x camera
-3. Open the webpage on your computer
+3. Open the camera webpage on your computer 192.168.42.1
 4. Start a session named <mark style="color:blue;">**CAL**</mark>&#x20;
 5. Complete 3 rows reach at a different height and take 7 pictures per row (see image below for more details)
 6. Remove the camera from the mount and tripod and go back to your desk&#x20;
