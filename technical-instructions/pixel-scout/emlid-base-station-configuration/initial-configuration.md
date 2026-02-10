@@ -108,9 +108,31 @@ Select the Base settings page from the left hand menu.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-Select the Coordinate enter method dropdown box and select Average Fix
+Select the Coordinate enter method dropdown box and select Average Fix.
 
 <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+Press the Edit button on the Antenna Height box.
+
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+Set the Measured height to 1.194m (3.917ft).&#x20;
+
+```
+1.194
+```
+
+Then press Save
+
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+After you press save the antenna height box will read 1.328m. This is because the system automatically adds the distance to the phase center of the antenna. This is the CORRECT and expected value.&#x20;
+{% endhint %}
+
+Press Apply and average again.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
