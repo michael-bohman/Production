@@ -53,8 +53,9 @@ When the update is complete, the firmware will not refresh and show the correct 
 2. Power on the camera and connect USB-C cable&#x20;
 3. Open the camera website 192.168.42.1
 4. Confirm firmware is up to date and showing the right numbers&#x20;
-5. Open the Home tab&#x20;
-6. Find the Session button and rename to "Prog Test Session", Click Start Session
-7. Wait a few sessions and click Capture Image
-8. Navigate to file explorer  \\\192.168.42.1&#x20;
-9. Confirm photos have been taken&#x20;
+5. Confirm Diagnostics is showing the correct Part number and serial number for your camera&#x20;
+6. Open the Home tab&#x20;
+7. Find the Session button and rename to "Prog Test Session", Click Start Session
+8. Wait a few sessions and click Capture Image
+9. Navigate to file explorer  \\\192.168.42.1&#x20;
+10. Confirm photos have been taken&#x20;
