@@ -134,5 +134,29 @@ Press Apply and average again.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+### Power Cycle&#x20;
+
+Power cycle the base station. This will update apply the new base station name.&#x20;
+{% endstep %}
+
+{% step %}
+### Switch to iPad or Cell Phone
+
+The next portion of the configuration process requires the use of an iPad or cell phone to utilize the bluetooth connection to the base station.&#x20;
+
+This also requires the Emlid Flow application to be installed on the iPad or cell phone
+
+{% embed url="https://emlid.com/emlid-flow/" %}
+{% endstep %}
+
+{% step %}
+### Connect to Emlid Flow Application
+
+
+
+
+{% endstep %}
 {% endstepper %}
 
