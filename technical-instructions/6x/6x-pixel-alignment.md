@@ -22,21 +22,24 @@ description: Stage 4 in the 6X process
 
 ## Calibration App
 
-1. Create a folder on your laptop and inside that create a folder named the serial number (Example: Pixel Allignment -> SN 035)
+1. Create a folder on your laptop and inside that create a folder named the serial number (Example: Pixel Alignment -> SN 438)
 2. In the serial number folder create another folder called Output
 3. Power on the camera and connect USB-C
 4. In the Data-> Snapshots ...Copy over the <mark style="color:blue;">**CAL**</mark> and <mark style="color:blue;">**Focus**</mark> folders into the serial number folder&#x20;
 5. In the SD Card -> Info .. Copy over the <mark style="color:blue;">**hw\_config**</mark> file into the serial number folder
-6. Power off the camera when copying if complete&#x20;
+6. Power off the camera when copying is complete&#x20;
 
-<figure><img src="../../.gitbook/assets/Folders.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Folders (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Open the Calibration GUI app <mark style="color:red;">(insert file)</mark>
-8. Click the 3 dots to select the folders from your saved SN xx folder
+
+<figure><img src="../../.gitbook/assets/Application ScreenShot.png" alt=""><figcaption></figcaption></figure>
+
+7. Click the 3 dots to select the folders from your saved SN xx folder
 
 <p align="center">Calibration Session -> <strong>CAL</strong></p>
 
-<p align="center">Allignment Session -> <strong>Focus</strong></p>
+<p align="center">Alignment Session -> <strong>Focus</strong></p>
 
 <p align="center">HW Config -> <strong>hw_config</strong></p>
 
@@ -48,10 +51,14 @@ description: Stage 4 in the 6X process
 10. Click Run (This will take a while, wait for the screen to say "finished" and open another window
 11. Look at ending result from the window that opens. All columns should be mostly/all green except the last RGB column&#x20;
 12. When program is finished, go to your SN xx file and click results -> output&#x20;
-13. Check photos for allignment
+13. Check photos for alignment
 14. Power on the camera and connect USB-C
 15. Navigate to SDcard-> Firmware&#x20;
 16. Copy the hw\_config.yaml (NOT orig) from your SN xx folder into the Firmware folder on the 6x camera
 17. Restart camera&#x20;
 18. Navigate to SDcard -> info -> hw\_config
-19. Confirm the method is updated (Calicration 1.2.0)
+19. Confirm the method is updated (Calibration 1.2.0)
+
+{% hint style="info" %}
+6X Thermal and Thermal pro will show a different method
+{% endhint %}
