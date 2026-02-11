@@ -138,7 +138,33 @@ Press Apply and average again.&#x20;
 {% step %}
 ### Power Cycle&#x20;
 
-Power cycle the base station. This will update apply the new base station name.&#x20;
+Power cycle the base station. This will update the new base station name for the base station "hot spot"
+
+{% hint style="info" %}
+This is the Wi-Fi network that the base station hosts.&#x20;
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Configure Wi-Fi&#x20;
+
+Select the Wi-Fi page from the left menu.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+Press the pencil button in the Hotspot mode menu.
+
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+Change the password to pixelscout
+
+```
+pixelscout
+```
+
+Then press save.
+
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
