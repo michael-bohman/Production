@@ -1,4 +1,13 @@
-# Initial Configuration
+# PixelScout Configuration
+
+## Required Equipment
+
+* [ ] Emlid RS3 Base Station
+* [ ] 15W USB-C Charging Cable
+* [ ] Laptop (or iPad)
+* [ ] Emlid Flow App (Optional, UI may differ than instructions)
+
+## Instructions
 
 {% stepper %}
 {% step %}
@@ -165,24 +174,6 @@ pixelscout
 Then press save.
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-### Switch to iPad or Cell Phone
-
-The next portion of the configuration process requires the use of an iPad or cell phone to utilize the bluetooth connection to the base station.&#x20;
-
-This also requires the Emlid Flow application to be installed on the iPad or cell phone
-
-{% embed url="https://emlid.com/emlid-flow/" %}
-{% endstep %}
-
-{% step %}
-### Connect to Emlid Flow Application
-
-
-
-
 {% endstep %}
 {% endstepper %}
 
