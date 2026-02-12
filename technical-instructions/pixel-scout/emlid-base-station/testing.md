@@ -28,7 +28,7 @@ Select the Correction input page from the left hand menu.&#x20;
 Select NTRIP over Bluetooth. Then enter your NTRIP credentials.
 
 {% hint style="info" %}
-The NTRIP credentials will remain persistant on your iPad/Cell phone. I am not certain if they are persistant to the base station. This needs to be evalutated as the base station should not ship out of the system with Sentera credentials loaded into them.&#x20;
+The NTRIP credentials will remain persistant on your iPad/Cell phone. I am not certain if they are persistent to the base station. This needs to be evaluated as the base station should not ship out of the system with Sentera credentials loaded into them.&#x20;
 {% endhint %}
 
 ## Instructions
@@ -61,11 +61,11 @@ Connect to the base station via the Emlid Flow App using the Bluetooth option.&#
 {% step %}
 ### Start Corrections
 
-Navigate to the the Corrections Input page fromt he left hand menu.&#x20;
+Navigate to the the Corrections Input page from the left hand menu.&#x20;
 
 Verify the corrections input is set to NTRIP over Bluetooth.&#x20;
 
-Verify corrections are being recieved.&#x20;
+Verify corrections are being received.&#x20;
 {% endstep %}
 
 {% step %}
@@ -73,8 +73,8 @@ Verify corrections are being recieved.&#x20;
 
 Navigate to the Base Settings page from the left hand menu.&#x20;
 
-Verify the base station has achieved and&#x20;
+Verify the base station has achieved a Fixed solution.&#x20;
 
-
+Verify the base station completes the self survey (2 minutes of Fixed solution).
 {% endstep %}
 {% endstepper %}
