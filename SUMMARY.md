@@ -48,13 +48,13 @@
 
 ## QC/Shipping
 
-* [QC/Shipping](qc-shipping/qc-shipping/README.md)
-  * [Sensors](qc-shipping/qc-shipping/sensors/README.md)
-    * [65R Shipping QC](qc-shipping/qc-shipping/sensors/65r-shipping-qc.md)
-    * [6X Shipping QC](qc-shipping/qc-shipping/sensors/6x-shipping-qc.md)
-  * [Systems and Kits](qc-shipping/qc-shipping/systems-and-kits/README.md)
-    * [Reflectance Panel Shipping QC](qc-shipping/qc-shipping/systems-and-kits/reflectance-panel-shipping-qc.md)
-    * [RTK Shipping QC](qc-shipping/qc-shipping/systems-and-kits/rtk-shipping-qc.md)
+* [Sensors](qc-shipping/sensors/README.md)
+  * [65R Shipping QC](qc-shipping/sensors/65r-shipping-qc.md)
+  * [6X Final QC](qc-shipping/sensors/6x-final-qc/README.md)
+    * [Pre-Shipment Set-Up](qc-shipping/sensors/6x-final-qc/pre-shipment-set-up.md)
+* [Systems and Kits](qc-shipping/systems-and-kits/README.md)
+  * [Reflectance Panel Shipping QC](qc-shipping/systems-and-kits/reflectance-panel-shipping-qc.md)
+  * [RTK Shipping QC](qc-shipping/systems-and-kits/rtk-shipping-qc.md)
 
 ## Space and General
 
