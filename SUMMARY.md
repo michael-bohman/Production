@@ -13,6 +13,7 @@
     * [Gimbal Assembly](production-documentation-1/pixel-scout/gimbal/gimbal-assembly.md)
   * [Emlid Base Station Configuration](technical-instructions/pixel-scout/emlid-base-station-configuration/README.md)
     * [Initial Configuration](technical-instructions/pixel-scout/emlid-base-station-configuration/initial-configuration.md)
+  * [Camera Pod](technical-instructions/pixel-scout/camera-pod.md)
 * [6X](production-documentation-1/6x.md)
   * [6X Assembly](technical-instructions/6x/6x-assembly.md)
   * [6X Programming](technical-instructions/6x/6x-programming.md)
