@@ -18,7 +18,8 @@ description: Stage 4 in the 6X process
 3. Open the camera webpage on your computer 192.168.42.1
 4. Start a session named <mark style="color:blue;">**CAL**</mark>&#x20;
 5. Complete 3 rows reach at a different height and take 7 pictures per row (see image below for more details)
-6. Remove the camera from the mount and tripod and go back to your desk&#x20;
+6. Move the tripod to 4 other spots (forward, back, left, and right) and repeat step 5 for each location.
+7. Remove the camera from the mount and tripod and go back to your desk&#x20;
 
 ## Calibration App
 
@@ -52,6 +53,7 @@ description: Stage 4 in the 6X process
 11. Look at ending result from the window that opens. All columns should be mostly/all green except the last RGB column&#x20;
 12. When program is finished, go to your SN xx file and click results -> output&#x20;
 13. Check photos for alignment
+    1. Groups of 5 pictures should be aligned within a small margin. Seen best if the arrow is used to change quickly between them.
 14. Power on the camera and connect USB-C
 15. Navigate to SDcard-> Firmware&#x20;
 16. Copy the hw\_config.yaml (NOT orig) from your SN xx folder into the Firmware folder on the 6x camera
