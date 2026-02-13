@@ -6,6 +6,8 @@
 * 12V AC Power Adapter
 * Anderson to power adapter
 * green ribbon cable
+* Leveling board
+* Level
 
 ## Notes
 
@@ -13,9 +15,21 @@ The process of programming these board is very similar to that of the 6x/65R. Th
 
 ## Guide
 
-Stepper blocks let you break down a tutorial or guide into separate, but clearly linked steps. Each step can contain multiple different blocks, allowing you to add detailed information.
-
 {% stepper %}
+{% step %}
+### Level the Surface
+
+Note: The level on the leveling board is innacurate. Place a level on top of the board for an accurate reading.
+
+1. Screw in all the feet of the leveling board.
+2. Place the level on the board in a front-to-back orientation.
+3. While the level is on the board, unscrew the two feet on the low side (away from the bubble) until the bubble is centered.
+4. Repeat this with the level perpendicular to step 2.
+5. Double check that the board shows level when the level is in any orientation.
+6. Ensure the board does not wobble at all.
+   1. If the board wobbles at all, unscrew one of the two feet that it is wobbling between and double check levels, repeat if needed.
+{% endstep %}
+
 {% step %}
 ### Plug In Everything
 
@@ -32,7 +46,7 @@ Plug in all the cables as follows: (Note: Wait to plug in the Anderson powerpole
 {% step %}
 ### Follow Steps in Partner Assistant (MISSING SERIAL NUMBER STEP)
 
-1. Switch the 'CTRL PROG' Switch on the boadr to 'ON'.
+1. Switch the 'CTRL PROG' Switch on the board to 'ON'.
 2. Plug in the Anderson Power Pole connection.
 3. Open Basecam Simple BGC Partner Assistant.
    1. If the serial number required is not known, click on 'Web Control Panel'. Sign in and click 'Customers' and the top. The required serial number will be the next highest.
@@ -62,7 +76,10 @@ Plug in all the cables as follows: (Note: Wait to plug in the Anderson powerpole
 ### Calibrate the IMU
 
 1. Navigate to the 'Hardware' tab on Basecam GUI.
-
-
+2. Click on 'Calibrate IMUs'.
+3. In the IMU Calibration side (Left), click 'Reset'.
+4. orient the board in the jig on any face, wait for the bar on the right to reach green, click 'Calibrate' and repeat for another face until all 6 are checked.
+5. Once the board IMU is calibrated, export the calibration data to the corresponding SN folder in taurus.
+6. At the top, click 'Disconnect' and disconnect all of the board connections.
 {% endstep %}
 {% endstepper %}
