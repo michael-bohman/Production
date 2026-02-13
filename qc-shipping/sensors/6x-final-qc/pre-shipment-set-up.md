@@ -20,7 +20,7 @@
 
 4. Put all components in place (review picture below)
 
-<figure><img src="../../../.gitbook/assets/20260212_074638 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20260212_074638 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Light Sensor
 
@@ -39,7 +39,7 @@
 
     e. Save the screenshot in the light sensor SN # and label it communication\_Ship
 
-<figure><img src="../../../.gitbook/assets/Light Sensor.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Light Sensor (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Reflectance Panel
 
@@ -48,7 +48,7 @@
    2. Move the Reflectance panel number into that sales order&#x20;
    3. Pull that number refectance panel from inventory&#x20;
 
-<figure><img src="../../../.gitbook/assets/Reflectance Panel.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Reflectance Panel (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Printing the Label&#x20;
 
