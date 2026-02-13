@@ -44,6 +44,7 @@
 * [Reflectance Panel](technical-instructions/reflectance-panel/README.md)
   * [Reflectance Panel Assembly](technical-instructions/reflectance-panel/reflectance-panel-assembly.md)
   * [Reflectance Panel QC](technical-instructions/reflectance-panel/reflectance-panel-qc.md)
+* [Camera Checkin IN PROGRESS](technical-instructions/camera-checkin-in-progress.md)
 
 ## Fault Isolation
 
