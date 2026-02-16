@@ -19,7 +19,7 @@
     * [Skyport Top Stack](technical-instructions/pixel-scout/assembly-steps/skyport-top-stack.md)
     * [Board Programming](technical-instructions/pixel-scout/assembly-steps/board-programming.md)
     * [Complete Assembly](technical-instructions/pixel-scout/assembly-steps/complete-assembly.md)
-    * [Final Tuning and Assembly](technical-instructions/pixel-scout/assembly-steps/final-tuning-and-assembly.md)
+    * [Gimbal Tuning](technical-instructions/pixel-scout/assembly-steps/gimbal-tuning.md)
 * [6X](production-documentation-1/6x.md)
   * [6X Assembly](technical-instructions/6x/6x-assembly.md)
   * [6X Programming](technical-instructions/6x/6x-programming.md)
