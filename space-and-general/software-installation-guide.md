@@ -39,7 +39,7 @@ NOTE: This software requires Java v1.8.0 or higher. Go to the Java tab for more.
 4. Run the installer and continue through the prompts.
 5. Once you come to the 'Setup Applications' screen, uncheck everything except the MPLAB IPE and the 32-bit MCUs.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="343"><figcaption></figcaption></figure>
 
 6. Finish installing the software.
 
