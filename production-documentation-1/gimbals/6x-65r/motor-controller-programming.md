@@ -87,7 +87,9 @@ The built-in level in the board is not accurate, an external level should be use
    3. Motor controller board to USB cable via Y adapter cable.
    4. Motor controller board to AC Adapter via Y adapter cable.
       1. Connect Anderson Power Pole connector LAST.
-   5. Motor controller to camera via cable.
+   5.  Motor controller to camera via cable.
+
+       <figure><img src="../../../.gitbook/assets/image (35).png" alt="" width="407"><figcaption></figcaption></figure>
 4. Open the 'Simple BGC GUI v2.7.0' program.
 5. Select the COM port associated with the TTL cable and click 'Connect'.
 6. Some errors might be present. This is OK. Just click 'OK'.
