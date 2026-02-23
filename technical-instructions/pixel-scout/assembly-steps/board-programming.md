@@ -19,7 +19,7 @@ The process of programming these board is very similar to that of the 6x/65R. Th
 {% step %}
 ### Level the Surface
 
-Note: The level on the leveling board is innacurate. Place a level on top of the board for an accurate reading.
+Note: The level on the leveling board is inaccurate. Place a level on top of the board for an accurate reading.
 
 1. Screw in all the feet of the leveling board.
 2. Place the level on the board in a front-to-back orientation.
@@ -33,7 +33,7 @@ Note: The level on the leveling board is innacurate. Place a level on top of the
 {% step %}
 ### Plug In Everything
 
-Plug in all the cables as follows: (Note: Wait to plug in the Anderson powerpole connection)
+Plug in all the cables as follows: (Note: Wait to plug in the Anderson power pole connection)
 
 * Computer to board via TTL cable and adapter.
   * Plug into CTRL UART port on board.
