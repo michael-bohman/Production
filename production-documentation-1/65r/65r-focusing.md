@@ -1,5 +1,16 @@
 # 65R Focusing
 
+## Notes
+
+65R part number 21030-04 is for pixel scout systems only. There are a few differences for them.
+
+1. Before Taking a Focus session, change the Image Adjustment settings to the following
+   1. Shutter MIN: 4,000 us
+   2. Shutter MAX: 10,000 us
+   3. Shutter Unlock: 100 ISO
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-02-19 120402.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Focusing
 
 1.  Place the camera in the bracket and attach it to a tripod.
