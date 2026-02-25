@@ -27,11 +27,11 @@
 
 Open your wifi menu and select Reach:xx:xx.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Select "Connect using a password instead".
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Enter emlidreach as the password, then press next/connect.
 
