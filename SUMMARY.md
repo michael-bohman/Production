@@ -54,6 +54,7 @@
 
 * [6X Fault Isolation Manual](fault-isolation/6x-fault-isolation-manual.md)
 * [RTK/PPK Fault Isolation Manual](fault-isolation/rtk-ppk-fault-isolation-manual.md)
+* [Gimbal Fault Isolation Manual](fault-isolation/gimbal-fault-isolation-manual.md)
 
 ## QC/Shipping
 
