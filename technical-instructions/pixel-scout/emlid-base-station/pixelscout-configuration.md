@@ -9,13 +9,11 @@
 
 ## Instructions
 
-{% stepper %}
-{% step %}
 ### Charge Base Station
 
 
-{% endstep %}
 
+{% stepper %}
 {% step %}
 ### Power On Base Station
 
@@ -113,7 +111,7 @@ Then press Apply.
 {% step %}
 ### Configure Base Settings
 
-Select the Base settings page from the left hand menu.&#x20;
+Select the Base settings page from the left hand menu.
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
@@ -142,6 +140,10 @@ After you press save the antenna height box will read 1.328m. This is because th
 Press Apply and average again.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+Update all RTCM3 Settings to output 1 Hz
 {% endstep %}
 
 {% step %}
