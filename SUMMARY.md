@@ -48,10 +48,10 @@
 * [Reflectance Panel](technical-instructions/reflectance-panel/README.md)
   * [Reflectance Panel Assembly](technical-instructions/reflectance-panel/reflectance-panel-assembly.md)
   * [Reflectance Panel QC](technical-instructions/reflectance-panel/reflectance-panel-qc.md)
-* [Camera Checkin IN PROGRESS](technical-instructions/camera-checkin-in-progress.md)
 * [Astro Legs](technical-instructions/astro-legs/README.md)
   * [Astro Legs Assembly](technical-instructions/astro-legs/astro-legs-assembly.md)
   * [Astro Legs Bagging and QC](technical-instructions/astro-legs/astro-legs-bagging-and-qc.md)
+* [Camera Checkin IN PROGRESS](technical-instructions/camera-checkin-in-progress.md)
 
 ## Fault Isolation
 
@@ -63,8 +63,9 @@
 
 * [Sensors](qc-shipping/sensors/README.md)
   * [65R Shipping QC](qc-shipping/sensors/65r-shipping-qc.md)
-  * [6X Final QC](qc-shipping/sensors/6x-final-qc/README.md)
-    * [Pre-Shipment Set-Up](qc-shipping/sensors/6x-final-qc/pre-shipment-set-up.md)
+  * [6X](qc-shipping/sensors/6x/README.md)
+    * [Pre-Shipment Set-Up](qc-shipping/sensors/6x/pre-shipment-set-up.md)
+    * [6X Final QC](qc-shipping/sensors/6x/6x-final-qc.md)
 * [Systems and Kits](qc-shipping/systems-and-kits/README.md)
   * [Reflectance Panel Shipping QC](qc-shipping/systems-and-kits/reflectance-panel-shipping-qc.md)
   * [RTK Shipping QC](qc-shipping/systems-and-kits/rtk-shipping-qc.md)
