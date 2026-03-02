@@ -10,7 +10,7 @@
 3. Eject the microSD card from the computer and put it back in the 65R camera.
 4.  Remove the rear cover of the camera attached with 7 screws. (4 outer, and 3 fan)
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 5. Replace one of the screws on the fan to hold it in place.
 6. Secure the board stack to the front cover using two screws opposite each other.
 7. Set the dip switches present on the imager baseboard CCA to the following positions:
@@ -47,7 +47,7 @@
 23. Verify that the OEM configuration is being used.
     1.  Use 'Sentera PHX' if focusing will be performed immediately.
 
-        <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 24. Navigate to the 'Diagnostics' tab on the left side of the webpage.
 25. Verify that the Part Number and Serial Number are what is expected for the camera.
 
