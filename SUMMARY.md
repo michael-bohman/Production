@@ -49,6 +49,9 @@
   * [Reflectance Panel Assembly](technical-instructions/reflectance-panel/reflectance-panel-assembly.md)
   * [Reflectance Panel QC](technical-instructions/reflectance-panel/reflectance-panel-qc.md)
 * [Camera Checkin IN PROGRESS](technical-instructions/camera-checkin-in-progress.md)
+* [Astro Legs](technical-instructions/astro-legs/README.md)
+  * [Astro Legs Assembly](technical-instructions/astro-legs/astro-legs-assembly.md)
+  * [Astro Legs Bagging and QC](technical-instructions/astro-legs/astro-legs-bagging-and-qc.md)
 
 ## Fault Isolation
 
