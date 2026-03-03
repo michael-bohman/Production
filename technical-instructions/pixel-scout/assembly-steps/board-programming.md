@@ -15,71 +15,83 @@ The process of programming these board is very similar to that of the 6x/65R. Th
 
 ## Guide
 
-{% stepper %}
-{% step %}
-### Level the Surface
+### Preparation
 
-Note: The level on the leveling board is inaccurate. Place a level on top of the board for an accurate reading.
-
-1. Screw in all the feet of the leveling board.
-2. Place the level on the board in a front-to-back orientation.
-3. While the level is on the board, unscrew the two feet on the low side (away from the bubble) until the bubble is centered.
-4. Repeat this with the level perpendicular to step 2.
-5. Double check that the board shows level when the level is in any orientation.
-6. Ensure the board does not wobble at all.
-   1. If the board wobbles at all, unscrew one of the two feet that it is wobbling between and double check levels, repeat if needed.
-{% endstep %}
-
-{% step %}
-### Plug In Everything
-
-Plug in all the cables as follows: (Note: Wait to plug in the Anderson power pole connection)
-
-* Computer to board via TTL cable and adapter.
-  * Plug into CTRL UART port on board.
-* Power Adapter into EXT PWR I/O port on board.
-* AC Adapter into wall outlet.
+1. Level the leveling board using an external level.
+2. Open Partner Assistant and log in.
+3. Connect one end of the green microcoax cable to the 'Gimbal' port on the end of the pixelscout breakout board.
+4. Place the Pixelscout breakout board into the rectangular jig and secure barely snugly using the 2 black course threaded screws included.
+5. Plug in all the required connections **except the anderson power pole connection.**
+   1. Computer to board via TTL cable and adapter.
+      * Plug into CTRL UART port on board.
+   2. Power Adapter into EXT PWR I/O port on board.
+   3. AC Adapter into wall outlet.
 
 <figure><img src="../../../.gitbook/assets/IMG_7684.jpg" alt="" width="375"><figcaption></figcaption></figure>
-{% endstep %}
 
-{% step %}
-### Follow Steps in Partner Assistant (MISSING SERIAL NUMBER STEP)
+6. Switch the 'CTRL PROG' Switch on the SBG Breakout Board to 'ON'.
 
-1. Switch the 'CTRL PROG' Switch on the board to 'ON'.
-2. Plug in the Anderson Power Pole connection.
-3. Open Basecam Simple BGC Partner Assistant.
-   1. If the serial number required is not known, click on 'Web Control Panel'. Sign in and click 'Customers' and the top. The required serial number will be the next highest.
-4. Click on the drop down in the top left corner and ensure the correct COM port is selected.
-   1. Do NOT click 'Connect'
-5. Click 'Test Board'
-6. Select license #5033 and click 'upload'.
+### Programming Steps
+
+#### Partner Assistant
+
+{% hint style="info" %}
+If the serial number required is not known, click on 'Web Control Panel'. Sign in and click 'Customers' and the top. The required serial number will be the next highest 23138-03\_rev- Serial Number.
+{% endhint %}
+
+1. Click on the drop down in the top left corner and ensure the correct COM port is selected.
+
+{% hint style="warning" %}
+Do NOT click 'Connect'
+{% endhint %}
+
+2. Click 'Test Board'
+3. Select '3.3 "Tiny+"'. and click 'FLASH'.
+4. Select/Adjust the following settings and click 'Next'.
+   1. License: **#5033**
+   2. 3 axis driver: **unchecked**
+   3. Battery Voltage Sensor: **Checked**
+   4. Motor Power: **80**
+
+{% hint style="info" %}
+NOTE: some errors may pop up. This is okay, just click 'OK'.
+{% endhint %}
+
+5. In the 'Flash new secret keys' page, click 'Next'.
+6. Select/Adjust the following settings and click 'Next'.
+   1. 3 axis driver: **unchecked**
+   2. Battery Voltage Sensor: **Checked**
+   3. Reference Voltage: **12.05 V**
+   4. Reference Current: **0 A**
+   5. Board ID: **23138-03\_rev-\_SNXXX.** (where XXX denotes the next few numbers from the Basecam website.
 7. After it is completed, select firmware 2.70.0 ENCODERS and click 'upload'.
 8. Once it finishes and gets to the page with the check marks and red x, click cancel and unplug the power connection to the board.
-9. flip the 'CTRL PROG' switch to 'OFF'.
-{% endstep %}
+9. flip the 'CTRL PROG' switch on the SBG Breakout Board to 'OFF'.
 
-{% step %}
-### Upload the Backup
+#### Basecam SimpleBGC GUI
 
-1. connect the green ribbon cable between the two boards.
-2. place the other board into the jig, screw down lightly to preserve the threads bubt tight enough that it won't move.
-3. Open Basecam GUI.
-4. Reconnect the power cable to the board.
-5. Towards the top, ensure the correct COM port is selected. Click 'Connect'.
-6. At the top, click 'Board'>'Backup Manager'.
-7. In the lower 'backup' section, click browse.
-8. Find the correct Pixelscout Phase 4 EEPROM file and select 'Upload'.
-{% endstep %}
+1. Connect the other end of the green microcoax cable to the 'Gimbal' connection on the Pixelscout Breakout Board.
+2. Open 'SimpleBGC GUI'.
+3. Reconnect the power cable to the board.
+4. Towards the top, ensure the correct COM port is selected. Click 'Connect'.
 
-{% step %}
-### Calibrate the IMU
+{% hint style="info" %}
+Notes:&#x20;
 
-1. Navigate to the 'Hardware' tab on Basecam GUI.
-2. Click on 'Calibrate IMUs'.
-3. In the IMU Calibration side (Left), click 'Reset'.
-4. orient the board in the jig on any face, wait for the bar on the right to reach green, click 'Calibrate' and repeat for another face until all 6 are checked.
-5. Once the board IMU is calibrated, export the calibration data to the corresponding SN folder in taurus.
-6. At the top, click 'Disconnect' and disconnect all of the board connections.
-{% endstep %}
-{% endstepper %}
+1. Some errors may pop up. That is okay. just click 'OK'.&#x20;
+2. The main error that might come up is 'Serial Data Corrupted'. If this happens, check that the 'CTRL PROG' switch on the SBG Breakout Board is set to 'OFF' and power cycle the board.
+{% endhint %}
+
+1. At the top, click 'Board'>'Backup Manager'.
+2. In the 'Restore from backup' section, click browse.
+3. Find the Pixelscout Phase 4 'Starting Point' EEPROM file and select 'Open', then 'Restore'.
+4. Navigate to the 'Hardware' tab on Basecam GUI.
+5. Click on 'Calibrate IMUs'.
+6. In the 'Accelerometer' side (Left), click 'Reset'.
+7. Orient the board in the jig on any face, wait for the bar on the right to reach green, click 'Calibrate' and repeat for another face until all 6 are checked.
+8. Once the board IMU is calibrated, export the calibration data.
+   1. At the bottom of the 'Sensor Calibration Helper' window, click 'Backup...'.
+   2. Name: sbgc\_IMU\_calib\_phase4SNXXX' where 'XXX' denotes the pixel scout gimbal serial number.
+   3. Folder: New folder titled the 3 digit serial number
+   4. Click 'Save' and then 'Close'.
+9. Board Programing is complete! At the top, click 'Disconnect' and disconnect all of the board connections.
