@@ -1,2 +1,0 @@
-# Gimbal Assembly
-
