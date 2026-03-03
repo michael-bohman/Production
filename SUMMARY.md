@@ -11,6 +11,7 @@
   * [Ground Module Assembly](production-documentation-1/rtk-ppk/ground-module-assembly.md)
   * [QC Check](technical-instructions/rtk-ppk/qc-check.md)
 * [Pixel Scout](production-documentation-1/pixel-scout/README.md)
+  * [Overview](technical-instructions/pixel-scout/overview.md)
   * [Emlid Base Station](technical-instructions/pixel-scout/emlid-base-station/README.md)
     * [PixelScout Configuration](technical-instructions/pixel-scout/emlid-base-station/pixelscout-configuration.md)
     * [Firmware Update](technical-instructions/pixel-scout/emlid-base-station/firmware-update.md)
