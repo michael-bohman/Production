@@ -57,4 +57,5 @@
 
         <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 15. Put the lens cap over the lens and take a photo. Rename this one in the file explorer to 'Cap Photo'.
-16. Focusing is complete. Unplug everything and turn off any lights if applicable.
+16. Focusing is complete.&#x20;
+17. For 21030-04 Cameras (those used for pixelscout), download the focus session folder and any focus app screenshots and upload them to the 65R folder in taurus under a new folder titled with the serial number. This is because the checkin program is not used on pixelscout systems and there are more opportunities to delete the focus session unintentionally.
