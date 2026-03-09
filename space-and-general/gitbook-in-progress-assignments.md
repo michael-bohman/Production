@@ -4,7 +4,7 @@ description: >-
   they are completed, they can be checked off or deleted.
 ---
 
-# Page Writing Progress
+# Gitbook In Progress Assignments
 
 ## Pages/Instructions that need to be imported/written
 
@@ -18,3 +18,11 @@ Anyone
 
 * [ ] Checkin/QC (probably move to QC/Shipping)
 * [ ] Shipping Labels
+
+
+
+David&#x20;
+
+* [ ] 6X Focusing
+* [ ] 65R Focusing
+

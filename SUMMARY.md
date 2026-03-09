@@ -4,7 +4,6 @@
 
 ## Technical Instructions
 
-* [Example](technical-instructions/example.md)
 * [RTK/PPK](<README (1).md>)
   * [P900 Radio Programming](production-documentation-1/rtk-ppk/p900-radio-programming.md)
   * [Z9P GPS Board Programming](production-documentation-1/rtk-ppk/z9p-gps-board-programming.md)
@@ -81,8 +80,14 @@
 
 ## Space and General
 
-* [Page Writing Progress](space-and-general/page-writing-progress.md)
+* [Gitbook In Progress Assignments](space-and-general/gitbook-in-progress-assignments.md)
+* [Practice space](space-and-general/practice-space.md)
 * [Software Installation Guide](space-and-general/software-installation-guide.md)
 * [Gitbook Page Export Guide](space-and-general/gitbook-page-export-guide.md)
 * [EVault Upload Guide](space-and-general/evault-upload-guide.md)
 * [Task Breakdown](space-and-general/task-breakdown.md)
+
+## Gitbook Templates
+
+* [Tech Instructions Top Page Template](gitbook-templates/tech-instructions-top-page-template/README.md)
+  * [Example Assembly](gitbook-templates/tech-instructions-top-page-template/example-assembly.md)
