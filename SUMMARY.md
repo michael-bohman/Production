@@ -85,7 +85,9 @@
 * [Software Installation Guide](space-and-general/software-installation-guide.md)
 * [Gitbook Page Export Guide](space-and-general/gitbook-page-export-guide.md)
 * [EVault Upload Guide](space-and-general/evault-upload-guide.md)
-* [Task Breakdown](space-and-general/task-breakdown.md)
+* [Task Breakdown](space-and-general/task-breakdown/README.md)
+  * [65R Tasks](space-and-general/task-breakdown/65r-tasks.md)
+  * [PixelScout](space-and-general/task-breakdown/pixelscout.md)
 
 ## Gitbook Templates
 
