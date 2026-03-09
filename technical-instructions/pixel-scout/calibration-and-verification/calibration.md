@@ -10,16 +10,16 @@ Note: This is very rudamentary and will be refined later. This is just for a ref
 
 ## Setup
 
-1. copy session and info folder into a 'Primary Camera' folder inside the serial number folder
+1. copy session and info folder into a 'Primary' folder inside the serial number folder
 
 ## Pix4d
 
-1. open pix4d.
+1. open pix4d twice from the desktop, one for primary and one for secondary.
 2. Create a new project named the same as the session with '\_pix4d' at the end
-   1. For the secondary camera, also add \_2nd at the end.
+   1. For the secondary camera, also add '\_2nd' at the end.
 3. select the rgb folder as the directory.
-4. use either the 3d map (?, whatever the top one is) or the pixelscout template if its there.
-   1. for the 3d map, de-select everything but the first step.
+4. use either the '3d maps' or the pixelscout template if its there.
+   1. for the 3d maps, de-select everything but the first step.
 5. process the data.
 6. When its done, look at the quality report for 4 green checks (last one shouldn't be green). and errors and stuff.
 
