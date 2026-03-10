@@ -20,7 +20,7 @@ Download the focus session folder and any focus app screenshots and upload them 
 * Tripod
 * Focusing micro-USB cable
 * Power Adapter
-* 5/64" (double check) hex screwdriver
+* 1.5 hex screwdriver
 
 ## Guide
 
