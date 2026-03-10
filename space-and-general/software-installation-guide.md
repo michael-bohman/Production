@@ -75,3 +75,16 @@ MikTex is a Latex interpreter used for the conversion of Markdown files to print
 
 </details>
 
+<details>
+
+<summary>Focus App IN PROGRESS</summary>
+
+The Focus App is used for focusing PixelScout 65Rs inside with the targets. Later, it will be used for regular 65R and 6X cameras.
+
+[pixelscout-65r-focusing.md](../technical-instructions/pixel-scout/assembly-steps/pixelscout-65r-focusing.md "mention")
+
+
+
+1. Go to
+
+</details>

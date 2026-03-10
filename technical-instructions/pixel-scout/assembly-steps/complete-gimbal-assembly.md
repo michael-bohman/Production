@@ -14,7 +14,7 @@ In addition to the BOM, the following items are required:
 
 ## Notes
 
-
+* This instruction set finishes with the gimbal fully built excep the back and middle covers. Before they are installed, Tuning and Programing must be performed. Do not forget to secure the covers afterwards.
 
 ## Assembly Guide
 
@@ -94,5 +94,5 @@ The two micro-coax cables are different sized and therefore should only plug in 
 [gimbal-programming.md](gimbal-programming.md)
 {% endcontent-ref %}
 
-18. Attach the rear cover to the camera. Secure using a few screws.
-19. Attach the center cover over the board. Secure using a few screws.
+18. Attach the rear cover to the camera. Secure using 4 screws (91239A704 M2x6 Button head hex).
+19. Attach the center cover over the board. Secure using 4 screws (91239A704 M2x6 Button head hex).

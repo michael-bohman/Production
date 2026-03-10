@@ -2,14 +2,14 @@
 
 ## Notes
 
-65R part number 21030-04 is for pixel scout systems only. There are a few differences for them.
+For focusing 21030-04 cameras for PixelScout systems, refer to the PixelScout assembly steps. There are a few key differences in the process. [pixelscout-65r-focusing.md](../../technical-instructions/pixel-scout/assembly-steps/pixelscout-65r-focusing.md "mention")
 
-1. Before Taking a Focus session, change the Image Adjustment settings to the following
-   1. Shutter MIN: 4,000 us
-   2. Shutter MAX: 10,000 us
-   3. Shutter Unlock: 100 ISO
+## Required Materials/Equipment
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-02-19 120402.png" alt="" width="563"><figcaption></figcaption></figure>
+* Tripod
+* 65R mount
+* Power cable
+* Focusing USB-C cable
 
 ## Focusing
 
@@ -24,8 +24,6 @@
        <figure><img src="../../.gitbook/assets/image (29).png" alt="" width="351"><figcaption></figcaption></figure>
 5. Position the camera such that the targets or subjects are in view.
    1. For -02 Cameras, point the camera out of the window.
-   2. For -04 Cameras, position the camera towards the 3 targets on the wall.
-      1. Turn on all 3 lights using the remotes at the station.
 6. In file explorer, navigate to //192.168.42.1 and go to data>snapshosts>web\_session.
 7.  In the 'Trigger Control' area of the webpage, click 'Take Photo'.
 
@@ -43,19 +41,14 @@
         <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 11. Repeat steps 7-10 until the photo is in focus.
     1. Compare your photo to the reference photo decide if it is focused enough or not.
-       1. -02: look at fences (close and far), plants, powerlines, etc.
-       2. -04: look at the smallest visible lines on each target.
-    2. Make sure to check many spots around the picture, including the edges and center.
-       1. -02: also compare locations in the fore and background.
+       1. look at fences (close and far), plants, powerlines, etc.
+    2. Make sure to check many spots around the picture, including the edges, center, forground and background.
+       1. Prioritize objects in the mirror at about 50-150 feet away.
 12. Once the camera is focused, power cycle it by unplugging it and plugging it back in.
 13. Create a new session named 'Focus'.
 
     <figure><img src="../../.gitbook/assets/image (33).png" alt="" width="287"><figcaption></figcaption></figure>
 14. Take about 10-20 photos, turning the camera to a new angle slightly each time.
-    1. -02: get a wide variety of angles with good overlap.
-    2.  -04: Place any target in each of the following locations in frame for at least one photo each. This is so that focus can be checked at many locations around the frame.
-
-        <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+    1. Get a wide variety of angles with good overlap.
 15. Put the lens cap over the lens and take a photo. Rename this one in the file explorer to 'Cap Photo'.
 16. Focusing is complete.&#x20;
-17. For 21030-04 Cameras (those used for pixelscout), download the focus session folder and any focus app screenshots and upload them to the 65R folder in taurus under a new folder titled with the serial number. This is because the checkin program is not used on pixelscout systems and there are more opportunities to delete the focus session unintentionally.

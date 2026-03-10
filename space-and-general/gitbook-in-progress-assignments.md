@@ -10,9 +10,10 @@ description: >-
 
 Simon
 
-* [ ] Job Breakdown
+* [ ] Task Breakdown
 * [ ] Page Export Guide
-* [ ] PixelScout Assembly
+* [ ] PixelScout
+* [ ] Software Installation Guide
 
 Anyone
 

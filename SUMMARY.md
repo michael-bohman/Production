@@ -17,6 +17,7 @@
     * [Firmware Update](technical-instructions/pixel-scout/emlid-base-station/firmware-update.md)
     * [Testing](technical-instructions/pixel-scout/emlid-base-station/testing.md)
   * [Assembly Steps](technical-instructions/pixel-scout/assembly-steps/README.md)
+    * [PixelScout 65R Focusing](technical-instructions/pixel-scout/assembly-steps/pixelscout-65r-focusing.md)
     * [Gimbal Assembly](technical-instructions/pixel-scout/assembly-steps/gimbal-assembly.md)
     * [Camera Pod Assembly](technical-instructions/pixel-scout/assembly-steps/camera-pod-assembly.md)
     * [Skyport Top Stack](technical-instructions/pixel-scout/assembly-steps/skyport-top-stack.md)
@@ -62,6 +63,7 @@
 
 ## Fault Isolation
 
+* [65R Fault Isolation Manual](fault-isolation/65r-fault-isolation-manual.md)
 * [6X Fault Isolation Manual](fault-isolation/6x-fault-isolation-manual.md)
 * [RTK/PPK Fault Isolation Manual](fault-isolation/rtk-ppk-fault-isolation-manual.md)
 * [Gimbal Fault Isolation Manual](fault-isolation/gimbal-fault-isolation-manual.md)
