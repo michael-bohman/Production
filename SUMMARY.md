@@ -14,6 +14,7 @@
   * [Overview](technical-instructions/pixel-scout/overview.md)
   * [Emlid Base Station](technical-instructions/pixel-scout/emlid-base-station/README.md)
     * [PixelScout Configuration](technical-instructions/pixel-scout/emlid-base-station/pixelscout-configuration.md)
+    * [Initial Setup](technical-instructions/pixel-scout/emlid-base-station/initial-setup.md)
     * [Firmware Update](technical-instructions/pixel-scout/emlid-base-station/firmware-update.md)
     * [Testing](technical-instructions/pixel-scout/emlid-base-station/testing.md)
   * [Assembly Steps](technical-instructions/pixel-scout/assembly-steps/README.md)
