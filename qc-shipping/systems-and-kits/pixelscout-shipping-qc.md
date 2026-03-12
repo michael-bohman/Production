@@ -68,10 +68,13 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 1. plug in power and USB-C on the front of the gimbal
 2. Open file explorer and navigate to 192.168.42.1
-   1. Make sure there's no sessions on the camera and the logs folder is empty.
-   2. Ensure the hw\_config file has the correct serial number/part number.
-   3. Ensure the hw\_config has calibration method set to pix4d and the 'rig\_relatives\_deg' values are set to values other than 0.
-   4. Ensure the bpr.csb file exists in the 'info' folder.
+   1. If prompted, use the following username and password.
+      1. Username: sentera
+      2. Password: \[leave empty]
+   2. Make sure there's no sessions on the camera and the logs folder is empty.
+   3. Ensure the hw\_config file has the correct serial number/part number.
+   4. Ensure the hw\_config has calibration method set to pix4d and the 'rig\_relatives\_deg' values are set to values other than 0.
+   5. Ensure the bpr.csb file exists in the 'info' folder.
 3. Navigate to a web browser and go to 192.168.42.1
    1. Check everything you would normally for a 65R
    2. Check the image adjustment tab for correct settings (BPR should be enabled)
