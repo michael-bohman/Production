@@ -24,24 +24,6 @@ description: >-
 
 <details>
 
-<summary>Calibration Flight Files</summary>
-
-<figure><img src="../../.gitbook/assets/Calibration Flight Artifacts (1).png" alt=""><figcaption></figcaption></figure>
-
-| Folder/File                         | Description                                                                        |
-| ----------------------------------- | ---------------------------------------------------------------------------------- |
-| Session                             | Session from calibration flight                                                    |
-| \_cal                               | output from calibration software with new hw\_config, offsets, quicktile and stats |
-| \_cal\_out                          | quicktile using alignment offsets calculated from calibration software             |
-| \_out (optional)                    | quicktile using un-aligned settings as a baseline                                  |
-| \_pix4d (2nd for secondary cameras) | pix4d files generated during computation                                           |
-| info                                | info folder from camera SD card during calibration flight                          |
-| .p4d file                           | pix4d session file                                                                 |
-
-</details>
-
-<details>
-
 <summary>Verification Flight Files</summary>
 
 <figure><img src="../../.gitbook/assets/Verification Flight Artifacts.png" alt=""><figcaption></figcaption></figure>
@@ -73,3 +55,23 @@ bpr\_map.csv is applied to camera to be used for BPR.
 * Focus Session Folder (Same as 65R 21030-02)
 * Left, middle, and right target screenshots from the focus app
 * 'Numbers' file containing max, target, and ending focus scores.
+
+
+
+## Checking the Cameras
+
+192.168.42.1 is the address for the Primary Camera
+
+192.168.42.2 is the address for the Secondary Camera
+
+
+
+1. plug in power and USB-C on the front of the gimbal
+2. Open file explorer and navigate to 192.168.42.1
+   1. Make sure there's no sessions on the camera and the logs folder is empty
+3. Navigate to a web browser and go to 192.168.42.1
+   1. Check everything you would normally for a 65R
+   2. Check the image ajustment tab for correct settings (BPR should be enabled)
+4. Repeat steps 2 and 3 using IP Address 192.168.42.2
+
+<figure><img src="../../.gitbook/assets/website.png" alt="" width="563"><figcaption></figcaption></figure>
