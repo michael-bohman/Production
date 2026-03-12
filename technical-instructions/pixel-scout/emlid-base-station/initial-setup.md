@@ -87,7 +87,25 @@ The Next steps require the use of a mobile device with Emlid Flow downloaded.
    3. Click 'Turn off IMU'.
    4. The page should now say 'Tilt compensation is inactive'.
    5. Back out to the main menu.
-2. Update the firmware
+2. Set the Corrections Input
+   1. Navigate to 'Correction Input'.
+   2. Select 'NTRIP over Bluetooth'.
+   3. Input the following information. (this is for mncors, it may be different for some people)
+      1. Profile Name: \[Whatever you want]
+      2. Address: mncors.dot.state.mn.us
+      3. Port: 9000
+      4. Username: \[Your MNCors username]
+      5. Password: \[Your MNCors password]
+      6. Mount Point: TRCM\_31\_NAD83(2011)
+      7. Send receiver's position to the provider: Checked
+
+{% hint style="info" %}
+Note: NTRIP credentials are stored on the device, not the base station. This means your personal MNCors account will not be seen by the cutstomers.
+
+Note: The position must be sent to the provider for this to work.
+{% endhint %}
+
+1. Update the firmware
    1. Navigate to 'Wi-Fi' in the Emlid Flow app.
    2. Connect the base station to the 'CaseWifi' Wi-Fi.
       1. This should deactivate the hotspot which means you cannot connect to the base station using anything other than bluetooth.
