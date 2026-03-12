@@ -78,6 +78,7 @@
 * [Systems and Kits](qc-shipping/systems-and-kits/README.md)
   * [Reflectance Panel Shipping QC](qc-shipping/systems-and-kits/reflectance-panel-shipping-qc.md)
   * [RTK Shipping QC](qc-shipping/systems-and-kits/rtk-shipping-qc.md)
+  * [PixelScout Shipping QC](qc-shipping/systems-and-kits/pixelscout-shipping-qc.md)
 * [Shipping Labels](qc-shipping/shipping-labels.md)
 
 ## Space and General
