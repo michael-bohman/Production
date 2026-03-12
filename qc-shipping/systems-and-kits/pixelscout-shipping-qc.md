@@ -68,10 +68,13 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 1. plug in power and USB-C on the front of the gimbal
 2. Open file explorer and navigate to 192.168.42.1
-   1. Make sure there's no sessions on the camera and the logs folder is empty
+   1. Make sure there's no sessions on the camera and the logs folder is empty.
+   2. Ensure the hw\_config file has the correct serial number/part number.
+   3. Ensure the hw\_config has calibration method set to pix4d and the 'rig\_relatives\_deg' values are set to values other than 0.
+   4. Ensure the bpr.csb file exists in the 'info' folder.
 3. Navigate to a web browser and go to 192.168.42.1
    1. Check everything you would normally for a 65R
-   2. Check the image ajustment tab for correct settings (BPR should be enabled)
+   2. Check the image adjustment tab for correct settings (BPR should be enabled)
 4. Repeat steps 2 and 3 using IP Address 192.168.42.2
 
 <figure><img src="../../.gitbook/assets/website.png" alt="" width="563"><figcaption></figcaption></figure>
