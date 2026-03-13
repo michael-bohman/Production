@@ -1,31 +1,31 @@
-# Z9P GPS Board Programming
+# F9P Board Programming
 
 ## Required Equipment/Materials
 
-* F9P GPS Board Programming Bag
-*
+* TTL Cable
+* 12 V AC Power Adapter (Anderson Power Pole connector)
+* GPS board programming adapter cable
+
+
 
 ## Notes
+
+The file uploaded to the antenna GNSS board is the same for the PixelScout system as it is for the RTK/PPK system.
 
 
 
 ## Prep
 
-1. Find the 32014-02 Program
-   1. Navigate to the following folder:
-      1. taurus\Data\Part Database (things we sell)\SW-32014 -- ZED F9P\\
-   2. Copy the 'ROVER6\_A' folder to anywhere on your machine.
-2. Download the Firmware Update if needed
-   1. Navigate to the UBLOCK&#x20;
+1. Download the U-Center 25.06 software using the Software Installation Guide Page.
+
+[#u-center-v25.06](../../../space-and-general/software-installation-guide.md#u-center-v25.06 "mention")
+
+2. Download the Bin file from Taurus to somewhere on your laptop.
+   1. Taurus>Data>Part Database (things we sell)>SW-32026-01 — Zed F9P>Firmware
+   2. Filename: UBX\_F9\_100\_HPG151\_ZED\_F9P.6c43b30ccfed539322eccedfb96ad933.bin
+   3. Note the '151' is the version number of the firmware.
 
 ## Guide
-
-### Initial Programing
-
-1. Plug in everything
-2.
-
-### Firmware Update
 
 1. Open U-Center
 2. Plug in everything
@@ -46,4 +46,3 @@
 {% hint style="info" %}
 The tree viewer is slightly too skinny. Use the scroll bar at the bottom to slide left and minimize the NMEA branch.
 {% endhint %}
-

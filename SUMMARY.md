@@ -22,10 +22,12 @@
     * [Gimbal Assembly](technical-instructions/pixel-scout/assembly-steps/gimbal-assembly.md)
     * [Camera Pod Assembly](technical-instructions/pixel-scout/assembly-steps/camera-pod-assembly.md)
     * [Skyport Top Stack](technical-instructions/pixel-scout/assembly-steps/skyport-top-stack.md)
-    * [Board Programming](technical-instructions/pixel-scout/assembly-steps/board-programming.md)
+    * [Gimbal Board Programming](technical-instructions/pixel-scout/assembly-steps/gimbal-board-programming.md)
     * [Complete Gimbal Assembly](technical-instructions/pixel-scout/assembly-steps/complete-gimbal-assembly.md)
     * [Gimbal Tuning](technical-instructions/pixel-scout/assembly-steps/gimbal-tuning.md)
     * [Gimbal Programming](technical-instructions/pixel-scout/assembly-steps/gimbal-programming.md)
+    * [F9P Board Programming](technical-instructions/pixel-scout/assembly-steps/f9p-board-programming.md)
+    * [Antenna Assembly](technical-instructions/pixel-scout/assembly-steps/antenna-assembly.md)
     * [Case Packing](technical-instructions/pixel-scout/assembly-steps/case-packing.md)
   * [Calibration and Verification](technical-instructions/pixel-scout/calibration-and-verification/README.md)
     * [Calibration Flight](technical-instructions/pixel-scout/calibration-and-verification/calibration-flight.md)
@@ -68,6 +70,7 @@
 * [6X Fault Isolation Manual](fault-isolation/6x-fault-isolation-manual.md)
 * [RTK/PPK Fault Isolation Manual](fault-isolation/rtk-ppk-fault-isolation-manual.md)
 * [Gimbal Fault Isolation Manual](fault-isolation/gimbal-fault-isolation-manual.md)
+* [PixelScout Fault Isolation](fault-isolation/pixelscout-fault-isolation.md)
 
 ## QC/Shipping
 
