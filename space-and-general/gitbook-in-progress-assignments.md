@@ -15,10 +15,13 @@ Simon
 * [ ] PixelScout
 * [ ] Software Installation Guide
 
+
+
 Anyone
 
 * [ ] Checkin/QC (probably move to QC/Shipping)
 * [ ] Shipping Labels
+* [ ] RTK (already in pdf format on taurus)
 
 
 

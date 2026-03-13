@@ -2,7 +2,7 @@
 
 ## Notes
 
-For focusing 21030-04 cameras for PixelScout systems, refer to the PixelScout assembly steps. There are a few key differences in the process. [pixelscout-65r-focusing.md](../../technical-instructions/pixel-scout/assembly-steps/pixelscout-65r-focusing.md "mention")
+For focusing 21030-04 cameras for PixelScout systems, refer to the PixelScout assembly steps. There are a few key differences in the process. [1-c-pixelscout-65r-focusing.md](../../technical-instructions/pixel-scout/assembly-steps/1-c-pixelscout-65r-focusing.md "mention")
 
 ## Required Materials/Equipment
 

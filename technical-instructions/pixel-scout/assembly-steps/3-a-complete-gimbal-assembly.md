@@ -2,7 +2,7 @@
 description: NEEDS MORE PICTURES
 ---
 
-# Complete Gimbal Assembly
+# 3-A Complete Gimbal Assembly
 
 ## Required Items
 
@@ -83,15 +83,15 @@ The two micro-coax cables are different sized and therefore should only plug in 
 16. Tune the gimbal.
     1. Refer to the 'Gimbal Tuning' page for this step.
 
-{% content-ref url="gimbal-tuning.md" %}
-[gimbal-tuning.md](gimbal-tuning.md)
+{% content-ref url="4-a-gimbal-tuning.md" %}
+[4-a-gimbal-tuning.md](4-a-gimbal-tuning.md)
 {% endcontent-ref %}
 
 17. Program the gimbal.
     1. Refer to the 'Gimbal Programing' page for this step.
 
-{% content-ref url="gimbal-programming.md" %}
-[gimbal-programming.md](gimbal-programming.md)
+{% content-ref url="4-b-gimbal-configuration.md" %}
+[4-b-gimbal-configuration.md](4-b-gimbal-configuration.md)
 {% endcontent-ref %}
 
 18. Attach the rear cover to the camera. Secure using 4 screws (91239A704 M2x6 Button head hex).
