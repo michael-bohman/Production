@@ -186,19 +186,30 @@ Note: The position must be sent to the provider for this to work.
    2. Connect the base station to the 'CaseWifi' Wi-Fi.
       1. This should deactivate the hotspot which means you cannot connect to the base station using anything other than Bluetooth.
 
-
+|                                                                               |                                                                               |                                                                               |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="../../../.gitbook/assets/IMG_0012.PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0013.PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0014.PNG" alt="" data-size="original"> |
 
 4. Update the firmware
    1. Back out to the main menu and Navigate to Settings>Firmware updates.
    2. There should be a new version available. If not, disregard step c.
    3. Click 'Update Firmware.
    4. Wait for the update to complete
-5. Forget the Wi-Fi
+
+|                                                                               |                                                                               |                                                                               |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="../../../.gitbook/assets/IMG_0015.PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0016.PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0017.PNG" alt="" data-size="original"> |
+| <img src="../../../.gitbook/assets/IMG_0018.PNG" alt="" data-size="original"> |                                                                               |                                                                               |
+
+4. Forget the Wi-Fi
    1. Navigate back to 'Wi-Fi'
    2. In the hotspot area, click 'Activate'.
    3. Once the hotspot is activated, click on the 'i' icon next to the Wi-Fi that was used to perform the firmware update.
    4. Click on 'Forget'.
 
-
+| Text                                                                              | Text                                                                          | Text                                                                          |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="../../../.gitbook/assets/IMG_0019.PNG" alt="" data-size="original">     | <img src="../../../.gitbook/assets/IMG_0020.PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0021.PNG" alt="" data-size="original"> |
+| <img src="../../../.gitbook/assets/IMG_0022 (1).PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0023.PNG" alt="" data-size="original"> |                                                                               |
 
 Emlid Reach RS3 Base Station is now configured for PixelScout use.
