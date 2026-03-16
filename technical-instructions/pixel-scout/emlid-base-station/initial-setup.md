@@ -123,6 +123,11 @@ Note: After clicking 'save', the height will change to 1.328m. This is because t
    1. The only difference to previously is the Wi-Fi name, now it will be PixelScout-XXX:AB:CD.
       1. XXX indicates the systems serial number
       2. A,B,C, and D are alphanumeric characters.
+   2. Password is 'emlidreach'.
+
+```
+emlidreach
+```
 
 <figure><img src="../../../.gitbook/assets/11.png" alt="" width="280"><figcaption></figcaption></figure>
 
