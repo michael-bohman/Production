@@ -23,7 +23,8 @@ layout:
 
 * [ ] Emlid RS3 Base Station
 * [ ] 15W USB-C Charging Cable
-* [ ] Laptop (or iPad)
+* [ ] iPad
+* [ ] Laptop (Optional)
 * [ ] Emlid Flow App (Optional, UI may differ than instructions)
 
 
@@ -39,6 +40,9 @@ The Base station should be plugged in and charging during the setup process. Ref
 ### Turn on and connect
 
 1. plug the base station in using the USB plug under a rubber protection flap.
+
+<figure><img src="../../../.gitbook/assets/IMG_7961.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
 2. press and hold the button on the base station until the lights turn on.
 3. Use a laptop or iPad to connect to the Wi-Fi.
    1. The name will be Reach:AB:CD (A,B,C,D could be any alphanumeric character)
@@ -57,7 +61,7 @@ you are now connected to the base station
 
 ### Webpage
 
-1. navigate to 192.168.42.1 in a browser.
+1. navigate to 192.168.42.1 in a browser (iPad or laptop).
 
 ```
 192.168.42.1
@@ -236,3 +240,5 @@ To check the status of the battery...
 4. The battery percentage is shown on this screen.
 
 <figure><img src="../../../.gitbook/assets/emlid battery picture.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Additionally, the LEDs on the base station indicate battery charge. Once 3 lights are illuminated and the 4th one is flashing. The base station is at 50%. About 30 minutes after that is sufficient for initial setup.
