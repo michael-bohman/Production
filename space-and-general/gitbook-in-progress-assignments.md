@@ -51,3 +51,4 @@ description: >-
 * [ ] Gremsy stack&#x20;
 * [ ] 6X top page&#x20;
 * [ ] 65R top page&#x20;
+* [ ] 6X Assembly

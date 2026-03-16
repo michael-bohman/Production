@@ -2,11 +2,12 @@
 
 ## Required Items
 
-* Thermal Paste
-* Mixing Stick
+* Thermal Paste and toothpick
 * Clean Paper Towels
 * Loctite
 * Kapton Tape
+* 65R Screw Bin&#x20;
+* Screw Driver&#x20;
 
 ## Notes
 
