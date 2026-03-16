@@ -1,5 +1,8 @@
-# Gimbal Programming
+# 4-B Gimbal Configuration
 
-## Notes
+THIS PAGE IS TEMPORARY
 
-* There are many steps to this. It is grouped into one page because it can be done it one sitting and requires all the same materials.
+This page is used to organize thoughts/steps for the process between gimbal tuning and calibration flights. It includes many things and will probably be split up later.
+
+## Dual Comms Programing
+

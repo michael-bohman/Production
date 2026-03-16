@@ -20,7 +20,7 @@
   * [Assembly Steps](technical-instructions/pixel-scout/assembly-steps/README.md)
     * [1-C PixelScout 65R Focusing](technical-instructions/pixel-scout/assembly-steps/1-c-pixelscout-65r-focusing.md)
     * [2-A Camera Pod Assembly](technical-instructions/pixel-scout/assembly-steps/2-a-camera-pod-assembly.md)
-    * [2-B Gimbal Assembly](technical-instructions/pixel-scout/assembly-steps/2-b-gimbal-assembly.md)
+    * [2-B Gimbal Frame Assembly](technical-instructions/pixel-scout/assembly-steps/2-b-gimbal-frame-assembly.md)
     * [3-A-1 Skyport Top Stack](technical-instructions/pixel-scout/assembly-steps/3-a-1-skyport-top-stack.md)
     * [3-B Gimbal Board Programming](technical-instructions/pixel-scout/assembly-steps/3-b-gimbal-board-programming.md)
     * [3-C F9P Board Programming](technical-instructions/pixel-scout/assembly-steps/3-c-f9p-board-programming.md)

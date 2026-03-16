@@ -1,4 +1,4 @@
-# Gimbal Tuning
+# 4-A Gimbal Tuning
 
 ## Notes
 
@@ -6,9 +6,11 @@ While changing values through Basecam GUI, click 'write' **often** (especially a
 
 ## Setup
 
-1. Attach the camera gimbal to a DJI M300.
+1. Attach the camera gimbal to a DJI M300 or M350.
 2. Connect a USB TTL cable from a computer to the back of the gimbal.
 3. Power on the drone.
+
+<figure><img src="../../../.gitbook/assets/IMG_7718 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## On the Computer
 
