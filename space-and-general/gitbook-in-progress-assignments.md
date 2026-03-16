@@ -21,7 +21,13 @@ description: >-
 * [ ] Checkin/QC (probably move to QC/Shipping)
 * [ ] Shipping Labels
 
+#### Continuously Add to Pages&#x20;
 
+* [ ] 65R Fault Isolation Manual
+* [ ] 6X Fault Isolation Manual
+* [ ] RTK/PPK Fault Isolation Manual
+* [ ] Gimbal Fault Isolation Manual
+* [ ] Pixelscout Fault Isolation Manual
 
 #### Simon
 
