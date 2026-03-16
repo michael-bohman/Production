@@ -1,5 +1,9 @@
 # Firmware Update
 
+## Notes
+
+A firmware update is performed in the initial setup. This page is for if a firmware needs to be updated outside of initial setup.
+
 ## Required Equipment
 
 * [ ] Emlid Base Station

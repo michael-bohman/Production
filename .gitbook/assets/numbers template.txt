@@ -1,0 +1,16 @@
+SN: 
+
+left
+max: 
+target (92%): 
+ending: 
+
+middle
+max: 
+threshold (96%): 
+ending: 
+
+right
+max: 
+target (92%): 
+ending: 

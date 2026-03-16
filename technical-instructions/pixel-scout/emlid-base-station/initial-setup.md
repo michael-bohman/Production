@@ -26,6 +26,14 @@ layout:
 * [ ] Laptop (or iPad)
 * [ ] Emlid Flow App (Optional, UI may differ than instructions)
 
+
+
+## Notes
+
+The Base station should be plugged in and charging during the setup process. Refer to the 'Battery Status' section for charge amount and method of checking.
+
+
+
 ## Setup Instructions
 
 ### Turn on and connect
@@ -213,3 +221,18 @@ Note: The position must be sent to the provider for this to work.
 | <img src="../../../.gitbook/assets/IMG_0022 (1).PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0023.PNG" alt="" data-size="original"> |                                                                               |
 
 Emlid Reach RS3 Base Station is now configured for PixelScout use.
+
+
+
+## Battery Status
+
+PixelScout base stations should be shipping with 50-60% battery charge. During initial setup, it is ideal to charge them to \~60-70% and it will drop during calibration/test flights.
+
+To check the status of the battery...
+
+1. connect through Wi-Fi and navigate to 192.168.42.1 in a browser.
+2. Click on General.
+3. Click on Battery.
+4. The battery percentage is shown on this screen.
+
+<figure><img src="../../../.gitbook/assets/emlid battery picture.png" alt="" width="563"><figcaption></figcaption></figure>

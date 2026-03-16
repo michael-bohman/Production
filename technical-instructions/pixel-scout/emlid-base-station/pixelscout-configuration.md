@@ -1,5 +1,9 @@
 # PixelScout Configuration
 
+## Note: TO BE DELETED
+
+use "initial setup" and ensure that guide is complete before deleting this page.
+
 ## Required Equipment
 
 * [ ] Emlid RS3 Base Station

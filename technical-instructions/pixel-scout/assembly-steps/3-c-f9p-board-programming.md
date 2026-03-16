@@ -1,4 +1,4 @@
-# F9P Board Programming
+# 3-C F9P Board Programming
 
 ## Required Equipment/Materials
 
@@ -21,9 +21,12 @@ The file uploaded to the antenna GNSS board is the same for the PixelScout syste
 [#u-center-v25.06](../../../space-and-general/software-installation-guide.md#u-center-v25.06 "mention")
 
 2. Download the Bin file from Taurus to somewhere on your laptop.
-   1. Taurus>Data>Part Database (things we sell)>SW-32026-01 — Zed F9P>Firmware
+   1. Taurus>Data>Part Database (things we sell)>SW-33026-01 — Zed F9P>Firmware
    2. Filename: UBX\_F9\_100\_HPG151\_ZED\_F9P.6c43b30ccfed539322eccedfb96ad933.bin
    3. Note the '151' is the version number of the firmware.
+   4. Or use the following download link (Confirm the version is the latest before using)
+
+{% file src="../../../.gitbook/assets/UBX_F9_100_HPG151_ZED_F9P.6c43b30ccfed539322eccedfb96ad933.bin" %}
 
 ## Guide
 
