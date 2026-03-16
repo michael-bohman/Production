@@ -61,11 +61,14 @@ you are now connected to the base station
 
 ### Webpage
 
-1. navigate to 192.168.42.1 in a browser (iPad or laptop).
+1. Navigate to 192.168.42.1 in a browser (iPad or laptop).
+   1. For an iPad, using chrome is easiest (screenshot).
 
 ```
 192.168.42.1
 ```
+
+<figure><img src="../../../.gitbook/assets/File.png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. If prompted, check both boxes in a popup and click 'Accept'.
 
