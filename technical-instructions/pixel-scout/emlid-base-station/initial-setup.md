@@ -177,8 +177,9 @@ The Next steps require the use of a mobile device with Emlid Flow downloaded.
       3. Port: 9000
       4. Username: \[Your MNCors username]
       5. Password: \[Your MNCors password]
-      6. Mount Point: TRCM\_31\_NAD83(2011)
+      6. Mount Point: RTCM\_31\_NAD83(2011)
       7. Send receiver's position to the provider: Checked
+   4. Click 'Save' at the top.
 
 {% hint style="info" %}
 Note: NTRIP credentials are stored on the device, not the base station. This means your personal MNCors account will not be seen by the customers.
