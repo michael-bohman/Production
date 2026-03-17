@@ -47,6 +47,18 @@ NOTE: This software requires Java v1.8.0 or higher. Go to the Java tab for more.
 
 <details>
 
+<summary>Java 1.8.0 Runtime IN PROGRESS</summary>
+
+Java v1.8.0 or higher is required for many programs that we use. Most notably, the MPLAB IPE won't work without it.
+
+
+
+1.
+
+</details>
+
+<details>
+
 <summary>Basecam Simple BGC Partner Assistant IN PROGRESS</summary>
 
 IN PROGRESES
@@ -77,7 +89,7 @@ MikTex is a Latex interpreter used for the conversion of Markdown files to print
 
 <details>
 
-<summary>Focus App IN PROGRESS</summary>
+<summary>Focus App</summary>
 
 The Focus App is used for focusing PixelScout 65Rs inside with the targets. Later, it will be used for regular 65R and 6X cameras.
 
@@ -85,6 +97,8 @@ The Focus App is used for focusing PixelScout 65Rs inside with the targets. Late
 
 
 
-1. Go to
+1. Navigate to the following folder in taurus.
+   1. "\as-taurus.jdnet.deere.com\Production\Technical Packages\PIXELSCOUT PHASE 4\65R Focusing"
+2. Copy the 'focus-app\_1.4.0.zip' file to your machine and extract it.
 
 </details>
