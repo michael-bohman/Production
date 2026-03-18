@@ -55,6 +55,9 @@ download the entire folder to your machine this has all the programs required to
 3. Encoder Calibration
    1. Plug in using Ethernet cable
    2. Follow 'Encoder Calibration Procedure.docx' in 'SW-23162 — Dual Comms'.
+   3. Verify values read as follows (-/neutral/+)
+      1. Pitch: -35/7/110
+      2. Roll: -25/0/25
 4. SBG
    1. go to 192.168.5.202
    2. Information > Upload Firmware > select the one with 6.0.5585
