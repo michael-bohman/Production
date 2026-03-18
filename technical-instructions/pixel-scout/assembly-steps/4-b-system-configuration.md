@@ -85,11 +85,11 @@ download the entire folder to your machine this has all the programs required to
       3. Set these as the factory defaults
          1. copy the config folder to the firmware folder, rename to 'factory-config'
    9. If the hw\_config has anything other than 'defaults' for calibration and zeros for rig\_relatives, change it to that.
+   10. Connect a high speed usb cable and verify through webpage that each camera has USB 3.0 super speed.
 7. Skyport V2
    1. Update the firmware through DJI assistant
    2. Bind the Skyport-V2 puck
       1. Payload SDK > Click 'Bind'
-   3. verify through webpage that each camera has USB 3.0 super speed.
 
 ### Ground Radio
 
