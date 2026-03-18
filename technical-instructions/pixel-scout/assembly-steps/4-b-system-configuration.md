@@ -1,4 +1,4 @@
-# 4-B Gimbal Configuration
+# 4-B System Configuration
 
 THIS PAGE MAY BE TEMPORARY
 
@@ -25,6 +25,7 @@ download the entire folder to your machine this has all the programs required to
    6. Check the heartbeat LED
    7. Turn off the drone.
    8. Flip the DIP switch
+   9. Check later with 192.168.5.130 (Software Status: Good: Normal Operation)
 
 {% columns %}
 {% column %}
@@ -47,6 +48,7 @@ download the entire folder to your machine this has all the programs required to
    6. check the heartbeat LED
    7. The gimbal should go limp because the boards are talking to each other
    8. Turn off drone and unplug the PK3
+   9. Check with 192.168.5.131 (Software Status: Good: Normal Operation)
 
 <figure><img src="../../../.gitbook/assets/dual_comms_heartbeat.jpeg" alt="" width="375"><figcaption><p>Red light is the Heartbeat LED</p></figcaption></figure>
 
@@ -55,18 +57,21 @@ download the entire folder to your machine this has all the programs required to
    2. Follow 'Encoder Calibration Procedure.docx' in 'SW-23162 — Dual Comms'.
 4. SBG
    1. go to 192.168.5.201 or 202 for primary and secondary cameras
-   2. Apply configuration
+   2. Information > Upload Firmware > select the one with 6.0.5585
+   3. Configure > Administration > Import Settings > Import
+   4. Apply .json configuration file
+   5. Address will change to 192.168.5.132. Check this.
 5. Basecam SBGC
    1. This is the 'Gimbal Tuning' Step
 6. Cameras
    1. Pull SD cards
    2. Copy config folder into firmware folder on both
    3. change the 'network.yaml' file in both to have the following
-   4. First address
-      1. 5.141 for Primary
-      2. 5.142 for Secondary
-   5. Second address
-      1. 5.200
+   4. eth0 address
+      1. 192.168.5.141 for Primary
+      2. 192.168.5.142 for Secondary
+   5. eth0 gateways
+      1. 192.168.5.200 for both
    6. Power cycle the drone twice
       1. Turn on, wait a couple minutes, turn off, turn on, continue
    7. Apply firmware update through website (back to 192.168.42.1/2)
@@ -74,10 +79,13 @@ download the entire folder to your machine this has all the programs required to
    8. Change configurations
       1. Primary - Spotting
       2. Secondary
+      3. Set these as the factory defaults
+         1. copy the config folder to the firmware folder, rename to 'factory-config'
    9. If the hw\_config has anything other than 'defaults' for calibration and zeros for rig\_relatives, change it to that.
 7. Skyport V2
    1. Update the firmware through DJI assistant
    2. Bind the Skyport-V2 puck
+      1. Payload SDK > Click 'Bind'
    3. verify through webpage that each camera has USB 3.0 super speed.
 
 ### Ground Radio
