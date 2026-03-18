@@ -25,7 +25,7 @@
     * [3-C F9P Board Programming](technical-instructions/pixel-scout/assembly-steps/3-c-f9p-board-programming.md)
     * [3-A Complete Gimbal Assembly](technical-instructions/pixel-scout/assembly-steps/3-a-complete-gimbal-assembly.md)
     * [4-A Gimbal Tuning](technical-instructions/pixel-scout/assembly-steps/4-a-gimbal-tuning.md)
-    * [4-B Gimbal Configuration](technical-instructions/pixel-scout/assembly-steps/4-b-gimbal-configuration.md)
+    * [4-B System Configuration](technical-instructions/pixel-scout/assembly-steps/4-b-system-configuration.md)
     * [4-C Antenna Assembly](technical-instructions/pixel-scout/assembly-steps/4-c-antenna-assembly.md)
     * [5 Case Packing](technical-instructions/pixel-scout/assembly-steps/5-case-packing.md)
   * [Calibration and Verification](technical-instructions/pixel-scout/calibration-and-verification/README.md)

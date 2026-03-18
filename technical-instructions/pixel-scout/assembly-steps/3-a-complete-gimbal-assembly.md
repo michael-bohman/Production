@@ -98,8 +98,8 @@ The two micro-coax cables are different sized and therefore should only plug in 
 17. Program the gimbal.
     1. Refer to the 'Gimbal Programing' page for this step.
 
-{% content-ref url="4-b-gimbal-configuration.md" %}
-[4-b-gimbal-configuration.md](4-b-gimbal-configuration.md)
+{% content-ref url="4-b-system-configuration.md" %}
+[4-b-system-configuration.md](4-b-system-configuration.md)
 {% endcontent-ref %}
 
 18. Attach the rear cover to the gimbal. Secure using 4 screws (91239A704 M2x6 Button head hex).
