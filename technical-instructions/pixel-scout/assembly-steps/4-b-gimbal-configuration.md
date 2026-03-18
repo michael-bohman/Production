@@ -1,6 +1,6 @@
 # 4-B Gimbal Configuration
 
-THIS PAGE IS TEMPORARY
+THIS PAGE MAY BE TEMPORARY
 
 This page is used to organize thoughts/steps for the process between gimbal tuning and calibration flights. It includes many things and will probably be split up later.
 
@@ -8,11 +8,13 @@ This page is used to organize thoughts/steps for the process between gimbal tuni
 
 ## Prep
 
-download the entire folder to your machine this has all the programs required to configure different parts of the gimbal.
+download the entire folder to your machine this has all the programs required to configure different parts of the system
 
 
 
 ## Guide
+
+### Gimbal
 
 1. Gimbal PIC32
    1. plug into the rear gimbal board with PK3 into 'PROG' port.
@@ -23,6 +25,19 @@ download the entire folder to your machine this has all the programs required to
    6. Check the heartbeat LED
    7. Turn off the drone.
    8. Flip the DIP switch
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/dual_gimbal_heartbeat.jpeg" alt=""><figcaption><p>Red Light at the bottom is the Heartbeat LED</p></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/DIP Switch.jpeg" alt=""><figcaption><p>DIP Switch at the top is to be switched to the ON Position (right)</p></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+
+
 2. Comms PIC32
    1. Plug the PK3 into the center board 'PROG'
    2. Go to \as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-23162 -- Dual Comms\program
@@ -32,6 +47,9 @@ download the entire folder to your machine this has all the programs required to
    6. check the heartbeat LED
    7. The gimbal should go limp because the boards are talking to each other
    8. Turn off drone and unplug the PK3
+
+<figure><img src="../../../.gitbook/assets/dual_comms_heartbeat.jpeg" alt="" width="375"><figcaption><p>Red light is the Heartbeat LED</p></figcaption></figure>
+
 3. Encoder Calibration
    1. Plug in using Ethernet cable
    2. Follow 'Encoder Calibration Procedure.docx' in 'SW-23162 — Dual Comms'.
@@ -59,5 +77,29 @@ download the entire folder to your machine this has all the programs required to
    9. If the hw\_config has anything other than 'defaults' for calibration and zeros for rig\_relatives, change it to that.
 7. Skyport V2
    1. Update the firmware through DJI assistant
-   2. Bind the Skyport-V2 puch
-   3. verify through webpage that each camera has usb 3.0 super speed.
+   2. Bind the Skyport-V2 puck
+   3. verify through webpage that each camera has USB 3.0 super speed.
+
+### Ground Radio
+
+1. P900
+   1. Configure radio using PicoConfigurator.
+
+### Boom (Antenna)
+
+1. PIC32
+   1. Navigate to \as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-23163 -- DGR Boom
+   2. change the program.bat file to include the PK3
+   3. Plug it into the 'PROG' port on the board.
+   4. Power the board either using the drone/gimbal or the barrel jack on the bottom.
+   5. Run the .bat program
+2. P900
+   1. Ensure the P900 board on the antenna is configured correctly
+   2. You can plug in both the antenna and ground station to power to check that they connect (solid green)
+3. U-blox
+   1. Ensure the firmware on both the Rover and Moving base are up to date (HPG-1.51 release)
+   2. U-Center > connections > network > new > tcp://192.168.5.135:6059X
+      1. Rover: X = 2
+      2. Moving Base: X = 3
+   3. Find the firmware update here:
+      1. \as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-33026-01 - ZED F9P\firmware

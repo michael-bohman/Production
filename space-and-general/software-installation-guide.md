@@ -102,3 +102,22 @@ The Focus App is used for focusing PixelScout 65Rs inside with the targets. Late
 2. Copy the 'focus-app\_1.4.0.zip' file to your machine and extract it.
 
 </details>
+
+<details>
+
+<summary>Pico Configurator</summary>
+
+Pico Configurator is used to program/configure P900 boards for RTK/PPK and PixelScout Systems.
+
+The Pico Configurator program may be run directly off of taurus without downloading anything. However, it may be a good idea to download it to your machine anyways.
+
+
+
+1. Navigate to "\as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-32011 -- P900 Radio\_tools"
+2. Copy the 'PicoConfig 1.7.zip' file to your machine and extract it where you want to use it
+3. The .exe file will be in the folder once it is extracted.
+
+
+
+</details>
+
