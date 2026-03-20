@@ -1,2 +1,0 @@
-# 6XT Front Half
-

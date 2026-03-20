@@ -9,13 +9,12 @@ description: Stage 2 in the 6X Process 21214-02
 * Filters&#x20;
 * UV Glue
 * Curing box
+* 6X Screw Bin
 
 {% hint style="danger" %}
 These instructions are for regular 6X (21214-02).&#x20;
 
-For 6XT visit [6xt-front-half.md](6xt-front-half.md "mention")&#x20;
-
-For 6XT PRO visit [6xt-pro-front-half.md](6xt-pro-front-half.md "mention")
+For 6XT and 6XT PRO visit [6xt-6xtp-front-half.md](6xt-6xtp-front-half.md "mention")&#x20;
 {% endhint %}
 
 ## Front Half Assembly&#x20;
@@ -84,3 +83,28 @@ For 6XT PRO visit [6xt-pro-front-half.md](6xt-pro-front-half.md "mention")
     2.
 
         <figure><img src="../../../.gitbook/assets/image (99).png" alt="" width="352"><figcaption></figcaption></figure>
+
+## Shroud Assembly&#x20;
+
+{% hint style="info" %}
+The shroud will be attached after Focusing Step&#x20;
+{% endhint %}
+
+1. Grab the Production Shroud Jig
+2. Place the production lid under the shroud for your build&#x20;
+   1. Use the production jig to ensure the magnets are installed with required polarity
+3. Install four .188” magnets to the body of the shroud
+   1. Secure magnets in place with Loctite 401
+   2. Once the Loctite cures, use a second layer of Loctite 401 to ensure magnets stay in place
+   3.
+
+       <figure><img src="../../../.gitbook/assets/20260320_110344 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+4. Place the production body of the shroud under the lid for your build&#x20;
+5. Install two .188" magnets and <mark style="color:red;">?</mark> magnets on the lid of the shroud
+   1. Secure magnets in place with Loctite 401
+   2.
+
+       <figure><img src="../../../.gitbook/assets/20260320_110411.jpg" alt="" width="375"><figcaption></figcaption></figure>
+   3. Place the Sentera Sticker over the magnets&#x20;
+6. For 6XT install spacer on the inside for 6XTP install spacer on the outside of the shroud
+   1. <mark style="color:red;">(Insert images)</mark>

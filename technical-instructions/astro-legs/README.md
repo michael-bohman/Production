@@ -1,6 +1,6 @@
 # Astro Legs
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Equipment Needed
 
@@ -18,8 +18,8 @@
 
 1. Using the power drill and sanding bits, scratch the inside of the T joint.
 
-> ![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)     ![](<../../.gitbook/assets/image (2).png>)
+> ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)     ![](<../../.gitbook/assets/image (2) (1).png>)
 
 2. Cut paper towels into pieces
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="218"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="218"><figcaption></figcaption></figure>

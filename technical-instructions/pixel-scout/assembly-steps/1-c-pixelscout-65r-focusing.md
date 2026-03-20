@@ -120,7 +120,7 @@ For example, adjusting the current frame may put the previous frame in the blank
 25. Put the lens cap over the lens and take a photo. Rename this one in the file explorer to 'Cap Photo'.
 26. Download the focus session folder to the serial numbered focus artifact folder.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="386"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt="" width="386"><figcaption></figcaption></figure>
 
 27. Upload the entire serial-numbered focus artifact folder to taurus in the following folder.
     1. "\as-taurus.jdnet.deere.com\Production\Sensors\21030-XX -- 65R Sensor\21030-04"
