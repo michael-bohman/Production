@@ -9,6 +9,7 @@ description: Stage 2 in the 6X process
 * 12v 6x power supply&#x20;
 * USB-C Cable&#x20;
 * Laptop&#x20;
+* Printed sensor label with serial number and part number&#x20;
 
 ## Computer SD Card
 
@@ -42,7 +43,11 @@ When the update is complete, the firmware will not refresh and show the correct 
 3. Copy the firmware folder from Taurus onto the SD Card (confirm build number for correct files)
    1. \as-taurus.jdnet.deere.com\Production\Technical Packages\6X SENSOR\IN PROGRESS\6X SENSOR - Technical Data Package - 251007\6X SENSOR - PROGRAMMING\6X-21214\_Programming\configs\21214-02
 4. Open the hw\_config.yaml and update the serial number for the camera you have&#x20;
-5. Eject SD card and insert into camera&#x20;
+5. Cut out label and stick onto the camera
+   1.
+
+       <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="292"><figcaption></figcaption></figure>
+6. Eject SD card and insert into camera&#x20;
 
 ## Confirmation Check
 
@@ -65,13 +70,13 @@ When the update is complete, the firmware will not refresh and show the correct 
 ## After Programming Back Half Assembly
 
 1. Remove the screws securing the fan in place.
-   1. Fit the rear cover over the back of the sensor
-   2. The cover should lightly clip into place
+2. Fit the rear cover over the back of the sensor
+3. The cover should lightly clip into place
 
 > ![](<../../.gitbook/assets/image (20).png>)    ![](<../../.gitbook/assets/image (21).png>)
 
 2. Secure rear cover and fan using the screws removed in the last step
-   1. Secure rear cover to heatsink with (Item 40)
+   1. Secure rear cover to heatsink with (Item 40)&#x20;
    2. Secure rear cover to heatsink on left side of the sensor with one (Item 28)
    3.
 

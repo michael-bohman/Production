@@ -100,11 +100,8 @@ The shroud will be attached after Focusing Step&#x20;
 
        <figure><img src="../../../.gitbook/assets/20260320_110344 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 4. Place the production body of the shroud under the lid for your build&#x20;
-5. Install two .188" magnets and <mark style="color:red;">?</mark> magnets on the lid of the shroud
+5. Install two .188" magnets and two .250 magnets on the lid of the shroud
    1. Secure magnets in place with Loctite 401
-   2.
+   2. Place the Sentera Sticker over the magnets&#x20;
 
-       <figure><img src="../../../.gitbook/assets/20260320_110411.jpg" alt="" width="375"><figcaption></figcaption></figure>
-   3. Place the Sentera Sticker over the magnets&#x20;
-6. For 6XT install spacer on the inside for 6XTP install spacer on the outside of the shroud
-   1. <mark style="color:red;">(Insert images)</mark>
+> ![](../../../.gitbook/assets/image.png)   ![](<../../../.gitbook/assets/image (1).png>)

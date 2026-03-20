@@ -1,3 +1,7 @@
+---
+description: Stage 1 in the 65R Process 21030-02
+---
+
 # 65R Assembly
 
 ## Required Items

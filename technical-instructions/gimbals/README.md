@@ -1,5 +1,7 @@
 # Gimbals
 
+<mark style="color:red;">(Insert Image of Gimbals)</mark>
+
 ## Equipment and Materials
 
 In addition to the items listed in the bill of materials, the following are also needed:

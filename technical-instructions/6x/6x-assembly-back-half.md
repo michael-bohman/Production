@@ -9,6 +9,7 @@ description: Stage 1 in the 6X process 21214-02 and 21216-02
 * 6X Screw Bin&#x20;
 * Loctite 222
 * Screw Driver&#x20;
+* Thermal Paste
 
 ## Back Half Assembly&#x20;
 

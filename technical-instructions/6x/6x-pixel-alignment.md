@@ -59,7 +59,7 @@ description: Stage 4 in the 6X process
 16. Copy the hw\_config.yaml (NOT orig) from your SN xx folder into the Firmware folder on the 6x camera
 17. Restart camera&#x20;
 18. Navigate to SDcard -> info -> hw\_config
-19. Confirm the method is updated (Calibration 1.2.0)
+19. Confirm the method is updated (Calibration 1.3.2)
 
 {% hint style="info" %}
 6X Thermal and Thermal pro will show a different method

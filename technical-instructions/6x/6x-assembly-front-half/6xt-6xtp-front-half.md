@@ -26,16 +26,16 @@ For Regular 6X visit [.](./ "mention")
 2. Remove the filter from packaging and ensure it is free from all debris, damage, and prints.
    1. Orient the filter with the lettering facing down as shown. This is how it will be installed in the lens mount.
 
-> ![](../../../.gitbook/assets/image.png)   ![](<../../../.gitbook/assets/image (1).png>)
+> ![](<../../../.gitbook/assets/image (5).png>)   ![](<../../../.gitbook/assets/image (1) (1).png>)
 
 3. Place the filter in the corresponding position on the lens mount.
    1. Secure the filter with 3 contact points of UV glue on the very edge of the lens.
    2.
 
-       <figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
    3.
 
-       <figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
    4. Once all the lens have 3 contact points with the UV bonder, place in the curing box for at lease 10 minutes
 4. In Boson App Confirgure the FLIR Sensor
 
@@ -51,7 +51,7 @@ For Regular 6X visit [.](./ "mention")
 
        <figure><img src="../../../.gitbook/assets/20260320_100814.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-> ![](<../../../.gitbook/assets/image (4).png>)   ![](<../../../.gitbook/assets/image (5).png>)&#x20;
+> ![](<../../../.gitbook/assets/image (4) (1).png>)   ![](<../../../.gitbook/assets/image (5) (1).png>)&#x20;
 
 {% hint style="info" %}
 6XTP will not have an adapter, but the process is the same
@@ -157,11 +157,13 @@ The shroud will be attached after Focusing Step&#x20;
 
        <figure><img src="../../../.gitbook/assets/20260320_110344 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 4. Place the production body of the shroud under the lid for your build&#x20;
-5. Install two .188" magnets and <mark style="color:red;">?</mark> magnets on the lid of the shroud
+5. Install two .188" magnets and two .250 magnets on the lid of the shroud
    1. Secure magnets in place with Loctite 401
-   2.
+   2. Place the Sentera Sticker over the magnets&#x20;
 
-       <figure><img src="../../../.gitbook/assets/20260320_110411.jpg" alt="" width="375"><figcaption></figcaption></figure>
-   3. Place the Sentera Sticker over the magnets&#x20;
-6. For 6XT install spacer on the inside for 6XTP install spacer on the outside of the shroud
-   1. <mark style="color:red;">(Insert images)</mark>
+> ![](../../../.gitbook/assets/image.png)   ![](<../../../.gitbook/assets/image (1).png>)
+
+6. Insert spacers&#x20;
+   1. For 6XT -> loctite (401) the spacer on the inside of the shroud
+   2. For 6XTP -> Loctite (401) the spacer on the outside of the shroud. Take not of where the gap is.&#x20;
+   3. <mark style="color:red;">(Insert pictures)</mark>
