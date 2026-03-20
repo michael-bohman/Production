@@ -24,7 +24,25 @@ description: >-
 
 <details>
 
-<summary>Verification Flight Files</summary>
+<summary>Calibration Files (Preferred but not required)</summary>
+
+<figure><img src="../../.gitbook/assets/Calibration Flight Artifacts (2).png" alt=""><figcaption></figcaption></figure>
+
+| File                                       | Description                                                                                   |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| Session                                    | Session folder of calibration flight                                                          |
+| \_cal                                      | Files from calibration tool (includes offsets and new hw\_config)                             |
+| \__cal\__&#x6F;ut (optional but preferred) | Quicktile files using calculated offsets to predict how well the verification flight will be. |
+| \_out (optional but preferred)             | output of original quicktile before calibration or offsets are applied                        |
+| _pix4d (and \_2nd for secondary cam)_      | pix4d files used in the calibration                                                           |
+| info                                       | info folder from the camera                                                                   |
+| .p4d file                                  | File generated during pix4d processing                                                        |
+
+</details>
+
+<details>
+
+<summary>Verification Files</summary>
 
 <figure><img src="../../.gitbook/assets/Verification Flight Artifacts.png" alt=""><figcaption></figcaption></figure>
 
