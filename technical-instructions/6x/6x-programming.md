@@ -75,4 +75,5 @@ When the update is complete, the firmware will not refresh and show the correct 
    2. Secure rear cover to heatsink on left side of the sensor with one (Item 28)
    3.
 
-       <figure><img src="../../.gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/Back cover.jpg" alt=""><figcaption></figcaption></figure>
+
