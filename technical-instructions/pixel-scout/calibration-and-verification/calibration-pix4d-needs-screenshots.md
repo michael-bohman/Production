@@ -6,7 +6,9 @@ description: How to process data and create/apply a calibration file.
 
 Note: This is very rudimentary and will be refined later. This is just for a refresher after the weekend.
 
+## Notes
 
+* THIS IS A LONG PROCESS. If using the embedded desktop, plan for about 2 hours. Plan for a longer time for regular laptops.
 
 ## Setup
 

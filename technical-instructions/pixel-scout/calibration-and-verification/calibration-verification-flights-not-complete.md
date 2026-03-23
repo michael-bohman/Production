@@ -1,0 +1,76 @@
+---
+description: Steps for checking settings and flight procedures.
+---
+
+# Calibration/Verification Flights (Not complete)
+
+## Notes
+
+* This is a reference guide for production members already familiar with flying the M300/350 system. This is not a guide to learn how to fly the drone. Many important notes will be missed because the reader is assumed to know them already.
+* The calibration and verification flights are very similar, there are only a few differences. For this reason, the calibration flight guide will have every step and the verification flight guide will only have the differences.
+
+
+
+## Calibration Flight Guide
+
+1. Set up the base station first.
+   1. This is so that the base station has time to reach RTK status before you are ready to fly.
+   2. Refer to the 'Field Setup' page for this. [field-setup-not-complete.md](../emlid-base-station/field-setup-not-complete.md "mention")
+2. Set up the drone.
+   1. Attach the gimbal as normal
+   2. Clip the antenna to the legs of the drone with the lights facing forward
+   3. Ensure the clips on the antenna are fully clipped with the lip in the slot, not just clipped around the leg.
+   4. Plug in the antenna to the back of the gimbal and ensure it is secure.
+   5. Set up all the regular things of a normal drone flight (arms, etc.)
+   6. Turn on the drone.
+      1. Do this sooner than immediately before being ready to fly so that the pixelscout system can connec to the ground station and start sessions.
+3. Set up a flight plan
+   1. If a flight is already set up and imported, skip this step.
+   2. Use an m350 to set up a plan, this is so that the start point may be selected/swapped for a/b flights.
+   3. Choose a rectangular area over a parking lot or other flat area with many lines/corners
+      1. choose an area about 60ft x 100ft. The flight plan should expect to pay about 150 pictures. If it is much more than that, make the area smaller
+         1. The drone will actually take more than this, but its a good rule of thumb for creating a flight plan.
+   4. Use these settings for the plan
+      1. Drone: M300/350
+      2. Camera: Custom Camera > Sentera 65R 60mm
+      3. Altitude: 100ft (above takeoff point)
+         1. GSD should automatically change to 0.16
+      4. Elevation Optimization: OFF
+      5. Course Angle: Set such that there are more, shorter legs rather than fewer, longer legs.
+      6. Overlap: 80 and 80
+      7. Margin: 20
+      8. Start point: prefer the closer one but not very important.
+   5. Save the plan with the name ending in 'a'. For example 'FlightPlanExample\_a'.
+   6. Go to the flight plan library
+   7. at the top, click the 'select' icon. Select the plan you just made and duplicate it.
+   8. Rename the new flight plan to end in 'b'. For example 'FlightPlanExample\_b'.
+   9. Edit the 'b' flight plan.
+      1. Change the start point to the other end of the flight path where 'a' should finish. Otherwise, ensure it is the same.
+   10. Save this flight plan.
+4. Ensure the antenna lights show 4 green and the cameras started a session.
+5. Ensure the ground module shows 3 solid green lights and the Emlid Flow app shows a 'FIX' status.
+6. Take off manually and fly figure 8s around the area you are flying for at least 3 minutes. This is to let the GPS have a more accurate yaw measurement immediately.
+7. Fly the flight plan ending in 'a'.
+   1. The flight plan can be started while the drone is hovering in air. You do not need to land before starting.
+   2. When it starts, ensure pictures are being taken. Listen to audible shutter sounds and an increasing photo count.
+8. When the flight route is complete, before the drone lands, hit the pause button on the controller.
+9. Go to the flight plan library and start the plan ending in 'b'.
+   1. Ensure pictures are being taken in the same way.
+10. Once the second flight plan finishes, let the drone land, turn it off, and pack everything up.
+
+
+
+
+
+
+
+## Verification Flight Differences
+
+1. Use the same flight plans as calibration to allow for better comparison.
+2. Figure 8s are not needed before executing the flight plans.
+3. Ensure the system has the calibration and BPR enabled before flying.
+   1. Calibration found at the end of hw\_config.
+      1. method should say pix4d
+      2. rig\_relatives\_deg should be non-zero
+   2. BPR enabled using webpage > Image adjustments > 'Bad Pixel Replacement'
+      1. also make sure the bpr map csv file is loaded in the info folder of the camera alongside the hw\_config.
