@@ -91,15 +91,15 @@ The two micro-coax cables are different sized and therefore should only plug in 
 16. Tune the gimbal.
     1. Refer to the 'Gimbal Tuning' page for this step.
 
-{% content-ref url="4-a-gimbal-tuning.md" %}
-[4-a-gimbal-tuning.md](4-a-gimbal-tuning.md)
+{% content-ref url="4-a-gimbal-tuning-needs-screenshots.md" %}
+[4-a-gimbal-tuning-needs-screenshots.md](4-a-gimbal-tuning-needs-screenshots.md)
 {% endcontent-ref %}
 
 17. Program the gimbal.
-    1. Refer to the 'Gimbal Programing' page for this step.
+    1. Refer to the 'System Configuration' page for this step.
 
-{% content-ref url="5-system-configuration.md" %}
-[5-system-configuration.md](5-system-configuration.md)
+{% content-ref url="5-system-configuration-needs-screenshots.md" %}
+[5-system-configuration-needs-screenshots.md](5-system-configuration-needs-screenshots.md)
 {% endcontent-ref %}
 
 18. Attach the rear cover to the gimbal. Secure using 4 screws (91239A704 M2x6 Button head hex).

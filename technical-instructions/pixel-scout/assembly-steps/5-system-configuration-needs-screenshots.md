@@ -1,14 +1,8 @@
-# 4-B System Configuration
-
-THIS PAGE MAY BE TEMPORARY
-
-This page is used to organize thoughts/steps for the process between gimbal tuning and calibration flights. It includes many things and will probably be split up later.
-
-
+# 5 System Configuration (Needs Screenshots)
 
 ## Prep
 
-download the entire folder to your machine this has all the programs required to configure different parts of the system
+* Download the entire folder to your machine this has all the programs required to configure different parts of the system
 
 
 
@@ -90,6 +84,16 @@ download the entire folder to your machine this has all the programs required to
    1. Update the firmware through DJI assistant
    2. Bind the Skyport-V2 puck
       1. Payload SDK > Click 'Bind'
+8. Take BPR pictures.
+   1. Mount the gimbal to a drone and turn it on. Connect to the gimbal using usb.
+   2. Start a session for the each camera using the webpage.
+      1. name it anything, the pictures won't be stored in the session.
+   3. Run the bpr pictures program and follow the instructions.
+      1. The program must be edited in notepad to set the ip address for the camera being worked on.
+   4. Save the pictures created to a '\[PixelScout SN] BPR' folder.
+   5. Send the folder to zach/brian/jon for processing (WILL PROBABLY CHANGE)
+   6. After receiving the bprmap.csv file from processing, apply it to the cameras by placing it in the correct 'firmware' folder.
+   7. Power cycle the cameras and ensure it is saved to the 'info' folder.
 
 ### Ground Radio
 

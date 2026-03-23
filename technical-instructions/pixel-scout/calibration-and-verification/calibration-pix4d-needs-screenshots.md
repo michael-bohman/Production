@@ -2,7 +2,7 @@
 description: How to process data and create/apply a calibration file.
 ---
 
-# Calibration (Pix4d)
+# Calibration (Pix4d) (Needs Screenshots)
 
 Note: This is very rudimentary and will be refined later. This is just for a refresher after the weekend.
 
@@ -49,9 +49,19 @@ Note: This is very rudimentary and will be refined later. This is just for a ref
 4. in the advanced text box, type the following
    1. \--alignment\_cal\_file "..."
    2. copy the path of the 'quicktile.cal' file in the '\_cal' folder and paste the path (with quotes) where the 3 dots are.
-5. Run the quicktile.
-6. When its done, look to make sure it looks much better than the original quicktile.
+5. Run the Quicktile.
+6. When its done, look to make sure it looks much better than the original Quicktile.
 
+## Cleanup/Saving Artifacts
 
+1. Create/navigate to the corresponding serial number folder (e.g.. "123") in taurus, 21282-00 PixelScout Phase 4.
+2. Copy the files from the calibration into a folder labeled 'Calibration'.
+   1. Files should be organized in the following manner:
+      1. Calibration
+         1. Primary
+            1. \[all calibration files for primary camera]
+         2. Secondary
+            1. \[all calibration files for secondary camera]
 
-Calibration is complete. Fly the Verification flight
+<figure><img src="../../../.gitbook/assets/Calibration Flight Artifacts (3).png" alt=""><figcaption><p>Example calibration artifacts folder</p></figcaption></figure>
+
