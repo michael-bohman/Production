@@ -2,9 +2,9 @@
 description: How to process data and create/apply a calibration file.
 ---
 
-# Calibration
+# Calibration (Pix4d)
 
-Note: This is very rudamentary and will be refined later. This is just for a refresher after the weekend.
+Note: This is very rudimentary and will be refined later. This is just for a refresher after the weekend.
 
 
 

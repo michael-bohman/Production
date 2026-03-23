@@ -20,6 +20,6 @@ layout:
 
 # Overview
 
-<figure><img src="../../.gitbook/assets/PixelScout Process.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/overall pixelscout picture.jpg" alt=""><figcaption></figcaption></figure>
 
-Steps are gouped into columns 1-9 with parts A, B, C, etc... A, B, C can be accomplished at the same time but all need to be completed prior to one or all of the parts of the next column.
+Note: The rows (1, 2, 3, 4, and 5) help to organize the Gitbook in order of an approximate assembly order. The picture shows the order of which things need to happen but some things aren't dependent on others.
