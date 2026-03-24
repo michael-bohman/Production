@@ -2,7 +2,7 @@
 description: Stage 2 in the 6X Process 21216-02, 21216-03
 ---
 
-# 6XT/6XTP Front Half
+# 6XT/6XTP Front Half (Insert Pics)
 
 ## Equipment Needed
 
@@ -12,13 +12,15 @@ description: Stage 2 in the 6X Process 21216-02, 21216-03
 * UV Glue&#x20;
 * Production Shroud Jig
 
+## Notes
+
 {% hint style="danger" %}
 These instructions are for regular 6X Thermal (21216-02).&#x20;
 
 For Regular 6X visit [.](./ "mention")
 {% endhint %}
 
-## Assembly&#x20;
+## Guide
 
 1. Layout filters in their respective positions
    1. Ensure the positions are correct during installation&#x20;

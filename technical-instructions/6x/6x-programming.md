@@ -6,12 +6,11 @@ description: Stage 2 in the 6X process
 
 ## Equipment Needed
 
-* 12v 6x power supply&#x20;
-* USB-C Cable&#x20;
-* Laptop&#x20;
-* Printed sensor label with serial number and part number&#x20;
+<table data-header-hidden data-full-width="true"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">12v 6x power supply </td><td align="center">Tweezers</td></tr><tr><td align="center">USB-C Cable </td><td align="center">Scissors</td></tr><tr><td align="center">Printed sensor label with serial number and part number </td><td align="center">Laptop</td></tr></tbody></table>
 
-## Computer SD Card
+## Guide
+
+### Computer SD Card
 
 1. Open a brand new SD Card and insert into your computer&#x20;
 2. Follow the path listed below to find the Firmware-sdcard folder
@@ -19,7 +18,7 @@ description: Stage 2 in the 6X process
 3. Copy all 3 files into the SD Card (BOOT.bin, image.ub, uEnv)
 4. Eject SD card and insert into camera&#x20;
 
-## Camera Firmware Update
+### Camera Firmware Update
 
 1. On the Camera, set the dip switches on the imager baseboard CCA to the following below
 
@@ -36,7 +35,7 @@ description: Stage 2 in the 6X process
 When the update is complete, the firmware will not refresh and show the correct numbers until the Confirmation check&#x20;
 {% endhint %}
 
-## Firmware Folder
+### Firmware Folder
 
 1. Insert SD card into computer&#x20;
 2. Delete all 3 files on the SD card&#x20;
@@ -49,7 +48,7 @@ When the update is complete, the firmware will not refresh and show the correct 
        <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="292"><figcaption></figcaption></figure>
 6. Eject SD card and insert into camera&#x20;
 
-## Confirmation Check
+### Confirmation Check
 
 1. On the Camera, set the dip switches on the imager baseboard CCA to the following below
 
@@ -67,7 +66,7 @@ When the update is complete, the firmware will not refresh and show the correct 
 
 
 
-## After Programming Back Half Assembly
+### After Programming Back Half Assembly
 
 1. Remove the screws securing the fan in place.
 2. Fit the rear cover over the back of the sensor

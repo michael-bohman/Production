@@ -1,17 +1,19 @@
 ---
-description: Stage 4 in the 6X process
+description: Stage 4 in the 6X process 21214-02, 21216-02, 21216-03
 ---
 
-# 6X Pixel Alignment
+# 6X Pixel Alignment (Insert Pics)
 
 ## Equipment Needed
 
-* Tall tripod and tripod camera mount
-* Laptop
-* 12v 6x power supply&#x20;
-* USB-C cable
+|     Tall Tripod     | 12v 6x power supply |
+| :-----------------: | :-----------------: |
+| Tripod Camera Mount |     USB-C cable     |
+|       Laptop        |   Wireless Mouse    |
 
-## Capturing Pictures
+## Guide
+
+### Capturing Pictures
 
 1. Secure 6x camera onto the mount with the screws provided
 2. Connect the USB-C cable and the power supply to the 6x camera
@@ -21,7 +23,7 @@ description: Stage 4 in the 6X process
 6. Move the tripod to 4 other spots (forward, back, left, and right) and repeat step 5 for each location.
 7. Remove the camera from the mount and tripod and go back to your desk&#x20;
 
-## Calibration App
+### Calibration App
 
 1. Create a folder on your laptop and inside that create a folder named the serial number (Example: Pixel Alignment -> SN 438)
 2. In the serial number folder create another folder called Output
@@ -36,7 +38,7 @@ description: Stage 4 in the 6X process
 
 <figure><img src="../../.gitbook/assets/Application ScreenShot.png" alt=""><figcaption></figcaption></figure>
 
-7. Click the 3 dots to select the folders from your saved SN xx folder
+8. Click the 3 dots to select the folders from your saved SN xx folder
 
 <p align="center">Calibration Session -> <strong>CAL</strong></p>
 

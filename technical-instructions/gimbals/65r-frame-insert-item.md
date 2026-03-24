@@ -2,7 +2,7 @@
 description: 65R Gimbal Guide Assembly 21239-03
 ---
 
-# 65R Frame
+# 65R Frame (Insert Item #)
 
 ## Assembly
 
@@ -10,7 +10,7 @@ description: 65R Gimbal Guide Assembly 21239-03
 
 <p align="center"><img src="../../.gitbook/assets/unknown (21).jpeg" alt=""> </p>
 
-2. Attach arm to the motor between the snakeskin wire wraps as shown. Secure with 4 <mark style="color:yellow;">#8 screws</mark> and Loctite.
+2. Attach arm to the motor between the snakeskin wire wraps as shown. Secure with 4 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">8 ()</mark> and Loctite.
 
 <p align="center"><img src="../../.gitbook/assets/unknown (22).jpeg" alt=""> </p>
 

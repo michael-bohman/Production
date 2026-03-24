@@ -20,7 +20,7 @@ Uploaded 3/23/2026
 
 <summary>6X (21233)</summary>
 
-{% file src="../../../../.gitbook/assets/21233_revd.pdf" %}
+
 
 </details>
 
@@ -28,7 +28,7 @@ Uploaded 3/23/2026
 
 <summary>65R (21238)</summary>
 
-{% file src="../../../../.gitbook/assets/21238_reve.pdf" %}
+
 
 </details>
 
