@@ -17,6 +17,12 @@ description: Stage 1 in the 65R Process 21030-02
 
 Full assembly steps are shown. If programming and/or focusing will occur immediately, omit some steps (will figure out which ones later)
 
+
+
+## Drawing&#x20;
+
+[https://app.gitbook.com/o/r7P0NuYTKsmybK4bmqti/s/ycfHWm9ckUsdZmfqLCYz/\~/edit/\~/changes/138/space-and-general/drawings#id-65r-greater-than-21030](../../space-and-general/drawings.md#id-65r-greater-than-21030)
+
 ## Assembly Instructions
 
 1. Remove the standoffs and screws from the MPSoC module board. Discard screws and standoffs.

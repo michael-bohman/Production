@@ -17,6 +17,8 @@ description: Stage 1 in the 6X process 21214-02 and 21216-02
 
 [6X Drawing](../../space-and-general/drawings.md#id-6x-greater-than-21214)
 
+[https://app.gitbook.com/o/r7P0NuYTKsmybK4bmqti/s/ycfHWm9ckUsdZmfqLCYz/space-and-general/drawings#id-6x-greater-than-21214](../../space-and-general/drawings.md#id-6x-greater-than-21214)
+
 ## Back Half Assembly&#x20;
 
 1. Attach the breakout board to the heatsink.
