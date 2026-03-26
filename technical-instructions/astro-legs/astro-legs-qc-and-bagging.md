@@ -1,6 +1,15 @@
-# Astro Legs Bagging and QC
+# Astro Legs QC and Bagging
 
-## Pair and Bag
+## QC (in progress on taurus)
+
+1. Pair 2 legs together
+2. Place a numbered sticker on each of the legs&#x20;
+3. Take a picture of each leg and each side&#x20;
+   1. Include the sticker and Side 1 tag
+   2. Flip over leg and include side 2 tag&#x20;
+   3. Repeat for other leg
+
+## Bagging
 
 1. Place 12 of the M3 x 8mm screws into the 2” by 3” plastic bag.
 

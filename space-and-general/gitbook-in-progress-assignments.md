@@ -14,10 +14,6 @@ description: >-
   * [ ] Top page
   * [ ] Air Module Assembly
   * [ ] Ground Assembly&#x20;
-* [ ] Gimbals&#x20;
-  * [ ] top page&#x20;
-  * [ ] 6x frame&#x20;
-  * [ ] final assembly 6X
 * [ ] Checkin/QC (probably move to QC/Shipping)
 * [ ] Shipping Labels
 
@@ -43,12 +39,17 @@ description: >-
 * [ ] 6X Focusing
 * [ ] 65R Focusing
 
-
-
 #### Amanda
 
-* [ ] DJI skyport stack&#x20;
-* [x] Gremsy stack&#x20;
-* [x] 6X top page&#x20;
-* [x] 65R top page&#x20;
-* [x] 6X Assembly
+* [ ] Gimbals top page
+* [ ] 6x frame guimbal
+* [ ] DJI Skyport stack
+* [ ] Gremsy Stack
+* [ ] final assembly 6X
+* [ ] 6X top page&#x20;
+* [ ] 65R top page&#x20;
+* [ ] 6X Assembly
+
+#### Kristen
+
+* [ ] Receiving Packages&#x20;

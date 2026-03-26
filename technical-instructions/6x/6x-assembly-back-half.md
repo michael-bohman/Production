@@ -20,6 +20,8 @@ description: Stage 1 in the 6X process 21214-02, 21216-02, 21216-03
 
 <mark style="color:red;">(Insert Link to Expandable)</mark>
 
+[https://app.gitbook.com/o/r7P0NuYTKsmybK4bmqti/s/ycfHWm9ckUsdZmfqLCYz/\~/edit/\~/changes/141/space-and-general/drawings#id-6x-greater-than-21214](https://app.gitbook.com/o/r7P0NuYTKsmybK4bmqti/s/ycfHWm9ckUsdZmfqLCYz/~/edit/~/changes/141/space-and-general/drawings#id-6x-greater-than-21214)
+
 </details>
 
 ## Back Half Assembly&#x20;
