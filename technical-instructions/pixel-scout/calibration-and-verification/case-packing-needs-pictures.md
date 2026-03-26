@@ -1,4 +1,4 @@
-# Case Packing
+# Case Packing (Needs Pictures)
 
 ## Notes
 
@@ -34,6 +34,17 @@ After flying the validation flight, use these instructions for packing the final
 
 1. Place the 3 main components in the same locations as the test flight packing
    1. Place the RJ45 (ethernet) plugs into the ports on the gimbal and antenna.
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/IMG_8084.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/IMG_8083.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
 2. Place the following in the small pocket above the gimbal.
    1. 2 USB C to A adapters in a small bag.
    2. 2 bags with rubber O-rings.
