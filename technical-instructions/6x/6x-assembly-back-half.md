@@ -1,28 +1,31 @@
 ---
-description: Stage 1 in the 6X process 21214-02 and 21216-02
+description: Stage 1 in the 6X process 21214-02, 21216-02, 21216-03
 ---
 
 # 6X Assembly Back Half
 
 ## Equipment Needed
 
-* 6X Screw Bin&#x20;
-* Loctite 222
-* Screw Driver&#x20;
-* Thermal Paste
-
-
+|               |                    |
+| ------------- | ------------------ |
+| 6X Screw Bin  | Thermal Paste      |
+| Screw Driver  | Purple Loctite 222 |
+| Tweezers      |                    |
 
 ## Drawing
 
-[6X Drawing](../../space-and-general/drawings.md#id-6x-greater-than-21214)
+<details>
 
-[https://app.gitbook.com/o/r7P0NuYTKsmybK4bmqti/s/ycfHWm9ckUsdZmfqLCYz/space-and-general/drawings#id-6x-greater-than-21214](../../space-and-general/drawings.md#id-6x-greater-than-21214)
+<summary>6X (21214-02, 21216-02, 21216-03)</summary>
+
+<mark style="color:red;">(Insert Link to Expandable)</mark>
+
+</details>
 
 ## Back Half Assembly&#x20;
 
 1. Attach the breakout board to the heatsink.
-   1. Apply thread locker to (item 46) screws
+   1. Apply thread locker to <mark style="color:yellow;">Item 46 (91771A164)</mark> screws
    2.
 
        <figure><img src="../../.gitbook/assets/image (68).png" alt="" width="370"><figcaption></figcaption></figure>
@@ -35,7 +38,7 @@ description: Stage 1 in the 6X process 21214-02 and 21216-02
 3. Mate the heatsink with the SOM board.&#x20;
    1. Orient the heatsink with respect to the SOM as shown.
    2. Secure SOM to heatsink using holes show in image below.
-   3. Apply thread locker to the screws (item 22)
+   3. Apply thread locker to the screws <mark style="color:yellow;">Item 22 (93085A015)</mark>
 
 > ![](<../../.gitbook/assets/image (70).png>)     ![](<../../.gitbook/assets/image (71).png>)
 
@@ -56,17 +59,18 @@ description: Stage 1 in the 6X process 21214-02 and 21216-02
 
        <figure><img src="../../.gitbook/assets/image (74).png" alt="" width="375"><figcaption></figcaption></figure>
 6. Secure the SOM and baseboard together
-   1.      Use spacer (Item 23), nut (Item 25), and screw (item 24).&#x20;
+   1.      Use spacer <mark style="color:yellow;">Item 23 (93657A206)</mark>, nut <mark style="color:yellow;">Item 25 (90730A003)</mark>, and screw <mark style="color:yellow;">Item 24 (91772A080)</mark>.&#x20;
    2. Apply thread locker to the end of the screw
    3. The nut should not spin freely. Do not overtighten.      \
 
 
 > ![](<../../.gitbook/assets/image (76).png>)     ![](<../../.gitbook/assets/image (77).png>)
 
-7. Attach the fan to the heatsink (Items 29 and 44)
+7. Attach the fan to the heatsink
    1. Ensure the fan is oriented correctly.
-   2. Plug the heatsink into the fan port on the breakout board.
-   3. Do NOT apply thread locker yet.
+   2. Secure with screws <mark style="color:yellow;">Item 29 (91255A017)</mark> and washers <mark style="color:yellow;">Item 44 (90618A113)</mark>
+   3. Plug the heatsink into the fan port on the breakout board.
+   4. Do NOT apply thread locker yet.
 
 > ![](<../../.gitbook/assets/image (79).png>)    ![](<../../.gitbook/assets/image (80).png>)
 
@@ -81,14 +85,9 @@ description: Stage 1 in the 6X process 21214-02 and 21216-02
    2.
 
        <figure><img src="../../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
-   3. Secure the SSD to the baseboard using 2 washers (Item 31) and 1 screw (item 30) with Loctite.&#x20;
+   3. Secure the SSD to the baseboard using 2 washers <mark style="color:yellow;">Item 31 (90295A322)</mark> and 1 screw <mark style="color:yellow;">Item 30 (9200A103)</mark> with Loctite.&#x20;
    4. Ensure the SSD is fully seated before secured.
    5. Do not overtighten, the SSD should not bend.
    6.
 
        <figure><img src="../../.gitbook/assets/image (84).png" alt="" width="377"><figcaption></figcaption></figure>
-
-
-
-
-

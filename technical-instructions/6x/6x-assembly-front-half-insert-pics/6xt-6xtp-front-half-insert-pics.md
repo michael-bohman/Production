@@ -6,16 +6,17 @@ description: Stage 2 in the 6X Process 21216-02, 21216-03
 
 ## Equipment Needed
 
-* 6X Screw Bin&#x20;
-* Tweezers&#x20;
-* Curing Box&#x20;
-* UV Glue&#x20;
-* Production Shroud Jig
+| UV Bonding Glue | Tweezers               |
+| --------------- | ---------------------- |
+| Curing Box      | Purple Loctite 222     |
+| 6X Screw Bin    | Loctite 401            |
+| Screw Driver    | Blue towels            |
+| 1.5 x 50 Hex    | Production Shroud Jig  |
 
 ## Notes
 
 {% hint style="danger" %}
-These instructions are for regular 6X Thermal (21216-02).&#x20;
+These instructions are for 6X Thermal (21216-02 and 21216-03).&#x20;
 
 For Regular 6X visit [.](./ "mention")
 {% endhint %}
@@ -77,13 +78,13 @@ For Regular 6X visit [.](./ "mention")
 </details>
 
 5. Secure the thermal camera to the lens mount.
-   1. Apply thread locker to screws (item 49) before installation.
+   1. Apply thread locker to screws <mark style="color:yellow;">Item 49 (92010A783)</mark> before installation.
    2. Ensure the thermal camera is oriented as shown.
 
 > ![](<../../../.gitbook/assets/image (6).png>)   ![](<../../../.gitbook/assets/image (7).png>)
 
-6. Install the cover spacer and secure
-   1. Apply thread locker to the screws (item 27) before installation.
+6. Install the cover spacer
+   1. Apply thread locker to the screws <mark style="color:yellow;">Item 27 (91772A063)</mark>
 
 {% hint style="info" %}
 Install spacer before lens as the spacer will not fit when they are installed prior
@@ -95,7 +96,7 @@ Install spacer before lens as the spacer will not fit when they are installed pr
    1.
 
        <figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="279"><figcaption></figcaption></figure>
-8. Install the lock ring (item 43) onto the 7.2mm lens.
+8. Install the lock ring onto the 7.2mm lens.
    1.
 
        <figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
@@ -119,14 +120,13 @@ Install spacer before lens as the spacer will not fit when they are installed pr
     4.
 
         <figure><img src="../../../.gitbook/assets/image (92).png" alt="" width="375"><figcaption></figcaption></figure>
-    5. Secure all 3 imager boards with 14 screws (Item 20)&#x20;
 12. Secure the imager boards
-    1. Apply thread locker to the screws (item 20) before installation.
+    1. Apply thread locker to the screws <mark style="color:yellow;">Item 20 (91771A165)</mark>
     2. Do not secure the corners
     3.
 
         <figure><img src="../../../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
-13. Secure the diffusers in each corner using screws (Item 21) with thread locker applied&#x20;
+13. Secure the diffusers in each corner using screws <mark style="color:yellow;">Item 21 (91772A065)</mark> with thread locker applied&#x20;
     1. See orientation in images below
 
 > ![](<../../../.gitbook/assets/image (16).png>)   ![](<../../../.gitbook/assets/image (17).png>)
@@ -138,7 +138,7 @@ Install spacer before lens as the spacer will not fit when they are installed pr
 
         <div align="center"><figure><img src="../../../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure></div>
 15. Secure the front and back of the sensor together.
-    1. Apply thread locker to each screw (item 26)
+    1. Apply thread locker to each screw <mark style="color:yellow;">Item 26 (91772A073)</mark>
     2.
 
         <figure><img src="../../../.gitbook/assets/image (18).png" alt="" width="352"><figcaption></figcaption></figure>

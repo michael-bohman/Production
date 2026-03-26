@@ -38,6 +38,7 @@
   * [6X Assembly Back Half](technical-instructions/6x/6x-assembly-back-half.md)
   * [6X Assembly Front Half (Insert Pics)](technical-instructions/6x/6x-assembly-front-half-insert-pics/README.md)
     * [6XT/6XTP Front Half (Insert Pics)](technical-instructions/6x/6x-assembly-front-half-insert-pics/6xt-6xtp-front-half-insert-pics.md)
+  * [6X Final Assembly](technical-instructions/6x/6x-final-assembly.md)
   * [6X Programming](technical-instructions/6x/6x-programming.md)
   * [6X Focusing](technical-instructions/6x/6x-focusing.md)
   * [6X Pixel Alignment (Insert Pics)](technical-instructions/6x/6x-pixel-alignment-insert-pics.md)
@@ -76,22 +77,24 @@
 
 ## QC/Shipping
 
-* [Sensors](qc-shipping/sensors/README.md)
-  * [65R Shipping QC](qc-shipping/sensors/65r-shipping-qc.md)
-  * [6X](qc-shipping/sensors/6x/README.md)
-    * [Pre-Shipment Set-Up](qc-shipping/sensors/6x/pre-shipment-set-up.md)
-    * [6X Final QC](qc-shipping/sensors/6x/6x-final-qc.md)
-* [Systems and Kits](qc-shipping/systems-and-kits/README.md)
-  * [Reflectance Panel Shipping QC](qc-shipping/systems-and-kits/reflectance-panel-shipping-qc.md)
-  * [RTK Shipping QC](qc-shipping/systems-and-kits/rtk-shipping-qc.md)
-  * [PixelScout Shipping QC](qc-shipping/systems-and-kits/pixelscout-shipping-qc.md)
+* [QC Sensors](qc-shipping/qc-sensors/README.md)
+  * [65R](qc-shipping/qc-sensors/65r/README.md)
+    * [Pre-Shipment Set-up](qc-shipping/qc-sensors/65r/pre-shipment-set-up.md)
+    * [65R Final QC](qc-shipping/qc-sensors/65r/65r-final-qc.md)
+  * [6X](qc-shipping/qc-sensors/6x/README.md)
+    * [Pre-Shipment Set-Up](qc-shipping/qc-sensors/6x/pre-shipment-set-up.md)
+    * [6X Final QC](qc-shipping/qc-sensors/6x/6x-final-qc.md)
+* [QC Systems and Kits](qc-shipping/qc-systems-and-kits/README.md)
+  * [Reflectance Panel Shipping QC](qc-shipping/qc-systems-and-kits/reflectance-panel-shipping-qc.md)
+  * [RTK Shipping QC](qc-shipping/qc-systems-and-kits/rtk-shipping-qc.md)
+  * [PixelScout Shipping QC](qc-shipping/qc-systems-and-kits/pixelscout-shipping-qc.md)
 * [Shipping Labels](qc-shipping/shipping-labels.md)
+* [Receiving Packages](qc-shipping/receiving-packages.md)
 
 ## Space and General
 
 * [Drawings](space-and-general/drawings.md)
 * [Gitbook In Progress Assignments](space-and-general/gitbook-in-progress-assignments.md)
-* [Practice space](space-and-general/practice-space.md)
 * [Software Installation Guide](space-and-general/software-installation-guide.md)
 * [Gitbook Page Export Guide](space-and-general/gitbook-page-export-guide.md)
 * [EVault Upload Guide](space-and-general/evault-upload-guide.md)

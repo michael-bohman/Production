@@ -63,21 +63,3 @@ When the update is complete, the firmware will not refresh and show the correct 
 8. Wait a few sessions and click Capture Image
 9. Navigate to file explorer  \\\192.168.42.1&#x20;
 10. Confirm photos have been taken&#x20;
-
-
-
-### After Programming Back Half Assembly
-
-1. Remove the screws securing the fan in place.
-2. Fit the rear cover over the back of the sensor
-3. The cover should lightly clip into place
-
-> ![](<../../.gitbook/assets/image (20).png>)    ![](<../../.gitbook/assets/image (21).png>)
-
-2. Secure rear cover and fan using the screws removed in the last step
-   1. Secure rear cover to heatsink with (Item 40)&#x20;
-   2. Secure rear cover to heatsink on left side of the sensor with one (Item 28)
-   3.
-
-       <figure><img src="../../.gitbook/assets/Back cover.jpg" alt=""><figcaption></figcaption></figure>
-

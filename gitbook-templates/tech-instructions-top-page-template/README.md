@@ -4,7 +4,7 @@ description: All Assembly Numbers
 
 # Tech Instructions Top Page Template
 
-### Picture of Item
+### Picture of Item for cover page
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -21,4 +21,8 @@ description: All Assembly Numbers
 ## Prep (Delete if nothing to do)
 
 * Overall prep not included in sub-assembly
-*
+
+
+
+## Notes&#x20;
+

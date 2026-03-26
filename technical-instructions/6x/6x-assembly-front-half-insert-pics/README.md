@@ -6,10 +6,12 @@ description: Stage 2 in the 6X Process 21214-02
 
 ## Equipment Needed
 
-* Filters&#x20;
-* UV Glue
-* Curing box
-* 6X Screw Bin
+| UV Bonding Glue | Tweezers               |
+| --------------- | ---------------------- |
+| Curing Box      | Purple Loctite 222     |
+| 6X Screw Bin    | Loctite 401            |
+| Screw Driver    | Blue towels            |
+| 1.5 x 50 Hex    | Production Shroud Jig  |
 
 ## Notes
 
@@ -53,13 +55,14 @@ For 6XT and 6XT PRO visit [6xt-6xtp-front-half-insert-pics.md](6xt-6xtp-front-ha
    4.
 
        <figure><img src="../../../.gitbook/assets/image (92).png" alt="" width="375"><figcaption></figcaption></figure>
-6. Secure all 3 imager boards with 14 screws (Item 20)&#x20;
+6. Secure all 3 imager boards&#x20;
    1. Apply thread locker to the threads of each screw
-   2. Do not place screws in the four corners.
-   3.
+   2. Secure 14 screws <mark style="color:yellow;">Item 20 (91771A165)</mark>
+   3. Do not place screws in the four corners.
+   4.
 
        <figure><img src="../../../.gitbook/assets/image (94).png" alt="" width="375"><figcaption></figcaption></figure>
-7. Secure the diffusers in each corner using screws (Item 21) with thread locker applied&#x20;
+7. Secure the diffusers in each corner using screws <mark style="color:yellow;">Item 21 (91772A065)</mark> with thread locker applied&#x20;
    1. See orientation in images below
 
 > ![](<../../../.gitbook/assets/image (95).png>)    ![](<../../../.gitbook/assets/image (96).png>)
@@ -81,7 +84,7 @@ For 6XT and 6XT PRO visit [6xt-6xtp-front-half-insert-pics.md](6xt-6xtp-front-ha
 
     <figure><img src="../../../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure>
 12. Secure the front and back of the sensor together.
-    1. Apply thread locker to each screw (item 26)
+    1. Apply thread locker to each screw <mark style="color:yellow;">Item 26 (91772A073)</mark>
     2.
 
         <figure><img src="../../../.gitbook/assets/image (99).png" alt="" width="352"><figcaption></figcaption></figure>
