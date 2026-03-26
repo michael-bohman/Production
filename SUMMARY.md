@@ -33,6 +33,7 @@
     * [Calibration/Verification Flights (Not complete)](technical-instructions/pixel-scout/calibration-and-verification/calibration-verification-flights-not-complete.md)
     * [Calibration (Pix4d) (Needs Screenshots)](technical-instructions/pixel-scout/calibration-and-verification/calibration-pix4d-needs-screenshots.md)
     * [Verification Processing (Needs Screenshots)](technical-instructions/pixel-scout/calibration-and-verification/verification-processing-needs-screenshots.md)
+  * [V3.5 Upgrade](technical-instructions/pixel-scout/v3.5-upgrade.md)
 * [6X](production-documentation-1/6x.md)
   * [6X Assembly Back Half](technical-instructions/6x/6x-assembly-back-half.md)
   * [6X Assembly Front Half (Insert Pics)](technical-instructions/6x/6x-assembly-front-half-insert-pics/README.md)
