@@ -6,7 +6,7 @@
 
 * Use jigs to mark where to glue, mark \~1/4” past jigs with a white sharpie as shown:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
 2. Mix Araldite epoxy by pouring some onto a mixing tray and mixing it around with a stirring stick. Stir the Araldite until the solution is completely mixed.
 3. Apply a layer of Araldite to the area between the marks. Make sure to THINLY coat the carbon tube all the way around. Do not get Araldite anywhere outside of the marks.
@@ -28,11 +28,11 @@ You’ll notice that some Araldite will remain on the outside of the T joint. Th
 
 6. Attach the jig to the T Joint
 
-<p align="center"><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""></p>
 
 7. Drill a hole through the T joint using the 3/32 bit designed for carbon fiber
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
 8. Use a hammer to start the 3/4” slotted spring pin as shown.
 

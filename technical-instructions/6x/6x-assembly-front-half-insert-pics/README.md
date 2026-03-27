@@ -109,4 +109,4 @@ The shroud will be attached after Focusing Step&#x20;
    1. Secure magnets in place with Loctite 401
    2. Place the Sentera Sticker over the magnets&#x20;
 
-> ![](../../../.gitbook/assets/image.png)   ![](<../../../.gitbook/assets/image (1).png>)
+> ![](<../../../.gitbook/assets/image (6).png>)   ![](<../../../.gitbook/assets/image (1) (1).png>)

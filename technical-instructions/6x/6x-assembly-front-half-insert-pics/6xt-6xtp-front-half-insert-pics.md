@@ -29,16 +29,16 @@ For Regular 6X visit [.](./ "mention")
 2. Remove the filter from packaging and ensure it is free from all debris, damage, and prints.
    1. Orient the filter with the lettering facing down as shown. This is how it will be installed in the lens mount.
 
-> ![](<../../../.gitbook/assets/image (5).png>)   ![](<../../../.gitbook/assets/image (1) (1).png>)
+> ![](<../../../.gitbook/assets/image (5) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 3. Place the filter in the corresponding position on the lens mount.
    1. Secure the filter with 3 contact points of UV glue on the very edge of the lens.
    2.
 
-       <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
    3.
 
-       <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
    4. Once all the lens have 3 contact points with the UV bonder, place in the curing box for at lease 10 minutes
 4. In Boson App Confirgure the FLIR Sensor
 
@@ -54,7 +54,7 @@ For Regular 6X visit [.](./ "mention")
 
        <figure><img src="../../../.gitbook/assets/20260320_100814.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-> ![](<../../../.gitbook/assets/image (4) (1).png>)   ![](<../../../.gitbook/assets/image (5) (1).png>)&#x20;
+> ![](<../../../.gitbook/assets/image (4) (1) (1).png>)   ![](<../../../.gitbook/assets/image (5) (1) (1).png>)&#x20;
 
 {% hint style="info" %}
 6XTP will not have an adapter, but the process is the same
@@ -81,7 +81,7 @@ For Regular 6X visit [.](./ "mention")
    1. Apply thread locker to screws <mark style="color:yellow;">Item 49 (92010A783)</mark> before installation.
    2. Ensure the thermal camera is oriented as shown.
 
-> ![](<../../../.gitbook/assets/image (6).png>)   ![](<../../../.gitbook/assets/image (7).png>)
+> ![](<../../../.gitbook/assets/image (6) (1).png>)   ![](<../../../.gitbook/assets/image (7).png>)
 
 6. Install the cover spacer
    1. Apply thread locker to the screws <mark style="color:yellow;">Item 27 (91772A063)</mark>
@@ -163,7 +163,7 @@ The shroud will be attached after Focusing Step&#x20;
    1. Secure magnets in place with Loctite 401
    2. Place the Sentera Sticker over the magnets&#x20;
 
-> ![](../../../.gitbook/assets/image.png)   ![](<../../../.gitbook/assets/image (1).png>)
+> ![](<../../../.gitbook/assets/image (6).png>)   ![](<../../../.gitbook/assets/image (1) (1).png>)
 
 6. Insert spacers&#x20;
    1. For 6XT -> loctite (401) the spacer on the inside of the shroud

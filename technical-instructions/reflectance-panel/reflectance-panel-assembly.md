@@ -27,7 +27,7 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 1.  If present, remove any stickers and foam from the cases
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
 2.  Wipe down inside and out with isopropyl alcohol or acetone.
 
     <figure><img src="../../.gitbook/assets/IMG_7839.jpg" alt="" width="375"><figcaption></figcaption></figure>
@@ -37,7 +37,7 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
        <figure><img src="../../.gitbook/assets/IMG_7840.jpg" alt="" width="375"><figcaption></figcaption></figure>
 4.  Cut Strips of foam tape and attach to the inside faces of the containers as shown, ensuring edges of the tape match closely with the container walls
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption></figcaption></figure>
 5. Remove adhesive covering from each **upper** strip of tape and film from **both** sides of the polycarbonate sheet.
    1.  One of the pieces of film on the polycarbonate sheet is very transparent. Ensure **both** films are removed.
 
