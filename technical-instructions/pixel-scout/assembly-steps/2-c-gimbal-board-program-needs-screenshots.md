@@ -1,4 +1,4 @@
-# Board Programming
+# 2-C Gimbal Board Program (Needs Screenshots)
 
 ## Required Materials
 
@@ -18,9 +18,21 @@ The process of programming these board is very similar to that of the 6x/65R. Th
 ### Preparation
 
 1. Level the leveling board using an external level.
+
+<mark style="color:red;">Picture here</mark>
+
 2. Open Partner Assistant and log in.
+
+<mark style="color:red;">Screenshot here</mark>
+
 3. Connect one end of the green microcoax cable to the 'Gimbal' port on the end of the pixelscout breakout board.
+
+<mark style="color:red;">Two Pictures here</mark>
+
 4. Place the Pixelscout breakout board into the rectangular jig and secure barely snugly using the 2 black course threaded screws included.
+
+<mark style="color:red;">Picture here</mark>
+
 5. Plug in all the required connections **except the anderson power pole connection.**
    1. Computer to board via TTL cable and adapter.
       * Plug into CTRL UART port on board.
@@ -30,6 +42,8 @@ The process of programming these board is very similar to that of the 6x/65R. Th
 <figure><img src="../../../.gitbook/assets/IMG_7684.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 6. Switch the 'CTRL PROG' Switch on the SBG Breakout Board to 'ON'.
+
+<mark style="color:red;">Picture here</mark>
 
 ### Programming Steps
 
