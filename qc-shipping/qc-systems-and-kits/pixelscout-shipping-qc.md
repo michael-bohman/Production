@@ -19,11 +19,11 @@ description: 'Owner: Simon'
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>GOOD CALIBRATION</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>GOOD CALIBRATION</p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>BAD CALIBRATION</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>BAD CALIBRATION</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -92,7 +92,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 <summary>What the screenshots look like</summary>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -118,7 +118,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 <summary>SD Card Folder</summary>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -126,7 +126,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 <summary>Info Folder</summary>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -134,7 +134,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 <summary>hw_config file</summary>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

@@ -58,6 +58,20 @@ Up to date as of 3/24/2026
 
 </details>
 
+<details>
+
+<summary>Double 4K, 6601 Processor  -> 21022-03</summary>
+
+Up to date as of 4/2/2026
+
+\as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21022 - Double 4K Sensor, 6601 Processor\Rev G
+
+{% file src="../.gitbook/assets/21022_revg.pdf" %}
+
+
+
+</details>
+
 ## Systems and Kits
 
 <details>

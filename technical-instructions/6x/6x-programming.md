@@ -45,7 +45,7 @@ When the update is complete, the firmware will not refresh and show the correct 
 5. Cut out label and stick onto the camera
    1.
 
-       <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="292"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="292"><figcaption></figcaption></figure>
 6. Eject SD card and insert into camera&#x20;
 
 ### Confirmation Check
