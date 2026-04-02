@@ -16,6 +16,7 @@ description: >-
   * [ ] Ground Assembly&#x20;
 * [ ] Checkin/QC (probably move to QC/Shipping)
 * [ ] Shipping Labels
+* [ ] 65R QC/shipping (pre-shipment and final QC)
 
 #### Continuously Add to Pages&#x20;
 
@@ -43,12 +44,14 @@ description: >-
 
 * [ ] Gimbals top page
 * [ ] 6x frame guimbal
-* [ ] DJI Skyport stack
-* [ ] Gremsy Stack
+* [ ] DJI Skyport stack <mark style="color:red;">(Needs updated pics)</mark>
+* [ ] Gremsy Stack <mark style="color:red;">(Needs updated pics)</mark>
 * [ ] final assembly 6X
 * [ ] 6X top page&#x20;
 * [ ] 65R top page&#x20;
 * [ ] 6X Assembly
+* [ ] Astro legs QC and bagging&#x20;
+* [ ] Astro Legs shipping QC
 
 #### Kristen
 

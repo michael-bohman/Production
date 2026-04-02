@@ -1,5 +1,16 @@
 # Example Assembly
 
+## Equipment Needed&#x20;
+
+{% hint style="info" %}
+Use a table and add equipment needed for this stage of the build
+{% endhint %}
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+
 ## Notes&#x20;
 
 ## Drawing
