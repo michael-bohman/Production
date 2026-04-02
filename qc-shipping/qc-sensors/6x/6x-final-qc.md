@@ -72,6 +72,10 @@ This step should be completed by a different person that did the build and pre-s
 
 ## Accessories Check&#x20;
 
+{% hint style="danger" %}
+Remove the items out of the case to check them. &#x20;
+{% endhint %}
+
 1. There should be 2 Small Red Lined bags, First bag includes (Bag A)
    1. 2 gray USB-A to C Adapters&#x20;
    2. 1 black USB-C to C @ 90 degree Adapter
@@ -85,6 +89,22 @@ This step should be completed by a different person that did the build and pre-s
    4. Cable mount
 
 <figure><img src="../../../.gitbook/assets/20260212_074840.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+3. Light sensor mount matches what drone that camera is being flown on&#x20;
+
+{% columns %}
+{% column %}
+<p align="center">Astro Mount </p>
+
+<figure><img src="../../../.gitbook/assets/20260324_134247.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<p align="center">IF800 Mount </p>
+
+<figure><img src="../../../.gitbook/assets/20260330_130339.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 3. Confirm case looks like the image below
    1. The light sensor mount can vary depending on drone the camera is designed for
