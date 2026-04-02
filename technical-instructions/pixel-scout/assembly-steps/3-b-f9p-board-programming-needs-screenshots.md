@@ -1,4 +1,4 @@
-# 3-C F9P Board Programming
+# 3-B F9P Board Programming (Needs Screenshots)
 
 ## Required Equipment/Materials
 
@@ -32,18 +32,27 @@ The file uploaded to the antenna GNSS board is the same for the PixelScout syste
 
 1. Open U-Center
 2. Plug in everything
-3. At the top, click on the upside-down triangle next to the connection symbol
-4. Select the corresponding COM Port
-5. Ensure the box at the bottom shows a green symbol and displays a baud rate
+
+<mark style="color:red;">Picture Here</mark>
+
+2. At the top, click on the upside-down triangle next to the connection symbol
+3. Select the corresponding COM Port
+
+<mark style="color:red;">Picture here</mark>
+
+4. Ensure the box at the bottom shows a green symbol and displays a baud rate
    1. If not, refer to the Fault Isolation Manual
-6. At the top, click Tools>Firmware Update...
-7. In the new window, click on the 3 dots next to the 'Firmware image' box.
-8. Find the File and click 'Open'.
-9. To speed up the update process, a higher baud rate may be used, just ensure that it updated correctly afterwards.
+
+<mark style="color:red;">Picture here</mark>
+
+5. At the top, click Tools>Firmware Update...
+6. In the new window, click on the 3 dots next to the 'Firmware image' box.
+7. Find the File and click 'Open'.
+8. To speed up the update process, a higher baud rate may be used, just ensure that it updated correctly afterwards.
    1. 921600 baud results in \~1 minute
    2. 9600 baud results in \~25 minutes
-10. Click 'GO' at the bottom
-11. Once the update has completed, at the top, go to View>Messages View>UBX>MON>VER
+9. Click 'GO' at the bottom
+10. Once the update has completed, at the top, go to View>Messages View>UBX>MON>VER
     1. Verify the Version number is 1.51
 
 {% hint style="info" %}
