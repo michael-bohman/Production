@@ -10,3 +10,8 @@
 | Screw Driver   | Loctite            |
 | 65R Screw Bin  | Kapton Tape        |
 
+## Drawing&#x20;
+
+{% content-ref url="../../space-and-general/drawings.md#id-65r-greater-than-21030" %}
+[#id-65r-greater-than-21030](../../space-and-general/drawings.md#id-65r-greater-than-21030)
+{% endcontent-ref %}

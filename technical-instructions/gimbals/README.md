@@ -12,7 +12,49 @@ In addition to the items listed in the bill of materials, the following are also
 
 •       Gimbal Screw Bin
 
-## 2.    Initial Notes
+## Drawings&#x20;
+
+#### No camera&#x20;
+
+{% content-ref url="../../space-and-general/drawings.md#id-6x-gimbal-no-camera-greater-than-21225" %}
+[#id-6x-gimbal-no-camera-greater-than-21225](../../space-and-general/drawings.md#id-6x-gimbal-no-camera-greater-than-21225)
+{% endcontent-ref %}
+
+{% content-ref url="../../space-and-general/drawings.md#id-65r-gimbal-no-camera-greater-than-21239" %}
+[#id-65r-gimbal-no-camera-greater-than-21239](../../space-and-general/drawings.md#id-65r-gimbal-no-camera-greater-than-21239)
+{% endcontent-ref %}
+
+#### Skyport V2
+
+{% content-ref url="../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233" %}
+[#id-6x-skyport-v2-greater-than-21233](../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233)
+{% endcontent-ref %}
+
+{% content-ref url="../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233" %}
+[#id-6x-skyport-v2-greater-than-21233](../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233)
+{% endcontent-ref %}
+
+#### Smart Dovetail&#x20;
+
+{% content-ref url="../../space-and-general/drawings.md#id-6x-smart-dovetail-greater-than-21234" %}
+[#id-6x-smart-dovetail-greater-than-21234](../../space-and-general/drawings.md#id-6x-smart-dovetail-greater-than-21234)
+{% endcontent-ref %}
+
+{% content-ref url="../../space-and-general/drawings.md#id-65r-smart-dovetail-greater-than-21253" %}
+[#id-65r-smart-dovetail-greater-than-21253](../../space-and-general/drawings.md#id-65r-smart-dovetail-greater-than-21253)
+{% endcontent-ref %}
+
+#### Gremsy&#x20;
+
+{% content-ref url="../../space-and-general/drawings.md#id-6x-gremsy-greater-than-21252" %}
+[#id-6x-gremsy-greater-than-21252](../../space-and-general/drawings.md#id-6x-gremsy-greater-than-21252)
+{% endcontent-ref %}
+
+{% content-ref url="../../space-and-general/drawings.md#id-65r-gremsy-greater-than-21255" %}
+[#id-65r-gremsy-greater-than-21255](../../space-and-general/drawings.md#id-65r-gremsy-greater-than-21255)
+{% endcontent-ref %}
+
+## Notes
 
 1\. When fastening screws into the motors…
 

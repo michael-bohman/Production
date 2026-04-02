@@ -30,6 +30,12 @@ example 6x: I would list all equipment from assembly, programming, focusing, pix
 
 
 
+## Drawings
+
+{% content-ref url="../../space-and-general/drawings.md#id-6x-thermal-greater-than-21216" %}
+[#id-6x-thermal-greater-than-21216](../../space-and-general/drawings.md#id-6x-thermal-greater-than-21216)
+{% endcontent-ref %}
+
 ## Notes&#x20;
 
 * <mark style="color:yellow;">Item numbers are highlighted in yellow and correspond to the drawing. The numbers in the parenthesis are the McMaster screw number that correspond to the screw bins.</mark>&#x20;

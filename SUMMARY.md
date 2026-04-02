@@ -60,6 +60,7 @@
   * [Final Assembly](technical-instructions/gimbals/gimbal-stack-assembly/final-assembly/README.md)
     * [Final Assembly - 6X](technical-instructions/gimbals/gimbal-stack-assembly/final-assembly/final-assembly-6x.md)
     * [Final Assembly - 65R](technical-instructions/gimbals/gimbal-stack-assembly/final-assembly/final-assembly-65r.md)
+* [Light Sensor](technical-instructions/light-sensor.md)
 * [Reflectance Panel](technical-instructions/reflectance-panel/README.md)
   * [Reflectance Panel Assembly](technical-instructions/reflectance-panel/reflectance-panel-assembly.md)
   * [Reflectance Panel QC](technical-instructions/reflectance-panel/reflectance-panel-qc.md)
