@@ -19,31 +19,32 @@ The process of programming these board is very similar to that of the 6x/65R. Th
 
 1. Level the leveling board using an external level.
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8147.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Open Partner Assistant and log in.
-
-<mark style="color:red;">Screenshot here</mark>
-
 3. Connect one end of the green microcoax cable to the 'Gimbal' port on the end of the pixelscout breakout board.
 
-<mark style="color:red;">Two Pictures here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8148.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 4. Place the Pixelscout breakout board into the rectangular jig and secure barely snugly using the 2 black course threaded screws included.
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8149 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Plug in all the required connections **except the anderson power pole connection.**
+5. Switch the 'CTRL PROG' Switch on the SBG Breakout Board to 'ON'.
+
+<figure><img src="../../../.gitbook/assets/IMG_8151.jpg" alt=""><figcaption></figcaption></figure>
+
+6. Plug in all the required connections
    1. Computer to board via TTL cable and adapter.
       * Plug into CTRL UART port on board.
    2. Power Adapter into EXT PWR I/O port on board.
    3. AC Adapter into wall outlet.
 
+{% hint style="warning" %}
+Warning: Plug in the Power connection LAST to avoid electrical damage.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/IMG_7684.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-6. Switch the 'CTRL PROG' Switch on the SBG Breakout Board to 'ON'.
-
-<mark style="color:red;">Picture here</mark>
 
 ### Programming Steps
 
@@ -59,28 +60,69 @@ If the serial number required is not known, click on 'Web Control Panel'. Sign i
 Do NOT click 'Connect'
 {% endhint %}
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 143352.png" alt="" width="357"><figcaption></figcaption></figure>
+
 2. Click 'Test Board'
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 143433.png" alt="" width="359"><figcaption></figcaption></figure>
+
 3. Select '3.3 "Tiny+"'. and click 'FLASH'.
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 143820.png" alt="" width="356"><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 143919.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
 4. Select/Adjust the following settings and click 'Next'.
    1. License: **#5033**
    2. 3 axis driver: **unchecked**
    3. Battery Voltage Sensor: **Checked**
    4. Motor Power: **80**
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 143957.png" alt="" width="531"><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 NOTE: some errors may pop up. This is okay, just click 'OK'.
 {% endhint %}
 
 5. In the 'Flash new secret keys' page, click 'Next'.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 144016.png" alt="" width="355"><figcaption></figcaption></figure>
+
 6. Select/Adjust the following settings and click 'Next'.
-   1. 3 axis driver: **unchecked**
-   2. Battery Voltage Sensor: **Checked**
-   3. Reference Voltage: **12.05 V**
-   4. Reference Current: **0 A**
-   5. Board ID: **23138-03\_rev-\_SNXXX.** (where XXX denotes the next few numbers from the Basecam website.
-7. After it is completed, select firmware 2.70.0 ENCODERS and click 'upload'.
-8. Once it finishes and gets to the page with the check marks and red x, click cancel and unplug the power connection to the board.
-9. flip the 'CTRL PROG' switch on the SBG Breakout Board to 'OFF'.
+   1. License: **#5033**
+   2. 3 axis driver: **unchecked**
+   3. Battery Voltage Sensor: **Checked**
+   4. Reference Voltage: **12.05 V**
+   5. Reference Current: **0 A**
+   6. Board ID: **23138-03\_rev-\_SNXXX.** (where XXX denotes the next few numbers from the Basecam website.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 144201.png" alt="" width="533"><figcaption></figcaption></figure>
+
+7. Click 'NEXT >'.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 144351.png" alt="" width="353"><figcaption></figcaption></figure>
+
+8. Click 'NEXT >' again.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 144452.png" alt="" width="356"><figcaption></figcaption></figure>
+
+9. Select firmware '2.70.0 ENCODERS (18.12.2020)' and click 'UPLOAD'.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 144546.png" alt="" width="533"><figcaption></figcaption></figure>
+
+10. Once it says '<mark style="color:$success;">OK</mark>, Set new firmware on server...' click 'cancel'
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 145217.png" alt="" width="534"><figcaption></figcaption></figure>
+
+11. Flip the 'CTRL PROG' switch on the SBG Breakout Board to 'OFF'.
+
+<figure><img src="../../../.gitbook/assets/IMG_8153.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Basecam SimpleBGC GUI
 
