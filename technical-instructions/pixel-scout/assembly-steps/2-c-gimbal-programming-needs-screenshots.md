@@ -1,4 +1,23 @@
-# 2-C Gimbal Board Program (Needs Screenshots)
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# 2-C Gimbal Programming (Needs Screenshots)
 
 ## Required Materials
 
@@ -127,9 +146,22 @@ NOTE: some errors may pop up. This is okay, just click 'OK'.
 #### Basecam SimpleBGC GUI
 
 1. Connect the other end of the green microcoax cable to the 'Gimbal' connection on the Pixelscout Breakout Board.
+
+<figure><img src="../../../.gitbook/assets/IMG_8154.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 2. Open 'SimpleBGC GUI'.
 3. Reconnect the power cable to the board.
-4. Towards the top, ensure the correct COM port is selected. Click 'Connect'.
+4. In SimpleBGC GUI, towards the top, ensure the correct COM port is selected. Click 'Connect'.
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 150538.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 150646.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 {% hint style="info" %}
 Notes:&#x20;
@@ -138,16 +170,93 @@ Notes:&#x20;
 2. The main error that might come up is 'Serial Data Corrupted'. If this happens, check that the 'CTRL PROG' switch on the SBG Breakout Board is set to 'OFF' and power cycle the board.
 {% endhint %}
 
-1. At the top, click 'Board'>'Backup Manager'.
-2. In the 'Restore from backup' section, click browse.
-3. Find the Pixelscout Phase 4 'Starting Point' EEPROM file and select 'Open', then 'Restore'.
-4. Navigate to the 'Hardware' tab on Basecam GUI.
-5. Click on 'Calibrate IMUs'.
-6. In the 'Accelerometer' side (Left), click 'Reset'.
-7. Orient the board in the jig on any face, wait for the bar on the right to reach green, click 'Calibrate' and repeat for another face until all 6 are checked.
-8. Once the board IMU is calibrated, export the calibration data.
-   1. At the bottom of the 'Sensor Calibration Helper' window, click 'Backup...'.
-   2. Name: sbgc\_IMU\_calib\_phase4SNXXX' where 'XXX' denotes the pixel scout gimbal serial number.
-   3. Folder: New folder titled the 3 digit serial number
-   4. Click 'Save' and then 'Close'.
-9. Board Programing is complete! At the top, click 'Disconnect' and disconnect all of the board connections.
+5. At the top, click 'Board'>'Backup Manager'.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 150719.png" alt="" width="375"><figcaption></figcaption></figure>
+
+6. In the 'Restore from backup' section, click 'browse'.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151323.png" alt="" width="375"><figcaption></figcaption></figure>
+
+7. Find the PixelScout Phase 4 'Starting Point' EEPROM file and select 'Open', then 'Restore' and 'Yes'.
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151421.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151436.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151449.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+8. Navigate to the 'Hardware' tab on Basecam GUI.
+9. Click on 'Calibrate IMUs'.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151602.png" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Warning: Do not click on any of the options in the 'Gyroscope' section. The boards are not designed to have these settings.
+{% endhint %}
+
+10. In the 'Accelerometer' side (Left), click 'Reset'.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151615.png" alt="" width="563"><figcaption></figcaption></figure>
+
+11. Orient the board in the jig on any face, wait for the bar on the right to reach green, click 'Calibrate' and repeat for another face until all 6 are checked.
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/IMG_8156.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151744.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151728.png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">BAD</mark>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151744 (1).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:$success;">GOOD</mark>
+{% endcolumn %}
+{% endcolumns %}
+
+12. Once the board IMU is calibrated, export the calibration data.
+    1. At the bottom of the 'Sensor Calibration Helper' window, click 'Backup...'.
+    2. Name: sbgc\_IMU\_calib\_phase4SNXXX' where 'XXX' denotes the pixel scout gimbal serial number.
+    3. Folder: New folder titled the 3 digit serial number
+    4. Click 'Save'.
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151744 (2).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 152016.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+13. Board Programing is complete! At the top, click 'Disconnect' and disconnect all of the board connections.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 152103.png" alt="" width="375"><figcaption></figcaption></figure>
