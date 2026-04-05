@@ -10,7 +10,7 @@ In addition to everything listed on the BOM, the following items are required fo
 
 ## Notes
 
-DO NOT use these instructions for a Skyport that will go on a PixelScout system. A PixelScout Skyport stack has a few key differences. Refer to this page for Pixelscout Skyport Stacks [3-a-1-skyport-top-stack.md](../../../pixel-scout/assembly-steps/3-a-1-skyport-top-stack.md "mention")
+DO NOT use these instructions for a Skyport that will go on a PixelScout system. A PixelScout Skyport stack has a few key differences. Refer to this page for Pixelscout Skyport Stacks [3-a-1-skyport-top-stack-needs-pictures.md](../../../pixel-scout/assembly-steps/3-a-1-skyport-top-stack-needs-pictures.md "mention")
 
 ## Drawing&#x20;
 

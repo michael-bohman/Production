@@ -40,7 +40,7 @@ Up to date as of 3/24/2026
 
 <details>
 
-<summary>Pixelscout V4 -> </summary>
+<summary>PixelScout V4 -> 21282</summary>
 
 
 
@@ -48,7 +48,7 @@ Up to date as of 3/24/2026
 
 <details>
 
-<summary>Pixelscout V4 Antenna -> 21284</summary>
+<summary>PixelScout V4 Antenna -> 21284</summary>
 
 Up to date as of 3/24/2026
 

@@ -1,4 +1,5 @@
 ---
+description: 'Owner: Simon'
 layout:
   width: wide
   title:
@@ -17,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 2-C Gimbal Programming (Needs Screenshots)
+# 2-C Gimbal Programming
 
 ## Required Materials
 

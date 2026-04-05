@@ -19,7 +19,7 @@ In addition to everything listed on the build sheet. You will need:
 
 ## Guide
 
-1. Connect the right and left arms. Secure using 3 screws (91698A242 M3x6 Flt Hd Blk) and Loctite.
+1. Connect the right and left arms. Secure using 3 screws (<mark style="color:yellow;">91698A242 M3x6 Flt Hd Blk</mark>) and Loctite.
 
 <div><figure><img src="../../../.gitbook/assets/IMG_7376 (1).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_7378.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -29,11 +29,11 @@ In addition to everything listed on the build sheet. You will need:
 
 <div><figure><img src="../../../.gitbook/assets/IMG_7437.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_7438.jpg" alt=""><figcaption></figcaption></figure></div>
 
-3. Attach the pitch encoder to the back of teh pitch motor. Secure with 4 screws (I THINK 92010A020 M2.5x10 Flt Hd) and Loctite.
+3. Attach the pitch encoder to the back of teh pitch motor. Secure with 4 screws (I THINK <mark style="color:yellow;">92010A020 M2.5x10 Flt Hd</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_7440.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Attach the combined pitch motor/encoder to the right arm. Secure using 4 screws (91698A242 M2.5x6 Flt Hd Blk) and Loctite.
+4. Attach the combined pitch motor/encoder to the right arm. Secure using 4 screws (<mark style="color:yellow;">91698A242 M2.5x6 Flt Hd Blk</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_7385.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -47,11 +47,11 @@ In addition to everything listed on the build sheet. You will need:
 
 <figure><img src="../../../.gitbook/assets/IMG_7386.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-7. Place the roll motor into the casing. Secure using 4 screws (91698A242 M2.5x6 Flt Hd Blk) and Loctite.
+7. Place the roll motor into the casing. Secure using 4 screws (<mark style="color:yellow;">91698A242 M2.5x6 Flt Hd Blk</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_7443.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-8. Place the cap over the center joint. Secure using 3 screws (91698A200 M2x4 Flt Hd Blk) and Loctite.
+8. Place the cap over the center joint. Secure using 3 screws (<mark style="color:yellow;">91698A200 M2x4 Flt Hd Blk</mark>) and Loctite.
    1. Make sure none of the wires are pinched or creased before securing.
 
 <figure><img src="../../../.gitbook/assets/IMG_7444.jpg" alt="" width="375"><figcaption></figcaption></figure>
@@ -69,21 +69,21 @@ In addition to everything listed on the build sheet. You will need:
 
 <figure><img src="../../../.gitbook/assets/IMG_7391.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-11. Attach the roll encoders to the back of the motor. Secure using 4 screws (I THINK 92010A020 M2.5x10 Flt Hd) and Loctite
+11. Attach the roll encoders to the back of the motor. Secure using 4 screws (I THINK <mark style="color:yellow;">92010A020 M2.5x10 Flt Hd</mark>) and Loctite
     1. Make sure the wires' resting point is upward before securing.
 
 <figure><img src="../../../.gitbook/assets/IMG_7392.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 12. Feed all 4 cables through the hold in the center of the rear casing.
-13. Position the rear casing and orient it such that the slot above the center hole is pointing upward (match up the small alignment screw holes on the bottom). Secure using 4 screws (91698A242 M2.5x6 Flt Hd Blk) and Loctite.
+13. Position the rear casing and orient it such that the slot above the center hole is pointing upward (match up the small alignment screw holes on the bottom). Secure using 4 screws (<mark style="color:yellow;">91698A242 M2.5x6 Flt Hd Blk</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_7398.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-14. Feed the wires from the pitch motor through the right piece as shown. Secure the right piece using 4 screws (91698A242 M2.5x6 Flt Hd Blk) and Loctite.
+14. Feed the wires from the pitch motor through the right piece as shown. Secure the right piece using 4 screws (<mark style="color:yellow;">91698A242 M2.5x6 Flt Hd Blk</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_7394.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-15. Attach the cap on the outside of the pitch motor and encoder. Secure using 3 screws (91698A200 M2x4 Flt Hd Blk) and Loctite.
+15. Attach the cap on the outside of the pitch motor and encoder. Secure using 3 screws (<mark style="color:yellow;">91698A200 M2x4 Flt Hd Blk</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_7395.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

@@ -5,11 +5,11 @@
 * Go to taurus>Productin>Technical Packages>PIXELSCOUT PHASE 4
 * Download the entire 'Configuration Files' folder to your machine. This has all the programs required to configure different parts of the system
 
-
-
 ## Guide
 
 ### Gimbal
+
+All files for this section are in the '1. Gimbal' folder in the configuration files
 
 1. Gimbal PIC32
    1. Plug into the rear gimbal board using the Pickit™ 3 into the 'PROG' port.
@@ -67,14 +67,14 @@
 
 
 
-3. Encoder Calibration
+4. Encoder Calibration
    1. Keep the ethernet cable plugged in.
    2. In the 'Configuration Files' folder, go to 1. Gimbal > 2. Encoder Calibration and open the 'Encoder Calibration Procedure.docx' file.
    3. Follow these steps to calibrate the encoders.
    4. When finished, verify values read as follows (-/neutral/+)
       1. Pitch: -35/7/110
       2. Roll: -25/0/25
-4. SBG
+5. SBG
    1. In the 'Configuration Files' folder, go to 1. Gimbal>4. SBG
    2. In a browser, go to 192.168.5.202
    3. go to the 'information' tab.
@@ -92,12 +92,10 @@
 | <img src="../../../.gitbook/assets/image (124).png" alt="" data-size="original">                                | <img src="../../../.gitbook/assets/image (125).png" alt="" data-size="original"> |
 | <p><img src="../../../.gitbook/assets/Screenshot 2026-03-27 113834.png" alt="" data-size="original"></p><p></p> | <img src="../../../.gitbook/assets/configure1.png" alt="" data-size="original">  |
 
-3. Basecam SBGC
-   1. This is the 'Gimbal Tuning' Step
-4. Cameras
-   1. Pull SD cards
-   2. Copy config folder into firmware folder on both
-   3. For both cameras, in the newly copied config folder, open the 'network.yaml' file and change the following settings.
+6. Cameras
+   1. Pull both SD cards out of the cameras, being careful to remember which one is which.
+   2. Using the computer, copy the config folder from the info folder into firmware folder on both SD Cards
+   3. For both cameras, in the newly copied config folder (in the firmware folder), open the 'network.yaml' file and change the following settings.
       1. eth0 address
          1. 192.168.5.141 for Primary
          2. 192.168.5.142 for Secondary
@@ -106,17 +104,6 @@
       3. ros\_domain\_id
          1. 0 for Primary
          2. 1 for Secondary
-   4. Power cycle the drone twice
-      1. Turn on, wait a couple minutes, turn off, turn on, continue
-   5. Apply firmware update through website (back to 192.168.42.1/2)
-      1. "\as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-xxxx-xxxx -- 65MP Firmware\firmware\21030-65MP\User Updates\65r-update\_4.5.0-21030.swu"
-   6. Change configurations
-      1. Primary - Spotting
-      2. Secondary
-      3. Set these as the factory defaults
-         1. copy the config folder to the firmware folder, rename to 'factory-config'
-   7. If the hw\_config has anything other than 'defaults' for calibration and zeros for rig\_relatives, change it to that.
-   8. Connect a high speed usb cable and verify through webpage that each camera has USB 3.0 super speed.
 
 {% columns %}
 {% column %}
@@ -128,45 +115,93 @@ Primary Settings
 {% column %}
 <figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
-Secondary SEttings
+Secondary Settings
 {% endcolumn %}
 {% endcolumns %}
 
-3. Skyport V2
-   1. Update the firmware through DJI assistant
-   2. Bind the Skyport-V2 puck
-      1. Payload SDK > Click 'Bind'
-4. Take BPR pictures.
-   1. Mount the gimbal to a drone and turn it on. Connect to the gimbal using usb.
-   2. Start a session for the each camera using the webpage.
-      1. name it anything, the pictures won't be stored in the session.
-   3. Run the bpr pictures program and follow the instructions.
-      1. The program must be edited in notepad to set the ip address for the camera being worked on.
-   4. Save the pictures created to a '\[PixelScout SN] BPR' folder.
-   5. Send the folder to zach/brian/jon for processing (WILL PROBABLY CHANGE)
-   6. After receiving the bprmap.csv file from processing, apply it to the cameras by placing it in the correct 'firmware' folder.
-   7. Power cycle the cameras and ensure it is saved to the 'info' folder.
+7. Power cycle the drone twice
+   1. Turn on, wait a couple minutes, turn off, turn on, continue
+8. Apply the 4.5.1 firmware update through website.
+   1. Go to 192.168.42.1 (or 42.2 for secondary) in a browser.
+   2. Go to the 'Update firmware' page.
+   3. Drag the file into the section on the page.
+   4. The firmware file is in the Camera folder in the 'Configuration Files' folder.
+
+<mark style="color:red;">Pictures Here</mark>
+
+9. Change configurations
+   1. Still in the webpages, go to the 'Configuration' page.
+   2. Change the configurations to the following.&#x20;
+      1. Primary - Spotting
+      2. Secondary
+   3. Set these as the factory defaults
+      1. copy the config folder to the firmware folder, rename to 'factory-config'
+
+<mark style="color:red;">Pictures here</mark>
+
+10. If the hw\_config has anything other than 'defaults' for calibration and zeros for rig\_relatives, change it to that.
+11. Connect a high speed usb cable and verify through webpage that each camera has USB 3.0 super speed.
+
+<mark style="color:red;">Pictures here</mark>
+
+12. Skyport V2
+    1. Connect a USB-C cable to the top of the drone.
+    2. Open DJI Assistant and sign in.
+    3. Update the firmware through DJI assistant
+    4. Bind the Skyport-V2 puck
+       1. Payload SDK > Click 'Bind'
+
+<mark style="color:red;">Screensots here</mark>
+
+{% hint style="info" %}
+NOTE: the BPR step can be skipped if the process has already been completed in the focusing step.
+{% endhint %}
+
+12. Take BPR pictures.
+    1. Mount the gimbal to a drone and turn it on. Connect to the gimbal using usb.
+    2. Start a session for the each camera using the webpage.
+       1. name it anything, the pictures won't be stored in the session.
+    3. Run the bpr pictures program and follow the instructions.
+       1. The program must be edited in notepad to set the ip address for the camera being worked on.
+    4. Save the pictures created to a '\[PixelScout SN] BPR' folder.
+    5. Send the folder to zach/brian/jon for processing (WILL PROBABLY CHANGE)
+    6. After receiving the bprmap.csv file from processing, apply it to the cameras by placing it in the correct 'firmware' folder.
+    7. Power cycle the cameras and ensure it is saved to the 'info' folder.
 
 ### Ground Radio
 
-1. P900
-   1. Configure radio using PicoConfigurator.
+The files for this section are in the '2. Ground Radio' folder in the configuration files.
+
+1. P900 Programming
+   1. Follow the steps in the P900 Radio Programming Page.
+      1. [3-c-p900-radio-programming.md](3-c-p900-radio-programming.md "mention")
 
 ### Boom (Antenna)
 
+The files for this section are in the '3. Boom (Antenna)' folder in the configuration files.
+
 1. PIC32
-   1. Navigate to \as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-23163 -- DGR Boom
+   1. in the Boom folder, navigate to 1. PIC32 > SW-23163 — DGR Boom > program
    2. change the program.bat file to include the PK3
    3. Plug it into the 'PROG' port on the board.
    4. Power the board either using the drone/gimbal or the barrel jack on the bottom.
    5. Run the .bat program
+
+<mark style="color:red;">Pictures here</mark>
+
 2. P900
    1. Ensure the P900 board on the antenna is configured correctly
-   2. You can plug in both the antenna and ground station to power to check that they connect (solid green)
+   2. While the antenna is being powered on the drone, plug the ground radio into a laptop using a USB-C cable and ensure it connects to the antenna (Solid green lights on the ground radio).
+
+<mark style="color:red;">Pictures here</mark>
+
 3. U-blox
    1. Ensure the firmware on both the Rover and Moving base are up to date (HPG-1.51 release)
    2. U-Center > connections > network > new > tcp://192.168.5.135:6059X
       1. Rover: X = 2
       2. Moving Base: X = 3
-   3. Find the firmware update here:
-      1. \as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-33026-01 - ZED F9P\firmware
+   3. If the boards are not up to date, refer to the 'F9P programming' page
+      1. [3-b-f9p-board-programming-needs-screenshots.md](3-b-f9p-board-programming-needs-screenshots.md "mention")
+      2. Find the firmware update file in the 'Configuration files' folder in 3. Boom (Antenna) > 3. U-Blox > SW-33026-01 - ZED F9P > firmware
+
+<mark style="color:red;">Pictures here</mark>

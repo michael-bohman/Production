@@ -86,7 +86,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
   * Not required but optional to check final score percentages.
     * Above 96% required for middle
     * Above \~75% is required for sides (Prefer closer to 92% but not required)
-* Refer to [1-pixelscout-65r-focusing.md](../../technical-instructions/pixel-scout/assembly-steps/1-pixelscout-65r-focusing.md "mention") for more context if desired.
+* Refer to [1-pixelscout-65r-focusing-needs-bpr-pictures.md](../../technical-instructions/pixel-scout/assembly-steps/1-pixelscout-65r-focusing-needs-bpr-pictures.md "mention") for more context if desired.
 
 <details>
 

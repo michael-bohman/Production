@@ -13,7 +13,7 @@ These instructions end with two separate components, the back with the rangefind
 ### Rangefinders
 
 1. If not done already, prep the rangefinders by cutting the wires and applying a small \~1" strip of heat shrink to the open ends.
-2. Insert the rangefinders into the rear housing. Secure using 4 screws (M3x6mm Flathead BLK) each and Loctite.
+2. Insert the rangefinders into the rear housing. Secure using 4 screws (<mark style="color:yellow;">91698A242 M3x6 Flt Hd Blk</mark>) each and Loctite.
 
 {% columns %}
 {% column %}
@@ -33,7 +33,7 @@ These instructions end with two separate components, the back with the rangefind
 
 <figure><img src="../../../.gitbook/assets/IMG_7861 mod.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Attach the Cameras to the camera pod assembly in their designated mounts. Secure using 4 screws (91249A615) EACH and Loctite.
+4. Attach the Cameras to the camera pod assembly in their designated mounts. Secure using 4 screws (<mark style="color:yellow;">91249A615</mark>) EACH and Loctite.
    1. hold the cameras in place and insert the screws about halfway with Loctite before going back and tightening all of them.
    2.  It may be easiest to screw in the back ones first.
 
