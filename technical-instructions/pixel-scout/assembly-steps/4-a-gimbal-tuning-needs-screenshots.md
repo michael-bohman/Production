@@ -1,4 +1,4 @@
-# 4-A Gimbal Tuning
+# 4-A Gimbal Tuning (Needs Screenshots)
 
 ## Notes
 
@@ -45,3 +45,9 @@ While changing values through Basecam GUI, click 'write' **often** (especially a
 13. Gently shake the entire drone around to ensure there are no points in the range of motion where the gimbal freaks out/gets stuck.
 14. Backup a tuned version of the EEPROM to the SN folder corresponding to the gimbal.
 15. click 'Disconnect' and power down the drone.
+
+
+
+When completed: return to 3-A End Gimbal Assembly page
+
+[3-a-end-gimbal-assembly-needs-pictures.md](3-a-end-gimbal-assembly-needs-pictures.md "mention")

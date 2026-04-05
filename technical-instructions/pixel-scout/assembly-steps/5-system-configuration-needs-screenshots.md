@@ -205,3 +205,11 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
       2. Find the firmware update file in the 'Configuration files' folder in 3. Boom (Antenna) > 3. U-Blox > SW-33026-01 - ZED F9P > firmware
 
 <mark style="color:red;">Pictures here</mark>
+
+
+
+
+
+When completed: return to 3-A End Gimbal Assembly page
+
+[3-a-end-gimbal-assembly-needs-pictures.md](3-a-end-gimbal-assembly-needs-pictures.md "mention")
