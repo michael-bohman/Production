@@ -6,11 +6,7 @@ description: Stage 1 in the 6X process 21214-02, 21216-02, 21216-03
 
 ## Equipment Needed
 
-|               |                    |
-| ------------- | ------------------ |
-| 6X Screw Bin  | Thermal Paste      |
-| Screw Driver  | Purple Loctite 222 |
-| Tweezers      |                    |
+{% include "../../.gitbook/includes/untitled (1).md" %}
 
 ## Drawing
 
