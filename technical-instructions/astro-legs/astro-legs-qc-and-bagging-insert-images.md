@@ -7,7 +7,7 @@
    1. Confirm no scratches
    2. No glue is showing
    3. The pins are fully seated&#x20;
-3. Place a numbered sticker on each of the legs&#x20;
+3. Place a numbered sticker on each of the legs <mark style="color:red;">(Insert pic of location)</mark>
 4. Take a picture of each leg, each side and the Sticker serial number for leg 1&#x20;
 5.
 
