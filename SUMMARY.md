@@ -30,7 +30,7 @@
     * [5 System Configuration (Needs Screenshots)](technical-instructions/pixel-scout/assembly-steps/5-system-configuration-needs-screenshots.md)
   * [Calibration and Verification](technical-instructions/pixel-scout/calibration-and-verification/README.md)
     * [Case Packing (Needs Pictures)](technical-instructions/pixel-scout/calibration-and-verification/case-packing-needs-pictures.md)
-    * [Ground Test](technical-instructions/pixel-scout/calibration-and-verification/ground-test.md)
+    * [Ground Test (needs pictures)](technical-instructions/pixel-scout/calibration-and-verification/ground-test-needs-pictures.md)
     * [Calibration/Verification Flights (Not complete)](technical-instructions/pixel-scout/calibration-and-verification/calibration-verification-flights-not-complete.md)
     * [Calibration (Pix4d) (Needs Screenshots)](technical-instructions/pixel-scout/calibration-and-verification/calibration-pix4d-needs-screenshots.md)
     * [Verification Processing (Needs Screenshots)](technical-instructions/pixel-scout/calibration-and-verification/verification-processing-needs-screenshots.md)

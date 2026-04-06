@@ -52,10 +52,9 @@ In addition to the BOM, the following items are required:
 
 <mark style="color:red;">Picture here</mark>
 
-9. Place the center board in place, making sure no wires are pinched. Feed the excess from the gimbal micro-coax into the rear cover. Secure the board using 4 screws and Loctite.
-   1.  Either (<mark style="color:yellow;">94017A106 M2x6 N Cheese</mark>) or (<mark style="color:yellow;">94017A101 M2x4 N Cheese</mark>). figure out which one from wayne.
+9.  Place the center board in place, making sure no wires are pinched. Feed the excess from the gimbal micro-coax into the rear cover. Secure the board using 4 screws (<mark style="color:yellow;">94017A101 M2x4 N Cheese</mark>) and Loctite.
 
-       <figure><img src="../../../.gitbook/assets/IMG_7709.jpg" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/IMG_7709.jpg" alt="" width="375"><figcaption></figcaption></figure>
 10. Connect all the wires as shown.
     1. 'CAMERA1': micro-coax from secondary camera
     2. 'RANGE1' from rangefinder behind secondary camera
@@ -80,7 +79,7 @@ NOTE: "1" and "2" on the board don't correspond to primary and secondary, match 
 
 13. Place the combined IMU/rear board into the casing. Route the wires through the opening in the board. Secure the board using 4 long screws (<mark style="color:yellow;">92000A0200 M2x14 Pan</mark>), 2 short screws (<mark style="color:yellow;">94017A101 M2x4 N Cheese</mark>) and Loctite.
 
-    1. Place the 4 long screws around the IMU.
+    1. Place the 4 long screws around the SBG IMU.
 
     <figure><img src="../../../.gitbook/assets/IMG_7714.jpg" alt="" width="375"><figcaption></figcaption></figure>
 14. Plug in all the following cables into the rear board.
@@ -88,7 +87,7 @@ NOTE: "1" and "2" on the board don't correspond to primary and secondary, match 
     2. 'ROLL': Roll motor cable (marked with black sharpie).
     3. 'ROLL ENCODER': Roll encoder cable (marked with black sharpie).
     4. 'GIMBAL I/O': matching-sized micro-coax cable coming from gimbal.&#x20;
-    5. 'SKYPORT': matching-sized micro-coax cable coming from skyport stack.
+    5. 'SKYPORT': matching-sized micro-coax cable coming from Skyport stack.
 
 {% hint style="info" %}
 The two micro-coax cables are different sized and therefore should only plug in on or the other, not both. If it is hard to tell, double check by looking into the gap or tugging on the cables behind the board.

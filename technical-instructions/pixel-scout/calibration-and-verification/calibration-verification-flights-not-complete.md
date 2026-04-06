@@ -13,18 +13,9 @@ description: Steps for checking settings and flight procedures.
 
 ## Calibration Flight Guide
 
-1. Set up the base station first.
-   1. This is so that the base station has time to reach RTK status before you are ready to fly.
-   2. Refer to the 'Field Setup' page for this. [field-setup-not-complete.md](../emlid-base-station/field-setup-not-complete.md "mention")
-2. Set up the drone.
-   1. Attach the gimbal as normal
-   2. Clip the antenna to the legs of the drone with the lights facing forward
-   3. Ensure the clips on the antenna are fully clipped with the lip in the slot, not just clipped around the leg.
-   4. Plug in the antenna to the back of the gimbal and ensure it is secure.
-   5. Set up all the regular things of a normal drone flight (arms, etc.)
-   6. Turn on the drone.
-      1. Do this sooner than immediately before being ready to fly so that the pixelscout system can connec to the ground station and start sessions.
-3. Set up a flight plan
+1. Set up the System in the same manner as the ground test.
+   1. [ground-test-needs-pictures.md](ground-test-needs-pictures.md "mention")
+2. Set up a flight plan
    1. If a flight is already set up and imported, skip this step.
    2. Use an m350 to set up a plan, this is so that the start point may be selected/swapped for a/b flights.
    3. Choose a rectangular area over a parking lot or other flat area with many lines/corners
@@ -47,16 +38,16 @@ description: Steps for checking settings and flight procedures.
    9. Edit the 'b' flight plan.
       1. Change the start point to the other end of the flight path where 'a' should finish. Otherwise, ensure it is the same.
    10. Save this flight plan.
-4. Ensure the antenna lights show 4 green and the cameras started a session.
-5. Ensure the ground module shows 3 solid green lights and the Emlid Flow app shows a 'FIX' status.
-6. Take off manually and fly figure 8s around the area you are flying for at least 3 minutes. This is to let the GPS have a more accurate yaw measurement immediately.
-7. Fly the flight plan ending in 'a'.
+3. Ensure the antenna lights show 4 green and the cameras started a session.
+4. Ensure the ground module shows 3 solid green lights and the Emlid Flow app shows a 'FIX' status.
+5. Take off manually and fly figure 8s around the area you are flying for at least 3 minutes. This is to let the GPS have a more accurate yaw measurement immediately.
+6. Fly the flight plan ending in 'a'.
    1. The flight plan can be started while the drone is hovering in air. You do not need to land before starting.
-   2. When it starts, ensure pictures are being taken. Listen to audible shutter sounds and an increasing photo count.
-8. When the flight route is complete, before the drone lands, hit the pause button on the controller.
-9. Go to the flight plan library and start the plan ending in 'b'.
+   2. When it starts, ensure pictures are being taken. Listen to audible shutter sounds and look for an increasing photo count.
+7. When the first flight route is complete, before the drone lands, hit the pause button on the controller.
+8. Go to the flight plan library and start the plan ending in 'b'.
    1. Ensure pictures are being taken in the same way.
-10. Once the second flight plan finishes, let the drone land, turn it off, and pack everything up.
+9. Once the second flight plan finishes, let the drone land, turn it off, and pack everything up.
 
 
 

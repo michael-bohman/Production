@@ -19,17 +19,17 @@ In addition to everything listed on the build sheet. You will need:
 
 ## Guide
 
-1. Connect the right and left arms. Secure using 3 screws (<mark style="color:yellow;">91698A242 M3x6 Flt Hd Blk</mark>) and Loctite.
+1. Connect the right and left arms. Secure using 3 screws (<mark style="color:yellow;">91698A302 M3x6 Flt Hd Blk</mark>) and Loctite.
 
 <div><figure><img src="../../../.gitbook/assets/IMG_7376 (1).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_7378.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2. Feed the wires through the encoder casing and pitch motor as shown.
    1. Leave about 7.5" of the micro coax cable on the inside of the pitch motor
-   2. Feed the motor cable through the hold in the encoder case and route it alongside the microcoax cable.
+   2. Feed the motor cable through the hold in the encoder case and route it alongside the micro coax cable.
 
 <div><figure><img src="../../../.gitbook/assets/IMG_7437.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_7438.jpg" alt=""><figcaption></figcaption></figure></div>
 
-3. Attach the pitch encoder to the back of teh pitch motor. Secure with 4 screws (I THINK <mark style="color:yellow;">92010A020 M2.5x10 Flt Hd</mark>) and Loctite.
+3. Attach the pitch encoder to the back of the pitch motor. Secure with 4 screws (<mark style="color:yellow;">92010A020 M2.5x10 Flt Hd</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_7440.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
