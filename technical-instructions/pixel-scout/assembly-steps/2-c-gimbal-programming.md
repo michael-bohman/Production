@@ -232,13 +232,13 @@ Warning: Do not click on any of the options in the 'Gyroscope' section. The boar
 {% column %}
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151728.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">BAD</mark>
+<p align="center"><mark style="color:red;">BAD</mark></p>
 {% endcolumn %}
 
 {% column %}
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 151744 (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:$success;">GOOD</mark>
+<p align="center"><mark style="color:$success;">GOOD</mark></p>
 {% endcolumn %}
 {% endcolumns %}
 
