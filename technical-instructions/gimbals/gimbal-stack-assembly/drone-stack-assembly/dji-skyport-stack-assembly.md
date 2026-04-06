@@ -41,10 +41,10 @@ Uploaded 3/23/2026
 
 > ![](<../../../../.gitbook/assets/20260313_131229 (1).jpg>)     ![](../../../../.gitbook/assets/20260313_131120.jpg)
 
-3. Remove the 4 black screws
-   1.
+3.Remove the 4 black screws
 
-       <figure><img src="../../../../.gitbook/assets/20260313_130656.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/20260313_130656.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 4. Attach the Interface (Item 9) and the USB-C Skyport Adapter (Item 3) together
    1. Use the 4 black screws removed from the interface&#x20;
    2. The screws are already pre-loctitied, do not use any threadlocker&#x20;
