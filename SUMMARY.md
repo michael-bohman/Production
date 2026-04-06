@@ -41,7 +41,7 @@
     * [6XT/6XTP Front Half (Insert Pics)](technical-instructions/6x/6x-assembly-front-half-insert-pics/6xt-6xtp-front-half-insert-pics.md)
   * [6X Final Assembly](technical-instructions/6x/6x-final-assembly.md)
   * [6X Programming](technical-instructions/6x/6x-programming.md)
-  * [6X Focusing](technical-instructions/6x/6x-focusing.md)
+  * [🦉 6X Focusing](technical-instructions/6x/6x-focusing.md)
   * [6X Pixel Alignment (Insert Pics)](technical-instructions/6x/6x-pixel-alignment-insert-pics.md)
 * [65R](production-documentation-1/65r/README.md)
   * [65R Assembly](production-documentation-1/65r/65r-assembly.md)
