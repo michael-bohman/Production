@@ -24,3 +24,6 @@ description: Stage 3 in the 6X process
 ## Focusing Process
 
 1. Start by applying Loctite
+
+{% file src="../../.gitbook/assets/Image Standards" %}
+
