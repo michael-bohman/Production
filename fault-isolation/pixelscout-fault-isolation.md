@@ -21,7 +21,9 @@ This may happen randomly and just needs a restart or two. Otherwise the system m
 
 <summary>Flashing Antenna Lights</summary>
 
-{% file src="../.gitbook/assets/flashing_antenna_lights.mp4" %}
+<figure><img src="../.gitbook/assets/Video Project.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 1. Check that the base station is using 1 Hz for all the RTCM3 message frequencies.
 
