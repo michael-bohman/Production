@@ -1,4 +1,4 @@
-# Verification Processing (Needs Screenshots)
+# 📷 Verification Processing (Needs Screenshots)
 
 ## Verification Processing
 

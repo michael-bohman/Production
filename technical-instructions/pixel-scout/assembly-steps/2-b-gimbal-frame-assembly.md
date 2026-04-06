@@ -1,13 +1,22 @@
-# 2-B Gimbal Frame Assembly
+---
+description: '21263-01 - Page Owner: Simon'
+---
+
+# ✅ 2-B Gimbal Frame Assembly
 
 ## Materials Needed
 
-In addition to everything listed on the build sheet. You will need:
+| Loctite |   |   |
+| ------- | - | - |
+|         |   |   |
 
-* Loctite
-* Paper Towel
+## Drawing
 
-## Preparation Steps
+{% content-ref url="../../../space-and-general/drawings.md#pixelscout-v4-gimbal-greater-than-21263-01" %}
+[#pixelscout-v4-gimbal-greater-than-21263-01](../../../space-and-general/drawings.md#pixelscout-v4-gimbal-greater-than-21263-01)
+{% endcontent-ref %}
+
+## Prep
 
 * Mark the JST connectors on the ROLL motor and encoders using a black sharpie.
   * This will help later when attaching the mounting stack.

@@ -1,4 +1,4 @@
-# Firmware Update
+# 📷 Firmware Update
 
 ## Notes
 
@@ -6,61 +6,25 @@ A firmware update is performed in the initial setup. This page is for if a firmw
 
 ## Required Equipment
 
-* [ ] Emlid Base Station
-* [ ] iPad or Cell Phone
-* [ ] Emlid Flow App
-* [ ] Internet Connection
+| Emlid Base Station | iPad or Cell Phone with Emlid Flow app | Internet Connection |
+| ------------------ | -------------------------------------- | ------------------- |
+|                    |                                        |                     |
+|                    |                                        |                     |
 
 ## Instructions
 
-{% stepper %}
-{% step %}
-### Power On Base Station
-
-
-{% endstep %}
-
-{% step %}
-### Connect via Emlid Flow Using Bluetooth
-
-Open the Emlid flow application on your device and find the base station.&#x20;
-
-Select the bluetooth connection option.&#x20;
-{% endstep %}
-
-{% step %}
-### Connect Base Station to Wi-Fi
-
-Select the Wi-Fi page from the left hand menu.
-
-Connect the base station to a Wi-Fi network with an internet connection.&#x20;
-
-The base station is now connected to the internet.&#x20;
-{% endstep %}
-
-{% step %}
-### Navigate to Firmware Update Page
-
-Select the General dropdown from the left hand menu. Then select Firmware.&#x20;
-
-The firmware update page will appear.&#x20;
-
-Press the update button and let the firmware download and install itself.&#x20;
-{% endstep %}
-
-{% step %}
-### Forget Wi-Fi Network&#x20;
-
-Return to the Wi-Fi page and select Activate on the hotspot. This will disable the Wi-Fi network connection.&#x20;
-
-Wait for the hotspot to become active.&#x20;
-
-Select the info button on the Wi-Fi network that the base station was previously connected to.&#x20;
-
-Scroll down and select Forget Network.&#x20;
-
-This will ensure the base station does not try to connect to this Wi-Fi network when it boots up and will start in Hotspot mode.&#x20;
-
-
-{% endstep %}
-{% endstepper %}
+1. Power on the Base Station by holding down the button
+2. Connect via the Emlid Flow app using bluetooth.
+   1. Open the Emlid Flow app on your device and find the base station
+   2. Select the bluetooth connection option
+3. Connect Base Station to Wi-Fi
+   1. Select the Wi-Fi page from the left hand menu
+   2. Connect the base station to a Wi-Fi network with an internet connection
+4. Click on General > Firmware
+5. Press <mark style="color:blue;">Update</mark>
+6. Forget the Wi-Fi network
+   1. Click on the <mark style="color:blue;">Wi-Fi</mark> page
+   2. Click <mark style="color:blue;">Activate</mark> in the hotspot area
+   3. Once the connection becomes active, click the <mark style="color:blue;">i</mark> button in the 'Hotspot' section.
+   4. Scroll down and click <mark style="color:blue;">Forget Network</mark>.
+   5.

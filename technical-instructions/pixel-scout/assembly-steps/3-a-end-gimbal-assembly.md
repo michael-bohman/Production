@@ -1,20 +1,27 @@
 ---
-description: NEEDS MORE PICTURES
+description: 'Owner: Simon'
 ---
 
-# 3-A End Gimbal Assembly (needs pictures)
+# 📷 3-A End Gimbal Assembly
 
 ## Required Items
 
-In addition to the BOM, the following items are required:
-
-* Loctite
+| Loctite |   |   |
+| ------- | - | - |
+|         |   |   |
+|         |   |   |
 
 
 
 ## Notes
 
 * This instruction set finishes with the gimbal fully built excep the back and middle covers. Before they are installed, Tuning and Programing must be performed. Do not forget to secure the covers afterwards.
+
+## Drawing
+
+{% content-ref url="../../../space-and-general/drawings.md#pixelscout-v4-greater-than-21282" %}
+[#pixelscout-v4-greater-than-21282](../../../space-and-general/drawings.md#pixelscout-v4-greater-than-21282)
+{% endcontent-ref %}
 
 ## Assembly Guide
 
@@ -101,15 +108,15 @@ The two micro-coax cables are different sized and therefore should only plug in 
 16. Tune the gimbal.
     1. Refer to the 'Gimbal Tuning' page for this step.
 
-{% content-ref url="4-a-gimbal-tuning-needs-screenshots.md" %}
-[4-a-gimbal-tuning-needs-screenshots.md](4-a-gimbal-tuning-needs-screenshots.md)
+{% content-ref url="4-a-gimbal-tuning.md" %}
+[4-a-gimbal-tuning.md](4-a-gimbal-tuning.md)
 {% endcontent-ref %}
 
 17. Program the gimbal.
     1. Refer to the 'System Configuration' page for this step.
 
-{% content-ref url="5-system-configuration-needs-screenshots.md" %}
-[5-system-configuration-needs-screenshots.md](5-system-configuration-needs-screenshots.md)
+{% content-ref url="5-system-configuration.md" %}
+[5-system-configuration.md](5-system-configuration.md)
 {% endcontent-ref %}
 
 18. Attach the rear cover to the gimbal. Secure using 4 screws (<mark style="color:yellow;">91239A704 M2x6 Button head hex</mark>).

@@ -2,17 +2,14 @@
 description: 'Owner: Simon'
 ---
 
-# Ground Test (needs pictures)
+# 📷 Ground Test (needs pictures)
 
 ## Materials/Equipment Needed
 
-1. Big 3
-   1. Gimbal
-   2. Antenna
-   3. Base Station/Ground module
-2. Production case
-
-
+| PixelScout V4 Gimbal          | PixelScout V4 Antenna    | PixelScout V4 Base Station kit |
+| ----------------------------- | ------------------------ | ------------------------------ |
+| PixelScout V4 Production Case | iPad with Emlid Flow App |                                |
+|                               |                          |                                |
 
 ## Notes
 
@@ -21,6 +18,13 @@ This instruction set assumes the reader is already familiar with setting up and 
 Do this outside to ensure the system can reach an RTK FIX solution.
 
 
+
+## Prep
+
+1. Charge Batteries
+   1. iPad
+   2. Drone Batteries
+   3. Hand Controller Battery
 
 ## Setup
 

@@ -1,24 +1,17 @@
-# 1 PixelScout 65R Focusing (needs BPR pictures)
+# 📷 1 PixelScout 65R Focusing (needs BPR pictures)
+
+## Materials/Equipment Required
+
+| Camera Mount  | Tripod              | Focusing micro-USB cable |
+| ------------- | ------------------- | ------------------------ |
+| Power Adapter | 1.5 hex screwdriver |                          |
+|               |                     |                          |
 
 ## Notes
 
 The process for focusing a PixelScout 65R is different than a regular 65R. For a non-PixelScout 65R, refer to the 65R technical instructions.
 
 
-
-
-
-
-
-
-
-## Materials/Equipment Required
-
-* Camera Mount
-* Tripod
-* Focusing micro-USB cable
-* Power Adapter
-* 1.5 hex screwdriver
 
 ## Guide
 
@@ -57,11 +50,11 @@ The process for focusing a PixelScout 65R is different than a regular 65R. For a
 
 9. Open 3 instances of the Focus App program.
 10. 1st in one instance than in the other two, do the following.
-    1. Click 'Open Connection'
-    2. Click 'Start Session'
+    1. Click <mark style="color:blue;">Open Connection</mark>
+    2. Click <mark style="color:blue;">Start Session</mark>
        1. If a session is already started, this step will be skipped
-    3. Click 'Select Imager' and select 'rgb' and 'ok'.
-    4. Click 'Select Mode' and select 'Still' and 'ok'.
+    3. Click <mark style="color:blue;">Select Imager</mark> and select <mark style="color:blue;">rgb</mark> and <mark style="color:blue;">ok</mark>.
+    4. Click <mark style="color:blue;">Select Mode</mark> and select <mark style="color:blue;">Still</mark> and <mark style="color:blue;">ok</mark>.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-02-26 141118 - Copy - Copy.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -80,7 +73,7 @@ The focus app will take one picture automatically, take a second picture manuall
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-02-26 141118 - Copy.png" alt="" width="563"><figcaption><p>Example Focus App Session: Note the two peaks and returning to a balance between them.</p></figcaption></figure>
 
-13. Take a picture using either the 'Capture Image' button or click 'c' on your keyboard.
+13. Take a picture using either the <mark style="color:blue;">Capture Image</mark> button or click <mark style="color:blue;">c</mark> on your keyboard.
 
 <figure><img src="../../../.gitbook/assets/captureimage.png" alt="" width="375"><figcaption></figcaption></figure>
 

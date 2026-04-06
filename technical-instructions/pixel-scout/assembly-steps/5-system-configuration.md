@@ -1,8 +1,19 @@
-# 5 System Configuration (Needs Screenshots)
+---
+description: 'Owner: Simon'
+---
+
+# 📷 5 System Configuration
+
+## Required Materials
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
 
 ## Prep
 
-* Go to taurus>Productin>Technical Packages>PIXELSCOUT PHASE 4
+* Go to taurus>Production>Technical Packages>PIXELSCOUT PHASE 4
 * Download the entire 'Configuration Files' folder to your machine. This has all the programs required to configure different parts of the system
 
 ## Guide
@@ -201,7 +212,7 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
       1. Rover: X = 2
       2. Moving Base: X = 3
    3. If the boards are not up to date, refer to the 'F9P programming' page
-      1. [3-b-f9p-board-programming-needs-screenshots.md](3-b-f9p-board-programming-needs-screenshots.md "mention")
+      1. [3-b-f9p-board-programming.md](3-b-f9p-board-programming.md "mention")
       2. Find the firmware update file in the 'Configuration files' folder in 3. Boom (Antenna) > 3. U-Blox > SW-33026-01 - ZED F9P > firmware
 
 <mark style="color:red;">Pictures here</mark>
@@ -212,4 +223,4 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
 
 When completed: return to 3-A End Gimbal Assembly page
 
-[3-a-end-gimbal-assembly-needs-pictures.md](3-a-end-gimbal-assembly-needs-pictures.md "mention")
+[3-a-end-gimbal-assembly.md](3-a-end-gimbal-assembly.md "mention")

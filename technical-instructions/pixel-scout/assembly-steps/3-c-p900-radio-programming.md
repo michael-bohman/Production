@@ -1,4 +1,4 @@
-# 3-C P900 Radio Programming
+# ✅ 3-C P900 Radio Programming
 
 ## Parts Needed:
 
@@ -20,7 +20,7 @@ Note: it may be best to install the program to your machine. However, the progra
    1. Use the following modes:
       1. Ground Module: PP Remote
       2. Antenna Module: PP Master
-   2. Click 'Default Unit' and ensure it updates correctly.
+   2. Click <mark style="color:blue;">Default Unit</mark> and ensure it updates correctly.
 
 {% columns %}
 {% column %}
@@ -47,7 +47,7 @@ Note: it may be best to install the program to your machine. However, the progra
 {% endcolumn %}
 {% endcolumns %}
 
-5. Click 'Read Board' to double check the values have been set correctly, and the board itself has not been bricked.
+5. Click <mark style="color:blue;">Read Board</mark> to double check the values have been set correctly, and the board itself has not been bricked.
    1. The light should be the following:
       1. Ground module: Scrolling.
       2. Air module: One light solid.

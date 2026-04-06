@@ -1,12 +1,25 @@
-# 2-A Camera Pod Assembly
+---
+description: '21283-00 - Owner: Simon'
+---
 
-## Required Materials
+# ✅ 2-A Camera Pod Assembly
 
+## Required Equipment/Materials
 
+| Loctite        | Small Heat Shrink | Heat gun |
+| -------------- | ----------------- | -------- |
+| Wire-strippers |                   |          |
+|                |                   |          |
 
 ## Notes:
 
 These instructions end with two separate components, the back with the rangefinders and the front with the cameras. These halves will be joined in a later instruction set.
+
+## Drawing
+
+{% content-ref url="../../../space-and-general/drawings.md#pixelscout-v4-camera-pod-greater-than-21283" %}
+[#pixelscout-v4-camera-pod-greater-than-21283](../../../space-and-general/drawings.md#pixelscout-v4-camera-pod-greater-than-21283)
+{% endcontent-ref %}
 
 ## Guide
 

@@ -1,8 +1,15 @@
-# 3-A-1 Skyport Top Stack (Needs Pictures)
+---
+description: 'Owner: Simon'
+---
+
+# 📷 3-A-1 Skyport Top Stack (Needs Pictures)
 
 ## Required Materials
 
-
+| Table Vise | Paper Towels | Loctite |
+| ---------- | ------------ | ------- |
+|            |              |         |
+|            |              |         |
 
 ## Notes
 

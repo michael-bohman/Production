@@ -1,4 +1,11 @@
-# 4-A Gimbal Tuning (Needs Screenshots)
+# 📷 4-A Gimbal Tuning
+
+## Required Equipment/Materials
+
+| Bag of weights    | Spacers           | Loctite |
+| ----------------- | ----------------- | ------- |
+| Gimbal tuning kit | Production Laptop |         |
+|                   |                   |         |
 
 ## Notes
 
@@ -13,11 +20,11 @@ Before the gimbal is tuned, it must be balanced as much as possible for the most
 3. Take the gimbal off and unscrew the 4 M3x6 screws on the pitch motor side of the camera pod.
 4. Choose a spacer to start with based on what weight was used to balance the gimbal.
 
-| Weight                      | Spacer Thickness |
-| --------------------------- | ---------------- |
-| minimal (Sskyport cap, etc) | 30 mil           |
-| 6 grams                     | 40 mil           |
-| 12 grams                    | 60 mil           |
+| Weight                     | Spacer Thickness |
+| -------------------------- | ---------------- |
+| minimal (Skyport Cap, etc) | 30 mil           |
+| 6 grams                    | 40 mil           |
+| 12 grams                   | 60 mil           |
 
 5. Insert the spacer between the pitch motor and camera pod. Re-secure using 4 new screws (<mark style="color:yellow;">91698A304 M3x8 Flat Head Black</mark>) and Loctite.
 6. Double check how balanced the gimbal is, repeat with a new size spacer if needed until the gimbal is fairly level.
@@ -68,4 +75,4 @@ Before the gimbal is tuned, it must be balanced as much as possible for the most
 
 When completed: return to 3-A End Gimbal Assembly page
 
-[3-a-end-gimbal-assembly-needs-pictures.md](3-a-end-gimbal-assembly-needs-pictures.md "mention")
+[3-a-end-gimbal-assembly.md](3-a-end-gimbal-assembly.md "mention")

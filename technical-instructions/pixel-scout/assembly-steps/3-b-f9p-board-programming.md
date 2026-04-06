@@ -1,4 +1,4 @@
-# 3-B F9P Board Programming (Needs Screenshots)
+# 📷 3-B F9P Board Programming
 
 ## Required Equipment/Materials
 
