@@ -19,6 +19,8 @@ U-Center is used for programming the Z9P GPS boards for the RTK/PPK Air Modules
 1. Navigate to the following link:
    1. [https://www.u-blox.com/en/product/u-center](https://www.u-blox.com/en/product/u-center)
 2. Scroll down and click 'Download' under the 'u-center' tab.
+   1. Not u-center 2
+   2. it should be version 25.06
 3. Extract the folder containing the installer.
 4. Run the installer and follow the prompts in it.
 
