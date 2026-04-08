@@ -44,8 +44,8 @@ Delete the line when creating a shipment, also delete the discount that goes wit
 
 <details>
 
-<summary></summary>
+<summary>Add to Invoice note </summary>
 
-
+Write down the cost of the shipment and include it in the "Create a shipment page"
 
 </details>
