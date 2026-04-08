@@ -39,39 +39,177 @@ Before the gimbal is tuned, it must be balanced as much as possible for the most
 
 ## Tuning
 
-1. Open Basecam GUI.
-2. Select the corresponding COM port and click 'connect'.
+1. Open SimpleBGC GUI.
+2. Select the corresponding COM port and click <mark style="color:blue;">connect</mark>.
+
+<mark style="color:red;">Picture Here</mark>
+
 3. Restore the 'Starting Point' EEPROM.
-   1. At the top, go to Board>Backup Manager.
-   2. In the 'Restore from Backup' tab, click on browse and upload the 'Starting point' EEPROM.
-   3. Click 'Upload'
-4. Go to the 'Hardware' tab
-5. Ensure the roll output is disabled and the pitch output is enabled.
-6. The P and I values may need to be lowered in the 'stabilization' tab.
+   1. At the top, go to <mark style="color:blue;">Board</mark> > <mark style="color:blue;">Backup Manager</mark>.
+   2. In the 'Restore from Backup' tab, click on <mark style="color:blue;">browse</mark> and find the '**Starting point**' EEPROM.
+   3. Click <mark style="color:blue;">Open</mark> > <mark style="color:blue;">Restore</mark> > <mark style="color:blue;">Yes</mark>
+   4. Once it finishes, click <mark style="color:blue;">Close</mark>.
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082231.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082351.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082454.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082544.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082609.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082649.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+4. Go to the <mark style="color:blue;">Hardware</mark> tab and ensure the roll output is disabled and the pitch output is enabled.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082727 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+5. The P and I values may need to be lowered in the <mark style="color:blue;">stabilization</mark> tab.
    1. 'P' values for the pitch and roll may be set to \~80.
    2. 'I' value for the top one may be set to \~5.
-7. Under the 'Encoders' tab, click 'E Field Calibration' and allow the gimbal to self-calibrate.
-8. Click 'Offset Calib' and allow the gimbal to self-calibrate again.
-   1. Note the offset value. Add or subtract 4096 to correct it.
+6. Under the <mark style="color:blue;">Encoders</mark> tab, click <mark style="color:blue;">E Field Calibration</mark> and allow the gimbal to self-calibrate.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082848.png" alt="" width="375"><figcaption></figcaption></figure>
+
+7. Click <mark style="color:blue;">Offset Calib</mark> and allow the gimbal to self-calibrate again.
+   1. Note the offset value. Add or subtract **4096** to correct it.
    2. The white arrow in the 'Pitch' circle on the right should be perpendicular to the black.
       1. <-5,000 --> ADD 4096
       2. \>-5,000 --> SUBTRACT 4096
       3. If later in the tuning process, the gimbal is not able to tune the roll offset, this may need to be switched (added instead of subtracted, etc)
-9. Under the 'Hardware' Tab, enable the roll output.
+
+{% hint style="info" %}
+In this case, the offset value returns as -16,076 which is less than -5,000. For this reason, 4,096 is added to -16,076 to get **-11980.**
+{% endhint %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 082928.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 083125.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 083217.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/parallel.png" alt=""><figcaption><p>Parallel: BAD</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Perpendicular.png" alt=""><figcaption><p>Perpendicular: GOOD</p></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+8. Under the <mark style="color:blue;">Hardware</mark> tab, enable the roll output.
    1. Keep the Pitch enabled as well.
-10. Under the 'Encoders' tab, click 'E Field Calibration' and allow the gimbal to self-calibrate.
-11. Click 'Offset Calib' and allow the gimbal to self-calibrate again.
+   2. Click <mark style="color:blue;">Write</mark>
+   3. Click the <mark style="color:blue;">Restart arrow</mark>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 083407.png" alt="" width="375"><figcaption></figcaption></figure>
+
+9. Under the <mark style="color:blue;">Encoders</mark> tab, click <mark style="color:blue;">E Field Calibration</mark> and allow the gimbal to self-calibrate.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 083532.png" alt="" width="375"><figcaption></figcaption></figure>
+
+10. Click <mark style="color:blue;">Offset Calib</mark> and allow the gimbal to self-calibrate again.
     1. If the self-calibration fails twice, try switching adding/subtracting 4096 to the PITCH offset.
-    2. Readjust the PITCH offset value to the same as previously calculated.
-12. Under the 'UNKNOWN TAB, CHANGE NAME LATER' tab, click on 'auto-tune PID'.
-    1. Click 'Start' and allow the gimbal to self-tune itself.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 083621.png" alt="" width="375"><figcaption></figcaption></figure>
+
+11. Readjust the PITCH offset value to the same as previously calculated.
+    1. Click <mark style="color:blue;">Write</mark>.
+    2. Click the <mark style="color:blue;">restart arrow.</mark>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 083647.png" alt="" width="375"><figcaption></figcaption></figure>
+
+12. Under the <mark style="color:blue;">Stabilization</mark> tab, click on <mark style="color:blue;">Auto</mark> in the 'PID Controller' area.
+    1. Click <mark style="color:blue;">Start</mark> and allow the gimbal to self-tune itself.
     2. Ensure the errors are staying <\~20 (<\~10 is ideal)
-    3. Click 'Stop' once the auto-tuning is complete
+    3. Click <mark style="color:blue;">Stop</mark> once the auto-tuning is complete
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 083813.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084007.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 083839.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 0840072.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
 13. Gently shake the entire drone around to ensure there are no points in the range of motion where the gimbal freaks out/gets stuck.
 14. Backup a tuned version of the EEPROM to the SN folder corresponding to the gimbal.
-15. click 'Disconnect' and power down the drone.
+    1. Go to <mark style="color:blue;">Board</mark> > <mark style="color:blue;">Backup Manager</mark>.
+    2. Click <mark style="color:blue;">Browse</mark> in the 'Save Backup' section.
+    3. name the file 'sbgc\_IMU\_calib\_phase4SNXXX\_tuned' where XXX is the serial number of the system
+    4. Click <mark style="color:blue;">save</mark>.
+    5. Click <mark style="color:blue;">save</mark> again.
+    6. Click <mark style="color:blue;">close</mark>.
 
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084113.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084342.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084650.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084142.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084502.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+15. Backup the IMU Calibration
+    1. Go to <mark style="color:blue;">Board</mark> > <mark style="color:blue;">Backup IMU calibration</mark> > <mark style="color:blue;">Main IMU...</mark>
+    2. Name the file sbgc\_IMU\_calib\_phase4SNXXX.data where XXX is the serial number of the system.
+    3. Click <mark style="color:blue;">Save</mark>.
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084806.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084855.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+16. Click <mark style="color:blue;">Disconnect</mark> and power down the drone.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 092051.png" alt="" width="375"><figcaption></figcaption></figure>
 
 When completed: return to 3-A End Gimbal Assembly page
 
