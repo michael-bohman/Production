@@ -10,7 +10,7 @@ description: >-
 
 <summary>Fedex</summary>
 
-
+* Will need to schedule a shipment for pickup
 
 </details>
 
@@ -18,7 +18,7 @@ description: >-
 
 <summary>UPS</summary>
 
-
+* Shipment is automatic when label is created
 
 </details>
 
@@ -39,5 +39,13 @@ If there is nothing on the sales order, then just use UPS carrier for shipments&
 <summary>Don't have Item in stock on Sales Order</summary>
 
 Delete the line when creating a shipment, also delete the discount that goes with the product
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
 
 </details>
