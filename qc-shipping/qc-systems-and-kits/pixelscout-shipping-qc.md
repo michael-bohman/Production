@@ -68,7 +68,11 @@ description: 'Owner: Simon'
 
 <summary>BPR Files</summary>
 
-<figure><img src="../../.gitbook/assets/BPR Artifacts.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/BPR Artifacts.png" alt=""><figcaption></figcaption></figure></div>
+
+Two folders per camera, one with the raw pictures, and one with the output files.
+
+
 
 bpr\_map.csv is applied to camera to be used for BPR.
 
