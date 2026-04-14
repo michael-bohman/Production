@@ -2,7 +2,7 @@
 description: Steps for checking settings and flight procedures.
 ---
 
-# 🚧 Calibration/Verification Flights (Not complete)
+# 🚧 Calibration/Verification Flights
 
 ## Notes
 
@@ -14,7 +14,7 @@ description: Steps for checking settings and flight procedures.
 ## Calibration Flight Guide
 
 1. Set up the System in the same manner as the ground test.
-   1. [ground-test-needs-pictures.md](ground-test-needs-pictures.md "mention")
+   1. [ground-test.md](ground-test.md "mention")
 2. Set up a flight plan
    1. If a flight is already set up and imported, skip this step.
    2. Use an m350 to set up a plan, this is so that the start point may be selected/swapped for a/b flights.

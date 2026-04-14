@@ -20,14 +20,14 @@ Keep all the screws from the double 4K, as you will need them in future steps&#x
 4. Install the filter using the tweezers. Note the chevron on the side of the filter should be pointing up when installed.&#x20;
    1.
 
-       <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 5. Use UV bonding glue with 3 points of contact on the sides of the lens&#x20;
 6. Put lens mount into the uv bonding box for at least 10 minutes
    1. Do a polk test to confirm the glue is dried&#x20;
 7. Reinstall the imager boards back onto the lens mount&#x20;
    1.
 
-       <figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 8. Reinstall the SD guard and light to the lens mount&#x20;
    1.
 

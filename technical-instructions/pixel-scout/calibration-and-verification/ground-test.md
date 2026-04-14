@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 Ground Test (needs pictures)
+# 📷 Ground Test
 
 ## Materials/Equipment Needed
 
@@ -32,9 +32,9 @@ Do this outside to ensure the system can reach an RTK FIX solution.
 
 This is so that the base station has time to reach RTK status before you are ready to fly.
 
-1. Refer to the 'Field Setup' page for this. [field-setup-not-complete.md](../emlid-base-station/field-setup-not-complete.md "mention")
+1. Refer to the 'Field Setup' page for this. [field-setup.md](../emlid-base-station/field-setup.md "mention")
 
-<figure><img src="../../../.gitbook/assets/IMG_8070.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8070 (1).jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Drone Setup
 
