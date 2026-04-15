@@ -31,25 +31,25 @@ Keep all the screws from the double 4K, as you will need them in future steps&#x
 8. Reinstall the SD guard and light to the lens mount&#x20;
    1.
 
-       <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="342"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (2) (2).png" alt="" width="342"><figcaption></figcaption></figure>
 9. Form the 2 halves back together. Ensure all 3 ports are lined up&#x20;
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
 10. Secure the 2 halves together together with the provided screws&#x20;
     1.
 
-        <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/image (5) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 11. Secure the back cover with provided screws&#x20;
     1.
 
-        <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="341"><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/image (6) (2).png" alt="" width="341"><figcaption></figcaption></figure>
 

@@ -40,12 +40,12 @@ You’ll notice that some Araldite will remain on the outside of the T joint. Th
 
 9. Fully press the pin into the T joint &#x20;
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" icon="hand" %}
 Let it sit overnight before moving onto next step
 
-<p align="center"> <img src="../../.gitbook/assets/image (9) (1).png" alt=""></p>
+<p align="center"> <img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""></p>
 {% endhint %}
 
 10. On the next day, after the Araldite is cured. Fit the end caps over the carbon tube.’
@@ -58,11 +58,11 @@ Let it sit overnight before moving onto next step
     3. While keeping the cam follower and carbon tube together with the holes aligned, place the two items tab down on the work bench.
     4. Use a hammer to start inserting the 3/4” pin, make sure to go from the non-clip side.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 e.       Use the vise jigs and a vise to press it into place, make sure the pin is not protruding.
 
-> ![](<../../.gitbook/assets/image (11) (1).png>)      ![](<../../.gitbook/assets/image (12) (1).png>)
+> ![](<../../.gitbook/assets/image (11) (1) (1).png>)      ![](<../../.gitbook/assets/image (12) (1) (1).png>)
 
 ### Complete T joint
 

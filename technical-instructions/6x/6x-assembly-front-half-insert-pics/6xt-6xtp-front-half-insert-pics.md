@@ -29,7 +29,7 @@ For Regular 6X visit [.](./ "mention")
 2. Remove the filter from packaging and ensure it is free from all debris, damage, and prints.
    1. Orient the filter with the lettering facing down as shown. This is how it will be installed in the lens mount.
 
-> ![](<../../../.gitbook/assets/image (5) (1) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
+> ![](<../../../.gitbook/assets/image (5) (1) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 3. Place the filter in the corresponding position on the lens mount.
    1. Secure the filter with 3 contact points of UV glue on the very edge of the lens.
@@ -90,20 +90,20 @@ For Regular 6X visit [.](./ "mention")
 Install spacer before lens as the spacer will not fit when they are installed prior
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="333"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt="" width="333"><figcaption></figcaption></figure>
 
 7. Install the lockring included with each 8mm lens. Repeat for all 4 lenses.&#x20;
    1.
 
-       <figure><img src="../../../.gitbook/assets/image (10).png" alt="" width="279"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (10) (1).png" alt="" width="279"><figcaption></figcaption></figure>
 8. Install the lock ring onto the 7.2mm lens.
    1.
 
-       <figure><img src="../../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 9. Install each of the lenses in the lens mount in their corresponding positions.
    1.
 
-       <figure><img src="../../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 10. Remove Kapton tape from all 3 of the imagers
 
     > ![](<../../../.gitbook/assets/image (89).png>)    <img src="../../../.gitbook/assets/image (90).png" alt="" data-size="original">    >
@@ -163,7 +163,7 @@ The shroud will be attached after Focusing Step&#x20;
    1. Secure magnets in place with Loctite 401
    2. Place the Sentera Sticker over the magnets&#x20;
 
-> ![](<../../../.gitbook/assets/image (6) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+> ![](<../../../.gitbook/assets/image (6) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 6. Insert spacers&#x20;
    1. For 6XT -> loctite (401) the spacer on the inside of the shroud

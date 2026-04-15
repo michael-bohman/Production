@@ -120,9 +120,21 @@ Up to date as of 3/24/2026
 
 <details>
 
-<summary>RTK/PPK Ground Module ->31039</summary>
+<summary>RTK/PPK Ground Module -> 31039 </summary>
 
+\as-odyssey.jdnet.deere.com\EVault\Sentera\3XXXX - Ground Station\31XXX - Assemblies\31039 - P900 Ground Radio Assembly
 
+{% file src="../.gitbook/assets/31039_revb.pdf" %}
+
+</details>
+
+<details>
+
+<summary>Astro Legs -> 11604</summary>
+
+\as-odyssey.jdnet.deere.com\EVault\Sentera\1XXXX - Aircraft\11XXX - Assemblies\11604 - Assembly, Leg, Astro
+
+{% file src="../.gitbook/assets/11604_revd.pdf" %}
 
 </details>
 

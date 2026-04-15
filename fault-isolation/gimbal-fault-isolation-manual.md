@@ -27,3 +27,11 @@ Solution
 
 </details>
 
+<details>
+
+<summary>When testing gimbal the camera twitches </summary>
+
+1. Switch out the gimbal (possible wiring harness issue)
+   1. Use the same stack&#x20;
+
+</details>
