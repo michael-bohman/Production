@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 5 System Configuration
+# 🚧 5 System Configuration
 
 ## Required Materials
 
@@ -10,6 +10,39 @@ description: 'Owner: Simon'
 | - | - | - |
 |   |   |   |
 |   |   |   |
+
+## Notes
+
+Changes needed:\
+\- check bpr
+
+**Checking Factory Config**
+
+1. Open Command Prompt
+2. Connect to the powered-on gimbal using ethernet.
+3. Type the following **one line at a time** hitting 'enter' after each one.
+
+{% hint style="info" %}
+Note: when typing in the root password (6636cedar), it will not show up on screen that you're typing. This is a privacy feature. Just type it anyways.
+{% endhint %}
+
+```
+del .ssh\known_hosts
+ssh root@192.168.5.141
+yes
+6636cedar
+cd /media/persist/camera-app/factory-config/
+cat meta.yaml
+```
+
+3. Look for 'name:pixelscout4-1-spot' for the primary camera.
+4. Type:
+
+```
+exit
+```
+
+5. Repeat steps 3-5 using '192.168.5.142' and look for 'name:pixelscout4-2' for the secondary camera
 
 ## Prep
 
@@ -111,7 +144,7 @@ All files for this section are in the '1. Gimbal' folder in the configuration fi
          1. 192.168.5.141 for Primary
          2. 192.168.5.142 for Secondary
       2. eth0 gateways
-         1. 192.168.5.200 for both
+         1. 192.168.5.1 for both
       3. ros\_domain\_id
          1. 0 for Primary
          2. 1 for Secondary
@@ -134,6 +167,7 @@ Secondary Settings
    1. Turn on, wait a couple minutes, turn off, turn on, continue
 8. Apply the 4.5.1 firmware update through website.
    1. Go to 192.168.42.1 (or 42.2 for secondary) in a browser.
+      1. or 192.168.5.141/142 if using ethernet
    2. Go to the 'Update firmware' page.
    3. Drag the file into the section on the page.
    4. The firmware file is in the Camera folder in the 'Configuration Files' folder.
@@ -147,6 +181,8 @@ Secondary Settings
       2. Secondary
    3. Set these as the factory defaults
       1. copy the config folder to the firmware folder, rename to 'factory-config'
+      2. Power Cycle the drone to apply this change
+      3. Check the factory config using the steps in the Notes section of this page.
 
 <mark style="color:red;">Pictures here</mark>
 
@@ -162,22 +198,13 @@ Secondary Settings
     4. Bind the Skyport-V2 puck
        1. Payload SDK > Click 'Bind'
 
-<mark style="color:red;">Screensots here</mark>
+<mark style="color:red;">Screenshots here</mark>
 
-{% hint style="info" %}
-NOTE: the BPR step can be skipped if the process has already been completed in the focusing step.
-{% endhint %}
+12. Ensure BPR step has been completed
+    1. In the camera files, go to <mark style="color:blue;">SD Card</mark> > <mark style="color:blue;">Info</mark>
+    2. Ensure the bpr\_map.csv file is in the folder alongside the hw\_config file.
 
-12. Take BPR pictures.
-    1. Mount the gimbal to a drone and turn it on. Connect to the gimbal using usb.
-    2. Start a session for the each camera using the webpage.
-       1. name it anything, the pictures won't be stored in the session.
-    3. Run the bpr pictures program and follow the instructions.
-       1. The program must be edited in notepad to set the ip address for the camera being worked on.
-    4. Save the pictures created to a '\[PixelScout SN] BPR' folder.
-    5. Send the folder to zach/brian/jon for processing (WILL PROBABLY CHANGE)
-    6. After receiving the bprmap.csv file from processing, apply it to the cameras by placing it in the correct 'firmware' folder.
-    7. Power cycle the cameras and ensure it is saved to the 'info' folder.
+<mark style="color:red;">Screenshot here</mark>
 
 ### Ground Radio
 
