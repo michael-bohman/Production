@@ -2,7 +2,7 @@
 
 ## Notes
 
-asdf
+This assembly requires an overnight cure time. Plan two days to complete.
 
 
 
@@ -19,3 +19,4 @@ The drawing for this assembly can be found here: [#pixelscout-v4-antenna-greater
 
 
 ## Guide
+
