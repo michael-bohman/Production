@@ -16,8 +16,8 @@ In addition to the items listed in the bill of materials, the following are also
 
 #### No camera&#x20;
 
-{% content-ref url="../../space-and-general/drawings.md#id-6x-gimbal-no-camera-greater-than-21225" %}
-[#id-6x-gimbal-no-camera-greater-than-21225](../../space-and-general/drawings.md#id-6x-gimbal-no-camera-greater-than-21225)
+{% content-ref url="../../space-and-general/drawings.md#id-6x-gimbal-no-camera-greater-than-21264" %}
+[#id-6x-gimbal-no-camera-greater-than-21264](../../space-and-general/drawings.md#id-6x-gimbal-no-camera-greater-than-21264)
 {% endcontent-ref %}
 
 {% content-ref url="../../space-and-general/drawings.md#id-65r-gimbal-no-camera-greater-than-21239" %}
