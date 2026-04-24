@@ -142,13 +142,13 @@ Up to date as of 3/24/2026
 
 <details>
 
-<summary>6X Gimbal, No Camera -> 21225</summary>
+<summary>6X Gimbal, No Camera -> 21264</summary>
 
 Up to date as of 3/24/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21225 - 6X Gimbal, No Connector, No Camera
 
-{% file src="../.gitbook/assets/21225_revc.pdf" %}
+{% file src="../.gitbook/assets/21264_rev-.pdf" %}
 
 </details>
 
