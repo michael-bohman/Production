@@ -76,5 +76,50 @@ The P900 programming needs to be completed before assembly. Refer to [p900-radio
 
 5. Install USB-A breckout board
    1. Install USB-A breakout board to enclosure using 2 screws <mark style="color:yellow;">(Item #11 91772A065)</mark> and Loctite. Torque to 20 in-oz.
-6.
+6. &#x20;Install radio board
+   1. Carefully place 4 spacers <mark style="color:yellow;">(Item #9 94639A703)</mark> on GPS board above screw holes.
+   2. &#x20;![](<../../.gitbook/assets/image (139).png>)
+   3. Install radio board on top of GPS board making sure to align the connector on the back\\
+   4. Install 4 screws <mark style="color:yellow;">(Item #10 91772A080)</mark> through radio board, spacers, and GPS board with Loctite. Torque to 40 in-oz
+   5.
 
+       <figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+7. Connect the cables and route as shown below
+   1. Connect USB-C and USB-A breakout boards&#x20;
+   2. Install the coax cable to the radio and USB-C boards&#x20;
+
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+
+9. Prepare and install cover
+   1. Cut 2 small squares from the foam pad and install them on the raised circles of the cover
+   2. Install the cover to the enclosure using 4 screws <mark style="color:yellow;">(Item #12 93085A017)</mark> and Loctite. Torque to 40 in-oz
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+10. Install Antenna
+    1. Install the O-ring <mark style="color:yellow;">(Item 14 2418T126)</mark> into the channel on top of the enclosure
+    2. Install the helical antenna to the SMA connector on top of the enclosure. Tighten by hand until snug
+11. Install 4 captive thumb screws <mark style="color:yellow;">(Item #13 M0171-SS)</mark> into threaded holes of the cover
+12. Clean empty side of enclosure with alcohol. Apply Radio Net ID sticker with corresponding number as shown
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-28 134334.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+Change numbers to the correct serial numbers
+
+<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
