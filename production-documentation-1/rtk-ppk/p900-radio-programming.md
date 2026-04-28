@@ -6,6 +6,10 @@
 * AC Power Adapter (12V)
 * Y Adapter (Labeled 'P900')
 
+## Notes&#x20;
+
+This programming is for Air and Ground Modules and will need to be completed before assembly.&#x20;
+
 ## Guide
 
 {% stepper %}

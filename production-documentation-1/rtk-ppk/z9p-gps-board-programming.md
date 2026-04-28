@@ -7,7 +7,7 @@
 
 ## Notes
 
-
+This programming is for Air Modules only. For ground modules, skip to the [ground-module-assembly.md](ground-module-assembly.md "mention") page.&#x20;
 
 ## Prep&#x20;
 
