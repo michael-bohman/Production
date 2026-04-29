@@ -39,4 +39,5 @@ example 6x: I would list all equipment from assembly, programming, focusing, pix
 ## Notes&#x20;
 
 * <mark style="color:yellow;">Item numbers are highlighted in yellow and correspond to the drawing. The numbers in the parenthesis are the McMaster screw number that correspond to the screw bins.</mark>&#x20;
+  * example: <mark style="color:yellow;">Item #10 (92217A101)</mark>
 * <mark style="color:blue;">Any computer buttons needed to be clicked will be highlighted in blue</mark>
