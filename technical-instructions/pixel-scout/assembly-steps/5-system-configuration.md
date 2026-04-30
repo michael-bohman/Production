@@ -44,6 +44,8 @@ exit
 
 5. Repeat steps 3-5 using '192.168.5.142' and look for 'name:pixelscout4-2' for the secondary camera
 
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-24 091551.png" alt="" width="365"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-24 091705.png" alt="" width="371"><figcaption></figcaption></figure></div>
+
 ## Prep
 
 * Go to taurus>Production>Technical Packages>PIXELSCOUT PHASE 4
@@ -57,9 +59,9 @@ All files for this section are in the '1. Gimbal' folder in the configuration fi
 
 1. Gimbal PIC32
    1. Plug into the rear gimbal board using the Pickit™ 3 into the 'PROG' port.
-   2. In the configuration files, go to 1. Gimbal > 1. Gimbal PIC32 > SW-23138 — Dual Gimbal > program-23138-03.
-   3. Edit the 'program.bat' file in notepad
-   4. Set the 6th line to say 'SET pgmDev=PK3'
+   2. In the configuration files, go to <mark style="color:blue;">1. Gimbal</mark> > <mark style="color:blue;">1. Gimbal PIC32</mark> > <mark style="color:blue;">SW-23138 — Dual Gimbal</mark> > <mark style="color:blue;">program-23138-03</mark>.
+   3. Edit the <mark style="color:blue;">'program.bat'</mark> file in notepad
+   4. Set the 6th line to say 'SET pgmDev=<mark style="color:blue;">PK3</mark>'
    5. Turn on the drone
    6. Run the program
    7. Check that the heartbeat LED is flashing (Red light on the bottom, pictured).
@@ -82,7 +84,7 @@ All files for this section are in the '1. Gimbal' folder in the configuration fi
 
 2. Comms PIC32
    1. Plug the Pickit™ 3 into the center board 'PROG' and an ethernet cable into the center board.
-   2. In the 'Configuration files' folder, go to 1. Gimbal > 2. Comms PIC32 > SW-23162 — Dual Comms > program
+   2. In the 'Configuration files' folder, go to <mark style="color:blue;">1. Gimbal</mark> > <mark style="color:blue;">2. Comms PIC32</mark> > <mark style="color:blue;">SW-23162 — Dual Comms</mark> > <mark style="color:blue;">program</mark>
    3. edit the .bat file in notepad to use PK3 in the same way as the first step.
    4. Turn on the drone
    5. run the program
@@ -94,9 +96,9 @@ All files for this section are in the '1. Gimbal' folder in the configuration fi
 
 3. Check the status of both boards just programmed.
    1. Turn the drone back on with the ethernet cable still plugged it.
-   2. In a webpage, go to 192.168.5.130.
+   2. In a webpage, go to <mark style="color:blue;">192.168.5.130</mark>.
       1. 'Software Status' should say "Good: Normal Operation - PPS: Boom"
-   3. Go to 192.168.5.131
+   3. Go to <mark style="color:blue;">192.168.5.131</mark>
       1. 'Software Status' should say "Good: Normal Operation"
 
 {% columns %}
@@ -113,21 +115,21 @@ All files for this section are in the '1. Gimbal' folder in the configuration fi
 
 4. Encoder Calibration
    1. Keep the ethernet cable plugged in.
-   2. In the 'Configuration Files' folder, go to 1. Gimbal > 2. Encoder Calibration and open the 'Encoder Calibration Procedure.docx' file.
+   2. In the 'Configuration Files' folder, go to <mark style="color:blue;">1. Gimbal</mark> > <mark style="color:blue;">2. Encoder Calibration</mark> and open the 'Encoder Calibration Procedure.docx' file.
    3. Follow these steps to calibrate the encoders.
    4. When finished, verify values read as follows (-/neutral/+)
       1. Pitch: -35/7/110
       2. Roll: -25/0/25
 5. SBG
-   1. In the 'Configuration Files' folder, go to 1. Gimbal>4. SBG
-   2. In a browser, go to 192.168.5.202
-   3. go to the 'information' tab.
-   4. In the 'Firmware & GNSS' field, click 'Upload Firmware'
-   5. navigate to the SBG folder and select the .sar file with '6.0.5585' in its name.
-   6. wait for the firmware update to finish. You may need to refresh the page.
-   7. In the webpage, go to Configure > Administration > Import Settings > Import
+   1. In the 'Configuration Files' folder, go to <mark style="color:blue;">1. Gimbal</mark> > <mark style="color:blue;">4. SBG</mark>
+   2. In a browser, go to <mark style="color:blue;">192.168.5.202</mark>
+   3. go to the <mark style="color:blue;">information</mark> tab.
+   4. In the <mark style="color:blue;">Firmware & GNSS</mark> field, click <mark style="color:blue;">Upload Firmware.</mark>
+   5. Navigate to the SBG folder and select the .sar file with '6.0.5585' in its name.
+   6. Wait for the firmware update to finish. You may need to refresh the page.
+   7. In the webpage, go to <mark style="color:blue;">Configure</mark> > <mark style="color:blue;">Administration</mark> > <mark style="color:blue;">Import Settings</mark> > <mark style="color:blue;">Import</mark>
    8. Apply .json configuration file with 'DJI - PixelScout-v4.0' in its name.
-   9. Address will change to 192.168.5.132. You will have to navigate to the new address.
+   9. Address will change to <mark style="color:blue;">192.168.5.132</mark>. You will have to navigate to the new address.
    10. Double check the firmware version.
    11. Turn off the drone
 
@@ -166,13 +168,13 @@ Secondary Settings
 7. Power cycle the drone twice
    1. Turn on, wait a couple minutes, turn off, turn on, continue
 8. Apply the 4.5.1 firmware update through website.
-   1. Go to 192.168.42.1 (or 42.2 for secondary) in a browser.
-      1. or 192.168.5.141/142 if using ethernet
+   1. Go to <mark style="color:$primary;">192.168.42.1</mark> (or <mark style="color:blue;">42.2</mark> for secondary) in a browser.
+      1. or <mark style="color:blue;">192.168.5.141/142</mark> if using ethernet
    2. Go to the 'Update firmware' page.
    3. Drag the file into the section on the page.
    4. The firmware file is in the Camera folder in the 'Configuration Files' folder.
 
-<mark style="color:red;">Pictures Here</mark>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-24 090822.png" alt="" width="563"><figcaption></figcaption></figure>
 
 9. Change configurations
    1. Still in the webpages, go to the 'Configuration' page.
@@ -184,25 +186,49 @@ Secondary Settings
       2. Power Cycle the drone to apply this change
       3. Check the factory config using the steps in the Notes section of this page.
 
-<mark style="color:red;">Pictures here</mark>
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 135912.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 135945.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-10. If the hw\_config has anything other than 'defaults' for calibration and zeros for rig\_relatives, change it to that.
-11. Connect a high speed usb cable and verify through webpage that each camera has USB 3.0 super speed.
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 140106.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 140133.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<mark style="color:red;">Pictures here</mark>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 140251.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-17 134104.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+10. If the <mark style="color:blue;">hw\_config</mark> has anything other than 'defaults' for calibration and zeros for rig\_relatives, change it to that.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 140610.png" alt="" width="407"><figcaption></figcaption></figure>
+
+11. Connect both a high speed usb cable and an ethernet cable and verify through webpage that each camera has the following shown in the <mark style="color:$primary;">diagnostics</mark> tab.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 140741.png" alt="" width="375"><figcaption></figcaption></figure>
 
 12. Skyport V2
     1. Connect a USB-C cable to the top of the drone.
-    2. Open DJI Assistant and sign in.
+    2. Open <mark style="color:$primary;">DJI Assistant</mark> and sign in.
     3. Update the firmware through DJI assistant
+       1. Go to <mark style="color:$primary;">firmware update</mark> > <mark style="color:$primary;">DJI Skyport V2.0 (Primary)</mark>
+          1. Note: DJI Assistant usually opens to this screen.
+       2. If the current version isn't <mark style="color:$primary;">V01.03.0500</mark>, click on the <mark style="color:$primary;">upgrade</mark> button next to that version
     4. Bind the Skyport-V2 puck
-       1. Payload SDK > Click 'Bind'
+       1. <mark style="color:$primary;">Payload SDK</mark> > Click <mark style="color:$primary;">Bind</mark>
 
-<mark style="color:red;">Screenshots here</mark>
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-24 091833.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-24 093040.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-24 093226.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-24 093257.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-30 174842.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
 
 12. Ensure BPR step has been completed
     1. In the camera files, go to <mark style="color:blue;">SD Card</mark> > <mark style="color:blue;">Info</mark>
     2. Ensure the bpr\_map.csv file is in the folder alongside the hw\_config file.
+    3. In a browser, go to <mark style="color:$primary;">192.168.5.141</mark> and <mark style="color:$primary;">192.168.5.142</mark>
+    4. Go to the <mark style="color:$primary;">Image Adjustment</mark> tab and ensure <mark style="color:$primary;">Bad Pixel Replacement</mark> is checked.
 
 <mark style="color:red;">Screenshot here</mark>
 
@@ -211,8 +237,10 @@ Secondary Settings
 The files for this section are in the '2. Ground Radio' folder in the configuration files.
 
 1. P900 Programming
-   1. Follow the steps in the P900 Radio Programming Page.
+   1. Follow the steps in the P900 Radio Programming Page to progarm the radio if not done already.
       1. [3-c-p900-radio-programming.md](3-c-p900-radio-programming.md "mention")
+   2. Check that the radio is configured properly by plugging it into a laptop using a usb-c cable and turn on the drone.
+      1. The ground radio should switch from scrolling to solid green.
 
 ### Boom (Antenna)
 
@@ -242,7 +270,13 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
       1. [3-b-f9p-board-programming.md](3-b-f9p-board-programming.md "mention")
       2. Find the firmware update file in the 'Configuration files' folder in 3. Boom (Antenna) > 3. U-Blox > SW-33026-01 - ZED F9P > firmware
 
-<mark style="color:red;">Pictures here</mark>
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 143356.png" alt="" width="428"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 143432.png" alt="" width="411"><figcaption></figcaption></figure></div>
+
+
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 143250.png" alt="" width="474"><figcaption></figcaption></figure>
+
+<mark style="color:red;">more pictures here</mark>
 
 
 
