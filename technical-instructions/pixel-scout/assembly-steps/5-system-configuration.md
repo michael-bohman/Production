@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# ✅ 5 System Configuration
+# 📷 5 System Configuration
 
 ## Required Materials
 

@@ -1,13 +1,14 @@
 ---
-description: 65R Gimbal Guide Assembly 21264
+description: 6X Gimbal Guide Assembly 21264-01
+icon: camera
 ---
 
-# 65R Frame (Insert Item #)
+# 6X Frame
 
 ## Drawing
 
-{% content-ref url="../../space-and-general/drawings.md#id-65r-gimbal-no-camera-greater-than-21239" %}
-[#id-65r-gimbal-no-camera-greater-than-21239](../../space-and-general/drawings.md#id-65r-gimbal-no-camera-greater-than-21239)
+{% content-ref url="../../space-and-general/drawings.md#id-6x-gimbal-no-camera-greater-than-21264" %}
+[#id-6x-gimbal-no-camera-greater-than-21264](../../space-and-general/drawings.md#id-6x-gimbal-no-camera-greater-than-21264)
 {% endcontent-ref %}
 
 ## Guide

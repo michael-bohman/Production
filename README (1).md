@@ -1,8 +1,14 @@
 # RTK/PPK
 
-(insert images)
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
-
+{% column %}
+<figure><img src=".gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 ## Equipment Needed&#x20;
 

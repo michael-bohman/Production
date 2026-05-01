@@ -5,7 +5,7 @@ description: '21252'
 # Gremsy Stack Assembly
 
 1. Program your Coms Board and your Motor Controller
-   1. For Coms Board: [comms-board-programming.md](../comms-board-programming.md "mention")
+   1. For Coms Board: [Broken link](/broken/pages/mexEYCWpMmW4uabAQvMk "mention")
    2. For Motor Controller: [motor-controller-programming.md](../motor-controller-programming.md "mention")
 2. Attach the T3 Interface (Item 3) to the Yaw Adapter (Item 6)
    1. Insert 4 screws (Item 12) into the interface and to the adapter&#x20;

@@ -2,15 +2,13 @@
 
 <mark style="color:red;">(Insert Image of Gimbals)</mark>
 
-## Equipment and Materials
+## Equipment
 
-In addition to the items listed in the bill of materials, the following are also needed:
-
-•       Loctite
-
-•       Paper towel
-
-•       Gimbal Screw Bin
+|                  |               |   |
+| ---------------- | ------------- | - |
+| Loctite          | Screw Driver  |   |
+| Blue Paper Towel | 2.0M Hex      |   |
+| Gimbal Screw Bin | Tweezers      |   |
 
 ## Drawings&#x20;
 
@@ -30,8 +28,8 @@ In addition to the items listed in the bill of materials, the following are also
 [#id-6x-skyport-v2-greater-than-21233](../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233)
 {% endcontent-ref %}
 
-{% content-ref url="../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233" %}
-[#id-6x-skyport-v2-greater-than-21233](../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233)
+{% content-ref url="../../space-and-general/drawings.md#id-65r-skyport-v2-greater-than-21238" %}
+[#id-65r-skyport-v2-greater-than-21238](../../space-and-general/drawings.md#id-65r-skyport-v2-greater-than-21238)
 {% endcontent-ref %}
 
 #### Smart Dovetail&#x20;
