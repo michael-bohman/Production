@@ -1,8 +1,8 @@
 ---
-description: Steps for checking settings and flight procedures.
+description: 'Owner: Simon'
 ---
 
-# 🚧 Calibration/Verification Flights
+# 📷 Calibration/Verification Flights
 
 ## Notes
 
@@ -19,7 +19,7 @@ description: Steps for checking settings and flight procedures.
    1. If a flight is already set up and imported, skip this step.
    2. Use an m350 to set up a plan, this is so that the start point may be selected/swapped for a/b flights.
    3. Choose a rectangular area over a parking lot or other flat area with many lines/corners
-      1. choose an area about 60ft x 100ft. The flight plan should expect to pay about 150 pictures. If it is much more than that, make the area smaller
+      1. choose an area about 60ft x 100ft. The flight plan should expect to take about 150 pictures. If it is much more than that, make the area smaller.
          1. The drone will actually take more than this, but its a good rule of thumb for creating a flight plan.
    4. Use these settings for the plan
       1. Drone: M300/350
@@ -41,6 +41,7 @@ description: Steps for checking settings and flight procedures.
 3. Ensure the antenna lights show 4 green and the cameras started a session.
 4. Ensure the ground module shows 3 solid green lights and the Emlid Flow app shows a 'FIX' status.
 5. Take off manually and fly figure 8s around the area you are flying for at least 3 minutes. This is to let the GPS have a more accurate yaw measurement immediately.
+   1. Note: It may also help to manually fly a similar path to the flight plan for the same amount of time. In the future, there may be a premade plan for this.
 6. Fly the flight plan ending in 'a'.
    1. The flight plan can be started while the drone is hovering in air. You do not need to land before starting.
    2. When it starts, ensure pictures are being taken. Listen to audible shutter sounds and look for an increasing photo count.
@@ -57,9 +58,10 @@ description: Steps for checking settings and flight procedures.
 
 ## Verification Flight Differences
 
-1. Use the same flight plans as calibration to allow for better comparison.
-2. Figure 8s are not needed before executing the flight plans.
-3. Ensure the system has the calibration and BPR enabled before flying.
+The verification flight is the same as the configuration flight except for a few difference shown below. Otherwise, use the same flight plans as calibration to allow for better comparison.
+
+1. Figure 8s are not needed before executing the flight plans.
+2. Ensure the system has the calibration and BPR enabled before flying.
    1. Calibration found at the end of hw\_config.
       1. method should say pix4d
       2. rig\_relatives\_deg should be non-zero

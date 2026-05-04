@@ -1,4 +1,8 @@
-# 📷 Case Packing (Needs Pictures)
+---
+description: '21281-00 - Page Owner: Simon'
+---
+
+# 📷 Case Packing
 
 ## Notes
 
@@ -15,7 +19,7 @@ When flying systems for calibration or verification, use these steps for packing
 1. Use the production cases marked with orange tape.
 2. Place the gimbal in the leftmost area.
 3. Place the antenna assembly in the lid foam.
-   1. Close the clasps before inserting.
+   1. Close the leg clasps before inserting.
    2. Secure using the orange Velcro straps.
    3. Tuck the cable into the slot cut in the foam and store the connector in the oval hole.
 4. Ensure both a small and long USB-C cable marked 'Production' with orange tape are in the case.
