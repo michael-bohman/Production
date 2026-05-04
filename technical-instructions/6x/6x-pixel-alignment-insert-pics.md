@@ -20,6 +20,9 @@ description: Stage 4 in the 6X process 21214-02, 21216-02, 21216-03
 3. Open the camera webpage on your computer 192.168.42.1
 4. Start a session named CAL&#x20;
 5. Complete 3 rows reach at a different height and take 7 pictures per row (see image below for more details)
+
+<figure><img src="../../.gitbook/assets/20260430_085334.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 6. Move the tripod to 4 other spots (forward, back, left, and right) and repeat step 5 for each location.
 7. Remove the camera from the mount and tripod and go back to your desk&#x20;
 
@@ -34,7 +37,9 @@ description: Stage 4 in the 6X process 21214-02, 21216-02, 21216-03
 
 <figure><img src="../../.gitbook/assets/Folders (1).png" alt=""><figcaption></figcaption></figure>
 
-7. Open the Calibration GUI app <mark style="color:red;">(insert file)</mark>
+7. Open the Calibration GUI app
+   1. \as-taurus.jdnet.deere.com\Production\Technical Packages\6X SENSOR\IN PROGRESS\6X SENSOR - Technical Data Package - 260302\6X SENSOR - PIXEL ALIGNMENT
+   2. Download 1.3.1 Calibration app from taurus, unzip folder and put on desktop
 
 <figure><img src="../../.gitbook/assets/Application ScreenShot.png" alt=""><figcaption></figcaption></figure>
 
