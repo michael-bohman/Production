@@ -55,7 +55,6 @@
   * [6X Frame](technical-instructions/gimbals/6x-frame.md)
   * [65R Frame (Insert Item #)](technical-instructions/gimbals/65r-frame-insert-item.md)
   * [Gimbal Stack](technical-instructions/gimbals/gimbal-stack-assembly/README.md)
-    * [Motor Controller Programming](technical-instructions/gimbals/gimbal-stack-assembly/motor-controller-programming.md)
     * [Drone Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/README.md)
       * [DJI Skyport Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/dji-skyport-stack-assembly.md)
       * [Smart Dovetail Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/smart-dovetail-stack-assembly.md)

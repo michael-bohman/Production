@@ -36,7 +36,7 @@ Uploaded 3/23/2026
 
 1. Program your Coms Board and your Motor Controller
    1. For Coms Board: [Broken link](/broken/pages/mexEYCWpMmW4uabAQvMk "mention")
-   2. For Motor Controller: [motor-controller-programming.md](../motor-controller-programming.md "mention")
+   2. For Motor Controller: [Broken link](/broken/pages/h5Kwff3eSzyQnJElIx36 "mention")
 2. Remove the 2 Hex screws and rubber inserts&#x20;
 
 > ![](<../../../../.gitbook/assets/20260313_131229 (1).jpg>)     ![](../../../../.gitbook/assets/20260313_131120.jpg)
