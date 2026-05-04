@@ -8,6 +8,12 @@ description: Stage 3 in the 6X process
 
 <table data-header-hidden><thead><tr><th></th><th width="185"></th><th></th></tr></thead><tbody><tr><td>6X</td><td>Focusing Table</td><td>Tripod</td></tr><tr><td>Focusing Jig</td><td>2-56 .250" Screws</td><td>Philips Screwdriver</td></tr><tr><td>6X Power Supply</td><td>USB C Cable</td><td>Windows Computer</td></tr><tr><td>Loctite 222</td><td>Toothpicks</td><td>Disposable Tray</td></tr></tbody></table>
 
+## Additional Software Needed
+
+1. 6X SENSOR Technical Package
+2. Focusing app
+3. Irfanviewer
+
 ## Set up
 
 1. Obtain the 6X technical package, this requires access to taurus
@@ -58,5 +64,6 @@ description: Stage 3 in the 6X process
 10. Open up a file browser and type in the address \\\192.168.42.1
 11. pin this window to the right side of the screen
 12. navigate to data -> snapshots -> current active session. The home page will tell you which session is in progress.
-13. To take a snapshot,&#x20;
+13. To take a snapshot, click on the capture image button
+14. check the focus of the image by clickin
 
