@@ -1,8 +1,10 @@
 # Gimbal Fault Isolation Manual
 
+
+
 <details>
 
-<summary>No Gimbal Communication</summary>
+<summary>No Gimbal Communication </summary>
 
 <figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,9 +31,32 @@ Solution
 
 <details>
 
-<summary>When testing gimbal the camera twitches </summary>
+<summary>When testing gimbal the camera twitches after initialization </summary>
+
+This is a different issue then switching the black cords. This issue would happen after the camera initializes and its a slow twitch.&#x20;
+
+
 
 1. Switch out the gimbal (possible wiring harness issue)
    1. Use the same stack&#x20;
 
 </details>
+
+<details>
+
+<summary>When Testing gimbal the camera does not respond to any movement  </summary>
+
+This is likely a motor controller issue. The coms board should appear in the previous logs. If you don't see any sign of the logs showing gimbal operation, it could be a coms issue. See no gimbal connection issue for mor info&#x20;
+
+{% embed url="https://app.gitbook.com/o/r7P0NuYTKsmybK4bmqti/s/ycfHWm9ckUsdZmfqLCYz/~/edit/~/changes/207/fault-isolation/gimbal-fault-isolation-manual#no-gimbal-communication" %}
+
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+
+1. Take apart the stack and remove the motor controller&#x20;
+2. Pull in motor controller to a 12v power adapter and confirm it's getting power&#x20;
+   1. If no power, message Alex Stephens describing issue. Replace the motor controller for your stack&#x20;
+   2. If you have power, check step 3&#x20;
+3. Plug in coms board as well to the 24v power adapter to confirm it's getting power
+
+</details>
+

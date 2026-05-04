@@ -1,8 +1,9 @@
 ---
 description: Stage 4 in the 6X process 21214-02, 21216-02, 21216-03
+icon: camera
 ---
 
-# 6X Pixel Alignment (Insert Pics)
+# 6X Pixel Alignment&#x20;
 
 ## Equipment Needed
 
