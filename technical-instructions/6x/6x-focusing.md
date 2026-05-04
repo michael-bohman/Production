@@ -32,9 +32,9 @@ description: Stage 3 in the 6X process
 
 
 
-    1. Place a small dab of Loctite on the threads of one of the lenses
-    2. Rotate the lens and repeat until there is Loctite all the way around the threads
-    3. Use about as much Loctite as needed to fill two threads
+    1. Place a small dab of Loctite on the threads of one of the lenses. Use about as much Loctite as needed to fill two threads.
+    2. Rotate the lens and repeat until there is Loctite all the way around the threads, with 2 to 3 small gaps. If no gaps are present, it will be very difficult to adjust focus later if needed.
+    3. repeat for all lenses.
 2. Thread the lockrings so that they also get Loctite in the threads and then back them back out. This is so that the lockrings are also held in place by Loctite. Only perform this step on the monochrome lenses. The RGB lens has a plastic lock ring, so avoid getting Loctite inside of this lock ring's threads.
 3.  Use the screws to mount the 6x onto the focusing mount as shown:
 
