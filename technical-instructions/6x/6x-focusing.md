@@ -52,5 +52,11 @@ description: Stage 3 in the 6X process
 
 
 6. log into the computer and plug the USB C cable into it.
-7. it ma
+7. In a web browser, navigate to the 6x webpage by typing in the address 192.168.42.1
+8. This brings you to the home page. Click the "Session Start" button to start a session.
+9. Pin the web browser to the left side of the screen
+10. Open up a file browser and type in the address \\\192.168.42.1
+11. pin this window to the right side of the screen
+12. navigate to data -> snapshots -> current active session. The home page will tell you which session is in progress.
+13. To take a snapshot,&#x20;
 
