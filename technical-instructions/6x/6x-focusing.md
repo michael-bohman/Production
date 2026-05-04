@@ -11,7 +11,7 @@ description: Stage 3 in the 6X process
 ## Additional Software Needed
 
 1. 6X SENSOR Technical Package
-2. Focusing app
+2. Focusing app(optional)
 3. Irfanviewer
 
 ## Set up
@@ -63,7 +63,10 @@ description: Stage 3 in the 6X process
 9. Pin the web browser to the left side of the screen
 10. Open up a file browser and type in the address \\\192.168.42.1
 11. pin this window to the right side of the screen
-12. navigate to data -> snapshots -> current active session. The home page will tell you which session is in progress.
-13. To take a snapshot, click on the capture image button
-14. check the focus of the image by clickin
-
+12. navigate to data -> snapshots -> current active session. The home page will tell you which session is in progress. Then navigate to the lens that is being focused.
+13. adjust the focus of the lens by physically rotating the lens, screwing it in or out.
+14. To take a snapshot, click on the capture image button
+15. check the focus of the image by double clicking on the image in the file explorer
+16. repeat steps 13 through 15 until the image is in good focus
+17. repeat steps 13 through 15 again, except now tighten the lock ring after adjusting images. Do not over tighten the lock ring, it only needs to be tight enough so that the lens isn't easy to loosen with your fingers. If loctite was applied properly, it will keep it from loosening once it cures. Refer to the 6x Focusing standards to verify the lens is in good focus.
+18. Repeat steps 13 through 17 for each lens.
