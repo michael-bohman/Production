@@ -58,7 +58,7 @@
     * [🚧 Drone Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/README.md)
       * [📷 DJI Skyport Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/dji-skyport-stack-assembly.md)
       * [✅ Smart Dovetail Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/smart-dovetail-stack-assembly.md)
-      * [✅ Gremsy Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/gremsy-stack-assembly.md)
+      * [📷 Gremsy Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/gremsy-stack-assembly.md)
   * [🚧 Final Assembly](technical-instructions/gimbals/gimbal-stack-assembly/final-assembly/README.md)
     * [🚧 Final Assembly - 6X](technical-instructions/gimbals/gimbal-stack-assembly/final-assembly/final-assembly-6x.md)
     * [Final Assembly - 65R](technical-instructions/gimbals/gimbal-stack-assembly/final-assembly/final-assembly-65r.md)

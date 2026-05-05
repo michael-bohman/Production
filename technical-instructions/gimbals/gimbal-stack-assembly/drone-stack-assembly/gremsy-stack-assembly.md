@@ -1,8 +1,10 @@
 ---
-description: '21252. Owner: Amanda Janssen'
+description: >-
+  6X/65R with Gimbal, Gremsy Hyper Quick Release (21252, 21255). Owner: Amanda
+  Janssen
 ---
 
-# ✅ Gremsy Stack Assembly
+# 📷 Gremsy Stack Assembly
 
 ## Equipment&#x20;
 
