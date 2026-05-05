@@ -1,11 +1,5 @@
 # Receiving Purchase Orders
 
-* Add what to do when a package comes through the door&#x20;
-  * What software do you use?
-  * What is the process?&#x20;
-  * Do you still sign for a package if the box is visibly damaged?
-  * How can we make the process more of a team effort?&#x20;
-
 ## PROCESS FOR RECEIVING ITEMS IN SOS INVENTORY
 
 The software Sentera currently uses for receiving all items managed with a Purchase Order is [https://live.sosinventory.com/Home/Login](https://live.sosinventory.com/Home/Login) .  These items may not always be for inventory purpose.&#x20;

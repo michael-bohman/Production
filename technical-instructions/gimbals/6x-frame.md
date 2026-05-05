@@ -1,9 +1,8 @@
 ---
-description: 6X Gimbal Guide Assembly 21264-01
-icon: camera
+description: '6X Gimbal Guide Assembly 21264-01. Owner: Amanda Janssen'
 ---
 
-# 6X Frame
+# 📷 6X Frame
 
 ## Drawing
 

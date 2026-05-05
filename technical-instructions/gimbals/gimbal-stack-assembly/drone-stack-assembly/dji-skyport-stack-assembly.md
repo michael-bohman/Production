@@ -1,8 +1,8 @@
 ---
-description: Assembly Number 21233 and 21238
+description: 'Assembly Number 21233 and 21238. Owner: Amanda Janssen'
 ---
 
-# DJI Skyport Stack Assembly
+# 📷 DJI Skyport Stack Assembly
 
 ## Required Materials
 
@@ -16,27 +16,18 @@ DO NOT use these instructions for a Skyport that will go on a PixelScout system.
 
 Uploaded 3/23/2026
 
-<details>
+{% content-ref url="../../../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233" %}
+[#id-6x-skyport-v2-greater-than-21233](../../../../space-and-general/drawings.md#id-6x-skyport-v2-greater-than-21233)
+{% endcontent-ref %}
 
-<summary>6X (21233)</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>65R (21238)</summary>
-
-
-
-</details>
+{% content-ref url="../../../../space-and-general/drawings.md#id-65r-skyport-v2-greater-than-21238" %}
+[#id-65r-skyport-v2-greater-than-21238](../../../../space-and-general/drawings.md#id-65r-skyport-v2-greater-than-21238)
+{% endcontent-ref %}
 
 ## Guide
 
 1. Program your Coms Board and your Motor Controller
-   1. For Coms Board: [Broken link](/broken/pages/mexEYCWpMmW4uabAQvMk "mention")
-   2. For Motor Controller: [Broken link](/broken/pages/h5Kwff3eSzyQnJElIx36 "mention")
+   1. [..](../ "mention")
 2. Remove the 2 Hex screws and rubber inserts&#x20;
 
 > ![](<../../../../.gitbook/assets/20260313_131229 (1).jpg>)     ![](../../../../.gitbook/assets/20260313_131120.jpg)
@@ -45,24 +36,24 @@ Uploaded 3/23/2026
 
 <figure><img src="../../../../.gitbook/assets/20260313_130656.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Attach the Interface (Item 9) and the USB-C Skyport Adapter (Item 3) together
+4. Attach the Interface and the USB-C Skyport Adapter together
    1. Use the 4 black screws removed from the interface&#x20;
-   2. The screws are already pre-loctitied, do not use any threadlocker&#x20;
+   2. The screws are already have loctite on them, do not use any thread locker&#x20;
    3. Confirm the orientation is correct before tightening&#x20;
 
 > ![](../../../../.gitbook/assets/20260313_130920.jpg) ![](../../../../.gitbook/assets/20260313_131001.jpg)
 
 5. Reinsert the rubber pads and cover plate&#x20;
-   1. The screws are already pre-loctitied, do not use any threadlocker&#x20;
+   1. The screws are already have loctite on them, do not use any thread locker&#x20;
 
 > ![](<../../../../.gitbook/assets/20260313_131120 (1).jpg>)   ![](<../../../../.gitbook/assets/20260313_131229 (2).jpg>)
 
 6. Attach the PSDK cable to the programmed Coms board and the Interface&#x20;
-   1. Allign the pins and then click fully into place&#x20;
+   1. Align the pins and then click fully into place&#x20;
    2.
 
        <figure><img src="../../../../.gitbook/assets/20260313_131522 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
-7. Attach the Yaw Enclosure (Item 7) with 4 screws (94017A108)
+7. Attach the Yaw Enclosure with 4 screws <mark style="color:yellow;">Item #10 (94017A108)</mark>
    1. Push the board to the front using the board-to-board connector while tightening to ensure it will line up later.
 
 > ![](<../../../../.gitbook/assets/image (113).png>)    ![](<../../../../.gitbook/assets/image (114).png>)
@@ -73,14 +64,14 @@ Uploaded 3/23/2026
 >
 > ![](<../../../../.gitbook/assets/image (117).png>)
 
-9. Attach the gimbal frame to the stack using 3 screws (94017A156)
+9. Attach the gimbal frame to the stack using 3 screws <mark style="color:yellow;">Item #11 (94017A156)</mark>
    1.
 
        <figure><img src="../../../../.gitbook/assets/image (118).png" alt="" width="375"><figcaption></figcaption></figure>
 10. Attach the the roll and pitch (2 black cables) and camera (muti-color cable) connectors
     1. Attach the camera to gimbal and test before putting on drone.&#x20;
     2. If camera freaks out and starts twisting out of control, switch the black cables with each other
-11. &#x20;Attach cable cover (Item 5) with 2 screws (95836A512)
-    1.
+11. &#x20;Attach cable cover with 2 screws <mark style="color:yellow;">Item #12 (95836A512)</mark>
+    1.  <mark style="color:$danger;">(Change Photo to DJI)</mark>
 
         <figure><img src="../../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>

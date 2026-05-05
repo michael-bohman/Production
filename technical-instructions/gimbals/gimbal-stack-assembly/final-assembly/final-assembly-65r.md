@@ -10,7 +10,7 @@ In addition to everything listed in the BOM, the following are required:
 
 
 
-## Assembly Instructions
+## Guide
 
 1. Check that the small bearing fits into the gimbal arm.
    1. If not, drill out the hole using a 3/16" drill bit.
