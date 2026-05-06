@@ -1,8 +1,8 @@
 ---
-description: Stage 1 in the 6X process 21214-02, 21216-02, 21216-03
+description: 'Stage 1 in the 6X process 21214-02, 21216-02, 21216-03 Owner: Amanda Janssen'
 ---
 
-# 6X Assembly Back Half
+# ✅ 6X Assembly Back Half
 
 ## Equipment Needed
 
@@ -22,7 +22,7 @@ description: Stage 1 in the 6X process 21214-02, 21216-02, 21216-03
 
 </details>
 
-## Back Half Assembly&#x20;
+## Back Half Guide
 
 1. Attach the breakout board to the heatsink.
    1. Apply thread locker to <mark style="color:yellow;">Item 46 (91771A164)</mark> screws

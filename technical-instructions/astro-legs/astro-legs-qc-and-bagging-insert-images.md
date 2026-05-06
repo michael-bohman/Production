@@ -1,4 +1,8 @@
-# Astro Legs QC and Bagging (Insert Images)
+---
+description: 'Owner: Amanda Janssen'
+---
+
+# ✅ Astro Legs QC and Bagging (Insert Images)
 
 ## QC&#x20;
 

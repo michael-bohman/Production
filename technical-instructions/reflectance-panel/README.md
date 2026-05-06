@@ -1,4 +1,8 @@
-# Reflectance Panel
+---
+description: 'Owner: Amanda Janssen'
+---
+
+# 🚧 Reflectance Panel
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 

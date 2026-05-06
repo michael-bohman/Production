@@ -1,8 +1,8 @@
 ---
-description: Stage 2 in the 6X Process 21214-02
+description: 'Stage 2 in the 6X Process 21214-02 Owner: Amanda Janssen'
 ---
 
-# 6X Assembly Front Half (Insert Pics)
+# 📷 6X Assembly Front Half&#x20;
 
 ## Equipment Needed
 
@@ -18,7 +18,7 @@ description: Stage 2 in the 6X Process 21214-02
 {% hint style="danger" %}
 These instructions are for regular 6X (21214-02).&#x20;
 
-For 6XT and 6XT PRO visit [6xt-6xtp-front-half-insert-pics.md](6xt-6xtp-front-half-insert-pics.md "mention")&#x20;
+For 6XT and 6XT PRO visit [6xt-6xtp-front-half.md](6xt-6xtp-front-half.md "mention")&#x20;
 {% endhint %}
 
 ## Front Half Assembly&#x20;

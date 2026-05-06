@@ -1,10 +1,12 @@
-# Reflectance Panel QC
+---
+description: 'Owner: Amanda Janssen'
+---
+
+# ✅ Reflectance Panel QC
 
 ## Notes
 
 QC must be performed within 24 hours of building by a separate person
-
-
 
 ## QC Steps
 

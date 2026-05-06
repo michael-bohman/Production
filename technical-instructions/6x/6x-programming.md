@@ -1,8 +1,8 @@
 ---
-description: Stage 2 in the 6X process
+description: 'Stage 2 in the 6X process. Owner: Amanda Janssen'
 ---
 
-# 6X Programming
+# ✅ 6X Programming
 
 ## Equipment Needed
 

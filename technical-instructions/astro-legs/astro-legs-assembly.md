@@ -1,6 +1,10 @@
-# Astro Legs Assembly
+---
+description: 'Owner: Amanda Janssen'
+---
 
-## Assembly&#x20;
+# 🚧 Astro Legs Assembly
+
+## Guide
 
 1\. Glue .57” (smaller) diameter carbon tube to the T Joint.
 

@@ -1,4 +1,8 @@
-# 6X Final Assembly
+---
+description: 'Owner: Amanda Janssen'
+---
+
+# 🚧 6X Final Assembly
 
 {% hint style="danger" %}
 Back Half Final Assembly is to be completed after Programming. Please Program camera before moving on&#x20;
@@ -6,7 +10,15 @@ Back Half Final Assembly is to be completed after Programming. Please Program ca
 [6x-programming.md](6x-programming.md "mention")
 {% endhint %}
 
-### Back Half Final Assembly
+## Equipment&#x20;
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+## Back Half Final Guide&#x20;
 
 1. Remove the screws securing the fan in place.
 2. Fit the rear cover over the back of the sensor
@@ -29,7 +41,7 @@ Front Half Final Assembly is to be completed after Focusing. Please Focus camera
 [6x-focusing.md](6x-focusing.md "mention")
 {% endhint %}
 
-### Front Half Final Assembly
+## Front Half Final Assembly
 
 1. Install the front cover onto the sensor.
    1. There should be a slight click when fully seated&#x20;

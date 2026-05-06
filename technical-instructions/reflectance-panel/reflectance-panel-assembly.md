@@ -1,29 +1,27 @@
-# Reflectance Panel Assembly
+---
+description: '21226 -00 Owner: Amanda Janssen'
+---
+
+# 🚧 Reflectance Panel Assembly
+
+## Equipment
+
+|                              |        |   |
+| ---------------------------- | ------ | - |
+| Isopropyl Alcohol            | Gloves |   |
+| Paper Towels                 |        |   |
+| Acid free Tissue Paper Sheet |        |   |
 
 ## Notes
 
 Before starting, ensure someone else will be able to QC the panels within 24 hours
-
-
-
-## Materials
-
-* Isopropyl Alcohol
-* Paper Towels
-* 21226-00 — Reflectance Panel Kit, 6X
-* S-23029 — Acid Free Tissue Paper Sheet
-* Gloves
-
-
 
 ## Prep
 
 * Clear workspace and wipe down with cleaning spray or wipes to ensure it is very clean
 * Gather all materials necessary
 
-
-
-## Assembly
+## Guide
 
 1.  If present, remove any stickers and foam from the cases
 
