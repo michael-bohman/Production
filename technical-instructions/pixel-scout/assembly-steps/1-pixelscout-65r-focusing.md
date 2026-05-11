@@ -1,10 +1,20 @@
-# 📷 1 PixelScout 65R Focusing (needs BPR pictures)
+---
+description: 'Owner: Simon'
+---
+
+# 🚧 1 PixelScout 65R Focusing
+
+## Changes required:
+
+Add direction to go to BPR steps
+
+
 
 ## Materials/Equipment Required
 
 | Camera Mount  | Tripod              | Focusing micro-USB cable |
 | ------------- | ------------------- | ------------------------ |
-| Power Adapter | 1.5 hex screwdriver |                          |
+| Power Adapter | 1.5 hex screwdriver | Light Table or Cap       |
 |               |                     |                          |
 
 ## Notes
@@ -111,26 +121,12 @@ For example, adjusting the current frame may put the previous frame in the blank
 <figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 25. Put the lens cap over the lens and take a photo. Rename this one in the file explorer to 'Cap Photo'.
-26. Download the focus session folder to the serial numbered focus artifact folder.
+26. Download the focus session folder, screenshots, and numbers text file to the serial numbered focus artifact folder.
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt="" width="386"><figcaption></figcaption></figure>
 
-27. Upload the entire serial-numbered focus artifact folder to taurus in the following folder.
+27. Perform Bad Pixel Replacement and save these files to the serial numbered focus artifact folder.
+    1. [bad-pixel-replacement.md](bad-pixel-replacement.md "mention")
+28. Upload the entire serial-numbered focus artifact folder to taurus in the following folder.
     1. "\as-taurus.jdnet.deere.com\Production\Sensors\21030-XX -- 65R Sensor\21030-04"
-
-
-
-
-
-Take BPR pictures.
-
-1. Mount the gimbal to a drone and turn it on. Connect to the gimbal using usb.
-2. Start a session for the each camera using the webpage.
-   1. name it anything, the pictures won't be stored in the session.
-3. Run the bpr pictures program and follow the instructions.
-   1. The program must be edited in notepad to set the ip address for the camera being worked on.
-4. Save the pictures created to a '\[PixelScout SN] BPR' folder.
-5. Send the folder to zach/brian/jon for processing (WILL PROBABLY CHANGE)
-6. After receiving the bprmap.csv file from processing, apply it to the cameras by placing it in the correct 'firmware' folder.
-7. Power cycle the cameras and ensure it is saved to the 'info' folder.
 

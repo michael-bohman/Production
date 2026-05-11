@@ -123,3 +123,26 @@ The Pico Configurator program may be run directly off of taurus without download
 
 </details>
 
+<details>
+
+<summary>BPR Files</summary>
+
+The BPR programs are used for creating and applying bad pixel replacement to 65R cameras.
+
+[bad-pixel-replacement.md](../technical-instructions/pixel-scout/assembly-steps/bad-pixel-replacement.md "mention")
+
+
+
+1. Navigate to the following folder in taurus.
+   1. "\as-taurus.jdnet.deere.com\Production\Technical Packages\65R SENSOR\IN PROGRESS\65R SENSOR - Technical Data Package\65R SENSOR - BAD PIXEL REPLACEMENT"
+2. Copy the '.zip' file to your machine and extract it.
+3. This will have both programs, one for taking the pictures (BPR Capture Tool), and one for creating the bpr\_map files (bad\_pixel\_map\_v1.0.0).
+
+</details>
+
+
+
+
+
+
+

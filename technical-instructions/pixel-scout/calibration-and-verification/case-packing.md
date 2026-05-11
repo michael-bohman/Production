@@ -24,11 +24,11 @@ When flying systems for calibration or verification, use these steps for packing
    3. Tuck the cable into the slot cut in the foam and store the connector in the oval hole.
 4. Ensure both a small and long USB-C cable marked 'Production' with orange tape are in the case.
 5. Assemble and place the tripod into the large, long slot in the case foam.
-   1. Attach the clamp high up (\~1.5" from the top) on the leg between the locking screw and hand crank.
+   1. Attach the clamp high up (\~0.5" from the top) on the leg between the locking screw and hand crank.
    2. Screw the Ground module onto the clamp.
    3. Apply a liberal amount of Loctite to the mounting screw on the top of the tripod.
-   4. Screw on the adapter and tighten using vice grips and paper towels.
-   5. screw the emlid base station on top of the tripod.
+   4. Screw on the adapter and tighten using vice grips and paper towels to protect the adapter.
+   5. screw the Emlid Base Station on top of the tripod.
 
 
 
