@@ -10,13 +10,9 @@ description: All Assembly Numbers
 
 
 
-### All Equipment Needed&#x20;
+### Equipment Needed
 
-{% hint style="info" %}
-Use this section to list equipment needed in all stages of the build&#x20;
-
-example 6x: I would list all equipment from assembly, programming, focusing, pixel allignment. etc.&#x20;
-{% endhint %}
+* List all the equipment needed for all the steps&#x20;
 
 |           |       |   |
 | --------- | ----- | - |
@@ -28,7 +24,9 @@ example 6x: I would list all equipment from assembly, programming, focusing, pix
 
 * Overall prep not included in sub-assembly
 
+## Notes&#x20;
 
+* Put anything that would help in the build to know
 
 ## Drawings
 
@@ -36,8 +34,3 @@ example 6x: I would list all equipment from assembly, programming, focusing, pix
 [#id-6x-thermal-greater-than-21216](../../space-and-general/drawings.md#id-6x-thermal-greater-than-21216)
 {% endcontent-ref %}
 
-## Notes&#x20;
-
-* <mark style="color:yellow;">Item numbers are highlighted in yellow and correspond to the drawing. The numbers in the parenthesis are the McMaster screw number that correspond to the screw bins.</mark>&#x20;
-  * example: <mark style="color:yellow;">Item #10 (92217A101)</mark>
-* <mark style="color:blue;">Any computer buttons needed to be clicked will be highlighted in blue</mark>

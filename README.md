@@ -40,3 +40,19 @@ The **QC Shipping** group has guides on how to QC products, how to pack them, an
 the **Space and General** group has misc. pages with logistical guides and reference material.
 
 </details>
+
+### Highlighted Text on Pages
+
+* <mark style="color:yellow;">Item numbers are highlighted in yellow and correspond to the drawing. The numbers in the parenthesis are the McMaster screw number that correspond to the screw bins.</mark>&#x20;
+  * example: <mark style="color:yellow;">Item #10 (92217A101)</mark>
+* <mark style="color:blue;">Any computer buttons needed to be clicked will be highlighted in blue</mark>
+
+### Page Status
+
+:x: Not Started
+
+:construction: = In progress Page&#x20;
+
+:camera: = Needs Images&#x20;
+
+:white\_check\_mark: = Page Completed&#x20;
