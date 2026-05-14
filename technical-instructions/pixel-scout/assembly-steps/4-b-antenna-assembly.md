@@ -63,19 +63,15 @@ The drawing for this assembly can be found here: [#pixelscout-v4-antenna-greater
 
 <mark style="color:red;">Insert picture here</mark>
 
-9. Apply a SMALL bit of araldite to the sides of the light tube bases to keep them lightly secured.
+9. Slide the piece over top of the light tubes.
 
 <mark style="color:red;">Insert picture here</mark>
 
-10. Slide the piece over top of the light tubes.
+10. Elevate the board slightly and place the antenna casing overtop of the board, lining up the light tubes.
 
-<mark style="color:red;">Insert picture here</mark>
+Insert picture here
 
-11. If the piece does not stick well, apply a small amount more araldite.
-
-<mark style="color:red;">Insert picture here</mark>
-
-12. Place the center board onto the center piece of the antenna. Secure with the washer and nut from the board.
+10. Place the center board onto the center piece of the antenna. Secure with the washer and nut from the board.
 
 {% columns %}
 {% column %}

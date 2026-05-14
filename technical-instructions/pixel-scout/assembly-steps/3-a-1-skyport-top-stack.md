@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 3-A-1 Skyport Top Stack (Needs Pictures)
+# 📷 3-A-1 Skyport Top Stack
 
 ## Required Materials
 
@@ -18,9 +18,9 @@ This assembly is very close to a normal Skyport top stack with 2 exceptions:
 1. Spacers in place of comms and motor controller boards.
 2. Bend the top cap.
 
+
+
 ## Guide
-
-
 
 1. Use a vise to carefully bend the tab on the yaw cable cover so that it is flat.
 
@@ -37,7 +37,9 @@ This assembly is very close to a normal Skyport top stack with 2 exceptions:
 
 5. Replace the rubber pieces (nub side up) and top plate. Secure using the same Torx T5 screws from step 2.
 
-<mark style="color:red;">Pictures here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8841.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+<div><figure><img src="../../../.gitbook/assets/IMG_8842.jpeg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_8843.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 6. Place the cover back on top of the Skyport to avoid damaging the port.
 
