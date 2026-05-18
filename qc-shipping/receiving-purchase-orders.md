@@ -8,13 +8,21 @@ The software Sentera currently uses for receiving all items managed with a Purch
 {% step %}
 ### Package arrives
 
-Open up SOS INVENTORY via Website. Login with user name and password. Take Package and locate PO#, it will be either on the outside shipping label or on the inside of box on receipt / BOL / packing slip.   (How to show a different path??)  Step 1A for if no PO # can be found?&#x20;
+Open up SOS INVENTORY via Website. Login with user name and password. Take Package and locate PO#, it will be either on the outside shipping label or on the inside of box on receipt / BOL / packing slip. Some examples:
+
+&#x20;<img src="../.gitbook/assets/image (185).png" alt="" data-size="original">![](<../.gitbook/assets/image (186).png>)
+
+### 1 A) PO # cannot be located
+
+Open the packaged parts and examine them. The purchase orders will be printed out and hanging on the receiving rack. Some of the PO's will have image pictures for you to determine what PO belongs with the package you are receiving. Example: ![](<../.gitbook/assets/image (188).png>)
+
+
 {% endstep %}
 
 {% step %}
 ### Purchasing tab in SOS
 
-On left side of Website there should a down arrow for the “Purchasing” tab. Click on that and it should drop down an option for you to click on “Purchase Orders”. Click on that.![](<../.gitbook/assets/image (174).png>)
+On left side of Website there should a down arrow for the “Purchasing” tab. Click on that and it should drop down an option for you to click on “Purchase Orders”. Click on that.![](<../.gitbook/assets/image (187).png>)
 {% endstep %}
 
 {% step %}
@@ -72,6 +80,7 @@ This is located in the upper left side of the web page. You will see the light b
 {% step %}
 ### Inventory
 
-If the items are for inventory immediately transfer them to the proper location within the inventory room / rack.&#x20;
+If the items are for inventory immediately transfer them to the proper location within the inventory room / rack.
 {% endstep %}
 {% endstepper %}
+
