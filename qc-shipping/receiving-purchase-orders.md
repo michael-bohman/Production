@@ -14,13 +14,7 @@ Open up SOS INVENTORY via Website. Login with user name and password. Take Packa
 
 ### 1 A) PO # cannot be located
 
-Open the packaged parts and examine them. The purchase orders will be printed out and hanging on the receiving rack. Some of the PO's will have image pictures for you to determine what PO belongs with the package you are receiving. Example: ![](<../.gitbook/assets/image (188).png>)
-
-### 1 B) PO # cannot be located
-
-
-
-
+Open the packaged parts and examine them. The purchase orders will be printed out and hanging on the receiving rack. Some of the PO's will have pictures of the parts for you to determine what PO belongs with the package you are receiving. Example: ![](<../.gitbook/assets/image (188).png>)
 {% endstep %}
 
 {% step %}
