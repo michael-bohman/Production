@@ -23,7 +23,7 @@
     * [✅ 2-B Gimbal Frame Assembly](technical-instructions/pixel-scout/assembly-steps/2-b-gimbal-frame-assembly.md)
     * [✅ 2-C Gimbal Programming](technical-instructions/pixel-scout/assembly-steps/2-c-gimbal-programming.md)
     * [📷 3-A-1 Skyport Top Stack](technical-instructions/pixel-scout/assembly-steps/3-a-1-skyport-top-stack.md)
-    * [📷 3-A End Gimbal Assembly](technical-instructions/pixel-scout/assembly-steps/3-a-end-gimbal-assembly.md)
+    * [🚧 3-A End Gimbal Assembly](technical-instructions/pixel-scout/assembly-steps/3-a-end-gimbal-assembly.md)
     * [📷 3-B F9P Board Programming](technical-instructions/pixel-scout/assembly-steps/3-b-f9p-board-programming.md)
     * [✅ 3-C P900 Radio Programming](technical-instructions/pixel-scout/assembly-steps/3-c-p900-radio-programming.md)
     * [📷 4-A Gimbal Tuning](technical-instructions/pixel-scout/assembly-steps/4-a-gimbal-tuning.md)

@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 3-A End Gimbal Assembly
+# 🚧 3-A End Gimbal Assembly
 
 ## Required Items
 
@@ -11,7 +11,10 @@ description: 'Owner: Simon'
 |         |   |   |
 |         |   |   |
 
+## Needs
 
+* Spacer
+* Sticker
 
 ## Notes
 
