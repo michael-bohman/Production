@@ -13,7 +13,7 @@ description: 'Owner: Simon'
 
 ## Needs
 
-* Spacer
+* Spacer (with new M3x8 screws and shorter shoulder screw)
 * Sticker
 
 ## Notes
