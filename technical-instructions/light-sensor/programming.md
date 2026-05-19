@@ -30,7 +30,7 @@ Perform the instructions include in file _README.md_ in folder _1 – program_. 
 
 1. Connect the USB cable between the board and the PC. (Below is the Microchip programmer between PC and pic32-6xIls board)
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Verify the LED next to the USB connector illuminates GREEN (after briefly being RED for \~5 seconds)
 3. Click on the <mark style="color:blue;">Program-23122</mark> file
@@ -44,7 +44,7 @@ Each board includes a u-blox GNSS module which must be configured.  The process 
 1. Flip the DIP switch to an ON position.
 2. Connect the 3v3 TTL cable between the PC and the board's 4-pin JST _GPS PROG_ connector.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Open Device Manager on computer and find which port the TTL is using.
 4. Connect the USB cable between the board and the PC.

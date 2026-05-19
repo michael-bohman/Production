@@ -22,7 +22,7 @@
     2. Confirm it's the correct SO number
     3. Confirm folder has 2 videos and one picture
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 4. Correct any issues that appear
 
 ### Quality Check&#x20;

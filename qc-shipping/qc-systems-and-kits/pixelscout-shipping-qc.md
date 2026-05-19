@@ -19,11 +19,11 @@ description: 'Owner: Simon'
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>GOOD CALIBRATION</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>GOOD CALIBRATION</p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>BAD CALIBRATION</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>BAD CALIBRATION</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -68,7 +68,7 @@ description: 'Owner: Simon'
 
 <summary>BPR Files</summary>
 
-<div><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/BPR Artifacts.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/BPR Artifacts.png" alt=""><figcaption></figcaption></figure></div>
 
 Two folders per camera, one with the raw pictures, and one with the output files.
 
@@ -96,7 +96,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 <summary>What the screenshots look like</summary>
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -130,7 +130,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 <summary>Info Folder</summary>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -138,7 +138,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 <summary>hw_config file</summary>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

@@ -48,9 +48,9 @@ Front Half Final Assembly is to be completed after Focusing. Please Focus camera
    2. Apply thread locker to each screw  <mark style="color:yellow;">Item 28 (97763A300)</mark> before installation.
    3.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="332"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="332"><figcaption></figcaption></figure>
 
 1.
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
