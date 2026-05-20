@@ -39,6 +39,8 @@ This is a different issue then switching the black cords. This issue would happe
 
 1. Switch out the gimbal (possible wiring harness issue)
    1. Use the same stack&#x20;
+2. Connect camera to basecam&#x20;
+   1. Reload the backup manager 6X or 65R gimbal file&#x20;
 
 </details>
 
@@ -57,6 +59,27 @@ This is likely a motor controller issue. The coms board should appear in the pre
    1. If no power, message Alex Stephens describing issue. Replace the motor controller for your stack&#x20;
    2. If you have power, check step 3&#x20;
 3. Plug in coms board as well to the 24v power adapter to confirm it's getting power
+
+</details>
+
+<details>
+
+<summary>Slow IMU Issue </summary>
+
+The camera slowly moves when starting up&#x20;
+
+1. See if the motion comes back to the correct facing down position
+   1. If so, it's good to go
+   2. It should only happen a few times for it to be a nonissue
+
+</details>
+
+<details>
+
+<summary>Slow twitch every few seconds </summary>
+
+1. Connect camera to basecam&#x20;
+   1. Reload the backup manager 6X or 65R gimbal file&#x20;
 
 </details>
 
