@@ -2,11 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 🚧 4-B Antenna Assembly
-
-## Things to Change
-
-leave some slack on GPS board
+# ✅ 4-B Antenna Assembly
 
 ## Materials Required
 
@@ -65,31 +61,23 @@ The drawing for this assembly can be found here: [#pixelscout-v4-antenna-greater
 7. Wait Overnight for the Araldite to cure.
 8. Place 5 light tubes on the center board, inserting the small pins into the holes.
 
-<mark style="color:red;">Insert picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8827.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 9. Slide the piece over top of the light tubes.
 
-<mark style="color:red;">Insert picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8828.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 10. Elevate the board slightly and place the antenna casing overtop of the board, lining up the light tubes.
 
-Insert picture here
+<figure><img src="../../../.gitbook/assets/IMG_8830.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 10. Place the center board onto the center piece of the antenna. Secure with the washer and nut from the board.
 
-{% columns %}
-{% column %}
-<figure><img src="../../../.gitbook/assets/IMG_8295.jpg" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../../.gitbook/assets/IMG_8296.jpg" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
+<figure><img src="../../../.gitbook/assets/IMG_8296.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 13. Feed the wires through each of the carbon tubes.
 
-<mark style="color:red;">Insert picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8831.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 14. Take the nut and lock washer off of the F9P antenna board. DO NOT DISCARD
 
@@ -99,55 +87,55 @@ Insert picture here
 
 <figure><img src="../../../.gitbook/assets/IMG_8299.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-16. Pull the wire through the tube while aligning the board in place.
+16. Align the board in place. Route excess wires under the board, making sure they won't be pinched.
 
-<div><figure><img src="../../../.gitbook/assets/IMG_8300.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_8301.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/IMG_8956.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 17. Secure the F9P board in place using the lock washer and nut. Make sure to keep the holes lined up when tightening.
 
-<div><figure><img src="../../../.gitbook/assets/IMG_8302.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_8303.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/IMG_8302.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_8957.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-18. Place the cap on the underside of the antenna board. Secure using 4 screws (<mark style="color:yellow;">Screws here</mark>) and Loctite.
+18. Place the cap on the underside of the antenna board. Secure using 4 screws (<mark style="color:yellow;">96640A027</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_8304.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-19. Put an Oring (<mark style="color:yellow;">part number here</mark>) in the slot.
+19. Put an O-ring (<mark style="color:yellow;">2418T126</mark>) in the slot.
 
 <figure><img src="../../../.gitbook/assets/IMG_8305.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-20. Screw the antenna onto the board. Tighten to about x ft-lbs or about the torque of holding the antenna flat by the antenna (pictured)
+20. Screw the antenna onto the board. Tighten to about 0.85 ft-lbs or about the torque of holding the antenna flat by the antenna (pictured)
 
 <div><figure><img src="../../../.gitbook/assets/IMG_8306.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_8307.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-21. Secure a zip tie about 2.25 inches from the end of the connector on the cable.
+21. Secure a zip tie about 2-2.25 inches from the end of the connector on the cable.
 
 <figure><img src="../../../.gitbook/assets/IMG_8308.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-22. Attach the cable to the center board in the 'GIMBAL - LEMO' port.
+22. Connect the two wires to the center board on their respective sides.
 
-<figure><img src="../../../.gitbook/assets/IMG_8309.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8958.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-23. Attach the coax cable to the antenna housing, secure using the lock washer and nut provided.
+23. Attach the cable to the center board in the 'GIMBAL - LEMO' port.
 
-<figure><img src="../../../.gitbook/assets/IMG_8310.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8961.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 24. Attach the 4-wire cable to the center board.
 
-<figure><img src="../../../.gitbook/assets/IMG_8311.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8963.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-25. Connect the 2 F9P board cables to the center board. Route as shown for ease later.
+25. Place the P900 board over the center board, Secure first using only 3 (<mark style="color:yellow;">92470A098</mark>) screws.
 
-<figure><img src="../../../.gitbook/assets/IMG_8312.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8964.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-26. Place the P900 board over the center board, Secure first using only 3 (<mark style="color:yellow;">screw part number</mark>) screws.
+26. Secure the coax cable cable to the P900 board.
 
-<figure><img src="../../../.gitbook/assets/IMG_8313 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8965.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-27. Secure the cable to the P900 board.
+27. Attach the coax cable to the antenna housing, secure using the lock washer and nut provided.
 
-<figure><img src="../../../.gitbook/assets/IMG_8314.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8966.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-28. Secure the clamp over the connector using a screw (<mark style="color:yellow;">screw part number</mark>).
+28. Secure the clamp over the connector using a screw (<mark style="color:yellow;">92470A103</mark>).
 
 <figure><img src="../../../.gitbook/assets/IMG_8315.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -155,7 +143,13 @@ Insert picture here
 
 <figure><img src="../../../.gitbook/assets/IMG_8316.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-30. Place the cover over the center board, ensuring not to pinch any wires. Secure using 4 screws (<mark style="color:yellow;">part numbers</mark>).
+System configuration should happen before continuing. This reduces the number of times the cover is attached and/or removed.
+
+[5-system-configuration.md](5-system-configuration.md "mention")
+
+
+
+30. Place the cover over the center board, ensuring not to pinch any wires. Secure using 4 screws (<mark style="color:yellow;">92470A099</mark>).
 
 {% hint style="info" %}
 Note: If the system configuration step still needs to be accomplished. Skip this step until afterwards.

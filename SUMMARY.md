@@ -27,7 +27,7 @@
     * [📷 3-B F9P Board Programming](technical-instructions/pixel-scout/assembly-steps/3-b-f9p-board-programming.md)
     * [✅ 3-C P900 Radio Programming](technical-instructions/pixel-scout/assembly-steps/3-c-p900-radio-programming.md)
     * [🚧 4-A Gimbal Tuning](technical-instructions/pixel-scout/assembly-steps/4-a-gimbal-tuning.md)
-    * [🚧 4-B Antenna Assembly](technical-instructions/pixel-scout/assembly-steps/4-b-antenna-assembly.md)
+    * [✅ 4-B Antenna Assembly](technical-instructions/pixel-scout/assembly-steps/4-b-antenna-assembly.md)
     * [📷 5 System Configuration](technical-instructions/pixel-scout/assembly-steps/5-system-configuration.md)
   * [Calibration and Verification](technical-instructions/pixel-scout/calibration-and-verification/README.md)
     * [📷 Case Packing](technical-instructions/pixel-scout/calibration-and-verification/case-packing.md)
