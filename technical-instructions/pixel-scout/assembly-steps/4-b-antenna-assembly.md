@@ -2,7 +2,11 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 4-B Antenna Assembly
+# 🚧 4-B Antenna Assembly
+
+## Things to Change
+
+leave some slack on GPS board
 
 ## Materials Required
 

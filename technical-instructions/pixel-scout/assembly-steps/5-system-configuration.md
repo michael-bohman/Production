@@ -120,7 +120,7 @@ All files for this section are in the '1. Gimbal' folder in the configuration fi
 5. SBG
    1. In the 'Configuration Files' folder, go to <mark style="color:blue;">1. Gimbal</mark> > <mark style="color:blue;">4. SBG</mark>
    2. In a browser, go to <mark style="color:blue;">192.168.5.202</mark>
-   3. go to the <mark style="color:blue;">information</mark> tab.
+   3. Go to the <mark style="color:blue;">information</mark> tab.
    4. In the <mark style="color:blue;">Firmware & GNSS</mark> field, click <mark style="color:blue;">Upload Firmware.</mark>
    5. Navigate to the SBG folder and select the .sar file with '6.0.5585' in its name.
    6. Wait for the firmware update to finish. You may need to refresh the page.
@@ -164,7 +164,7 @@ Secondary Settings
 
 7. Power cycle the drone twice
    1. Turn on, wait a couple minutes, turn off, turn on, continue
-8. Apply the 4.5.1 firmware update through website.
+8. If not already applied, apply the 4.5.1 firmware update through website.
    1. Go to <mark style="color:$primary;">192.168.42.1</mark> (or <mark style="color:blue;">42.2</mark> for secondary) in a browser.
       1. or <mark style="color:blue;">192.168.5.141/142</mark> if using ethernet
    2. Go to the 'Update firmware' page.
@@ -179,9 +179,11 @@ Secondary Settings
       1. Primary - Spotting
       2. Secondary
    3. Set these as the factory defaults
-      1. copy the config folder to the firmware folder, rename to 'factory-config'
-      2. Power Cycle the drone to apply this change
-      3. Check the factory config using the steps in the Notes section of this page.
+      1. Go to \\\192.168.5.141 and 142 in file explorer
+      2. Copy the config folder from the info folder to the firmware folder
+      3. Rename the folder to 'factory-config'
+      4. Power Cycle the drone to apply this change
+      5. Check the factory config using the steps in the 'Notes' section of this page.
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 135912.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 135945.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -199,7 +201,7 @@ Secondary Settings
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 140610.png" alt="" width="407"><figcaption></figcaption></figure>
 
-11. Connect both a high speed usb cable and an ethernet cable and verify through webpage that each camera has the following shown in the <mark style="color:$primary;">diagnostics</mark> tab.
+11. Connect both a high speed usb cable **and** an ethernet cable and verify through webpage that each camera has the following shown in the <mark style="color:$primary;">diagnostics</mark> tab.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 140741.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -209,7 +211,7 @@ Secondary Settings
     3. Update the firmware through DJI assistant
        1. Go to <mark style="color:$primary;">firmware update</mark> > <mark style="color:$primary;">DJI Skyport V2.0 (Primary)</mark>
           1. Note: DJI Assistant usually opens to this screen.
-       2. If the current version isn't <mark style="color:$primary;">V01.03.0500</mark>, click on the <mark style="color:$primary;">upgrade</mark> button next to that version
+       2. If the current version isn't <mark style="color:$primary;">V01.03.0500</mark>, click on the <mark style="color:$primary;">upgrade</mark> or <mark style="color:$primary;">downgrade</mark> button next to that version
     4. Bind the Skyport-V2 puck
        1. <mark style="color:$primary;">Payload SDK</mark> > Click <mark style="color:$primary;">Bind</mark>
 
@@ -222,7 +224,7 @@ Secondary Settings
 
 
 12. Ensure BPR step has been completed
-    1. In the camera files, go to <mark style="color:blue;">SD Card</mark> > <mark style="color:blue;">Info</mark>
+    1. In the camera files, go to <mark style="color:$primary;">SD Card</mark> > <mark style="color:$primary;">Info</mark>
     2. Ensure the bpr\_map.csv file is in the folder alongside the hw\_config file.
     3. In a browser, go to <mark style="color:$primary;">192.168.5.141</mark> and <mark style="color:$primary;">192.168.5.142</mark>
     4. Go to the <mark style="color:$primary;">Image Adjustment</mark> tab and ensure <mark style="color:$primary;">Bad Pixel Replacement</mark> is checked.
@@ -234,7 +236,7 @@ Secondary Settings
 The files for this section are in the '2. Ground Radio' folder in the configuration files.
 
 1. P900 Programming
-   1. Follow the steps in the P900 Radio Programming Page to progarm the radio if not done already.
+   1. Follow the steps in the P900 Radio Programming Page to program the radio if not done already.
       1. [3-c-p900-radio-programming.md](3-c-p900-radio-programming.md "mention")
    2. Check that the radio is configured properly by plugging it into a laptop using a usb-c cable and turn on the drone.
       1. The ground radio should switch from scrolling to solid green.
@@ -255,15 +257,20 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
 2. P900
    1. Ensure the P900 board on the antenna is configured correctly
    2. While the antenna is being powered on the drone, plug the ground radio into a laptop using a USB-C cable and ensure it connects to the antenna (Solid green lights on the ground radio).
+   3. Turn off the drone and ensure the ground radio returns to scrolling lights.
+      1. This makes sure that it was the antenna that the radio was connected to.
 
 <mark style="color:red;">Pictures here</mark>
 
 3. U-blox
    1. Ensure the firmware on both the Rover and Moving base are up to date (HPG-1.51 release)
-   2. U-Center > connections > network > new > tcp://192.168.5.135:6059X
+   2. <mark style="color:$primary;">U-Center</mark> > <mark style="color:$primary;">connections</mark> > <mark style="color:$primary;">network</mark> > <mark style="color:$primary;">new</mark> > <mark style="color:$primary;">tcp://192.168.5.135:6059X</mark>
       1. Rover: X = 2
       2. Moving Base: X = 3
-   3. If the boards are not up to date, refer to the 'F9P programming' page
+   3. Go to <mark style="color:$primary;">View</mark> > <mark style="color:$primary;">Message View</mark> > <mark style="color:$primary;">UBX</mark> > <mark style="color:$primary;">MON (Monitor)</mark> > <mark style="color:$primary;">VER (Version)</mark>.
+      1. You may have to scroll left in the tree to navigate out of NME and to <mark style="color:$primary;">UBX</mark>
+      2. Make sure the version number is '1.51'.
+   4. If the boards are not up to date, refer to the 'F9P programming' page
       1. [3-b-f9p-board-programming.md](3-b-f9p-board-programming.md "mention")
       2. Find the firmware update file in the 'Configuration files' folder in 3. Boom (Antenna) > 3. U-Blox > SW-33026-01 - ZED F9P > firmware
 

@@ -1,4 +1,10 @@
-# 📷 4-A Gimbal Tuning
+# 🚧 4-A Gimbal Tuning
+
+## Things to Change
+
+* remove IMU cal backup (redundant)
+
+
 
 ## Required Equipment/Materials
 
