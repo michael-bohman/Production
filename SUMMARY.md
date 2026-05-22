@@ -12,7 +12,7 @@
   * [QC Check](technical-instructions/rtk-ppk/qc-check.md)
 * [Pixel Scout](production-documentation-1/pixel-scout/README.md)
   * [Emlid Base Station](technical-instructions/pixel-scout/emlid-base-station/README.md)
-    * [✅ Initial Setup](technical-instructions/pixel-scout/emlid-base-station/initial-setup.md)
+    * [🚧 Initial Setup](technical-instructions/pixel-scout/emlid-base-station/initial-setup.md)
     * [✅ Firmware Update](technical-instructions/pixel-scout/emlid-base-station/firmware-update.md)
     * [📷 Testing](technical-instructions/pixel-scout/emlid-base-station/testing.md)
     * [✅ Field Setup](technical-instructions/pixel-scout/emlid-base-station/field-setup.md)

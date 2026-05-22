@@ -17,7 +17,11 @@ layout:
     visible: true
 ---
 
-# ✅ Initial Setup
+# 🚧 Initial Setup
+
+## Things to Change
+
+add sticker
 
 ## Required Equipment
 
