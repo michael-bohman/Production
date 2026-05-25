@@ -1,4 +1,4 @@
-# 🚧 4-A Gimbal Tuning
+# ✅ 4-A Gimbal Tuning
 
 ## Things to Change
 
@@ -17,23 +17,7 @@
 
 While changing values through Basecam GUI, click 'write' **often** (especially after adjusting **any** value) to upload the correct values to the gimbal. Additionally, click 'Restart' fairly often to make sure the gimbal will act accordingly. If the gimbal is making any unexpected actions, click write and/or restart to see if that fixes it.
 
-## Pre-tuning Balancing
 
-Before the gimbal is tuned, it must be balanced as much as possible for the most effective tune.
-
-1. Connect the gimbal to a drone, do not turn it on.
-2. If the gimbal leans all the way left (facing the gimbal), tape a weight on the high side of the gimbal frame until it's balanced, noting how heavy it is.
-3. Take the gimbal off and unscrew the 4 M3x6 screws on the pitch motor side of the camera pod.
-4. Choose a spacer to start with based on what weight was used to balance the gimbal.
-
-| Weight                     | Spacer Thickness |
-| -------------------------- | ---------------- |
-| minimal (Skyport Cap, etc) | 30 mil           |
-| 6 grams                    | 40 mil           |
-| 12 grams                   | 60 mil           |
-
-5. Insert the spacer between the pitch motor and camera pod. Re-secure using 4 new screws (<mark style="color:yellow;">91698A304 M3x8 Flat Head Black</mark>) and Loctite.
-6. Double check how balanced the gimbal is, repeat with a new size spacer if needed until the gimbal is fairly level.
 
 ## Tuning Setup
 
@@ -177,7 +161,7 @@ In this case, the offset value returns as -16,076 which is less than -5,000. For
 14. Backup a tuned version of the EEPROM to the SN folder corresponding to the gimbal.
     1. Go to <mark style="color:blue;">Board</mark> > <mark style="color:blue;">Backup Manager</mark>.
     2. Click <mark style="color:blue;">Browse</mark> in the 'Save Backup' section.
-    3. name the file 'sbgc\_IMU\_calib\_phase4SNXXX\_tuned' where XXX is the serial number of the system
+    3. Name the file 'sbgc\_IMU\_calib\_phase4SNXXX\_tuned' where XXX is the serial number of the system
     4. Click <mark style="color:blue;">save</mark>.
     5. Click <mark style="color:blue;">save</mark> again.
     6. Click <mark style="color:blue;">close</mark>.
@@ -198,24 +182,12 @@ In this case, the offset value returns as -16,076 which is less than -5,000. For
 {% endcolumn %}
 {% endcolumns %}
 
-15. Backup the IMU Calibration
-    1. Go to <mark style="color:blue;">Board</mark> > <mark style="color:blue;">Backup IMU calibration</mark> > <mark style="color:blue;">Main IMU...</mark>
-    2. Name the file sbgc\_IMU\_calib\_phase4SNXXX.data where XXX is the serial number of the system.
-    3. Click <mark style="color:blue;">Save</mark>.
-
-{% columns %}
-{% column %}
-<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084806.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 084855.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
-
-16. Click <mark style="color:blue;">Disconnect</mark> and power down the drone.
+15. Click <mark style="color:blue;">Disconnect</mark> and power down the drone.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 092051.png" alt="" width="375"><figcaption></figcaption></figure>
+
+16. Save the tuned EEPROM file to the following folder in taurus:
+    1. "\as-taurus.jdnet.deere.com\Production\Systems & Kits\21282-00 -- PixelScout Phase 4\XXX" (where XXX is the serial number of the intended system)
 
 When completed: return to 3-A End Gimbal Assembly page
 

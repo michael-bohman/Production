@@ -259,3 +259,6 @@ Warning: Do not click on any of the options in the 'Gyroscope' section. The boar
 13. Board Programing is complete! At the top, click <mark style="color:blue;">Disconnect</mark> and disconnect all of the board connections.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 152103.png" alt="" width="375"><figcaption></figcaption></figure>
+
+14. Upload the IMU calibration file to taurus in the following folder:
+    1. "\as-taurus.jdnet.deere.com\Production\Systems & Kits\21282-00 -- PixelScout Phase 4\XXX" (where XXX is the serial number of the intended system)

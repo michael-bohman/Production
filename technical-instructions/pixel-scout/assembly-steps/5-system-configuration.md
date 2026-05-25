@@ -278,7 +278,7 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 143250.png" alt="" width="474"><figcaption></figcaption></figure>
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 143250.png" alt="" width="474"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-05-25 154001.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <mark style="color:red;">more pictures here</mark>
 

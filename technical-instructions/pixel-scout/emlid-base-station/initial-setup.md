@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# ✅ Initial Setup
+# 📷 Initial Setup
 
 ## Required Equipment
 
@@ -237,7 +237,15 @@ Note: The position must be sent to the provider for this to work.
 
 Emlid Reach RS3 Base Station is now configured for PixelScout use.
 
+### Disposal and Saving
 
+1. Keep the **Emlid User Guide** and the **antenna** out of the box.
+   1. The antenna will be put in inventory
+   2. The user guide will be included in the case for shipping.
+
+<mark style="color:red;">Picture of user guide and antenna here</mark>
+
+2. Dispose of everything else accordingly
 
 ## Battery Status
 

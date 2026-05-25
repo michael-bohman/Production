@@ -59,7 +59,7 @@ After flying the validation flight, use these instructions for packing the final
 
 3. Place the following in the right-most battery pocket.
    1. Wall-wart power supply.
-   2. emlid base station user manual.
+   2. Emlid base station user manual.
 
 <figure><img src="../../../.gitbook/assets/IMG_8029.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

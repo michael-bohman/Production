@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 🚧 3-A End Gimbal Assembly
+# 📷 3-A End Gimbal Assembly
 
 ## Required Items
 
@@ -49,7 +49,7 @@ description: 'Owner: Simon'
 
 <div><figure><img src="../../../.gitbook/assets/IMG_8911.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_8912.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-6. Double check that 6 cables are present:
+7. Double check that 6 cables are present:
    1. gimbal micro-coax from back opening.
    2. gimbal cable from back opening.
    3. 2 rangefinder cables from back opening.
@@ -58,20 +58,21 @@ description: 'Owner: Simon'
 
 <figure><img src="../../../.gitbook/assets/IMG_8913.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-7. Secure the other side of the camera pod using the shoulder screw, bearing, and Loctite.
+8. Secure the other side of the camera pod using the shoulder screw, bearing, and Loctite.
    1. If using the 45 mil spacer, use a smaller shoulder screw (<mark style="color:yellow;">XXXXX Shoulder Screw</mark>)
 
 <figure><img src="../../../.gitbook/assets/IMG_7707.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-8. Attach the gimbal micro-coax to the center board in the rear-center position.
+9. Attach the gimbal micro-coax to the center board in the rear-center position.
    1. It is easier to attach this before attaching the board to the pod to avoid accidentally dropping the wire into the back cover.
 
 <mark style="color:red;">Picture here</mark>
 
-9.  Place the center board in place, making sure no wires are pinched. Feed the excess from the gimbal micro-coax into the rear cover. Secure the board using 4 screws (<mark style="color:yellow;">94017A101 M2x4 N Cheese</mark>) and Loctite.
+10. Place the center board in place, making sure no wires are pinched. Feed the excess from the gimbal micro-coax into the rear cover. Secure the board using 4 screws (<mark style="color:yellow;">94017A101 M2x4 N Cheese</mark>) and Loctite.
 
-    <figure><img src="../../../.gitbook/assets/IMG_7709.jpg" alt="" width="375"><figcaption></figcaption></figure>
-10. Connect all the wires as shown.
+<figure><img src="../../../.gitbook/assets/IMG_7709.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+11. Connect all the wires as shown.
     1. 'CAMERA1': micro-coax from secondary camera
     2. 'RANGE1' from rangefinder behind secondary camera
     3. 'CAMERA2' micro-coax from primary camera
@@ -85,20 +86,20 @@ NOTE: "1" and "2" on the board don't correspond to primary and secondary, match 
 
 <figure><img src="../../../.gitbook/assets/IMG_7712.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-11. Inspect the pins on the IMU board to ensure they are all straight and in line with each other.
+12. Inspect the pins on the IMU board to ensure they are all straight and in line with each other.
 
 <figure><img src="../../../.gitbook/assets/IMG_7866.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-12. Carefully attach the IMU to the rear board using the 40 pin board to board connector. Do not secure with screws yet.
+13. Carefully attach the IMU to the rear board using the 40 pin board to board connector. Do not secure with screws yet.
 
 <figure><img src="../../../.gitbook/assets/IMG_7713.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-13. Place the combined IMU/rear board into the casing. Route the wires through the opening in the board. Secure the board using 4 long screws (<mark style="color:yellow;">92000A0200 M2x14 Pan</mark>), 2 short screws (<mark style="color:yellow;">94017A101 M2x4 N Cheese</mark>) and Loctite.
-
+14. Place the combined IMU/rear board into the casing. Route the wires through the opening in the board. Secure the board using 4 long screws (<mark style="color:yellow;">92000A0200 M2x14 Pan</mark>), 2 short screws (<mark style="color:yellow;">94017A101 M2x4 N Cheese</mark>) and Loctite.
     1. Place the 4 long screws around the SBG IMU.
 
-    <figure><img src="../../../.gitbook/assets/IMG_7714.jpg" alt="" width="375"><figcaption></figcaption></figure>
-14. Plug in all the following cables into the rear board.
+<figure><img src="../../../.gitbook/assets/IMG_7714.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+15. Plug in all the following cables into the rear board.
     1. 'PITCH': Pitch motor cable.
     2. 'ROLL': Roll motor cable (marked with black sharpie).
     3. 'ROLL ENCODER': Roll encoder cable (marked with black sharpie).
@@ -111,26 +112,26 @@ The two micro-coax cables are different sized and therefore should only plug in 
 
 <figure><img src="../../../.gitbook/assets/IMG_7717.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-15. Organize the cables as shown.
+16. Organize the cables as shown.
     1. Tuck the gimbal I/O micro-coax cable into the enclosure behind the board.
     2. Make sure none of the other cables are pinched or creased. They can rest higher up as the rear cover allows some space for them.
-16. Place a sticker with the correct serial number on the back of the cover as shown.
+17. Place a sticker with the correct serial number on the back of the cover as shown.
 
 <figure><img src="../../../.gitbook/assets/IMG_8954.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-15. Tune the gimbal.
+17. Tune the gimbal.
     1. Refer to the 'Gimbal Tuning' page for this step.
 
 {% content-ref url="4-a-gimbal-tuning.md" %}
 [4-a-gimbal-tuning.md](4-a-gimbal-tuning.md)
 {% endcontent-ref %}
 
-17. Program the gimbal.
+18. Program the gimbal.
     1. Refer to the 'System Configuration' page for this step.
 
 {% content-ref url="5-system-configuration.md" %}
 [5-system-configuration.md](5-system-configuration.md)
 {% endcontent-ref %}
 
-18. Attach the rear cover to the gimbal. Secure using 4 screws (<mark style="color:yellow;">91239A704 M2x6 Button head hex</mark>).
-19. Attach the center cover over the board. Secure using 4 screws (<mark style="color:yellow;">91239A704 M2x6 Button head hex</mark>).
+19. Attach the rear cover to the gimbal. Secure using 4 screws (<mark style="color:yellow;">91239A704 M2x6 Button head hex</mark>).
+20. Attach the center cover over the board. Secure using 4 screws (<mark style="color:yellow;">91239A704 M2x6 Button head hex</mark>).

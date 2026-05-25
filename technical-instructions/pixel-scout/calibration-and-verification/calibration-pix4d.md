@@ -93,7 +93,10 @@ The first 4 rows should have a green check, the 5th is yellow.
 3. Select the session folder, pix4d folder, and hw\_config file.
 4. Output should be the session folder plug '\_cal'.
 5. Run the calibration maker.
-6. When its done, open the new hw\_config file in the cal folder and look for pix4d calibration at the bottom with new values loaded in rig\_relatives\_deg.
+6. Study the chart that pops up after calibration completes.
+   1. Ensure no line goes past +/- 2.5 degrees
+   2. Make sure the lines do not deviate far from the average (e.g. large slopes, starting far from the average, large discontinuities other than on the turns, etc.)
+7. When its done, open the new hw\_config file in the cal folder and look for pix4d calibration at the bottom with new values loaded in rig\_relatives\_deg.
 
 ## Calibrated Quicktile
 
@@ -110,9 +113,17 @@ The first 4 rows should have a green check, the 5th is yellow.
 
 ## Applying to Camera
 
-1. asdf
+{% hint style="info" %}
+NOTE: This is a good checkpoint to stop and make sure everything looks good before applying the calibration. It is easier to restart now than after applying the hw\_config.
+{% endhint %}
 
-
+1. in the '\_cal' folder, copy the 'h&#x77;_\__&#x63;onfig' file.&#x20;
+   1. Not the original one
+2. Paste the file into the firmware folder on the camera's SD card.
+3. Power cycle the camera to apply the changes.
+4. open the hw\_config file from the 'info' folder on the camera's files and ensure the calibration applied correctly.
+   1. it should say 'Calibration: pix4d'
+   2. The 'rig\_relatives' should be non-zero
 
 
 
