@@ -13,8 +13,7 @@ description: 'Owner: Simon'
 
 ## Needs
 
-* Spacer (with new M3x8 screws and shorter shoulder screw)
-* Sticker
+* Fix numbering
 
 ## Notes
 
@@ -30,20 +29,25 @@ description: 'Owner: Simon'
 
 1. Feed the two cables from the rangefinders through the back opening of the camera pod.
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8908.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Feed the two wires from gimbal through the side hole of the camera pod and in through the back opening.
 
-<figure><img src="../../../.gitbook/assets/IMG_7705 (2).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8909.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Ensure the cut wires on each rangefinder are tucked in a way that they won't be pinched or cause any gaps.
 4. Place the back cover on the camera pod, secure using 4 screws (<mark style="color:yellow;">91698A302 M3x6 Flat Head BLK</mark>) and Loctite.
 
 <figure><img src="../../../.gitbook/assets/IMG_7706 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-5. While pulling the 2 gimbal cables taught, match the mating surfaces between the camera pod and the gimbal. Secure using 4 screws (<mark style="color:yellow;">91698A302 M3x6 Flat Head BLK</mark>) and Loctite.
+5. Cut a 3D printed 45 mil spacer and insert it between the camera pod and gimbal with the wires passing through the middle
 
-<figure><img src="../../../.gitbook/assets/IMG_7708.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_8910.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+6. While pulling the 2 gimbal cables slightly taught, match the mating surfaces between the camera pod and the gimbal, sandwhiching the 3D printed spacer. Secure using 3 longer screws (<mark style="color:yellow;">91698Axxx M3x8 Flat Head BLK</mark>) and 1 shorter screw (<mark style="color:yellow;">91698A302 M3x6 Flat Head BLK</mark>) and Loctite.
+   1. The shorter screw will only have a couple threads worth of engagement, be careful not to overtighten and strip the threads.
+
+<div><figure><img src="../../../.gitbook/assets/IMG_8911.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_8912.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 6. Double check that 6 cables are present:
    1. gimbal micro-coax from back opening.
@@ -52,13 +56,15 @@ description: 'Owner: Simon'
    4. 2 micro-coax cables from the cameras.
    5. If any are missing, refer to previous steps to find how to correct it.
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8913.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 7. Secure the other side of the camera pod using the shoulder screw, bearing, and Loctite.
+   1. If using the 45 mil spacer, use a smaller shoulder screw (<mark style="color:yellow;">XXXXX Shoulder Screw</mark>)
 
 <figure><img src="../../../.gitbook/assets/IMG_7707.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 8. Attach the gimbal micro-coax to the center board in the rear-center position.
+   1. It is easier to attach this before attaching the board to the pod to avoid accidentally dropping the wire into the back cover.
 
 <mark style="color:red;">Picture here</mark>
 
@@ -108,7 +114,11 @@ The two micro-coax cables are different sized and therefore should only plug in 
 15. Organize the cables as shown.
     1. Tuck the gimbal I/O micro-coax cable into the enclosure behind the board.
     2. Make sure none of the other cables are pinched or creased. They can rest higher up as the rear cover allows some space for them.
-16. Tune the gimbal.
+16. Place a sticker with the correct serial number on the back of the cover as shown.
+
+<figure><img src="../../../.gitbook/assets/IMG_8954.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+15. Tune the gimbal.
     1. Refer to the 'Gimbal Tuning' page for this step.
 
 {% content-ref url="4-a-gimbal-tuning.md" %}

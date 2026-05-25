@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 🚧 1 PixelScout 65R Focusing
+# ✅ 1 PixelScout 65R Focusing
 
 ## Changes required:
 
@@ -125,8 +125,13 @@ For example, adjusting the current frame may put the previous frame in the blank
 
 <figure><img src="../../../.gitbook/assets/image (23).png" alt="" width="386"><figcaption></figcaption></figure>
 
-27. Perform Bad Pixel Replacement and save these files to the serial numbered focus artifact folder.
-    1. [bad-pixel-replacement.md](bad-pixel-replacement.md "mention")
-28. Upload the entire serial-numbered focus artifact folder to taurus in the following folder.
+27. Upload the entire serial-numbered focus artifact folder to taurus in the following folder.
     1. "\as-taurus.jdnet.deere.com\Production\Sensors\21030-XX -- 65R Sensor\21030-04"
 
+
+
+## Next Steps
+
+1. Ensure Bad Pixel Replacement is performed soon after. It is easiest to do this before putting the cameras on any gimbals.
+
+[bad-pixel-replacement.md](bad-pixel-replacement.md "mention")

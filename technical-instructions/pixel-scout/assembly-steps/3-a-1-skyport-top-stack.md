@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 3-A-1 Skyport Top Stack
+# ✅ 3-A-1 Skyport Top Stack
 
 ## Required Materials
 
@@ -43,7 +43,7 @@ This assembly is very close to a normal Skyport top stack with 2 exceptions:
 
 6. Place the cover back on top of the Skyport to avoid damaging the port.
 
-<mark style="color:red;">Pictures here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_8906.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 7. Carefully plug in the PSDK cable to the board in the Skyport.
 

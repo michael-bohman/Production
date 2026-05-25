@@ -17,11 +17,7 @@ layout:
     visible: true
 ---
 
-# 🚧 Initial Setup
-
-## Things to Change
-
-add sticker
+# ✅ Initial Setup
 
 ## Required Equipment
 
@@ -230,6 +226,14 @@ Note: The position must be sent to the provider for this to work.
 | <img src="../../../.gitbook/assets/IMG_0019.PNG" alt="" data-size="original">     | <img src="../../../.gitbook/assets/IMG_0020.PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0021.PNG" alt="" data-size="original"> |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | <img src="../../../.gitbook/assets/IMG_0022 (1).PNG" alt="" data-size="original"> | <img src="../../../.gitbook/assets/IMG_0023.PNG" alt="" data-size="original"> |                                                                               |
+
+### Sticker
+
+1. Apply a PixelScout or WeedScout sticker as shown with the correct serial number from before.
+
+<figure><img src="../../../.gitbook/assets/IMG_8323.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 Emlid Reach RS3 Base Station is now configured for PixelScout use.
 

@@ -140,7 +140,13 @@ The BPR programs are used for creating and applying bad pixel replacement to 65R
 
 </details>
 
+<details>
 
+<summary>Exif Tool GUI (in progress)</summary>
+
+
+
+</details>
 
 
 
