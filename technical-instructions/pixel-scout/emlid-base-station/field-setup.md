@@ -89,3 +89,5 @@ In the <mark style="color:blue;">Settings</mark> menu, ensure the IMU is off and
 <div><figure><img src="../../../.gitbook/assets/IMG_0035 (5).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_0042.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 </details>
+
+9. Wait 2 minutes after 'fix' is achieved for the averaging process to finish. The progress can be found in the '<mark style="color:$primary;">Base Settings</mark>' tab.

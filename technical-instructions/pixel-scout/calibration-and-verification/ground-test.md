@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 Ground Test
+# ✅ Ground Test
 
 ## Materials/Equipment Needed
 
@@ -15,7 +15,7 @@ description: 'Owner: Simon'
 
 This instruction set assumes the reader is already familiar with setting up and flying a DJI drone and may not give enough context for someone to learn how to do so.
 
-Do this outside to ensure the system can reach an RTK FIX solution.
+Do this outside and in an open area to ensure the system can reach an RTK FIX solution.
 
 
 
@@ -40,7 +40,7 @@ This is so that the base station has time to reach RTK status before you are rea
 
 1. Attach the gimbal to the drone using the Skyport connection (push up and twist).
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_9048.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Clip the antenna to the legs of the drone with the lights facing forward and the sticker saying 'This side faces rear' facing rear. Tilt the antenna down and aft.
 
@@ -64,11 +64,11 @@ This is so that the base station has time to reach RTK status before you are rea
 
 4. Plug in the antenna to the back of the gimbal and ensure it is secure.
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_9049.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 5. Set up all the regular things of a normal drone flight (arms, etc.)
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_9050.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 6. Turn on the drone and hand controller.
 

@@ -228,8 +228,9 @@ Secondary Settings
     2. Ensure the bpr\_map.csv file is in the folder alongside the hw\_config file.
     3. In a browser, go to <mark style="color:$primary;">192.168.5.141</mark> and <mark style="color:$primary;">192.168.5.142</mark>
     4. Go to the <mark style="color:$primary;">Image Adjustment</mark> tab and ensure <mark style="color:$primary;">Bad Pixel Replacement</mark> is checked.
+    5. If there is any issues with this step, refer to [bad-pixel-replacement.md](bad-pixel-replacement.md "mention").
 
-<mark style="color:red;">Screenshot here</mark>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 100117.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Ground Radio
 

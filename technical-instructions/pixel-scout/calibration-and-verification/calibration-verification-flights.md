@@ -40,15 +40,16 @@ description: 'Owner: Simon'
    10. Save this flight plan.
 3. Ensure the antenna lights show 4 green and the cameras started a session.
 4. Ensure the ground module shows 3 solid green lights and the Emlid Flow app shows a 'FIX' status.
-5. Take off manually and fly figure 8s around the area you are flying for at least 3 minutes. This is to let the GPS have a more accurate yaw measurement immediately.
+5. Ensure RTK is enabled and connected using the hand controller.
+6. Take off manually and fly figure 8s around the area you are flying for at least 3 minutes. This is to let the GPS have a more accurate yaw measurement immediately.
    1. Note: It may also help to manually fly a similar path to the flight plan for the same amount of time. In the future, there may be a premade plan for this.
-6. Fly the flight plan ending in 'a'.
+7. Fly the flight plan ending in 'a'.
    1. The flight plan can be started while the drone is hovering in air. You do not need to land before starting.
    2. When it starts, ensure pictures are being taken. Listen to audible shutter sounds and look for an increasing photo count.
-7. When the first flight route is complete, before the drone lands, hit the pause button on the controller.
-8. Go to the flight plan library and start the plan ending in 'b'.
+8. When the first flight route is complete, before the drone lands, hit the pause button on the controller.
+9. Go to the flight plan library and start the plan ending in 'b'.
    1. Ensure pictures are being taken in the same way.
-9. Once the second flight plan finishes, let the drone land, turn it off, and pack everything up.
+10. Once the second flight plan finishes, let the drone land, turn it off, and pack everything up.
 
 
 

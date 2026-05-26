@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 📷 Initial Setup
+# ✅ Initial Setup
 
 ## Required Equipment
 
