@@ -64,7 +64,7 @@ Delete any lines that are not in the package and update the QTY to match the QTY
 {% step %}
 ### Record the receiver
 
-Scroll down to “Comments”. In Comments Box under any information that is present, type “Received by” along with your initials. Also take note that the comments may contain additional instructions that must be followed after receiving the PO and placing the items in inventory.&#x20;
+Scroll down to “Comments”. In Comments Box under any information that is present, type “Received by” along with your initials. Also take note that the comments may contain additional instructions that must be followed after receiving the PO and placing the items in inventory. If you do not know how to complete the instructions or you do not have access, Post a slack message in Production channel the PO number and that it was received but you need someone to review the receipt and complete the additional instructions for the PO.&#x20;
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
