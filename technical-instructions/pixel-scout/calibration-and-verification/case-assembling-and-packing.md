@@ -62,12 +62,25 @@ When flying systems for calibration or verification, use these steps for packing
 <div><figure><img src="../../../.gitbook/assets/IMG_9031.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_9032.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 4. Apply hot glue to the top of the PixelScout case as shown. It is easiest to do one side at a time so the glue doesn't dry before securing the foam.
+
+<figure><img src="../../../.gitbook/assets/IMG_9033.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 5. Place the bottom foam into the case. Push on the lower levels of the cutouts.
+
+<figure><img src="../../../.gitbook/assets/IMG_9036.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 6. Close the case to apply pressure to the top foam while the glue sets.
 7. While the glue is setting, apply the stickers to the outside of the case as shown.
    1. Note: the top sticker, 25430 may need to be trimmed to fit.
    2. Note: orient the sticker as shown so it is right-side up when the case is open.
-8. Cut a slot in the foam so the antenna limo cable can fit.
+
+<figure><img src="../../../.gitbook/assets/IMG_9035.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<div><figure><img src="../../../.gitbook/assets/IMG_9037.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_9038.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+6. Cut a slot in the foam so the antenna limo cable can fit.
+
+<div><figure><img src="../../../.gitbook/assets/IMG_9039.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_9040.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Final Packing
 
