@@ -1,4 +1,14 @@
+---
+description: 'Owner: Simon'
+---
+
 # 📷 3-B F9P Board Programming
+
+Things Needed:
+
+* Plugging Everything in
+* Select the COM port
+* Select the firmware update file
 
 ## Required Equipment/Materials
 
@@ -43,18 +53,39 @@ The file uploaded to the antenna GNSS board is the same for the PixelScout syste
 4. Ensure the box at the bottom shows a green symbol and displays a baud rate
    1. If not, refer to the Fault Isolation Manual
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 163236.png" alt=""><figcaption></figcaption></figure>
 
 5. At the top, click Tools>Firmware Update...
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 163252.png" alt="" width="375"><figcaption></figcaption></figure>
+
 6. In the new window, click on the 3 dots next to the 'Firmware image' box.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 163516.png" alt="" width="375"><figcaption></figcaption></figure>
+
 7. Find the File and click 'Open'.
+
+<mark style="color:$danger;">Picture Here</mark>
+
 8. To speed up the update process, a higher baud rate may be used, just ensure that it updated correctly afterwards.
    1. 921600 baud results in \~1 minute
    2. 9600 baud results in \~25 minutes
-9. Click 'GO' at the bottom
-10. Once the update has completed, at the top, go to View>Messages View>UBX>MON>VER
-    1. Verify the Version number is 1.51
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 163516_2.png" alt="" width="375"><figcaption></figcaption></figure>
+
+9. Uncheck all 4 options next to the baud rate.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 163516_3.png" alt="" width="375"><figcaption></figcaption></figure>
+
+10. Click 'GO' at the bottom
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 163516_4.png" alt="" width="375"><figcaption></figcaption></figure>
+
+8. Once the update has completed, at the top, go to View>Messages View>UBX>MON>VER
+   1. Verify the Version number is 1.51
 
 {% hint style="info" %}
 The tree viewer is slightly too skinny. Use the scroll bar at the bottom to slide left and minimize the NMEA branch.
 {% endhint %}
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-05-25 154001 (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 162730 (1).png" alt="" width="323"><figcaption></figcaption></figure></div>

@@ -30,7 +30,7 @@
     * [✅ 4-B Antenna Assembly](technical-instructions/pixel-scout/assembly-steps/4-b-antenna-assembly.md)
     * [📷 5 System Configuration](technical-instructions/pixel-scout/assembly-steps/5-system-configuration.md)
   * [Calibration and Verification](technical-instructions/pixel-scout/calibration-and-verification/README.md)
-    * [📷 Case Assembling and Packing](technical-instructions/pixel-scout/calibration-and-verification/case-assembling-and-packing.md)
+    * [✅ Case Assembling and Packing](technical-instructions/pixel-scout/calibration-and-verification/case-assembling-and-packing.md)
     * [✅ Ground Test](technical-instructions/pixel-scout/calibration-and-verification/ground-test.md)
     * [📷 Calibration/Verification Flights](technical-instructions/pixel-scout/calibration-and-verification/calibration-verification-flights.md)
     * [🚧 Calibration (Pix4d)](technical-instructions/pixel-scout/calibration-and-verification/calibration-pix4d.md)

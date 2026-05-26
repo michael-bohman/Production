@@ -241,6 +241,7 @@ The files for this section are in the '2. Ground Radio' folder in the configurat
       1. [3-c-p900-radio-programming.md](3-c-p900-radio-programming.md "mention")
    2. Check that the radio is configured properly by plugging it into a laptop using a usb-c cable and turn on the drone.
       1. The ground radio should switch from scrolling to solid green.
+      2. This step is the same as step 2 of the Boom steps. It only needs to be accomplished once.
 
 ### Boom (Antenna)
 
@@ -261,7 +262,7 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
    3. Turn off the drone and ensure the ground radio returns to scrolling lights.
       1. This makes sure that it was the antenna that the radio was connected to.
 
-<mark style="color:red;">Pictures here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_9051.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 3. U-blox
    1. Ensure the firmware on both the Rover and Moving base are up to date (HPG-1.51 release)
@@ -281,7 +282,7 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
 
 <div><figure><img src="../../../.gitbook/assets/Screenshot 2026-04-08 143250.png" alt="" width="474"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-05-25 154001.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<mark style="color:red;">more pictures here</mark>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-05-26 162730.png" alt="" width="323"><figcaption></figcaption></figure>
 
 
 
