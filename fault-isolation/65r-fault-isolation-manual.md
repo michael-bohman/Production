@@ -23,3 +23,32 @@ You can add ' -t' to the end of it to run it continuously so you can monitor the
 4. If there are only 2 things on this page, it is likely that the computer is not seeing the device.
 
 </details>
+
+<details>
+
+<summary>One side of picture out of focus</summary>
+
+65R imager boards have been showing up with tilted imagers on the imager board. This causes on side of the frame to be out of focus compared to the other side.
+
+
+
+Replace Imager board.
+
+
+
+Possibly apply kapton tape to low side to level the imager.
+
+</details>
+
+<details>
+
+<summary>Red stripped image, then black</summary>
+
+During focusing, the first image taken was a weird, red, stripped image and every image after that was black.
+
+<div><figure><img src="../.gitbook/assets/IMG_0001 (1).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_0002 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+This camera was fixed by replacing the imager board.
+
+</details>
+
