@@ -1,5 +1,23 @@
 ---
 description: '21263-01 - Page Owner: Simon'
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # ✅ 2-B Gimbal Frame Assembly

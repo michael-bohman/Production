@@ -2,7 +2,7 @@
 description: '21281-00 - Page Owner: Simon'
 ---
 
-# 📷 Case Packing
+# 📷 Case Assembling and Packing
 
 ## Notes
 
@@ -18,11 +18,20 @@ When flying systems for calibration or verification, use these steps for packing
 
 1. Use the production cases marked with orange tape.
 2. Place the gimbal in the leftmost area.
+
+<figure><img src="../../../.gitbook/assets/IMG_9044.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 3. Place the antenna assembly in the lid foam.
    1. Close the leg clasps before inserting.
    2. Secure using the orange Velcro straps.
    3. Tuck the cable into the slot cut in the foam and store the connector in the oval hole.
+
+<figure><img src="../../../.gitbook/assets/IMG_9046.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 4. Ensure both a small and long USB-C cable marked 'Production' with orange tape are in the case.
+
+<figure><img src="../../../.gitbook/assets/IMG_9043.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 5. Assemble and place the tripod into the large, long slot in the case foam.
    1. Attach the clamp high up (\~0.5" from the top) on the leg between the locking screw and hand crank.
    2. Screw the Ground module onto the clamp.
@@ -30,7 +39,35 @@ When flying systems for calibration or verification, use these steps for packing
    4. Screw on the adapter and tighten using vice grips and paper towels to protect the adapter.
    5. screw the Emlid Base Station on top of the tripod.
 
+<figure><img src="../../../.gitbook/assets/IMG_9045.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+## Case Assembling
+
+### Top Foam
+
+1. Assemble the straps according to drawing number 21286.
+   1. Slide an 8-inch strip of Orange, 3/4-inch Velcro until 2 inches of it are hanging outside the edge of the clip.
+   2. Fill the center with hot glue.
+
+<figure><img src="../../../.gitbook/assets/IMG_9027.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+2. Insert the Velcro through the back of the foam with the longer side on the bottom and make a loop.
+
+<figure><img src="../../../.gitbook/assets/IMG_9028.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+3. Apply hot glue between the clip and the foam and pull the Velcro to secure the clip to the foam.
+
+<figure><img src="../../../.gitbook/assets/IMG_9030.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<div><figure><img src="../../../.gitbook/assets/IMG_9031.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_9032.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+4. Apply hot glue to the top of the PixelScout case as shown. It is easiest to do one side at a time so the glue doesn't dry before securing the foam.
+5. Place the bottom foam into the case. Push on the lower levels of the cutouts.
+6. Close the case to apply pressure to the top foam while the glue sets.
+7. While the glue is setting, apply the stickers to the outside of the case as shown.
+   1. Note: the top sticker, 25430 may need to be trimmed to fit.
+   2. Note: orient the sticker as shown so it is right-side up when the case is open.
+8. Cut a slot in the foam so the antenna limo cable can fit.
 
 ## Final Packing
 

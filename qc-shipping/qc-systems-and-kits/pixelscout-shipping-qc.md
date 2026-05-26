@@ -219,6 +219,6 @@ Current firmware version: 4.5.1
 
 ## Checking the Case
 
-Refer to [#final-packing](../../technical-instructions/pixel-scout/calibration-and-verification/case-packing.md#final-packing "mention") for a guide on packing the case. Ensure the case follows this guide correctly.
+Refer to [#final-packing](../../technical-instructions/pixel-scout/calibration-and-verification/case-assembling-and-packing.md#final-packing "mention") for a guide on packing the case. Ensure the case follows this guide correctly.
 
 (in the future, may copy everything to this page.
