@@ -96,7 +96,7 @@
 * [QC Systems and Kits](qc-shipping/qc-systems-and-kits/README.md)
   * [Reflectance Panel Shipping QC](qc-shipping/qc-systems-and-kits/reflectance-panel-shipping-qc.md)
   * [Astro Legs Shipping QC](qc-shipping/qc-systems-and-kits/astro-legs-shipping-qc.md)
-  * [RTK Shipping QC](qc-shipping/qc-systems-and-kits/rtk-shipping-qc.md)
+  * [RTK/PPK Shipping QC](qc-shipping/qc-systems-and-kits/rtk-ppk-shipping-qc.md)
   * [PixelScout Shipping QC](qc-shipping/qc-systems-and-kits/pixelscout-shipping-qc.md)
 * [Shipping Labels](qc-shipping/shipping-labels.md)
 * [Receiving Purchase Orders](qc-shipping/receiving-purchase-orders.md)
