@@ -50,6 +50,64 @@
 
 {% file src="../../.gitbook/assets/060.pdf" %}
 
+### IF800 Case Kit Check
+
+1. IF800 Kit, confirm items in plastic bags according to the following.
+   1. IF800 Large Bag (5x10)
+      1. 1x 1.5’ USB-C to USB-C Cable
+      2. 1x 3’ USB-C to USB-A Cable
+      3. 1x 6” Antenna Cable
+      4. 1x 4” USB-C to USB-A 90-degree cable
+      5. 1x Leg Cable Clip
+   2. IF800 Small Bag&#x20;
+      1. 1x Alcohol Wipe
+      2. 1x Mini Slotted Screwdriver
+      3. 1x Adhesive-backed Cable Clip
+2. Final Case Assembly
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+### IF1200 Case Kit Check
+
+1. IF1200 Kit, confirm items in plastic bags according to the following
+   1. IF1200 Large Bag (5x10)
+      1. 1x 3’ USB-C to USB-C Cable
+      2. 1x 3’ USB-C to USB-A Cable
+      3. 1x 18” Antenna Cable with Bracket (Build bracket as shown below before packing)
+      4.
+
+          <figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+      5. 1x 4” USB-C to USB-A 90-degree cable
+      6. 2x Leg Cable Clip
+   2. IF1200 Small Bag
+      1. 1x Alcohol Wipe
+      2. 1x Mini Slotted Screwdriver
+      3. 2x Adhesive-backed Cable Clip
+      4. 1x 3mm Hex L-key
+2. Final Case Assembly
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+
+
 ### Address Confirmation
 
 1. Confirm the shipping label is the same as the address on the sales order
