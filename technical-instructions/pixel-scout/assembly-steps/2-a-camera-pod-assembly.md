@@ -46,8 +46,8 @@ These instructions end with two separate components, the back with the rangefind
 
 <figure><img src="../../../.gitbook/assets/IMG_7861 mod.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Attach the Cameras to the camera pod assembly in their designated mounts. Secure using 4 screws (<mark style="color:yellow;">91249A615 2-56 x 5/32" Pan Head Blk</mark>) or (<mark style="color:yellow;">92010A002 M2x5 Flat Head</mark>) EACH and Loctite.
-   1. hold the cameras in place and insert the screws about halfway with Loctite before going back and tightening all of them.
+4. Attach the Cameras to the camera pod assembly in their designated mounts. Secure using 4 screws (<mark style="color:yellow;">93085A015 2-56x.188" Flat Head from #22 of 6X screw bin</mark>) EACH and Loctite.
+   1. Hold the cameras in place and insert the screws about halfway with Loctite before going back and tightening all of them.
    2.  It may be easiest to screw in the back ones first.
 
        <figure><img src="../../../.gitbook/assets/IMG_7655.jpg" alt="" width="375"><figcaption></figcaption></figure>
