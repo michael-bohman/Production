@@ -14,7 +14,7 @@
 
 Print out one 27300\_Sentera\_RTK\_PPK\_Module\_Checkout document for each module being tested.
 
-
+{% file src="../../.gitbook/assets/27300_Sentera_RTK_PPK_MODULE_CHECKOUT_Rev_A.pdf" %}
 
 ## QC Check
 
