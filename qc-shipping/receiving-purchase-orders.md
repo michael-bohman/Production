@@ -1,3 +1,7 @@
+---
+description: 'Owner: Kristen'
+---
+
 # Receiving Purchase Orders
 
 ## PROCESS FOR RECEIVING ITEMS IN SOS INVENTORY

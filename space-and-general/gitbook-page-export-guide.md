@@ -1,7 +1,8 @@
 ---
 description: >-
   This guide will instruct how to export production documents from the gitbook
-  page to a printable PDF.
+  page to a printable PDF.  Owner: Simon
+hidden: true
 ---
 
 # Gitbook Page Export Guide

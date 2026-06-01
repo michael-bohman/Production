@@ -1,7 +1,5 @@
 ---
-description: >-
-  In this section, there are checklists for all the required information inputs
-  for Fedex and UPS shipping label creation.
+description: 'Owner: Kristen'
 ---
 
 # Shipping Labels
@@ -22,7 +20,9 @@ description: >-
 
 </details>
 
+In this section, there are checklists for all the required information inputs for Fedex and UPS shipping label creation.
 
+##
 
 ## Common Question&#x20;
 
