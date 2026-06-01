@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 5 System Configuration
+# ✅ 5 System Configuration
 
 ## Required Materials
 
@@ -254,7 +254,7 @@ The files for this section are in the '3. Boom (Antenna)' folder in the configur
    4. Power the board either using the drone/gimbal or the barrel jack on the bottom.
    5. Run the .bat program
 
-<mark style="color:red;">Pictures here</mark>
+<div><figure><img src="../../../.gitbook/assets/IMG_9080.jpeg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_9081.jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2. P900
    1. Ensure the P900 board on the antenna is configured correctly

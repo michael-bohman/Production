@@ -2,7 +2,7 @@
 description: 'Owner: Simon'
 ---
 
-# 📷 3-A End Gimbal Assembly
+# ✅ 3-A End Gimbal Assembly
 
 ## Required Items
 
@@ -66,7 +66,7 @@ description: 'Owner: Simon'
 9. Attach the gimbal micro-coax to the center board in the rear-center position.
    1. It is easier to attach this before attaching the board to the pod to avoid accidentally dropping the wire into the back cover.
 
-<mark style="color:red;">Picture here</mark>
+<figure><img src="../../../.gitbook/assets/IMG_9079.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 10. Place the center board in place, making sure no wires are pinched. Feed the excess from the gimbal micro-coax into the rear cover. Secure the board using 4 screws (<mark style="color:yellow;">94017A101 M2x4 N Cheese</mark>) and Loctite.
 
