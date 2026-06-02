@@ -8,6 +8,31 @@ description: >-
 
 <details>
 
+<summary>Template Guide</summary>
+
+At the top, a page where the software is used may be included, use this format:
+
+[software-installation-guide.md](software-installation-guide.md "mention")
+
+
+
+You may include downloadable files for small softwares such as single scripts here:
+
+
+
+Include a guide on how to download and/or install the software here:
+
+1. a
+2. b
+3. c
+
+\
+Include any special notes/settings that need to be accounted for or changed in the software.
+
+</details>
+
+<details>
+
 <summary>U-Center (v25.06)</summary>
 
 U-Center is used for programming the Z9P GPS boards for the RTK/PPK Air Modules
