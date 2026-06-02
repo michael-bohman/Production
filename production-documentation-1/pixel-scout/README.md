@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Pixel Scout
+# 🚧 Pixel Scout
 
 <figure><img src="../../.gitbook/assets/IMG_8022.jpeg" alt=""><figcaption></figcaption></figure>
 

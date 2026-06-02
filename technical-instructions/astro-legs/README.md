@@ -28,7 +28,7 @@ description: '11604 Owner: Amanda Janssen'
 
 1. Using the power drill and sanding bits, scratch the inside of the T joint.
 
-> ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
+> ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
 
 2. Cut paper towels into pieces
 

@@ -29,7 +29,7 @@ For Regular 6X visit [.](./ "mention")
 2. Remove the filter from packaging and ensure it is free from all debris, damage, and prints.
    1. Orient the filter with the lettering facing down as shown. This is how it will be installed in the lens mount.
 
-> ![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+> ![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
 
 3. Place the filter in the corresponding position on the lens mount.
    1. Secure the filter with 3 contact points of UV glue on the very edge of the lens.
@@ -163,7 +163,7 @@ The shroud will be attached after Focusing Step&#x20;
    1. Secure magnets in place with Loctite 401
    2. Place the Sentera Sticker over the magnets&#x20;
 
-> ![](<../../../.gitbook/assets/image (6) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+> ![](<../../../.gitbook/assets/image (6) (1).png>)   ![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 
 6. Insert spacers&#x20;
    1. For 6XT -> loctite (401) the spacer on the inside of the shroud

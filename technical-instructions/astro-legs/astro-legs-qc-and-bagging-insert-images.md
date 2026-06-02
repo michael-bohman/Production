@@ -72,4 +72,4 @@ Try to keep the staples on either side of the Sentera logo.
    2. Put the 2 images before bagging and the final image after bagging in the new folder&#x20;
    3.
 
-       <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

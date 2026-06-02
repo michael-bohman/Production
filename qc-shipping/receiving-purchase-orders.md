@@ -50,7 +50,7 @@ Another option to find your PO will be to use the Quick Search field. Enter the 
 
 Click on the down arrow by the “Edit” tab, that should drop down option for you to receive item. Click on “Receive” and it should take you to “Item Receipt” page with PO# on the top right of web page.&#x20;
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 {% endstep %}
 
 {% step %}

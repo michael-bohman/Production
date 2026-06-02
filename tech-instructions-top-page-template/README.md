@@ -6,7 +6,7 @@ description: All Assembly Numbers
 
 ### Picture of Item for cover page
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@ description: All Assembly Numbers
 
 ## Drawings
 
-{% content-ref url="../../space-and-general/drawings.md#id-6x-thermal-greater-than-21216" %}
-[#id-6x-thermal-greater-than-21216](../../space-and-general/drawings.md#id-6x-thermal-greater-than-21216)
+{% content-ref url="../space-and-general/drawings.md#id-6x-thermal-greater-than-21216" %}
+[#id-6x-thermal-greater-than-21216](../space-and-general/drawings.md#id-6x-thermal-greater-than-21216)
 {% endcontent-ref %}
 

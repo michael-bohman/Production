@@ -38,13 +38,32 @@ description: 'Owner: Simon'
    1. Change the IP Address to 192.168.42.1 if not already set.
    2. Save and close notepad.
 4. Run the bpr pictures program and follow the instructions.
-5. Save the pictures created to a '\[PixelScout SN] BPR' folder on your local machine.
+5. Save the pictures created to a BPR folder on your local machine.
+
+<figure><img src="../../../.gitbook/assets/image (208).png" alt="" width="339"><figcaption></figcaption></figure>
 
 ### Processing
 
 1. Open the 'bad\_pixel\_map\_gui.exe' application.
 2. For the input folder, navigate to and open the folder containing the 6 pictures taken earlier.
 3. Either choose an output folder or leave it blank for a new folder right next to the input folder titled '\[input folder name]\_bad\_pixels'
+4. Click 'Run'
+
+<figure><img src="../../../.gitbook/assets/image (209).png" alt="" width="375"><figcaption></figcaption></figure>
+
+5. Ensure the program completes successfully and the number of bad pixels is reasonable.
+   1. Number of bad pixels is usually in the hundreds but good ones are still >\~20
+
+<figure><img src="../../../.gitbook/assets/image (210).png" alt="" width="375"><figcaption></figcaption></figure>
+
+6. Ensure a folder has been created and has everything in it.
+   1. If output was left blank, it should be next to the input folder with name '\[input folder name]\_bad\_pixels'
+
+<figure><img src="../../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 
 
@@ -65,3 +84,5 @@ description: 'Owner: Simon'
    1. This photo does not need to be of anything specific.
 4. Open a metadata viewer and navigate to the photo you just took.
 5. Look for the 'BPREnabled' XMP tag and ensure it is set to '1'.
+
+<figure><img src="../../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
