@@ -2,7 +2,11 @@
 description: 'Owner: Amanda Janssen'
 ---
 
-# ✅ Astro Legs QC and Bagging (Insert Images)
+# ✅ Astro Legs QC and Bagging&#x20;
+
+{% hint style="info" %}
+Note: This step should be completed by someone that did not build the Astro legs
+{% endhint %}
 
 ## QC&#x20;
 
