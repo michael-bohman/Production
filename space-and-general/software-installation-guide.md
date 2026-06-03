@@ -16,6 +16,10 @@ At the top, a page where the software is used may be included, use this format:
 
 
 
+Include any other software/programs required alongside the software/program (e.g. java required for basecam partner assistant)
+
+
+
 You may include downloadable files for small softwares such as single scripts here:
 
 
@@ -80,7 +84,21 @@ Java v1.8.0 or higher is required for many programs that we use. Most notably, t
 
 
 
-1.
+{% hint style="info" %}
+Basecam Partner Assistant requires 32 bit version
+{% endhint %}
+
+1. Go to the following link
+
+{% embed url="https://www.java.com/en/download/manual.jsp" %}
+
+or https://www.java.com/en/download/manual.jsp if the link doesn't work.
+
+2. Download the Windows Offline version (non-64bit).
+
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+
+3. Open the downloaded file and follow the steps.
 
 </details>
 
@@ -168,6 +186,31 @@ The BPR programs are used for creating and applying bad pixel replacement to 65R
 <details>
 
 <summary>Exif Tool GUI (in progress)</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Basecam Partner Assistant</summary>
+
+
+
+
+
+download from taurus:
+
+"\as-taurus.jdnet.deere.com\Production\Technical Packages\6X AND 65R GIMBAL\IN PROGRESS\6X AND 65R GIMBAL - Technical Data Package - ######\PROGRAMMING\Prerequisites and Programs\BasecamPartnerAssistant"
+
+
+
+Needs:&#x20;
+
+* Java 1.8.0 Runtime (need to download 32 bit one NOT 64 bit) [#java-1.8.0-runtime-in-progress](software-installation-guide.md#java-1.8.0-runtime-in-progress "mention")
+* C++ 2008 distributable (2008 distributable folder next to partner assistant folder in taurus)
+
+
 
 
 
