@@ -121,6 +121,7 @@ If the intended serial number is not know, click on <mark style="color:blue;">We
 11. Once you have reached the screen that says 'Finished!' and 'Congratulations! You have finished configuring the board!'. Click <mark style="color:blue;">Cancel</mark>
 12. Disconnect all the connections to the board, power first.&#x20;
 13. Carefully flip the switch on the board to OFF
+14. Place motor controller back in static bag, label completed
 
 ### IMU Calibration Guide
 
@@ -133,12 +134,14 @@ This instruction set is the same for 6X and 65R cameras, pictures show the 65R.
 {% endhint %}
 
 1. Set up the leveling board.
-   1. Screw in all feet completely and unscrew 2 adjacent feet at the same time as needed to level the board
-2. Install the Calibration Jig on the camera using at least 2 screws, ensuring it will not move inside of it.
+   1. Screw in all feet completely and unscrew 2 adjacent feet at the same time as needed to level the board&#x20;
+   2. <mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
 
 {% hint style="warning" %}
 The built-in level in the board is not accurate, an external level should be used for an accurate orientation.
 {% endhint %}
+
+* Install the Calibration Jig on the camera using at least 2 screws, ensuring it will not move inside of it.
 
 3. Plug in all the required connections:
    1. AC Adapter (12V) into outlet.
@@ -146,34 +149,44 @@ The built-in level in the board is not accurate, an external level should be use
    3. Motor controller board to USB cable via Y adapter cable.
    4. Motor controller board to AC Adapter via Y adapter cable.
       1. Connect Anderson Power Pole connector LAST.
-   5.  Motor controller to camera via cable.
 
-       <figure><img src="../../../.gitbook/assets/image (35).png" alt="" width="407"><figcaption></figcaption></figure>
-4. Open the 'Simple BGC GUI v2.7.0' program.
-5. Select the COM port associated with the TTL cable and click 'Connect'.
-6. Some errors might be present. This is OK. Just click 'OK'.
-7. At the top, go to 'Board'>'Backup Manager'.
-8. In the 'Restore from Backup' section, click 'Browse'.
-9. Find and upload the correct EEPROM file.
-   1. 65R EEPROM: '65RMotorController.data'.
-   2. 6X EEPROM: 'asdf'.
-   3. Navigate through the 'Essentials' folder on the desktop of Brandon's laptop.
-10. Click 'Restore'.
-11. After this finishes, close the backup window and go to the 'Hardware' tab.&#x20;
-12. Click 'Calibrate IMU Sensors...'.
+<mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
 
-{% hint style="warning" %}
-Only use the left side of the IMU Calibration window. DO NOT click anything on the right side. Only use the right side for using the bar visual.
+4. Motor controller to camera via cable. <mark style="color:$danger;">(Change picture)</mark>
+
+<figure><img src="../../../.gitbook/assets/image (35).png" alt="" width="407"><figcaption></figcaption></figure>
+
+5. Open the <mark style="color:blue;">Simple BGC GUI v2.7.0</mark> program.
+6. Select the COM port associated with the TTL cable&#x20;
+7. Click <mark style="color:blue;">Connect</mark>
+8. One error will occur when connect, this is normal
+   1. <mark style="color:$danger;">(Insert Pic of error that should pop up)</mark>
+9. At the top, click <mark style="color:blue;">Board -> then Backup Manager</mark>
+10. In the <mark style="color:blue;">Restore from Backup</mark> section, click <mark style="color:blue;">Browse</mark>
+11. Find and upload the correct EEPROM file.
+    1. 65R EEPROM: 65RMotorController.data
+    2. 6X EEPROM: 6XMotorConteroller.data
+    3. If location does not automatically appear follow this location
+       1. _6X AND 65R GIMBAL - Technical Data Package - ######\PROGRAMMING\Prerequisites and Programs\EEPROM_
+12. Click <mark style="color:blue;">Restore</mark>
+    1. The screen should say 'Successfully restored from backup' when finished
+13. After this finishes, close the backup window and go to the <mark style="color:blue;">Hardware tab</mark>
+14. Click <mark style="color:blue;">Calibrate IMU Sensors</mark>
+
+{% hint style="danger" icon="hand" %}
+Only use the left side of the IMU Calibration window. DO NOT click anything on the right side. Only use the right side for viewing the bar.
 {% endhint %}
 
-13. In the new window, on the left side, click 'Reset'.
+13. On the left side, click <mark style="color:blue;">Reset</mark>
+    1. All the blue check marks should disappear
 14. Calibrate the accelerometer.
-    1. Use the calibration jig and rest the camera on each side.
-    2. After the gyroscope gauge rests in the green portion, click on the 'CALIBRATE' button in the 'Acceleromter' section.
+    1. Use the calibration jig and rest the camera on each side. (The blue box should move with each side)
+    2. After the gyroscope gauge (White Line) rests in the green portion, click on the <mark style="color:blue;">Calibrate</mark> in the 'Accelerometer' section.
     3. Repeat for all 6 sides.
-15. After calibration is complete, click 'Close'.
-16. Click 'Disconnect' and disconnect all the connections.
+    4. If you calibrate the line in the red section, please reset and start over.
+15. After calibration is complete, click <mark style="color:blue;">Close</mark>
+16. Click <mark style="color:blue;">Disconnect</mark> and disconnect all the connections, power first.&#x20;
 
 {% hint style="warning" %}
-Try to keep the paried motor controller and camera together. Failing to do so may result in inaccurate calibrations.
+Try to keep the paired motor controller and camera together. Failing to do so may result in inaccurate calibrations.
 {% endhint %}
