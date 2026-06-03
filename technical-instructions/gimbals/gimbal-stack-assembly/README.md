@@ -35,19 +35,25 @@ description: 'Owner: Amanda Janssen'
        <figure><img src="../../../.gitbook/assets/image (171).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
-4. Click connect
-   1. The pink box at the bottom should populate and the 'Connect' button should now say 'Disconnect'.
-5. To the right of the 'Hex File' box, click on 'Browse'.
+4. <mark style="color:blue;">Click connect</mark>
+   1. The pink box at the bottom should populate
+   2. 'Connect' button should now say 'Disconnect'
+5. To the right of the 'Hex File' box, click on <mark style="color:blue;">Browse</mark>.
 6. Find the correct hex file and open it into the program.
    1. Should be the first file you see (pic32-Gimbal2.DEFAULT3.2025073000.hex.)
-   2. \as-taurus.jdnet.deere.com\Production\Technical Packages\6X AND 65R GIMBAL\IN PROGRESS\6X AND 65R GIMBAL - Technical Data Package - ######\PROGRAMMING\Prerequisites and Programs\Hex File
-7. Once hex file is loaded click Program&#x20;
-8. Once the programming process is complete, click 'Disconnect' and unplug the board, power first.
-   1.
+      1. _Location of file if needed: \as-taurus.jdnet.deere.com\Production\Technical Packages\6X AND 65R GIMBAL\IN PROGRESS\6X AND 65R GIMBAL - Technical Data Package - ######\PROGRAMMING\Prerequisites and Programs\Hex File_
+   2. Click <mark style="color:blue;">Open</mark> to load that file&#x20;
+7. Once hex file is loaded click <mark style="color:blue;">Program</mark>&#x20;
+8. The programming process will say completed and the COMs board should have a flashing green light alongside a solid red light.&#x20;
 
-       <figure><img src="../../../.gitbook/assets/image (172).png" alt="" width="563"><figcaption></figcaption></figure>
+{% hint style="danger" icon="hand" %}
+If the green light is not visible then click <mark style="color:blue;">program</mark> again. You should see the programming completed message and the flashing green light when finished.&#x20;
+{% endhint %}
 
+<figure><img src="../../../.gitbook/assets/image (172).png" alt="" width="563"><figcaption></figcaption></figure>
 
+9. Click <mark style="color:blue;">Disconnect</mark> and unplug the board, power first.
+10. Put COMS board back in the Static Bag and mark it completed with Sharpie&#x20;
 
 ## Motor Controller Programming Guide
 
@@ -61,48 +67,60 @@ description: 'Owner: Amanda Janssen'
 
 <mark style="color:$danger;">(Insert image for connections)</mark>
 
-3. Open Partner Assistant.
-4. At the top, click on the upside-down triangle and select the COM port associated with the TTL cable.
+3. <mark style="color:blue;">Open Partner Assistant</mark> and login to your account
+   1. Log into the Webpage now, or wait until future steps for instructions
+4. At the top left corner, if the box is empty, click on the <mark style="color:blue;">upside-down triangle</mark> and select the <mark style="color:blue;">COM port</mark> associated with the TTL cable.
 
 {% hint style="danger" %}
 NOTE: Do NOT click 'Connect'.
 {% endhint %}
 
-5. If the intended serial number is not know, click on 'Web Control Panel'.
-   1. Log in and go to 'Customers'.
-   2. Note the last used serial number for the corresponding part number. Use the following number(s).
-6. Click 'Test Board'.
-7. Select the following board version and click 'Flash'.
+5. Click <mark style="color:blue;">Test Board</mark>
+6. Select the following board version below (Insert Page name)
 
 ```
 3.3 "Tiny+" (256K) - low power, small size board
 ```
 
-{% hint style="info" %}
-If any errors occur, that is OK. Just click next.
-{% endhint %}
-
-8. Select the following license and click 'NEXT >'.
+8. Click <mark style="color:blue;">Flash</mark>&#x20;
+   1. <mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
+9. Select the following license below (Insert page name)
 
 ```
 #2033
 ```
 
-9. Once the 'Board ID' box displays, change the last few numbers to match the intended serial number form step 5. Click 'NEXT >'.
-10. Select the following firmware number and click 'UPLOAD'.
+{% hint style="info" %}
+If any errors occur, that is OK.
+{% endhint %}
+
+<mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
+
+9. Insert Serial number&#x20;
+   1. In the Board ID box, change the last few numbers to the serial number following the last used on the web control panel page. See instructions below if not already logged into control Panel.
+
+<details>
+
+<summary>Web Control Panel (Insert Example)</summary>
+
+If the intended serial number is not know, click on <mark style="color:blue;">Web Control Panel</mark>
+
+1. Log in and go to <mark style="color:blue;">Customers</mark>
+2. This website is only to view the last used serial number for the corresponding part number. In partner assist, use the next number in the series.&#x20;
+
+</details>
+
+<mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
+
+9. Select the following firmware number and click 'UPLOAD'.
 
 ```
 2.70.0
 ```
 
-11. Once you have reached the screen that says 'Finished!' and 'Congratulations! You have finished configuring the board!'. Click 'Cancel'.
-12. Disconnect all the connections to the board.
-
-{% hint style="info" %}
-If camera pairing/IMU Calibration will be performed immediately, everything may stay connected except the power. Disconnect using the Anderson connector for a cleaner disconnect.
-{% endhint %}
-
-13. Carefully flip the switch on the board to 'OFF'.
+11. Once you have reached the screen that says 'Finished!' and 'Congratulations! You have finished configuring the board!'. Click <mark style="color:blue;">Cancel</mark>
+12. Disconnect all the connections to the board, power first.&#x20;
+13. Carefully flip the switch on the board to OFF
 
 ### IMU Calibration Guide
 
