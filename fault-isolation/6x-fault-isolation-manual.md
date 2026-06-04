@@ -61,3 +61,17 @@ You do not need to retake CAL photos. Just retake Focus photos
 2. Load in the CAL, New Focus
 
 </details>
+
+<details>
+
+<summary>Not Starting a session and blinking red lights immediately </summary>
+
+Most likely a bad imager. The boards go from 0-4 for positions.&#x20;
+
+|              |                |
+| ------------ | -------------- |
+| Blue 475 = 0 | 840 =3         |
+| Green 550 =1 | imager-r = RGB |
+| Red 670 =2   | 715 =4         |
+
+</details>
