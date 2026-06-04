@@ -41,6 +41,7 @@
 * [🚧 6X Array](technical-instructions/6x-array/README.md)
   * [Assembly Steps](technical-instructions/6x-array/assembly-steps/README.md)
     * [🚧 Array Gimbal](technical-instructions/6x-array/assembly-steps/array-gimbal.md)
+    * [✅ Gimbal Board Programming](technical-instructions/6x-array/assembly-steps/gimbal-board-programming.md)
 * [6X](production-documentation-1/6x.md)
   * [✅ 6X Assembly Back Half](technical-instructions/6x/6x-assembly-back-half.md)
   * [📷 6X Assembly Front Half ](technical-instructions/6x/6x-assembly-front-half/README.md)
