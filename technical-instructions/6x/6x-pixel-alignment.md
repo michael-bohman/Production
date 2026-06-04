@@ -12,6 +12,12 @@ icon: camera
 | Tripod Camera Mount |     USB-C cable     |
 |       Laptop        |   Wireless Mouse    |
 
+## Prep
+
+1. Ensure image adjustment setting is unchecked on the camera
+
+
+
 ## Guide
 
 ### Capturing Pictures
