@@ -16,7 +16,7 @@ icon: camera
 
 1. Ensure image adjustment setting is unchecked on the camera
 
-
+<figure><img src="../../.gitbook/assets/image (224).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Guide
 
