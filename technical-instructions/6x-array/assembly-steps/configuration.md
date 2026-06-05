@@ -35,11 +35,21 @@ Secondary Camera - 6X (192.168.5.142):
 
 
 
-192.168.5.130
+192.168.5.130 IFT
 
 <figure><img src="../../../.gitbook/assets/image (225).png" alt="" width="233"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (226).png" alt="" width="240"><figcaption></figcaption></figure>
+
+192.168.5.131 DJI
+
+<figure><img src="../../../.gitbook/assets/image (228).png" alt="" width="240"><figcaption></figcaption></figure>
+
+
+
+
+
+
 
 192.168.5.131
 
