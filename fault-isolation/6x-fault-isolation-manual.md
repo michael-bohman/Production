@@ -66,12 +66,27 @@ You do not need to retake CAL photos. Just retake Focus photos
 
 <summary>Not Starting a session and blinking red lights immediately </summary>
 
-Most likely a bad imager. The boards go from 0-4 for positions.&#x20;
+Most likely a bad imager. The boards go from 0-4 for positions. You can also look in the config folder which will tell you the positions as well!
 
 |              |                |
 | ------------ | -------------- |
-| Blue 475 = 0 | 840 =3         |
+| Blue 475 = 0 | 840 =4         |
 | Green 550 =1 | imager-r = RGB |
-| Red 670 =2   | 715 =4         |
+| Red 670 =2   | 715 =3         |
+
+1. Replace the imager that corresponds to the position number&#x20;
+   1. Try starting a session a couple of times&#x20;
+2. If imager does not work, it could be the baseboard and SOM connection&#x20;
+3. Replace the Baseboard first. Change the dip switchs to the correct position
+   1. Try starting a session a couple of times
+4.  If the baseboard switch does not work, replace the Trenz board.&#x20;
+
+    1. Replace thermal paste between the heatsink and the trenz board. Re-loctite any screws.&#x20;
+    2. You will need to Re-program the camera&#x20;
+    3. Try starting a session a couple of times
+
+
+
+If none of this works, reach out to Help-Embedded
 
 </details>
