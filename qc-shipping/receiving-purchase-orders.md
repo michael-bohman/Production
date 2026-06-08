@@ -88,7 +88,7 @@ If you accidentally enter a -1 and it already exists the system will not let you
 
 ![](<../.gitbook/assets/image (191).png>)
 
-This is located in the upper left side of the web page. You will see the light blue tab named “Save and Close”. Click on that and it should direct you back to the main PO page of SOS INVENTORY. If you do not see your PO# in main PO page then that means you have successfully received the entire PO and SOS will automatically closed the PO. Printing off the receipt to complete any instructions in the comment area may be useful.&#x20;
+This is located in the upper left side of the web page. You will see the light blue tab named “Save and Close”. Click on that and it should direct you back to the main PO page of SOS INVENTORY. If you do not see your PO# in main PO page then that means you have successfully received the entire PO and SOS will automatically closed the PO. If there are additional steps to be completed within the comments area it is optional to print off the receipt to help you complete the instructions but how you want to follow the steps will be up to you as long as the steps are completed.&#x20;
 {% endstep %}
 
 {% step %}
