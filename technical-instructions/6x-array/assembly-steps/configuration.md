@@ -2,6 +2,10 @@
 
 Note: need to use static IP (same as weedscouts)
 
+Use the following to check default config
+
+`ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa root@192.168.5.141`
+
 
 
 
