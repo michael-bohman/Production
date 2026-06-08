@@ -48,7 +48,11 @@ Another option to find your PO will be to use the Quick Search field. Enter the 
 {% step %}
 ### Receive
 
-Click on the down arrow by the “Edit” tab, that should drop down option for you to receive item. Click on “Receive” and it should take you to “Item Receipt” page with PO# on the top right of web page.&#x20;
+After finding the PO you would like to receive. Take note if the PO has had anything received on it in the past. It will show that some have been received and this will be important to know when receiving and saving the PO.&#x20;
+
+<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+
+Click on the down arrow by the “Edit” tab, that should drop down option for you to receive item. Click on “Receive” and it should take you to “Item Receipt” page with PO# on the top right of web page and the QTY will be reflect what is left to receive.&#x20;
 
 ![](<../.gitbook/assets/image (1).png>)
 {% endstep %}
