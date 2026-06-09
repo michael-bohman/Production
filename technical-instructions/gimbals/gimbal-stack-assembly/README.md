@@ -15,113 +15,175 @@ description: 'Owner: Amanda Janssen'
 
 ## Coms Board Programming Guide
 
-1. Plug in everything
-   1. PLUG IN ANDERSON CONNECTOR LAST to avoid any unwanted power surges or dips.
+1. Remove all cables and equipment from the COMs Board Bin
+2. Plug in everything
+   1. PLUG IN POWER LAST to COMS Board avoid any unwanted power surges or dips.
    2. Power via ac adapter and Anderson power adapter cable
    3. Communication from computer via MPLAB ICE comms box and adapter
    4.
 
-       <figure><img src="../../../.gitbook/assets/image (170).png" alt="" width="563"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/20260609_074055_720.jpg" alt="" width="540"><figcaption></figcaption></figure>
+   5. COMS Board should have a green light when plugged in&#x20;
+      1.
+
+          <figure><img src="../../../.gitbook/assets/20260609_074043.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 
-2. Open the MPLAB X IPE v5.2 Software&#x20;
+
+
+3. Open the MPLAB X IPE v5.2 Software&#x20;
    1. Application should be located on the desktop&#x20;
-3. Program the board
+4. Program the board
    1. Under 'Device:',confirm the model number of the PIC32 chip on the comms board
       1. The model number is on one side of the black microchip on the board.
       2. For 6X and 65R the model on the COMS board should be 'PIC32MX795F512L'.
-   2.
+5. <mark style="color:blue;">Click connect</mark>
 
-       <figure><img src="../../../.gitbook/assets/image (171).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Pic 1 COMS Connect Button (1).png" alt=""><figcaption></figcaption></figure>
+
+5. Once Connected the Dialog box will display this message
+   1.
+
+       <figure><img src="../../../.gitbook/assets/COMS Found.png" alt=""><figcaption></figcaption></figure>
 
 
-4. <mark style="color:blue;">Click connect</mark>
-   1. The pink box at the bottom should populate
-   2. 'Connect' button should now say 'Disconnect'
-5. To the right of the 'Hex File' box, click on <mark style="color:blue;">Browse</mark>.
-6. Find the correct hex file and open it into the program.
+6. To the right of the 'Hex File' box, click on <mark style="color:blue;">Browse</mark>.
+
+<figure><img src="../../../.gitbook/assets/coms main screen.png" alt=""><figcaption></figcaption></figure>
+
+7. Find the correct hex file and open it into the program.
    1. Should be the first file you see (pic32-Gimbal2.DEFAULT3.2025073000.hex.)
       1. _Location of file if needed: \as-taurus.jdnet.deere.com\Production\Technical Packages\6X AND 65R GIMBAL\IN PROGRESS\6X AND 65R GIMBAL - Technical Data Package - ######\PROGRAMMING\Prerequisites and Programs\Hex File_
-   2. Click <mark style="color:blue;">Open</mark> to load that file&#x20;
-7. Once hex file is loaded click <mark style="color:blue;">Program</mark>&#x20;
-8. The programming process will say completed and the COMs board should have a flashing green light alongside a solid red light.&#x20;
+8. Click <mark style="color:blue;">Open</mark> to load that file&#x20;
+9.
+
+    <figure><img src="../../../.gitbook/assets/HEX File COMS (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+10. Back on the main screen, the dialog box will display this message
+
+<figure><img src="../../../.gitbook/assets/Result hex file loaded.png" alt=""><figcaption></figcaption></figure>
+
+11. Once hex file is loaded click <mark style="color:blue;">Program</mark>&#x20;
+    1.
+
+        <figure><img src="../../../.gitbook/assets/COMS Screen.png" alt=""><figcaption></figcaption></figure>
+    2. &#x20;The dialog box will display this message
+    3.
+
+        <figure><img src="../../../.gitbook/assets/COMS Program complete.png" alt=""><figcaption></figcaption></figure>
+
+
+12. Once the programming process will says completed.  the COMs board should have a flashing green light alongside a solid red light.&#x20;
+    1. See video below for what the heartbeat looks like
 
 {% hint style="danger" icon="hand" %}
 If the green light is not visible then click <mark style="color:blue;">program</mark> again. You should see the programming completed message and the flashing green light when finished.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (172).png" alt="" width="563"><figcaption></figcaption></figure>
+{% file src="../../../.gitbook/assets/COMS Board Heartbeat (1).mp4" %}
 
 9. Click <mark style="color:blue;">Disconnect</mark> and unplug the board, power first.
 10. Put COMS board back in the Static Bag and mark it completed with Sharpie&#x20;
+11. Put all cables and equipment back into the COMs Board Bin
 
 ## Motor Controller Programming Guide
 
-1. Carefully pull up all the Kapton Tape from the board and flip the switch to the 'ON' position.
-2. Plug in all the required connections:
+1. Remove all cables and equipment from the Motor Controller Bin
+2. Carefully pull up all the Kapton Tape from the board and flip the switch to the 'ON' position.
+3. Plug in all the required connections:
    1. AC Adapter (12V) into outlet
    2. TTL USB cable into computer
    3. Motor controller board to USB cable via Y adapter cable.
    4. Motor controller board to AC Adapter via Y adapter cable.
       1. Connect Anderson Power Pole connector LAST.
+   5.
 
-<mark style="color:$danger;">(Insert image for connections)</mark>
+       <figure><img src="../../../.gitbook/assets/20260609_080116 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+4. <mark style="color:blue;">Open Partner Assistant</mark> and login to your account
+   1. Log into the Webpage now, which will be used later for Serial Number&#x20;
+      1. If the intended serial number is not know, click on <mark style="color:blue;">Web Control Panel</mark>
+         1. Log in and go to <mark style="color:blue;">Customers</mark>
+         2. This website is only to view the last used serial number for the corresponding part number. In partner assist, use the next number in the series.&#x20;
+5.  At the top left corner, if the box is empty, click on the <mark style="color:blue;">upside-down triangle</mark> and select the <mark style="color:blue;">COM port</mark> associated with the TTL cable.
 
-3. <mark style="color:blue;">Open Partner Assistant</mark> and login to your account
-   1. Log into the Webpage now, or wait until future steps for instructions
-4. At the top left corner, if the box is empty, click on the <mark style="color:blue;">upside-down triangle</mark> and select the <mark style="color:blue;">COM port</mark> associated with the TTL cable.
+    <figure><img src="../../../.gitbook/assets/com connect.png" alt=""><figcaption></figcaption></figure>
+6. Click <mark style="color:blue;">Test Board</mark>
 
 {% hint style="danger" %}
 NOTE: Do NOT click 'Connect'.
 {% endhint %}
 
-5. Click <mark style="color:blue;">Test Board</mark>
+<figure><img src="../../../.gitbook/assets/Motor 1st screen - Copy.png" alt=""><figcaption></figcaption></figure>
+
+5. You will automatically go to the Flashing Test Firmware Screen
 6. Select the following board version below (Insert Page name)
+   1. Select <mark style="color:blue;">3.3 "Tiny+" (256K) - low power, small size board</mark>
+   2. Click <mark style="color:blue;">Flash</mark>
+   3.
 
-```
-3.3 "Tiny+" (256K) - low power, small size board
-```
+       <figure><img src="../../../.gitbook/assets/Flash firmware (1).png" alt=""><figcaption></figcaption></figure>
 
-8. Click <mark style="color:blue;">Flash</mark>&#x20;
-   1. <mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
-9. Select the following license below (Insert page name)
 
-```
-#2033
-```
+   4. Dialog Box will display "<mark style="color:blue;">Your Code is Running</mark>" when finished
+   5.
 
-{% hint style="info" %}
-If any errors occur, that is OK.
-{% endhint %}
+       <figure><img src="../../../.gitbook/assets/code is running.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
 
-9. Insert Serial number&#x20;
-   1. In the Board ID box, change the last few numbers to the serial number following the last used on the web control panel page. See instructions below if not already logged into control Panel.
+   6. <mark style="background-color:yellow;">Select the "Auto-Next Step" to bypass clicking next on each step</mark>
+7. On the Preparing Board for testing Page, select the following license below&#x20;
+   1. \#2033 "Tiny" - small size, low power (retail), BOARD: Tiny+
+   2.
 
-<details>
+       <figure><img src="../../../.gitbook/assets/prep for testing (1).png" alt=""><figcaption></figcaption></figure>
+   3. Click <mark style="color:blue;">Next</mark> if not already automated
+8. On the Testing Board Page
+   1. Wait for the test to finish, It will display a red line at the bottom&#x20;
+   2. This is a normal error, should be these numbers displayed
+   3.
 
-<summary>Web Control Panel (Insert Example)</summary>
+       <figure><img src="../../../.gitbook/assets/test board screen.png" alt=""><figcaption></figcaption></figure>
+   4. Click <mark style="color:blue;">Next</mark> if not already automated
+9. On the Configuring Board Features Page
+   1. Confirm the License is #203
+   2. In the Board ID box, change the last few numbers to the serial number following the last used on the web control panel page. Refer to Step 4 in the Motor Controller Guide.&#x20;
+   3. Click <mark style="color:blue;">Next</mark> if not already automated
 
-If the intended serial number is not know, click on <mark style="color:blue;">Web Control Panel</mark>
+<figure><img src="../../../.gitbook/assets/board SN screen.png" alt=""><figcaption></figcaption></figure>
 
-1. Log in and go to <mark style="color:blue;">Customers</mark>
-2. This website is only to view the last used serial number for the corresponding part number. In partner assist, use the next number in the series.&#x20;
+9. On the Writing Secret Keys Page, wait for program to finish. it will display the screen below
+   1.
 
-</details>
+       <figure><img src="../../../.gitbook/assets/writing keys screen.png" alt=""><figcaption></figcaption></figure>
+10. On the Preparing Board for Flashing Firmware Page
+    1. This just confirms the switch on the motor controller is on
+    2.
 
-<mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
+        <figure><img src="../../../.gitbook/assets/confirm switch ON.png" alt=""><figcaption></figcaption></figure>
+    3. Click <mark style="color:blue;">Next</mark> if not already automated
+11. On the Flashing Main Firmware Page
+    1. Select the <mark style="color:blue;">2.70 REGULAR (no encoders) (1.09.2020) Firmware</mark>
+    2. Click <mark style="color:blue;">Upload</mark>&#x20;
+    3.
 
-9. Select the following firmware number and click 'UPLOAD'.
+        <figure><img src="../../../.gitbook/assets/firmware screen.png" alt=""><figcaption></figcaption></figure>
+    4. Wait for firmware to finish...It will say " Code is running, Set new firmware on server"
+    5.
 
-```
-2.70.0
-```
+        <figure><img src="../../../.gitbook/assets/firmware complete.png" alt=""><figcaption></figcaption></figure>
 
-11. Once you have reached the screen that says 'Finished!' and 'Congratulations! You have finished configuring the board!'. Click <mark style="color:blue;">Cancel</mark>
-12. Disconnect all the connections to the board, power first.&#x20;
-13. Carefully flip the switch on the board to OFF
-14. Place motor controller back in static bag, label completed
+
+    6. Click <mark style="color:blue;">Skip</mark> for the next 2 screens
+12. On the Finished! Screen&#x20;
+    1. Click <mark style="color:blue;">Cancel</mark>&#x20;
+    2.
+
+        <figure><img src="../../../.gitbook/assets/finished screen.png" alt=""><figcaption></figcaption></figure>
+13. Disconnect all the connections to the board, power first.&#x20;
+14. Carefully flip the switch on the board to OFF
+15. Place motor controller back in static bag, label completed
+16. Put all cables and equipment back into the Motor Controller Bin
 
 ### IMU Calibration Guide
 
