@@ -197,57 +197,126 @@ This instruction set is the same for 6X and 65R cameras, pictures show the 65R.
 
 1. Set up the leveling board.
    1. Screw in all feet completely and unscrew 2 adjacent feet at the same time as needed to level the board&#x20;
-   2. <mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
+   2. Use the separate level as the board is not accurate
+   3. Ensure bubble is centered in every direction on the board&#x20;
 
-{% hint style="warning" %}
-The built-in level in the board is not accurate, an external level should be used for an accurate orientation.
-{% endhint %}
+{% columns %}
+{% column %}
+<p align="center"></p>
 
-* Install the Calibration Jig on the camera using at least 2 screws, ensuring it will not move inside of it.
+<figure><img src="../../../.gitbook/assets/20260609_081847 (1).jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
-3. Plug in all the required connections:
-   1. AC Adapter (12V) into outlet.
+{% column %}
+
+
+<figure><img src="../../../.gitbook/assets/20260609_081853 (1).jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+2. Install the Calibration Jig on the camera using 4 screws in the Motor Controller Bin, ensuring it will not move inside of it.
+
+{% columns %}
+{% column %}
+<p align="center">6X</p>
+
+<figure><img src="../../../.gitbook/assets/20260609_081512.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<p align="center">65R</p>
+
+<figure><img src="../../../.gitbook/assets/20260609_081523.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+3. Plug in all the required connections: (keep Same Connections as Motor Contontroller programming, just add one cord from board to camera)
+   1. AC Adapter (12V) into outlet.&#x20;
    2. TTL USB cable into computer.
    3. Motor controller board to USB cable via Y adapter cable.
    4. Motor controller board to AC Adapter via Y adapter cable.
+   5. Camera PWR to motor controller output connector
       1. Connect Anderson Power Pole connector LAST.
 
-<mark style="color:$danger;">(Insert Pic of screen when finished)</mark>
+<figure><img src="../../../.gitbook/assets/20260609_082001.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Motor controller to camera via cable. <mark style="color:$danger;">(Change picture)</mark>
+4. Open the <mark style="color:blue;">Simple BGC GUI v2.7.0</mark> program
+   1.
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt="" width="407"><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/1st screen.png" alt=""><figcaption></figcaption></figure>
 
-5. Open the <mark style="color:blue;">Simple BGC GUI v2.7.0</mark> program.
-6. Select the COM port associated with the TTL cable&#x20;
-7. Click <mark style="color:blue;">Connect</mark>
-8. One error will occur when connect, this is normal
-   1. <mark style="color:$danger;">(Insert Pic of error that should pop up)</mark>
-9. At the top, click <mark style="color:blue;">Board -> then Backup Manager</mark>
-10. In the <mark style="color:blue;">Restore from Backup</mark> section, click <mark style="color:blue;">Browse</mark>
-11. Find and upload the correct EEPROM file.
-    1. 65R EEPROM: 65RMotorController.data
-    2. 6X EEPROM: 6XMotorConteroller.data
-    3. If location does not automatically appear follow this location
-       1. _6X AND 65R GIMBAL - Technical Data Package - ######\PROGRAMMING\Prerequisites and Programs\EEPROM_
-12. Click <mark style="color:blue;">Restore</mark>
-    1. The screen should say 'Successfully restored from backup' when finished
-13. After this finishes, close the backup window and go to the <mark style="color:blue;">Hardware tab</mark>
-14. Click <mark style="color:blue;">Calibrate IMU Sensors</mark>
+
+5. Select the COM port associated with the TTL cable&#x20;
+   1. Click <mark style="color:blue;">Connect</mark>
+   2.
+
+       <figure><img src="../../../.gitbook/assets/COM Selection (1).png" alt=""><figcaption></figcaption></figure>
+
+
+6. One error will occur when connect, this is normal
+   1. Click <mark style="color:blue;">OK</mark>
+   2.
+
+       <figure><img src="../../../.gitbook/assets/normal error.png" alt=""><figcaption></figcaption></figure>
+7. At the top left, click <mark style="color:blue;">Board -> then Backup Manager</mark>
+   1.
+
+       <figure><img src="../../../.gitbook/assets/backup manager (1).png" alt=""><figcaption></figcaption></figure>
+8. In the <mark style="color:blue;">Restore from Backup</mark> section, click <mark style="color:blue;">Browse</mark>
+   1.
+
+       <figure><img src="../../../.gitbook/assets/backup screen.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+9. Find and upload the correct EEPROM file.
+   1. For a 65R Camera: 65RMotorController.data
+   2. For a 6X Camera: 6XMotorConteroller.data
+      1. If location does not automatically appear follow this location
+         1. _6X AND 65R GIMBAL - Technical Data Package - ######\PROGRAMMING\Prerequisites and Programs\EEPROM_
+   3.
+
+       <figure><img src="../../../.gitbook/assets/EEPRom File (1).png" alt=""><figcaption></figcaption></figure>
+   4. Click <mark style="color:blue;">Open</mark>
+10. Click <mark style="color:blue;">Restore</mark>
+    1.
+
+        <figure><img src="../../../.gitbook/assets/Eeprom loaded (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    2. Click <mark style="color:blue;">YES</mark>
+    3.
+
+        <figure><img src="../../../.gitbook/assets/eeprom yes.png" alt="" width="428"><figcaption></figcaption></figure>
+11. The screen should say 'Successfully restored from backup' when finished in the lower left corner
+12. After this finishes, <mark style="color:blue;">close</mark> the window
+13. Go to the <mark style="color:blue;">Hardware tab</mark> and Click <mark style="color:blue;">Calibrate IMU Sensors</mark>&#x20;
+    1. You might need to scroll down to see the button&#x20;
+    2.
+
+        <figure><img src="../../../.gitbook/assets/calibrate IMU.png" alt=""><figcaption></figcaption></figure>
+
+
 
 {% hint style="danger" icon="hand" %}
-Only use the left side of the IMU Calibration window. DO NOT click anything on the right side. Only use the right side for viewing the bar.
+For Step 14, only use the left side of the IMU Calibration window. DO NOT click anything on the right side. Only use the right side for viewing the Gyroscope.&#x20;
 {% endhint %}
 
-13. On the left side, click <mark style="color:blue;">Reset</mark>
-    1. All the blue check marks should disappear
-14. Calibrate the accelerometer.
-    1. Use the calibration jig and rest the camera on each side. (The blue box should move with each side)
+14. On the left side/middle, click <mark style="color:blue;">Reset</mark>
+    1.
+
+        <figure><img src="../../../.gitbook/assets/IMU window.png" alt=""><figcaption></figcaption></figure>
+    2. All the blue check marks should disappear
+15. Calibrate the accelerometer.
+    1. Use the calibration jig and rest the camera on each side.&#x20;
+       1. The blue box represents the axis of each side
+       2. It should move everytime you move the camera to a different side
     2. After the gyroscope gauge (White Line) rests in the green portion, click on the <mark style="color:blue;">Calibrate</mark> in the 'Accelerometer' section.
-    3. Repeat for all 6 sides.
-    4. If you calibrate the line in the red section, please reset and start over.
-15. After calibration is complete, click <mark style="color:blue;">Close</mark>
-16. Click <mark style="color:blue;">Disconnect</mark> and disconnect all the connections, power first.&#x20;
+    3.
+    4. Repeat for all 6 sides.&#x20;
+    5. If you calibrate the line in the red section, please reset and start over.
+
+
+
+14. After calibration is complete, click <mark style="color:blue;">Close</mark>
+15. Click <mark style="color:blue;">Disconnect</mark> and disconnect all the connections, power first.&#x20;
 
 {% hint style="warning" %}
 Try to keep the paired motor controller and camera together. Failing to do so may result in inaccurate calibrations.
