@@ -160,7 +160,7 @@ Up to date as of 3/24/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21233 - 6X Gimbal, Skyport V2
 
-{% file src="../.gitbook/assets/21233_revd.pdf" %}
+{% file src="../.gitbook/assets/21233_reve.pdf" %}
 
 </details>
 
@@ -172,7 +172,7 @@ Up to date as of 3/24/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21234 - 6X Gimbal, Smart Dovetail
 
-{% file src="../.gitbook/assets/21234_revg.pdf" %}
+{% file src="../.gitbook/assets/21234_revh.pdf" %}
 
 </details>
 
@@ -184,7 +184,7 @@ Up to date as of 3/24/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21252 - 6X with Gimbal, Gremsy Hyper Quick Release
 
-{% file src="../.gitbook/assets/21252_revc.pdf" %}
+{% file src="../.gitbook/assets/21252_revd.pdf" %}
 
 </details>
 
@@ -208,7 +208,7 @@ Up to date as of 3/24/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21238 - 65R Gimbal, Skyport V2
 
-{% file src="../.gitbook/assets/21238_reve.pdf" %}
+{% file src="../.gitbook/assets/21238_revf.pdf" %}
 
 </details>
 
@@ -220,7 +220,7 @@ Up to date as of 3/24/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21253 - 65R Gimbal, Smart Dovetail
 
-{% file src="../.gitbook/assets/21253_revg.pdf" %}
+{% file src="../.gitbook/assets/21253_revh.pdf" %}
 
 </details>
 
@@ -232,7 +232,7 @@ Up to date as of 3/24/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21255 - 65R with Gimbal, T3S1
 
-{% file src="../.gitbook/assets/21255_revc.pdf" %}
+{% file src="../.gitbook/assets/21255_revd.pdf" %}
 
 </details>
 
