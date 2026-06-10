@@ -302,21 +302,21 @@ For Step 14, only use the left side of the IMU Calibration window. DO NOT click 
 14. On the left side/middle, click <mark style="color:blue;">Reset</mark>
     1.
 
-        <figure><img src="../../../.gitbook/assets/IMU window.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../../.gitbook/assets/IMU window (1).png" alt="" width="559"><figcaption></figcaption></figure>
     2. All the blue check marks should disappear
-15. Calibrate the accelerometer.
+15. Calibrate the accelerometer
     1. Use the calibration jig and rest the camera on each side.&#x20;
        1. The blue box represents the axis of each side
        2. It should move everytime you move the camera to a different side
     2. After the gyroscope gauge (White Line) rests in the green portion, click on the <mark style="color:blue;">Calibrate</mark> in the 'Accelerometer' section.
-    3.
-    4. Repeat for all 6 sides.&#x20;
-    5. If you calibrate the line in the red section, please reset and start over.
+    3. Repeat for all 6 sides.&#x20;
+    4. If you calibrate the line in the red section, please reset and start over.
+    5. See video below for an example!
 
+{% file src="../../../.gitbook/assets/IMU video (3).mp4" %}
 
-
-14. After calibration is complete, click <mark style="color:blue;">Close</mark>
-15. Click <mark style="color:blue;">Disconnect</mark> and disconnect all the connections, power first.&#x20;
+14. After calibration is complete with all sides calibrated, click <mark style="color:blue;">Close</mark>
+15. Click <mark style="color:blue;">Disconnect</mark> on the main screen and disconnect all the connections, power first.&#x20;
 
 {% hint style="warning" %}
 Try to keep the paired motor controller and camera together. Failing to do so may result in inaccurate calibrations.
