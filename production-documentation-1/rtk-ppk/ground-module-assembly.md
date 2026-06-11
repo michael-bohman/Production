@@ -14,7 +14,7 @@ Refer to this document until gitbook is properly updated.&#x20;
 
 ## Notes&#x20;
 
-The P900 programming needs to be completed before assembly. Refer to [p900-radio-programming.md](p900-radio-programming.md "mention") before continuing assembly.
+The P900 programming needs to be completed before assembly. Refer to [Broken link](/broken/pages/48OzXiyO3BAikqr2LgLL "mention") before continuing assembly.
 
 ## Guide
 

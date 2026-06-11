@@ -19,7 +19,7 @@ Refer to this document until gitbook is properly updated.&#x20;
 
 ## Notes&#x20;
 
-The P900 and GPS Board programming need to be completed before assembly. Refer to [p900-radio-programming.md](p900-radio-programming.md "mention") and [z9p-gps-board-programming.md](z9p-gps-board-programming.md "mention") before continuing assembly.
+The P900 and GPS Board programming need to be completed before assembly. Refer to [Broken link](/broken/pages/48OzXiyO3BAikqr2LgLL "mention") and [z9p-gps-board-programming.md](z9p-gps-board-programming.md "mention") before continuing assembly.
 
 ## Drawing&#x20;
 
