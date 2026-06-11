@@ -17,7 +17,17 @@ description: 'Owner: Simon'
   * Open the file 'quicktile\_0.050m\_rgb\_dewarp.tif' from the '\_out' folder in QGIS and ensure it looks well-stitched.
     * Open QGIS and drag the file into the blank space
 
-<div><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption><p>GOOD CALIBRATION</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption><p>BAD CALIBRATION</p></figcaption></figure></div>
+
+
+
+
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption><p>GOOD CALIBRATION</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption><p>BAD CALIBRATION</p></figcaption></figure>
+
+
 
 * IMU Calibration Data (tuned and untuned)
 * Optional: BPR Files
