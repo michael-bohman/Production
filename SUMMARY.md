@@ -44,7 +44,7 @@
     * [✅ Gimbal Board Programming](technical-instructions/6x-array/assembly-steps/gimbal-board-programming.md)
     * [Notes on Pixel Alignment](technical-instructions/6x-array/assembly-steps/notes-on-pixel-alignment.md)
     * [✅ Camera Pod](technical-instructions/6x-array/assembly-steps/camera-pod.md)
-    * [Full Assembly](technical-instructions/6x-array/assembly-steps/full-assembly.md)
+    * [🚧 Full Assembly](technical-instructions/6x-array/assembly-steps/full-assembly.md)
     * [Board Programming](technical-instructions/6x-array/assembly-steps/board-programming.md)
     * [Tuning](technical-instructions/6x-array/assembly-steps/tuning.md)
     * [Configuration](technical-instructions/6x-array/assembly-steps/configuration.md)
