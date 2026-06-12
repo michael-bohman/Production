@@ -2,7 +2,7 @@
 description: 'Owner: Amanda Janssen'
 ---
 
-# 📷 Gimbal Stack
+# ✅ Gimbal Stack
 
 ## Equipment
 
