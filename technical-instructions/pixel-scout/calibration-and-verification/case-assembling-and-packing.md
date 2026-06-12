@@ -107,7 +107,7 @@ After flying the validation flight, use these instructions for packing the final
 <figure><img src="../../../.gitbook/assets/IMG_8032.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Place the following in the right-most battery pocket.
-   1. Wall-wart power supply.
+   1. 24V Barrel jack Wall-wart power supply.
    2. Emlid base station user manual.
 
 <figure><img src="../../../.gitbook/assets/IMG_8029.jpg" alt="" width="375"><figcaption></figcaption></figure>
