@@ -34,25 +34,25 @@ Note: Cure time is 24 hours, but it is not required to wait until cured to conti
 
 <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
-2. Assemble and install magnet stack
-   1. Clean both sides of magnet with alcohol
-   2. Apply mounting tape circle to one side and foam bumper to other side
-      1. Note: Magnet is not directional, so the sides do not matter
-   3.
+2.  Assemble and install magnet stack
 
-       <figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
-   4. Clean round recess inside enclosure with alcohol
-   5. Install magnet stack into enclosure with foam bumper facing upward
-   6.
+    1. Clean both sides of magnet with alcohol
+    2. Apply mounting tape circle to one side and foam bumper to other side
+       1. Note: Magnet is not directional, so the sides do not matter
+    3.
 
-       <figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+    4. Clean round recess inside enclosure with alcohol
+    5. Install magnet stack into enclosure with foam bumper facing upward
+
+    <figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 
-3. Loosely install USB-C breakout board
-   1. Use 2 Shim washers <mark style="color:yellow;">Item #9 (91017A656)</mark>, 2 Washers <mark style="color:yellow;">Item #10 (92217A101)</mark>, and 2 screws <mark style="color:yellow;">Item #11 (91772A063)</mark> to install the USB-C breakout board into enclosure with Loctite
-   2.
+3.  Loosely install USB-C breakout board
 
-       <figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+    1. Use 2 Shim washers <mark style="color:yellow;">Item #9 (91017A656)</mark>, 2 Washers <mark style="color:yellow;">Item #10 (92217A101)</mark>, and 2 screws <mark style="color:yellow;">Item #11 (91772A063)</mark> to install the USB-C breakout board into enclosure with Loctite
+
+    <figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -79,37 +79,34 @@ Note: Cure time is 24 hours, but it is not required to wait until cured to conti
 
    3. Tighten screws to install USB-C breakout board completely. Torque to 20 in-oz.
    4. Route the coax cable as shown.
-   5.
+      1.
 
-       <figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
-   6. Re-install the P900 board to USB-C board and make sure the holes are still aligned. If not, remove P900 board, loosen USB-C breakout board screws and repeat step 4.
-   7. Make sure nothing is squishing the coax cable by pressing on the P900 board and sliding the coax cable back and forth. There should be no resistance.
-   8. Install 4 screws <mark style="color:yellow;">Item #12 (91772A073)</mark> using Loctite. Torque to 40 in-oz.
-   9.
+          <figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+   5. Re-install the P900 board to USB-C board and make sure the holes are still aligned. If not, remove P900 board, loosen USB-C breakout board screws and repeat step 4.
+   6. Make sure nothing is squishing the coax cable by pressing on the P900 board and sliding the coax cable back and forth. There should be no resistance.
+   7. Install 4 screws <mark style="color:yellow;">Item #12 (91772A073)</mark> using Loctite. Torque to 40 in-oz.
+      1.
 
-       <figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
-5. Plug the coax cable into the P900 board and route as shown
-   1.
+          <figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+5.  Plug the coax cable into the P900 board and route as shown
 
-       <figure><img src="../../.gitbook/assets/image (159).png" alt="" width="356"><figcaption></figcaption></figure>
-
-
-6. Cut a small square out of a foam bumper and stick it to the raised circle on the cover. This foam bumper ensures the RF cable stays connected during use.
-   1.
-
-       <figure><img src="../../.gitbook/assets/image (160).png" alt="" width="322"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (159).png" alt="" width="356"><figcaption></figcaption></figure>
 
 
-7. Install the cover to the enclosure using 4 screws <mark style="color:yellow;">Item #13 (91772A067)</mark> and Loctite. Torque to 20 in-oz.
-   1.
+6.  Cut a small square out of a foam bumper and stick it to the raised circle on the cover. This foam bumper ensures the RF cable stays connected during use.
 
-       <figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (160).png" alt="" width="322"><figcaption></figcaption></figure>
+
+
+7.  Install the cover to the enclosure using 4 screws <mark style="color:yellow;">Item #13 (91772A067)</mark> and Loctite. Torque to 20 in-oz.
+
+    <figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 8. Install felt sheet.
    1. Use the plastic template to cut the adhesive-backed felt into proper shape.
    2.
 
        <figure><img src="../../.gitbook/assets/image (163).png" alt="" width="271"><figcaption></figcaption></figure>
-   3. For the hole, place the felt in the hole punch with 6 pieces of scrap paper behind it.
+   3. For the hole, place the felt in the hole punch with at least 6 pieces of scrap paper behind it.
 
 {% columns %}
 {% column %}
@@ -132,10 +129,13 @@ Note: Cure time is 24 hours, but it is not required to wait until cured to conti
        1. Note: it may be easiest to use 2 tweezers on either side of the sticker to enable finer control of the placement.
     3. Clean the cover with alcohol
     4. Apply the radio net ID sticker with the corresponding number as shown.
-    5.
 
-        <figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
-12. Install the antenna to the radio module and hand tighten
-    1.
+{% hint style="info" %}
+NOTE: The sticker will be different for PixelScout/WeedScout systems. Refer to those pages for those systems.
+{% endhint %}
 
-        <figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+
+9.  Install the antenna to the radio module and hand tighten
+
+    <figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
