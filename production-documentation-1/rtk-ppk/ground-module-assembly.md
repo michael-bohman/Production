@@ -1,4 +1,4 @@
-# Ground Module Assembly
+# ✅ Ground Module Assembly
 
 ## Drawing
 
@@ -8,13 +8,13 @@
 
 
 
-Refer to this document until gitbook is properly updated.&#x20;
+Refer to this document if Gitbook is not properly updated.&#x20;
 
 {% file src="../../.gitbook/assets/RTK PPK Production Guide - 2026_01_20 (1).pdf" %}
 
 ## Notes&#x20;
 
-The P900 programming needs to be completed before assembly. Refer to [Broken link](/broken/pages/48OzXiyO3BAikqr2LgLL "mention") before continuing assembly.
+The P900 programming needs to be completed before assembly. Refer to [p900-radio-programming.md](../../technical-instructions/rtk-ppk/p900-radio-programming.md "mention") before continuing assembly.
 
 ## Guide
 
