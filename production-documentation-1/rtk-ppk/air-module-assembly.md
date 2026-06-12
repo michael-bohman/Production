@@ -2,7 +2,7 @@
 description: Air Module 21077
 ---
 
-# Air Module Assembly
+# 🚧 Air Module Assembly
 
 Refer to this document until gitbook is properly updated.&#x20;
 
@@ -10,16 +10,14 @@ Refer to this document until gitbook is properly updated.&#x20;
 
 ## Equipment Needed&#x20;
 
-|                   |                   |                   |
-| ----------------- | ----------------- | ----------------- |
-| Paper towels&#xD; | Mixing Tray       | Loctite           |
-| Scissors          | Stirring Sticks   | Ruler             |
-| Araldite          | Isopropyl Alcohol | Soldering Station |
-| White 28 AWG Wire | JST Chrimp        |                   |
+| Paper towels&#xD; | Ruler              | Loctite           |
+| ----------------- | ------------------ | ----------------- |
+| Scissors          |  Isopropyl Alcohol | Soldering Station |
+| White 28 AWG Wire | JST Crimper        |                   |
 
 ## Notes&#x20;
 
-The P900 and GPS Board programming need to be completed before assembly. Refer to [Broken link](/broken/pages/48OzXiyO3BAikqr2LgLL "mention") and [z9p-gps-board-programming.md](z9p-gps-board-programming.md "mention") before continuing assembly.
+The P900 and GPS Board programming need to be completed before assembly. Refer to [p900-radio-programming.md](../../technical-instructions/rtk-ppk/p900-radio-programming.md "mention") and [z9p-gps-board-programming.md](z9p-gps-board-programming.md "mention") before continuing assembly.
 
 ## Drawing&#x20;
 
@@ -29,32 +27,35 @@ The P900 and GPS Board programming need to be completed before assembly. Refer t
 
 ## Guide
 
-1. Solder a 4’ white wire to the pin on the back of the connector of the GPS board.
-   1. Measure and cut 6” of white 28 AWG wire.&#x20;
-   2. Strip one end and crimp a JST connector onto it&#x20;
-   3.
+{% hint style="info" %}
+If the cable picked from inventory already has a white wire in pin 7 of the single side, skip Step 1a, c and d  and use the wire already on the cable.
+{% endhint %}
 
-       <figure><img src="../../.gitbook/assets/image (130).png" alt="" width="459"><figcaption></figcaption></figure>
+1. Solder a 4" white wire to the pin on the back of the connector of the GPS board.
+   1. Measure and cut a little over 4” of white 28 AWG wire.&#x20;
+   2. Strip and solder one end of the wire to pin #8 of the 9-pin JST connector marked ‘IN’ on the GPS board. (2nd from the IN side)
+   3. Strip the other end of the wire and crimp a JST connector onto it.
    4. Insert the wire into pin 7 of the 11 pin connector&#x20;
-   5.
 
-       <figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
-   6. On the other end solder the wire to pin #8 of the 9-pin JST connector marked ‘IN’ on the GPS      \
-      board.
-   7.
+<figure><img src="../../.gitbook/assets/image (130).png" alt="" width="459"><figcaption></figcaption></figure>
 
-       <figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
-2. Install diffuser to enclosure using with screw <mark style="color:yellow;">(Item #11 91772A065)</mark> and Loctite. Torque to 20 in-oz.
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+
+2. Install the diffuser into the enclosure using a screw <mark style="color:yellow;">(Item #11 91772A065)</mark> and Loctite. Torque to 20 in-oz.
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 3. Install USB-C Breakout Board
    1. Remove nut and lock washer from USB-C breakout board MCX connector. Discard lock washer
-   2. Place board into position in enclosure. Loosely fasten nut on MCX connector. Install 2 screws <mark style="color:yellow;">(Item #11 91772A065)</mark> with Loctite. Torque to 20 in-oz.
-   3.
+   2. Place board into position in enclosure. Loosely fasten the nut on the MCX connector. Install 2 screws <mark style="color:yellow;">(Item #11 91772A065)</mark> with Loctite. Torque to 20 in-oz.
+   3. Tighten nut with wrench
 
-       <figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
-   4. Tighten nut with wrench
+<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+
+
+
 4. Install GPS board
    1. Plug the 8-pin JST connector into the ETH2 port of the GPS board
    2.
@@ -74,7 +75,7 @@ The P900 and GPS Board programming need to be completed before assembly. Refer t
 {% endcolumn %}
 {% endcolumns %}
 
-5. Install USB-A breckout board
+5. Install USB-A breakout board
    1. Install USB-A breakout board to enclosure using 2 screws <mark style="color:yellow;">(Item #11 91772A065)</mark> and Loctite. Torque to 20 in-oz.
 6. &#x20;Install radio board
    1. Carefully place 4 spacers <mark style="color:yellow;">(Item #9 94639A703)</mark> on GPS board above screw holes.
