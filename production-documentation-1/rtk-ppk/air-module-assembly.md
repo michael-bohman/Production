@@ -2,7 +2,7 @@
 description: Air Module 21077
 ---
 
-# 🚧 Air Module Assembly
+# ✅ Air Module Assembly
 
 Refer to this document until gitbook is properly updated.&#x20;
 
