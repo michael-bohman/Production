@@ -93,12 +93,12 @@ If the cable picked from inventory already has a white wire in pin 7 of the sing
 <figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 9. Prepare and install cover
-   1. Cut 2 small squares from the foam pad and install them on the raised circles of the cover.
+   1. Cut 2quarter pieces from a foam pad and install them on the raised circles of the cover.
    2. Install the cover to the enclosure using 4 screws <mark style="color:yellow;">(Item #12 93085A017)</mark> and Loctite. Torque to 40 in-oz.
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_9467.jpeg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
