@@ -122,4 +122,5 @@
 4. Close up box
 5. Tape around edges&#x20;
 6. Tape/stick-on label to the box&#x20;
-7. Place in the shipment zone
+7. Use labels or sharpie on box to identify if it is IF800 or IF1200 to all sides&#x20;
+8. Place in the shipment zone
