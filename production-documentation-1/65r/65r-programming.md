@@ -22,7 +22,7 @@ description: Stage 2 in the 65R Process 21030-02
    2.  **JTAGEN: OFF**
 
        <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure>
-8. Connect the SWI24-12-N-P5 12V Power Supply between an outlet and the 65R camera.
+8. Connect the SWI36-24-N-P5 24V Power Supply between an outlet and the 65R camera.
 9.  Connect the USB-C (or micro USB for -04 cameras) to USB cable between a PC and the 65R.
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="304"><figcaption></figcaption></figure>
