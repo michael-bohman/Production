@@ -2,7 +2,7 @@
 description: 'Owner: Amanda Janssen'
 ---
 
-# 🚧 Astro Legs Assembly
+# ✅ Astro Legs Assembly
 
 ## Guide
 
@@ -17,10 +17,6 @@ description: 'Owner: Amanda Janssen'
 4. Feed the carbon tube through the T joint as shown:
 
 <p align="center"><img src="../../.gitbook/assets/unknown.jpeg" alt=""> </p>
-
-{% hint style="info" %}
-You’ll notice that some Araldite will remain on the outside of the T joint. This will need to be cleaned up with isopropyl alcohol. &#x20;
-{% endhint %}
 
 5. Make sure T is centered, use jigs to align it
 
@@ -103,6 +99,10 @@ e.       Use the vise jigs and a vise to press it into place, make sure the pin 
 
 5. Apply a generous amount of Loctite to the shoulder screw.
 6. Feed the shoulder screw through the cam and cam lock as shown. Screw in the shoulder screw and tighten to 40 in-oz.
+
+{% hint style="info" %}
+If the spring is pretruding too much, then trim it down and reinsert it.&#x20;
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 

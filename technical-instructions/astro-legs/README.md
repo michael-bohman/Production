@@ -2,7 +2,7 @@
 description: '11604 Owner: Amanda Janssen'
 ---
 
-# 🚧 Astro Legs
+# ✅ Astro Legs
 
 <figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 

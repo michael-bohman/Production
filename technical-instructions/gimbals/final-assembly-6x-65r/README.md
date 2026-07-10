@@ -26,6 +26,8 @@ Ensure no wires are pinched between the camera and the gimbal.
 
 4. Attach the other side of the camera using a shoulder screw with loctite through a bearing&#x20;
 
+<mark style="color:$danger;">(Insert pic of 6X)</mark>
+
 ## 65R Guide
 
 1. Check that the small bearing fits into the gimbal arm.

@@ -10,11 +10,11 @@ description: 'Owner: Amanda Janssen'
 
 ## Equipment Needed
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|          |   |   |
+| -------- | - | - |
+| Gloves   |   |   |
+| 3M Tape  |   |   |
+|          |   |   |
 
 ## Drawings&#x20;
 

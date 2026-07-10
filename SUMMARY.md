@@ -81,8 +81,8 @@
 * [🚧 Reflectance Panel](technical-instructions/reflectance-panel/README.md)
   * [🚧 Reflectance Panel Assembly](technical-instructions/reflectance-panel/reflectance-panel-assembly.md)
   * [✅ Reflectance Panel QC](technical-instructions/reflectance-panel/reflectance-panel-qc.md)
-* [🚧 Astro Legs](technical-instructions/astro-legs/README.md)
-  * [🚧 Astro Legs Assembly](technical-instructions/astro-legs/astro-legs-assembly.md)
+* [✅ Astro Legs](technical-instructions/astro-legs/README.md)
+  * [✅ Astro Legs Assembly](technical-instructions/astro-legs/astro-legs-assembly.md)
   * [✅ Astro Legs QC and Bagging ](technical-instructions/astro-legs/astro-legs-qc-and-bagging.md)
 * [Camera Checkin IN PROGRESS](technical-instructions/camera-checkin-in-progress.md)
 
