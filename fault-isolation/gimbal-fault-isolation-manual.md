@@ -66,11 +66,10 @@ This is likely a motor controller issue. The coms board should appear in the pre
 
 <summary>Slow IMU Issue </summary>
 
-The camera slowly moves when starting up&#x20;
+The camera slowly drifts when starting up. This issue is caused by the gyro getting too much vibration, which we have learned is caused by the fan
 
-1. See if the motion comes back to the correct facing down position
-   1. If so, it's good to go
-   2. It should only happen a few times for it to be a nonissue
+1. Switch out the fan until the drift stops
+2. Contact Wayne if you want to confirm with the computer
 
 </details>
 

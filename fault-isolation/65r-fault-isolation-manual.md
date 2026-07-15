@@ -52,3 +52,14 @@ This camera was fixed by replacing the imager board.
 
 </details>
 
+<details>
+
+<summary>Failed BPR (Bad Pixel Replacement)</summary>
+
+1. As of 7/15/2026 we are switching the mount for the 65R.&#x20;
+2. Send images to Zach Thorson to confirm
+3. Switch out mount and try BPR again&#x20;
+4. Send Images to Zach again if it passes BPR
+
+</details>
+
