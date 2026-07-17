@@ -27,7 +27,7 @@ DJI Binding only has to be done for skyport gimbal stacks. Binding is for the Gi
 {% endcolumn %}
 {% endcolumns %}
 
-4. Open <mark style="color:blue;">DJI Assistant 2</mark>
+4. Open <mark style="color:blue;">DJI Assistant 2 (Enterprise Series V2.1.9)</mark>
 5. Click on the <mark style="color:blue;">drone name</mark>
    1.
 
