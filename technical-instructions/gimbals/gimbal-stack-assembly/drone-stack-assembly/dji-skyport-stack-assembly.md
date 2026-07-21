@@ -12,10 +12,6 @@ In addition to everything listed on the BOM, the following items are required fo
 
 DO NOT use these instructions for a Skyport that will go on a PixelScout system. A PixelScout Skyport stack has a few key differences. Refer to this page for Pixelscout Skyport Stacks [3-a-1-skyport-top-stack.md](../../../pixel-scout/assembly-steps/3-a-1-skyport-top-stack.md "mention")
 
-
-
-<mark style="background-color:$warning;">You will need to bind the gimbal with a camera.</mark>&#x20;
-
 ## Drawing&#x20;
 
 Uploaded 3/23/2026
@@ -76,7 +72,7 @@ Uploaded 3/23/2026
     1. Attach the camera to gimbal and test before putting on drone.&#x20;
     2. If camera freaks out and starts twisting out of control, switch the black cables with each other
 11. &#x20;Attach cable cover with 2 screws <mark style="color:yellow;">Item #12 (95836A512)</mark>
-    1.  <mark style="color:$danger;">(Change Photo to DJI)</mark>
+    1.
 
-        <figure><img src="../../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../../../.gitbook/assets/20260721_095950 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 

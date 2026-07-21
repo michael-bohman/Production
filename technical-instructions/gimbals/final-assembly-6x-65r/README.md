@@ -36,7 +36,7 @@ Ensure no wires are pinched between the camera and the gimbal.
 
     <figure><img src="../../../.gitbook/assets/image (50).png" alt="" width="267"><figcaption></figcaption></figure>
 3. Plug the 3 cables from the gimbal into the 65R camera. These will only plug into the camera one way.
-4. Attach the camera to the gimbal using the removed screw and 3 screws on the side <mark style="color:yellow;">Item #17 (91249A615)</mark>
+4. Attach the camera to the gimbal using the removed screw and 2 screws on the side <mark style="color:yellow;">Item #17 (91249A615)</mark>
 
 {% hint style="warning" %}
 Ensure no wires are pinched between the camera and the gimbal.
@@ -45,5 +45,9 @@ Ensure no wires are pinched between the camera and the gimbal.
 <figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 5. Attach the other side of the camera using 2 screws, a shoulder screw through a bearing, a place and Loctite.
+
+{% hint style="info" %}
+Using needle nose pliers to squeeze the ball bearing into place. In between the needle nose and bearing, use a blue paper towel to prevent scratches.&#x20;
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (52).png" alt="" width="371"><figcaption></figcaption></figure>

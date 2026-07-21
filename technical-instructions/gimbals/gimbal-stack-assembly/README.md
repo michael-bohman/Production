@@ -15,7 +15,7 @@ description: 'Owner: Amanda Janssen'
 
 ## Coms Board Programming Guide
 
-1. Remove all cables and equipment from the COMs Board Bin
+1. Remove all cables from the COMs Board Bin
 2. Plug in everything
    1. PLUG IN POWER LAST to COMS Board avoid any unwanted power surges or dips.
    2. Power via ac adapter and Anderson power adapter cable
