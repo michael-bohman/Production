@@ -46,9 +46,9 @@ This is a different issue then switching the black cords. This issue would happe
 
 <details>
 
-<summary>When Testing gimbal the camera does not respond to any movement  </summary>
+<summary>No motor control on the gimbal</summary>
 
-This is likely a motor controller issue. The coms board should appear in the previous logs. If you don't see any sign of the logs showing gimbal operation, it could be a coms issue. See no gimbal connection issue for mor info&#x20;
+This is likely a motor controller issue. The coms board should appear in the previous logs. If you don't see any sign of the logs showing gimbal operation, it could be a coms issue. See no gimbal connection issue for more info&#x20;
 
 {% embed url="https://app.gitbook.com/o/r7P0NuYTKsmybK4bmqti/s/ycfHWm9ckUsdZmfqLCYz/~/edit/~/changes/207/fault-isolation/gimbal-fault-isolation-manual#no-gimbal-communication" %}
 
@@ -82,3 +82,10 @@ The camera slowly drifts when starting up. This issue is caused by the gyro gett
 
 </details>
 
+<details>
+
+<summary>Camera keep power cycling while on gimbal and loses all function in the gimbal</summary>
+
+
+
+</details>
