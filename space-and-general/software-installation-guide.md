@@ -220,14 +220,17 @@ Needs:&#x20;
 
 <summary>DJI Assistant 2 (V2.1.9)</summary>
 
-DJI Assistant is used for updating Skyport firmware and binding skyport pucks.
+DJI Assistant is used for updating Skyport firmware and binding Skyport pucks.
+
+[dji-only-binding-stack.md](../technical-instructions/gimbals/final-assembly-6x-65r/dji-only-binding-stack.md "mention")
 
 
 
-
-
-1. Navigate to the following link:
-   1.
+1. Navigate to the following file path in taurus:
+   1. "\as-taurus.jdnet.deere.com\Production\Softwares\DJI Assistant 2 (V2.1.9)"
+2. Extract the ZIP file to your machine.
+3. Open the setup software and follow the prompts.
+4. Once installed, use the login information in the taurus folder to login.
 
 </details>
 
