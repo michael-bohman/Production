@@ -216,6 +216,21 @@ Needs:&#x20;
 
 </details>
 
+<details>
+
+<summary>DJI Assistant 2 (V2.1.9)</summary>
+
+DJI Assistant is used for updating Skyport firmware and binding skyport pucks.
+
+
+
+
+
+1. Navigate to the following link:
+   1.
+
+</details>
+
 
 
 
