@@ -112,7 +112,6 @@
   * [PixelScout Shipping QC](qc-shipping/qc-systems-and-kits/pixelscout-shipping-qc.md)
 * [Shipping Labels](qc-shipping/shipping-labels.md)
 * [Receiving Purchase Orders](qc-shipping/receiving-purchase-orders.md)
-* [Page 1](qc-shipping/page-1.md)
 * [Inventory Modernization Proposal](qc-shipping/inventory-modernization-proposal.md)
 
 ## Space and General
