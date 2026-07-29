@@ -11,7 +11,7 @@
 
 * Go to the QC rack with your computer&#x20;
 
-### Refelectance Panel Number
+### Reflectance Panel Number
 
 1. Locate number of reflectance panel being shipped&#x20;
 2. Go to this file location in Taurus
