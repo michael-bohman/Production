@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Simon'
+description: 'Owner: Amanda'
 ---
 
 # 🚧 RTK/PPK
@@ -16,11 +16,13 @@ description: 'Owner: Simon'
 
 ## Equipment Needed&#x20;
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| RTK/PPK Module Box     |                        |
+| ---------------------- | ---------------------- |
+| GPS programming bag    | Computer               |
+| P900 programming bag   | Screw driver           |
+| 21077 Air screw bin    | Adjustable wrench      |
+| 31039 Ground screw bin | Flat head screw driver |
+| IF800/IF1200 stickers  | Tweezers               |
 
 ## Drawings&#x20;
 

@@ -7,8 +7,8 @@
 ## Technical Instructions
 
 * [🚧 RTK/PPK](<README (1).md>)
-  * [✅ P900 Radio Programming](technical-instructions/rtk-ppk/p900-radio-programming.md)
-  * [📷 Z9P GPS Board Programming](production-documentation-1/rtk-ppk/z9p-gps-board-programming.md)
+  * [📷 P900 Radio Programming](technical-instructions/rtk-ppk/p900-radio-programming.md)
+  * [✅ Z9P GPS Board Programming](production-documentation-1/rtk-ppk/z9p-gps-board-programming.md)
   * [✅ Air Module Assembly](production-documentation-1/rtk-ppk/air-module-assembly.md)
   * [✅ Ground Module Assembly](production-documentation-1/rtk-ppk/ground-module-assembly.md)
   * [QC Check](technical-instructions/rtk-ppk/qc-check.md)

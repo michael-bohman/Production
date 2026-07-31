@@ -4,16 +4,11 @@ description: Air Module 21077
 
 # ✅ Air Module Assembly
 
-Refer to this document until gitbook is properly updated.&#x20;
-
-{% file src="../../.gitbook/assets/RTK PPK Production Guide - 2026_01_20.pdf" %}
-
 ## Equipment Needed&#x20;
 
-| Paper towels&#xD; | Ruler              | Loctite           |
-| ----------------- | ------------------ | ----------------- |
-| Scissors          |  Isopropyl Alcohol | Soldering Station |
-| White 28 AWG Wire | JST Crimper        |                   |
+| &#xD;Air module Screw bin  | tweezers        |   |
+| -------------------------- | --------------- | - |
+| Screwdriver                | Solder station  |   |
 
 ## Notes&#x20;
 
@@ -31,24 +26,19 @@ The P900 and GPS Board programming need to be completed before assembly. Refer t
 If the cable picked from inventory already has a white wire in pin 7 of the single side, skip Step 1a, c and d  and use the wire already on the cable.
 {% endhint %}
 
-1. Solder a 4" white wire to the pin on the back of the connector of the GPS board.
-   1. Measure and cut a little over 4” of white 28 AWG wire.&#x20;
-   2. Strip and solder one end of the wire to pin #8 of the 9-pin JST connector marked ‘IN’ on the GPS board. (2nd from the IN side)
-   3. Strip the other end of the wire and crimp a JST connector onto it.
-   4. Insert the wire into pin 7 of the 11 pin connector.
-
-<figure><img src="../../.gitbook/assets/image (130).png" alt="" width="459"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+1. Solder the white wire to the pin on the back of the connector of the GPS board.
+   1. On the GPS board solder the white wire to the second pin. Refer to image below:
 
 <figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 2. Install the diffuser into the enclosure using a screw <mark style="color:yellow;">(Item #11 91772A065)</mark> and Loctite. Torque to 20 in-oz.
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 3. Install USB-C Breakout Board
-   1. Remove nut and lock washer from USB-C breakout board MCX connector. Discard lock washer.
+   1. Remove nut and lock washer from USB-C breakout board MCX connector. DISCARD lock washer.
    2. Place board into position in enclosure. Loosely fasten the nut on the MCX connector. Install 2 screws <mark style="color:yellow;">(Item #11 91772A065)</mark> with Loctite. Torque to 20 in-oz.
    3. Tighten nut with wrench.
 
@@ -61,7 +51,7 @@ If the cable picked from inventory already has a white wire in pin 7 of the sing
    2.
 
        <figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
-   3. Remove nut and lock washer from SMA connector on GPS board. DO NOT DISCARD.
+   3. Remove nut and lock washer from SMA connector on the top of the GPS board. DO NOT DISCARD.
    4. Place GPS board into enclosure. GPS board should be oriented such that the LED aligns with the diffuser and all 4 screw holes are aligned with those on the enclosure.
    5. Replace lock washer and nut on SMA connector. Snugly tighten the nut with wrench. Double check the screw holes are still aligned.<br>
 

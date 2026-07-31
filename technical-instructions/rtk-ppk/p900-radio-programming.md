@@ -1,10 +1,11 @@
-# ✅ P900 Radio Programming
+# 📷 P900 Radio Programming
 
 ## Parts Needed:
 
-* TTL-232RG USB Cable.
-* AC Power Adapter (12V)
-* Y Adapter (Labeled 'P900')
+* P900 programming bag&#x20;
+  * TTL-232RG USB Cable.
+  * AC Power Adapter (12V)
+  * Y Adapter (Labeled 'P900')
 
 ## Guide
 
@@ -25,6 +26,8 @@ Note: it may be best to install the program to your machine. However, the progra
 {% columns %}
 {% column %}
 <figure><img src="../../.gitbook/assets/Picture1mod.jpg" alt=""><figcaption><p>Use for air module boards</p></figcaption></figure>
+
+
 {% endcolumn %}
 
 {% column %}
@@ -51,4 +54,3 @@ Note: it may be best to install the program to your machine. However, the progra
    1. The light should be the following:
       1. Ground module: Scrolling.
       2. Air module: One light solid.
-
