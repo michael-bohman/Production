@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Simon'
+description: 'Owner: Isaac'
 ---
 
 # ✅ 4-B Antenna Assembly

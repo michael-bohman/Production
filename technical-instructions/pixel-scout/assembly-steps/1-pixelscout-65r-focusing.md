@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Simon'
+description: 'Owner: Isaac'
 ---
 
 # ✅ 1 PixelScout 65R Focusing

@@ -1,10 +1,10 @@
 ---
-description: >-
-  This page is a guide for taking a model and creating the necessary
-  files/drawings and uploading it all to EVault.
+description: 'Owner: Isaac'
 ---
 
 # EVault Upload Guide
+
+This page is a guide for taking a model and creating the necessary files/drawings and uploading it all to EVault.
 
 ## Getting a Part Number
 

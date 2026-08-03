@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Simon'
+description: 'Owner: Isaac'
 ---
 
 # 📷 Bad Pixel Replacement

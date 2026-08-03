@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Simon'
+description: 'Owner: Isaac'
 layout:
   width: wide
   title:
@@ -16,9 +16,11 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
-# ✅ 2-C Gimbal Programming
+# ✅ 2-C Gimbal Board Programming
 
 ## Required Materials
 

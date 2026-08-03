@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Simon'
+description: 'Owner: Isaac'
 ---
 
 # ✅ 3-A End Gimbal Assembly
