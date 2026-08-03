@@ -63,3 +63,16 @@ This camera was fixed by replacing the imager board.
 
 </details>
 
+<details>
+
+<summary>No lights on the camera </summary>
+
+The imager board controlls the lights on the 65R. It will not let you start a session without the lights working properly
+
+
+
+1. Switch out the imager board and see if the lights come back.&#x20;
+2. Message help-embedded or Alex Stephens to see if the board can be fixed.&#x20;
+
+</details>
+
