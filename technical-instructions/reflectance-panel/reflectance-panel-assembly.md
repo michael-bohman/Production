@@ -6,11 +6,11 @@ description: '21226 -00 Owner: Amanda Janssen'
 
 ## Equipment
 
-|                              |        |   |
-| ---------------------------- | ------ | - |
-| Isopropyl Alcohol            | Gloves |   |
-| Paper Towels                 |        |   |
-| Acid free Tissue Paper Sheet |        |   |
+|          |               |
+| -------- | ------------- |
+| Gloves   | Scissors      |
+| 3M Tape  | Tissue Paper  |
+| Knife    | Acetone       |
 
 ## Notes
 
@@ -26,12 +26,7 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 1.  If present, remove any stickers with acetone and foam from the cases
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
-2.  Wipe down inside and out with isopropyl alcohol
-
-    <figure><img src="../../.gitbook/assets/IMG_7839.jpg" alt="" width="375"><figcaption></figcaption></figure>
-3.  Cases should come with the outside sticker and inside QR code already installed.&#x20;
-
-
+2. Cases should come with the outside sticker and inside QR code already installed.&#x20;
 
 <details>
 
@@ -50,16 +45,20 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 <figure><img src="../../.gitbook/assets/IMG_7844.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-
+* Place QR code sticker the upper part of the case. Ensure the black dot is in the lower left corner.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (252).png" alt="" width="341"><figcaption></figcaption></figure>
 
 </details>
 
-1. Remove adhesive covering from the tape in the lower section.
-2. **Put on a new pair of disposable gloves**.
-3. Carefully remove the reflectance panel from its packaging.
-4. Place the panel **metallic side down** on the bottom adhesive strips with light even pressure.
+3. Apply the 3M tape to the lower section of the case.&#x20;
+   1.
+
+       <div align="center"><figure><img src="../../.gitbook/assets/reflectance panel (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
+4. Remove red film from the tape in the lower section
+5. **Put on a new pair of disposable gloves**.
+6. Carefully remove the reflectance panel from its packaging.
+7. Place the panel **metallic side down** on the bottom adhesive strips with light even pressure.
 
 {% columns %}
 {% column %}
@@ -71,19 +70,22 @@ Reflectance Side
 {% column %}
 <figure><img src="../../.gitbook/assets/IMG_7846.jpg" alt=""><figcaption></figcaption></figure>
 
-Metalic Side
+Metallic Side
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src="../../.gitbook/assets/IMG_7848.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-12. Press down to make sure the glue sticks using the inside side of the original panel packaging as it is clean and free of oils and debris.
+8. Press down to make sure the glue sticks using the inside side of the original panel packaging as it is clean and free of oils and debris.
 
 <figure><img src="../../.gitbook/assets/IMG_7849.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-13. Cut and place a S-23029 tissue paper sheet over the panel with it overlaping the front.
+9.
 
-    <figure><img src="../../.gitbook/assets/IMG_7850.jpg" alt="" width="375"><figcaption></figcaption></figure>
-14. Close the panel on the tissue paper.
+<figure><img src="../../.gitbook/assets/IMG_7848.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+10. Cut and place a S-23029 tissue paper sheet over the panel with it overlapping the front.
+
+<figure><img src="../../.gitbook/assets/IMG_7850.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+13. Close the panel on the tissue paper.
 
 <figure><img src="../../.gitbook/assets/IMG_7851.jpg" alt="" width="375"><figcaption></figcaption></figure>

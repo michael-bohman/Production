@@ -2,7 +2,7 @@
 description: 'Owner: Amanda Janssen'
 ---
 
-# ✅ Reflectance Panel QC
+# 📷 Reflectance Panel QC
 
 ## Notes
 
