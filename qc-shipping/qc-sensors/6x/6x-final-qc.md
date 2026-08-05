@@ -12,26 +12,24 @@ This step should be completed by a different person that did the build and pre-s
 
 ## Camera Check&#x20;
 
-{% hint style="info" %}
-\as-taurus.jdnet.deere.com\Production\Sensors\21214-XX -- 6X Sensor\21214-02
-{% endhint %}
-
 1. Power on the 6X camera and go to website 192.168.42.1
 2. Confirm the following
    1. Firmware is up to date&#x20;
    2. Correct Configuration is set&#x20;
    3. Diagnostics is the same P/N and S/N as the camera
 3. Go to File explorer and type in \\\192.168.42.1
-   1. Data -> Snapshots folder is empty&#x20;
-   2. SdCard -> Hw\_Config is aligned Calibration 1.2.0 and correct S/N
+   1. "\\\192.168.42.1\data\snapshots" is empty&#x20;
+   2. "\\\192.168.42.1\sdcard\info\hw\_config.yaml" is aligned Calibration 1.3.2 and has the correct S/N. Make sure this S/N matches the 6x's SOS build and the label on the outside of the sensor.
 4. Visual Check&#x20;
    1. Sticker is clean&#x20;
-   2. Screws are tight and nothing is missing&#x20;
-   3. SDcard is secured&#x20;
+   2. Screws are at the correct torque spec and none of them are missing&#x20;
+   3. SD card is secured&#x20;
+   4. All lenses are clean and do not have any smudges or fingerprints on them
 5. Taurus Check&#x20;
-   1. Data folder contains the Cal, Focus, and Flight Test&#x20;
-   2. SDcard includes Firmware, info, and System Volume Information
-   3. CheckinDoc is in folder, Click into Checkin and read through it
+   1. Using File Explorer, navigate to "\\\as-taurus.jdnet.deere.com\Production\Sensors\\". Find and open the folder for the specific part number and serial number of the Sensor being QC'd.
+   2. Data folder contains the Cal, Focus, and Flight Test&#x20;
+   3. SDcard includes Firmware, info, and System Volume Information
+   4. CheckinDoc is in folder, Click into Checkin and read through it
 
 <figure><img src="../../../.gitbook/assets/Camera Check in Taurus.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +52,7 @@ This step should be completed by a different person that did the build and pre-s
 {% endhint %}
 
 1. Confirm S/N of the light sensor in case is the same on the Sales order&#x20;
-2. Confirm S/N folder in Taurus has Communciation\_ship folder&#x20;
+2. Confirm S/N folder in Taurus has Communication\_ship image&#x20;
 3. Look at image and confirm no issues with light sensor&#x20;
 
 <figure><img src="../../../.gitbook/assets/Light Sensor.png" alt=""><figcaption></figcaption></figure>
