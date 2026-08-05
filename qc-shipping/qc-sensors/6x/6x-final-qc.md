@@ -12,7 +12,7 @@ This step should be completed by a different person that did the build and pre-s
 
 ## Camera Check&#x20;
 
-1. Power on the 6X camera and go to website 192.168.42.1
+1. Power on the 6X camera and go to website 192.168.42.1. If you are required to enter in credentials, the username is "sentera" and leave the password blank.
 2. Confirm the following
    1. Firmware is up to date&#x20;
    2. Correct Configuration is set&#x20;
