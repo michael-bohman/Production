@@ -29,23 +29,37 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 2.  Wipe down inside and out with isopropyl alcohol
 
     <figure><img src="../../.gitbook/assets/IMG_7839.jpg" alt="" width="375"><figcaption></figcaption></figure>
-3.  Cut Strips of foam tape and attach to the inside faces of the containers as shown, ensuring edges of the tape match closely with the container walls
+3.  Cases should come with the outside sticker and inside QR code already installed.&#x20;
+
+
+
+<details>
+
+<summary>If stickers are not pre-installed. Follow these steps. </summary>
+
+
+
+*   Cut Strips of foam tape and attach to the inside faces of the containers as shown, ensuring edges of the tape match closely with the container walls
 
     <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption></figcaption></figure>
-4. Remove adhesive covering from each **upper** strip of tape and film from **both** sides of the polycarbonate sheet.
-   1.  One of the pieces of film on the polycarbonate sheet is very transparent. Ensure **both** films are removed.
+* Remove adhesive covering from each **upper** strip of tape and film from **both** sides of the polycarbonate sheet.
+  1.  One of the pieces of film on the polycarbonate sheet is very transparent. Ensure **both** films are removed.
 
-       <figure><img src="../../.gitbook/assets/IMG_7843.jpg" alt="" width="375"><figcaption></figcaption></figure>
-5.  Place the polycarbonate sheet in the **upper** section, applying even pressure to ensure secure attachment.
+      <figure><img src="../../.gitbook/assets/IMG_7843.jpg" alt="" width="375"><figcaption></figcaption></figure>
+* Place the polycarbonate sheet in the **upper** section, applying even pressure to ensure secure attachment.
 
-    <figure><img src="../../.gitbook/assets/IMG_7844.jpg" alt="" width="375"><figcaption></figcaption></figure>
-6.  Remove the backing from the internal label and place on top of the polycarbonate sheet with the **black dot in the lower left corner.**
+<figure><img src="../../.gitbook/assets/IMG_7844.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/IMG_7845.jpg" alt="" width="375"><figcaption></figcaption></figure>
-7. Remove adhesive covering from the tape in the lower section.
-8. **Put on a new pair of disposable gloves**.
-9. Carefully remove the reflectance panel from its packaging.
-10. Place the panel **metallic side down** on the bottom adhesive strips with light even pressure.
+
+
+<figure><img src="../../.gitbook/assets/image (252).png" alt="" width="341"><figcaption></figcaption></figure>
+
+</details>
+
+1. Remove adhesive covering from the tape in the lower section.
+2. **Put on a new pair of disposable gloves**.
+3. Carefully remove the reflectance panel from its packaging.
+4. Place the panel **metallic side down** on the bottom adhesive strips with light even pressure.
 
 {% columns %}
 {% column %}
