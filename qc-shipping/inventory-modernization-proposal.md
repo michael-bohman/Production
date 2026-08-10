@@ -1,3 +1,7 @@
+---
+description: 'Owner: James'
+---
+
 # Inventory Modernization Proposal
 
 **Purpose:** Build a roadmap to centralize inventory, purchasing, receiving, and shipping while improving accuracy, traceability, and scalability for drone production operations.

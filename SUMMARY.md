@@ -84,7 +84,6 @@
 * [✅ Astro Legs](technical-instructions/astro-legs/README.md)
   * [✅ Astro Legs Assembly](technical-instructions/astro-legs/astro-legs-assembly.md)
   * [✅ Astro Legs QC and Bagging ](technical-instructions/astro-legs/astro-legs-qc-and-bagging.md)
-* [Camera Checkin IN PROGRESS](technical-instructions/camera-checkin-in-progress.md)
 
 ## Fault Isolation
 
@@ -96,6 +95,7 @@
 
 ## QC/Shipping
 
+* [Camera Checkin IN PROGRESS](qc-shipping/camera-checkin-in-progress.md)
 * [QC Sensors](qc-shipping/qc-sensors/README.md)
   * [65R](qc-shipping/qc-sensors/65r/README.md)
     * [65R Focusing Standards and QC](qc-shipping/qc-sensors/65r/65r-focusing-standards-and-qc.md)
@@ -120,7 +120,4 @@
 * [Software Installation Guide](space-and-general/software-installation-guide.md)
 * [Gitbook Page Export Guide](space-and-general/gitbook-page-export-guide.md)
 * [EVault Upload Guide](space-and-general/evault-upload-guide.md)
-* [Task Breakdown](space-and-general/task-breakdown/README.md)
-  * [65R Tasks](space-and-general/task-breakdown/65r-tasks.md)
-  * [PixelScout](space-and-general/task-breakdown/pixelscout.md)
 * [ToolBox Things](space-and-general/toolbox-things.md)

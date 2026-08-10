@@ -1,3 +1,7 @@
+---
+description: David
+---
+
 # Camera Checkin IN PROGRESS
 
 ## Guide

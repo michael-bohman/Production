@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Kristen'
+description: 'Owner: James'
 ---
 
 # Receiving Purchase Orders
