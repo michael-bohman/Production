@@ -76,7 +76,7 @@
   * [📷 Final Assembly 6X/65R](technical-instructions/gimbals/final-assembly-6x-65r/README.md)
     * [✅ DJI Only Binding Stack](technical-instructions/gimbals/final-assembly-6x-65r/dji-only-binding-stack.md)
 * [🚧 Light Sensor](technical-instructions/light-sensor/README.md)
-  * [❌ Assembly](technical-instructions/light-sensor/assembly.md)
+  * [🚧 Assembly](technical-instructions/light-sensor/assembly.md)
   * [✅ Programming](technical-instructions/light-sensor/programming.md)
 * [🚧 Reflectance Panel](technical-instructions/reflectance-panel/README.md)
   * [🚧 Reflectance Panel Assembly](technical-instructions/reflectance-panel/reflectance-panel-assembly.md)

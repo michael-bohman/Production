@@ -1,3 +1,10 @@
+---
+description: >-
+  Instructions identify the process for programming a 6X ILS+GPS board (PN:
+  23122), which has auxiliary button/buzzer CCA (PN: 23115). These instructions
+  should NOT be used for GPS only OR no button
+---
+
 # ✅ Programming
 
 ## Notes&#x20;

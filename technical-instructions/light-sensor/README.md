@@ -4,16 +4,16 @@ description: 'Owner: Kristen'
 
 # 🚧 Light Sensor
 
-(insert image)
+<figure><img src="../../.gitbook/assets/ILS.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Equipment Needed
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
+| USB C to A cable | Tweezers | Alcohol Wipes |
+| ---------------- | -------- | ------------- |
+|                  | Scissors |               |
+|                  |          |               |
 
 ## Drawings&#x20;
 
