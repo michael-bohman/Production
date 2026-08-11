@@ -44,3 +44,5 @@ The Filter needs to be placed with the more mirrored side to face away from the 
 
 <figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
+Place filter onto a clean surface for review. Clean both sides of the filter with a lens toilette if debris is found. Use your tweezer and hold filter at an angle to confirm the mirrored side and place into position 2 of the top cover as shown in the above diagram. &#x20;
+
