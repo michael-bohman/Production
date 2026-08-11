@@ -38,6 +38,9 @@ Now remove the other peel-off liner of the double sided tape. Carefully place th
 {% step %}
 ### Adding the filters
 
-
+The Filter needs to be placed with the more mirrored side to face away from the sensor (down into the top cover).
 {% endstep %}
 {% endstepper %}
+
+<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+
