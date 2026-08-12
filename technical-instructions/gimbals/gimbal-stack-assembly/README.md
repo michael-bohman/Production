@@ -100,24 +100,25 @@ If the green light is not visible then click <mark style="color:blue;">program</
    5.
 
        <figure><img src="../../../.gitbook/assets/20260609_080116 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
-4. <mark style="color:blue;">Open Partner Assistant</mark> and login to your account
+4. <mark style="color:blue;">Open Partner Assistant</mark> (version 1.4.4) and login to your account
    1. Log into the Webpage now, which will be used later for Serial Number&#x20;
       1. If the intended serial number is not know, click on <mark style="color:blue;">Web Control Panel</mark>
          1. Log in and go to <mark style="color:blue;">Customers</mark>
          2. This website is only to view the last used serial number for the corresponding part number. In partner assist, use the next number in the series.&#x20;
-5.  At the top left corner, if the box is empty, click on the <mark style="color:blue;">upside-down triangle</mark> and select the <mark style="color:blue;">COM port</mark> associated with the TTL cable.
+5.  At the top left corner, if the box is empty, click on the <mark style="color:blue;">upside-down triangle</mark> and select the <mark style="color:blue;">COM port</mark> associated with the TTL cable.&#x20;
 
     <figure><img src="../../../.gitbook/assets/com connect.png" alt=""><figcaption></figcaption></figure>
-6. Click <mark style="color:blue;">Test Board</mark>
 
 {% hint style="danger" %}
 NOTE: Do NOT click 'Connect'.
 {% endhint %}
 
+* Click <mark style="color:blue;">Test Board</mark>
+
 <figure><img src="../../../.gitbook/assets/Motor 1st screen - Copy.png" alt=""><figcaption></figcaption></figure>
 
-5. You will automatically go to the Flashing Test Firmware Screen
-6. Select the following board version below (Insert Page name)
+6. You will automatically go to the Flashing Test Firmware Screen
+7. Select the following board version below (Insert Page name)
    1. Select <mark style="color:blue;">3.3 "Tiny+" (256K) - low power, small size board</mark>
    2. Click <mark style="color:blue;">Flash</mark>
    3.
@@ -132,37 +133,37 @@ NOTE: Do NOT click 'Connect'.
 
 
    6. <mark style="background-color:yellow;">Select the "Auto-Next Step" to bypass clicking next on each step</mark>
-7. On the Preparing Board for testing Page, select the following license below&#x20;
+8. On the Preparing Board for testing Page, select the following license below&#x20;
    1. \#2033 "Tiny" - small size, low power (retail), BOARD: Tiny+
    2.
 
        <figure><img src="../../../.gitbook/assets/prep for testing (1).png" alt=""><figcaption></figcaption></figure>
    3. Click <mark style="color:blue;">Next</mark> if not already automated
-8. On the Testing Board Page
+9. On the Testing Board Page
    1. Wait for the test to finish, It will display a red line at the bottom&#x20;
    2. This is a normal error, should be these numbers displayed
    3.
 
        <figure><img src="../../../.gitbook/assets/test board screen.png" alt=""><figcaption></figcaption></figure>
    4. Click <mark style="color:blue;">Next</mark> if not already automated
-9. On the Configuring Board Features Page
-   1. Confirm the License is #203
-   2. In the Board ID box, change the last few numbers to the serial number following the last used on the web control panel page. Refer to Step 4 in the Motor Controller Guide.&#x20;
-   3. Click <mark style="color:blue;">Next</mark> if not already automated
+10. On the Configuring Board Features Page
+    1. Confirm the License is #203
+    2. In the Board ID box, change the last few numbers to the serial number following the last used on the web control panel page. Refer to Step 4 in the Motor Controller Guide.&#x20;
+    3. Click <mark style="color:blue;">Next</mark> if not already automated
 
 <figure><img src="../../../.gitbook/assets/board SN screen.png" alt=""><figcaption></figcaption></figure>
 
-9. On the Writing Secret Keys Page, wait for program to finish. it will display the screen below
-   1.
+11. On the Writing Secret Keys Page, wait for program to finish. it will display the screen below
+    1.
 
-       <figure><img src="../../../.gitbook/assets/writing keys screen.png" alt=""><figcaption></figcaption></figure>
-10. On the Preparing Board for Flashing Firmware Page
+        <figure><img src="../../../.gitbook/assets/writing keys screen.png" alt=""><figcaption></figcaption></figure>
+12. On the Preparing Board for Flashing Firmware Page
     1. This just confirms the switch on the motor controller is on
     2.
 
         <figure><img src="../../../.gitbook/assets/confirm switch ON.png" alt=""><figcaption></figcaption></figure>
     3. Click <mark style="color:blue;">Next</mark> if not already automated
-11. On the Flashing Main Firmware Page
+13. On the Flashing Main Firmware Page
     1. Select the <mark style="color:blue;">2.70 REGULAR (no encoders) (1.09.2020) Firmware</mark>
     2. Click <mark style="color:blue;">Upload</mark>&#x20;
     3.
@@ -175,15 +176,15 @@ NOTE: Do NOT click 'Connect'.
 
 
     6. Click <mark style="color:blue;">Skip</mark> for the next 2 screens
-12. On the Finished! Screen&#x20;
+14. On the Finished! Screen&#x20;
     1. Click <mark style="color:blue;">Cancel</mark>&#x20;
     2.
 
         <figure><img src="../../../.gitbook/assets/finished screen.png" alt=""><figcaption></figcaption></figure>
-13. Disconnect all the connections to the board, power first.&#x20;
-14. Carefully flip the switch on the board to OFF
-15. Place motor controller back in static bag, label completed
-16. Put all cables and equipment back into the Motor Controller Bin
+15. Disconnect all the connections to the board, power first.&#x20;
+16. Carefully flip the switch on the board to OFF
+17. Place motor controller back in static bag, label completed
+18. Put all cables and equipment back into the Motor Controller Bin
 
 ### IMU Calibration Guide
 

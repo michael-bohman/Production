@@ -63,6 +63,9 @@
       1. 1x Alcohol Wipe
       2. 1x Mini Slotted Screwdriver
       3. 1x Adhesive-backed Cable Clip
+   3. Check labels&#x20;
+      1. Check SN on Air&#x20;
+      2. Radio Net ID on both Air and ground modules should be the same
 2. Final Case Assembly
 
 {% columns %}
@@ -94,6 +97,9 @@
       2. 1x Mini Slotted Screwdriver
       3. 2x Adhesive-backed Cable Clip
       4. 1x 3mm Hex L-key
+   3. Check labels&#x20;
+      1. Check SN on Air&#x20;
+      2. Radio Net ID on both Air and ground modules should be the same
 2. Final Case Assembly
 
 {% columns %}
@@ -122,5 +128,8 @@
 4. Close up box
 5. Tape around edges&#x20;
 6. Tape/stick-on label to the box&#x20;
-7. Use labels or sharpie on box to identify if it is IF800 or IF1200 to all sides&#x20;
+7. Use labels on both sides of the box to identify if it is IF800 or IF1200 to all sides&#x20;
+   1.
+
+       <figure><img src="../../.gitbook/assets/20260804_153511.jpg" alt="" width="563"><figcaption></figcaption></figure>
 8. Place in the shipment zone

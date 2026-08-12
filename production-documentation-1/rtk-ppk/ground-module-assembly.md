@@ -1,4 +1,4 @@
-# ✅ Ground Module Assembly
+# 🚧 Ground Module Assembly
 
 ## Drawing
 
@@ -102,36 +102,23 @@ Note: Cure time is 24 hours, but it is not required to wait until cured to conti
 
     <figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 8. Install felt sheet.
-   1. Use the plastic template to cut the adhesive-backed felt into proper shape.
-   2.
+   1. Clean surface with alcohol and let dry&#x20;
+   2. Line up the hole with the sheet and get as straight as possible.&#x20;
+   3. Avoid removing the felt sheet multiple times
+   4.
 
-       <figure><img src="../../.gitbook/assets/image (163).png" alt="" width="271"><figcaption></figcaption></figure>
-   3. For the hole, place the felt in the hole punch with at least 6 pieces of scrap paper behind it.
+       <figure><img src="../../.gitbook/assets/20260812_080918.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-{% columns %}
-{% column %}
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
 
-{% column %}
-<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
-
-9. Clean bottom side of enclosure (the side with the threaded hole) with alcohol.
-10. Apply felt sheet to enclosure making sure to align threaded hole in the middle of the hole in the felt sheet.
-    1.
-
-        <figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
-11. Apply stickers
-    1. Clean the recessed area of the cover with alcohol
-    2. Apply the label to the cover ensuring the transparent circles on the label align with the holes of the cover.
-       1. Note: it may be easiest to use 2 tweezers on either side of the sticker to enable finer control of the placement.
-    3. Clean the cover with alcohol
-    4. Apply the radio net ID sticker with the corresponding number as shown.
+9. Apply stickers
+   1. Clean the recessed area of the cover with alcohol
+   2. Apply the label to the cover ensuring the transparent circles on the label align with the holes of the cover.
+      1. Note: it may be easiest to use 2 tweezers on either side of the sticker to enable finer control of the placement.
+   3. Clean the cover with alcohol
+   4. Apply the radio net ID sticker with the corresponding number as shown.
 
 {% hint style="info" %}
-NOTE: The sticker will be different for PixelScout/WeedScout systems. Refer to those pages for those systems.
+NOTE: The sticker will have an extra 1 for PixelScout/WeedScout systems (3201110xxx).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>

@@ -75,7 +75,7 @@ Place the yaw adapter over the board and attach using 4 screws <mark style="colo
        <figure><img src="../../../../.gitbook/assets/image (45).png" alt="" width="311"><figcaption></figcaption></figure>
 9. Again, Place the motor controller board on top. Push down so it connects to the comms board below.
    1. Ensure the 2 front holes still line up with the comms board holes.
-10. Place the gimbal on top. Secure using 3 screws <mark style="color:yellow;">Item #13 (994017A156)</mark> and Loctite.
+10. Place the gimbal on top. Secure using 3 screws <mark style="color:yellow;">Item #13 (94017A156)</mark> and Loctite.
 11. Plug in 3 connections as shown. Route them such that no pinching or squishing will occur when the plate is attached above.
 
 {% hint style="info" %}
