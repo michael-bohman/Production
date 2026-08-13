@@ -53,7 +53,7 @@ Perform the instructions included in file _README.md_ in folder _1 – program_.
 Each board includes a u-blox GNSS module which must be configured.  The process to perform this is:
 
 1. Flip the DIP switch to an ON position.
-2. Connect the 3v3 TTL cable between the PC and the board's 4-pin JST _GPS PROG_ connector.
+2. Connect the 3v3 TTL cable between the PC and the board's 4-pin JST _GPS PROG_ connector. You will have a dongle for the TTL to connect to the CCA. This will vary depending on how old your CCA is.
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@ Each board includes a u-blox GNSS module which must be configured.  The process 
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-8. Select: Tools > GNSS Configuration …
+8. Select: Tools > Receiver Configuration …
 9. Select the configuration file _cfg-v1.txt_ from folder _2 – gnss configuration_.
 10. Verify that “Store configuration into BBR/Flash” is checked.
 11. Select: File > GNSS.
@@ -84,9 +84,10 @@ Each board includes a u-blox GNSS module which must be configured.  The process 
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-16. Exit u-center.
+16. Exit u-center if you do not have more to complete.
 17. Flip the DIP switch to an OFF position.
-18. Disconnect the USB cable between the board and the PC.
+18. Disconnect the power USB cable between the board and the PC.
+19. Disconnect the TTL cable
 
 {% hint style="info" %}
 Complete Assembly before moving onto Calibration [assembly.md](assembly.md "mention")
