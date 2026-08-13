@@ -1,8 +1,8 @@
 ---
 description: >-
-  Instructions identify the process for programming a 6X ILS+GPS board (PN:
-  23122), which has auxiliary button/buzzer CCA (PN: 23115). These instructions
-  should NOT be used for GPS only OR no button
+  Instructions for programming a 6X ILS+GPS board (PN: 23122), which has
+  auxiliary button/buzzer CCA (PN: 23115). These instructions should NOT be used
+  for GPS only OR no button
 ---
 
 # ✅ Programming
@@ -29,7 +29,7 @@ Step 1 is only to update the program&#x20;
 
 <summary>If update is needed for program file (most recent is 23122)</summary>
 
-Perform the instructions include in file _README.md_ in folder _1 – program_. This will vary depending on the Microchip device / cable assembly that is being used. Update accordingly.
+Perform the instructions included in file _README.md_ in folder _1 – program_. This will vary depending on the Microchip device / cable assembly that is being used. Update accordingly.
 
 {% file src="../../.gitbook/assets/" %}
 
@@ -39,10 +39,14 @@ Perform the instructions include in file _README.md_ in folder _1 – program_. 
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Verify the LED next to the USB connector illuminates GREEN (after briefly being RED for \~5 seconds)
+2.  Power on ILS with C usb cable. Image below shows programmer and power.
+
+    <figure><img src="../../.gitbook/assets/IMG_8560 (1).jpeg" alt="" width="188"><figcaption></figcaption></figure>
 3. Click on the <mark style="color:blue;">Program-23122</mark> file
-4. Follow steps on the program&#x20;
-5. Disconnect the USB cable between the board and the PC
+4. Verify the LED next to the USB connector illuminates GREEN (after briefly being RED for \~5 seconds). The LED indicator on the CCA next to PIC PROG will be blinking RED![](../../.gitbook/assets/program.gif)
+5. The program will complete and show success, follow program instructions to close
+6. Disconnect the USB power cable between the board and the PC
+7. Disconnect the Microchip programmer
 
 #### 2- GNSS Configuration
 
@@ -113,22 +117,15 @@ Final checkout is performed to verify that everything is operating as expected. 
 
 <summary>1 - Get Info</summary>
 
-1.
-
-    <figure><img src="../../.gitbook/assets/Buzzer.png" alt=""><figcaption></figcaption></figure>
-
-    Within folder _4 – checkout_ double-click script _1 – get info.bat_.
-2. Verify that the software identifies:
+1. Verify that the software identifies:
    1. Software version: _2022092100_
-
-_Confirm results in program:_ CH0=<mark style="color:$info;">NIR</mark>, CH1=<mark style="color:$danger;">Red-Edge</mark>, CH2=<mark style="color:red;">Red</mark>, CH3=<mark style="color:green;">Green</mark>, CH4=<mark style="color:blue;">Blue</mark>
+2. _Confirm results in program:_ CH0=<mark style="color:$info;">NIR</mark>, CH1=<mark style="color:$danger;">Red-Edge</mark>, CH2=<mark style="color:red;">Red</mark>, CH3=<mark style="color:green;">Green</mark>, CH4=<mark style="color:blue;">Blue</mark> The values should NOT be 0.000 and if one or more CH are 0.000 Red tag and follow RMA process
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-3. Take Screenshot of results and post on taurus&#x20;
-   1.
+3. Take Screenshot of results and save on taurus. File name must be Info.PNG and place in the S/N folder for the sensor example:                                                                                          \as-taurus.jdnet.deere.com\Production\Sensors\21215-XX -- 6X Light Sensor\SN 638
 
-       <figure><img src="../../.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

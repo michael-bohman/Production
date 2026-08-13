@@ -1,8 +1,8 @@
+---
+description: ILS GPS Push Button 21215-01
+---
+
 # 🚧 Assembly
-
-## ILS GPS Push Button 21215-01
-
-
 
 {% stepper %}
 {% step %}
@@ -39,10 +39,40 @@ Now remove the other peel-off liner of the double sided tape. Carefully place th
 ### Adding the filters
 
 The Filter needs to be placed with the more mirrored side to face away from the sensor (down into the top cover).
-{% endstep %}
-{% endstepper %}
+
+
 
 <figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
-Place filter onto a clean surface for review. Clean both sides of the filter with a lens toilette if debris is found. Use your tweezer and hold filter at an angle to confirm the mirrored side and place into position 2 of the top cover as shown in the above diagram. &#x20;
+Place filter onto a clean surface for review. Clean both sides of the filter with Kim wipes and Isopropyl if debris is found. Use your tweezer and hold filter at an angle to confirm the mirrored side and place into position 2 of the top cover as shown in the above diagram.
+
+
+
+<figure><img src="../../.gitbook/assets/filters.gif" alt=""><figcaption></figcaption></figure>
+
+Right after filter is in place add <mark style="color:yellow;">25239-00</mark> on top of the filter.
+
+<figure><img src="../../.gitbook/assets/25239.gif" alt=""><figcaption></figcaption></figure>
+
+&#x20;Complete this with all filters for each position.
+{% endstep %}
+
+{% step %}
+### Adding CCA
+
+Take <mark style="color:yellow;">23122-01 CCA</mark> carefully fit the C usb port into the slot on the cover with sensor side down. Then with QTY 4 screws <mark style="color:yellow;">Item#15 (92470A049)</mark> secure the CCA to the top cover.
+
+<figure><img src="../../.gitbook/assets/CCA.gif" alt=""><figcaption></figcaption></figure>
+
+### STOP - Now follow programming instructions before moving to step 7
+{% endstep %}
+
+{% step %}
+### Add cable&#x20;
+
+
+{% endstep %}
+{% endstepper %}
+
+
 
