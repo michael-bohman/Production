@@ -7,10 +7,9 @@ icon: camera
 
 ## Equipment Needed
 
-|     Tall Tripod     | 12v 6x power supply |
-| :-----------------: | :-----------------: |
-| Tripod Camera Mount |     USB-C cable     |
-|       Laptop        |   Wireless Mouse    |
+<table data-header-hidden><thead><tr><th width="401" align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Tall Tripod</td><td align="center">12v 6x power supply</td></tr><tr><td align="center">Tripod Camera Mount</td><td align="center">USB-C cable</td></tr><tr><td align="center">Laptop </td><td align="center">Wireless Mouse </td></tr><tr><td align="center">Calibration App 1.3.2 (Download below)</td><td align="center"></td></tr><tr><td align="center"></td><td align="center"></td></tr></tbody></table>
+
+{% file src="../../.gitbook/assets/calibration_gui_1.3 (1).2" %}
 
 ## Prep
 
