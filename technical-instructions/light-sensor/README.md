@@ -10,10 +10,10 @@ description: 'Owner: Kristen'
 
 ## Equipment Needed
 
-| USB C to A cable | Tweezers | Alcohol Wipes |
-| ---------------- | -------- | ------------- |
-|                  | Scissors |               |
-|                  |          |               |
+| USB C to A cable QTY 2 | Tweezers | Alcohol Wipes / Isopropyl |
+| ---------------------- | -------- | ------------------------- |
+| TTL cable              | Scissors | Kim wipes                 |
+| MPLAB programmer       |          | loctite                   |
 
 ## Drawings&#x20;
 
