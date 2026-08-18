@@ -1,5 +1,5 @@
 ---
-description: 'Stage 2 in the 6X Process 21216-02, 21216-03 Owner: Amanda Janssen'
+description: 'Stage 2 in the 6X Process 21216-02, 21216-03 Owner: David'
 ---
 
 # 📷 6XT/6XTP Front Half&#x20;

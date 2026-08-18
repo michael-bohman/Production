@@ -1,5 +1,5 @@
 ---
-description: 'Stage 1 in the 6X process 21214-02, 21216-02, 21216-03 Owner: Amanda Janssen'
+description: 'Stage 1 in the 6X process 21214-02, 21216-02, 21216-03 Owner: David'
 ---
 
 # ✅ 6X Assembly Back Half

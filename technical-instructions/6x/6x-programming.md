@@ -1,5 +1,5 @@
 ---
-description: 'Stage 2 in the 6X process. Owner: Amanda Janssen'
+description: 'Stage 2 in the 6X process. Owner: David'
 ---
 
 # ✅ 6X Programming

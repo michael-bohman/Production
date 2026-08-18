@@ -90,3 +90,15 @@ Most likely a bad imager. The boards go from 0-4 for positions. You can also loo
 If none of this works, reach out to Help-Embedded
 
 </details>
+
+<details>
+
+<summary>Unable to get data off sd card </summary>
+
+example: broken camera, but still has data on that customer wants&#x20;
+
+Insert that SDcard into a working camera
+
+
+
+</details>

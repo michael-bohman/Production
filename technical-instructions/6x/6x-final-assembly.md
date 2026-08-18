@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Amanda Janssen'
+description: 'Owner: David'
 ---
 
 # 🚧 6X Final Assembly
