@@ -1,4 +1,4 @@
-# 🚧 Ground Module Assembly
+# ✅ Ground Module Assembly
 
 ## Drawing
 

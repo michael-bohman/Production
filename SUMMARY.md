@@ -7,11 +7,11 @@
 ## Technical Instructions
 
 * [🚧 RTK/PPK](<README (1).md>)
-  * [📷 P900 Radio Programming](technical-instructions/rtk-ppk/p900-radio-programming.md)
+  * [✅ P900 Radio Programming](technical-instructions/rtk-ppk/p900-radio-programming.md)
   * [✅ Z9P GPS Board Programming](production-documentation-1/rtk-ppk/z9p-gps-board-programming.md)
   * [✅ Air Module Assembly](production-documentation-1/rtk-ppk/air-module-assembly.md)
-  * [🚧 Ground Module Assembly](production-documentation-1/rtk-ppk/ground-module-assembly.md)
-  * [QC Check](technical-instructions/rtk-ppk/qc-check.md)
+  * [✅ Ground Module Assembly](production-documentation-1/rtk-ppk/ground-module-assembly.md)
+  * [🚧 Module Testing](technical-instructions/rtk-ppk/module-testing.md)
 * [🚧 Pixel Scout](production-documentation-1/pixel-scout/README.md)
   * [Emlid Base Station](technical-instructions/pixel-scout/emlid-base-station/README.md)
     * [✅ Initial Setup](technical-instructions/pixel-scout/emlid-base-station/initial-setup.md)
@@ -81,7 +81,7 @@
 * [🚧 Reflectance Panel](technical-instructions/reflectance-panel/README.md)
   * [🚧 Reflectance Panel Assembly](technical-instructions/reflectance-panel/reflectance-panel-assembly.md)
   * [📷 Reflectance Panel QC](technical-instructions/reflectance-panel/reflectance-panel-qc.md)
-* [✅ Astro Legs](technical-instructions/astro-legs/README.md)
+* [🚧 Astro Legs](technical-instructions/astro-legs/README.md)
   * [✅ Astro Legs Assembly](technical-instructions/astro-legs/astro-legs-assembly.md)
   * [✅ Astro Legs QC and Bagging ](technical-instructions/astro-legs/astro-legs-qc-and-bagging.md)
 
@@ -108,7 +108,7 @@
 * [QC Systems and Kits](qc-shipping/qc-systems-and-kits/README.md)
   * [Reflectance Panel Shipping QC](qc-shipping/qc-systems-and-kits/reflectance-panel-shipping-qc.md)
   * [🚧 Astro Legs Shipping QC](qc-shipping/qc-systems-and-kits/astro-legs-shipping-qc.md)
-  * [RTK/PPK Shipping QC](qc-shipping/qc-systems-and-kits/rtk-ppk-shipping-qc.md)
+  * [🚧 RTK/PPK Shipping QC](qc-shipping/qc-systems-and-kits/rtk-ppk-shipping-qc.md)
   * [PixelScout Shipping QC](qc-shipping/qc-systems-and-kits/pixelscout-shipping-qc.md)
 * [Shipping Labels](qc-shipping/shipping-labels.md)
 * [Receiving Purchase Orders](qc-shipping/receiving-purchase-orders.md)

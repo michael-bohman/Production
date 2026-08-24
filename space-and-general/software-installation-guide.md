@@ -236,9 +236,9 @@ DJI Assistant is used for updating Skyport firmware and binding Skyport pucks.
 
 <details>
 
-<summary>Pixel Allignment Calibration App 1.3.2 </summary>
+<summary>Pixel Alignment Calibration App 1.3.2 </summary>
 
-
+\as-taurus.jdnet.deere.com\Production\Technical Packages\6X SENSOR\IN PROGRESS\6X SENSOR - Technical Data Package - 260302\6X SENSOR - PIXEL ALIGNMENT
 
 {% file src="../.gitbook/assets/calibration_gui_1.3 (2).2" %}
 

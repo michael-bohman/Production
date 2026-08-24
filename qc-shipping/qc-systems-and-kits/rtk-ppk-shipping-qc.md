@@ -1,4 +1,4 @@
-# RTK/PPK Shipping QC
+# 🚧 RTK/PPK Shipping QC
 
 ## Documents Needed
 
@@ -45,10 +45,13 @@
 
 1. Click into "SN# PDF"
    1. Open PDF with Google Chrome
-2. Confirm information on the file is correct
-   1. See example PDF below
+2. Confirm information on the file is correct&#x20;
+   1. All sections should be filled the same way as the example PDF&#x20;
+   2. For both sections (NTRIP and Base Station)
+      1. Confirm GPS type is: RTK Fixed&#x20;
+      2. Confirm Verification: Time Sync Present
 
-{% file src="../../.gitbook/assets/060.pdf" %}
+{% file src="../../.gitbook/assets/Example RTK-PPK Testing PDF.pdf" %}
 
 ### IF800 Case Kit Check
 

@@ -1,4 +1,4 @@
-# 📷 P900 Radio Programming
+# ✅ P900 Radio Programming
 
 ## Parts Needed:
 
@@ -25,13 +25,13 @@ Note: it may be best to install the program to your machine. However, the progra
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/Picture1mod.jpg" alt=""><figcaption><p>Use for air module boards</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/pp master (2).png" alt=""><figcaption><p>Use this mode for Air Modules</p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/Picture2mod.jpg" alt=""><figcaption><p>Use for ground module boards</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/values remote - Copy (1).png" alt=""><figcaption><p>Use this mode for Ground Modules</p></figcaption></figure>
+
+
 {% endcolumn %}
 {% endcolumns %}
 
@@ -41,12 +41,12 @@ Note: it may be best to install the program to your machine. However, the progra
    1. Network Address: 32011-xxxx. This will be listed on the build.
 
 {% columns %}
-{% column %}
-<figure><img src="../../.gitbook/assets/Picture1.png" alt=""><figcaption><p>Use for air module boards</p></figcaption></figure>
+{% column width="50%" %}
+<figure><img src="../../.gitbook/assets/pp master values .png" alt=""><figcaption><p>Use for Air Module Boards</p></figcaption></figure>
 {% endcolumn %}
 
-{% column %}
-<figure><img src="../../.gitbook/assets/Picture2.png" alt=""><figcaption><p>Use for ground module boards</p></figcaption></figure>
+{% column width="50%" %}
+<figure><img src="../../.gitbook/assets/pp remote values .png" alt=""><figcaption><p>Use for Ground Module Boards</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 

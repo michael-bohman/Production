@@ -12,23 +12,47 @@ description: '6X Gimbal Guide Assembly 21264-01. Owner: Amanda Janssen'
 
 ## Guide
 
-1\. Cut 4 zip ties off the snakeskin wire wrap protecting the motor wires. LEAVE THE SNAKESKIN ON
+1. Cut 4 zip ties off the snakeskin wire wrap protecting the motor wires. LEAVE THE SNAKESKIN ON.&#x20;
+   1.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (21).jpeg" alt=""> </p>
+       <figure><img src="../../.gitbook/assets/IMG_3876.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+
 
 2. Attach arm to the motor between the snakeskin wire wraps as shown. Secure with 4 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">8 ()</mark> and Loctite.
+   1.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (22).jpeg" alt=""> </p>
+       <figure><img src="../../.gitbook/assets/IMG_3877.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Attach cap and arm.
-   1. Route the wires as shown. Leave the frayed end of the snakeskin above the surface of the arm.
-   2. <p align="center"><img src="../../.gitbook/assets/unknown (23).jpeg" alt=""></p>
-   3. Place the cap on over the screws secured in step 2
-   4. <p align="center"><img src="../../.gitbook/assets/unknown (24).jpeg" alt=""> </p>
-   5. Hold second arm into place and feed shoulder screw <mark style="color:yellow;">Item 10 (26156966)</mark> through the second arm, first arm, and into the cap. Secure with Loctite.
-   6.
 
-       <figure><img src="../../.gitbook/assets/image (59).png" alt="" width="548"><figcaption></figcaption></figure>
+
+
+3.  Attach cap and arm.
+
+    1. Route the wires as shown. Leave the frayed end of the snakeskin above the surface of the arm.
+    2.
+
+        <figure><img src="../../.gitbook/assets/IMG_3879 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+    3. Place the cap on over the screws secured in step 2
+    4.
+
+        <figure><img src="../../.gitbook/assets/IMG_3880 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+
+
+    4\. Hold second arm into place and feed shoulder screw <mark style="color:yellow;">Item 10 (26156966)</mark> through the second arm, first arm, and into the cap. Secure with Loctite.
+
+    1.
+
+        <figure><img src="../../.gitbook/assets/IMG_3882.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 {% hint style="info" %}
 Note: it may be easiest to put one non-Loctite screw in to keep everything together while applying Loctite to the other screw.
@@ -39,11 +63,11 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
    2. Insert 4 <mark style="color:yellow;">#8 screws</mark> with Loctite partially but do not tighten.
    3. Align the wires, snakeskin, and heat shrink and tighten screws.
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+>
 
-5. Check for any friction in the range of motion of the motor. If any exists, loosen screws and re-tighten.
-6. Attach cover and cap.
-7. Pull the snakeskin close to the servo and squish with tweezers to ensure it will fit into the hole in the cover.
+4. Check for any friction in the range of motion of the motor. If any exists, loosen screws and re-tighten.
+5. Attach cover and cap.
+6. Pull the snakeskin close to the servo and squish with tweezers to ensure it will fit into the hole in the cover.
    1. Place the closed-end cover over the wire bundle and slide against the motor.
    2. <p align="center"><img src="../../.gitbook/assets/unknown (26).jpeg" alt=""> </p>
    3. Place cap on the back side of the servo
