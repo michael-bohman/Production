@@ -22,8 +22,6 @@ description: 'Owner: James'
 
 In this section, there are checklists for all the required information inputs for Fedex and UPS shipping label creation.
 
-##
-
 ## Common Question&#x20;
 
 <details>
@@ -60,3 +58,8 @@ Write down the cost of the shipment and include it in the "Create a shipment pag
   * Shipping internally to flight services or engineering&#x20;
   * Shipping internationally instructions&#x20;
 
+## Shipping Weight & Dimensions Estimates
+
+{% file src="../.gitbook/assets/shipment estimates (1).xlsx" %}
+
+See above file when determining estimated dimensions and weight of each shipped product.
