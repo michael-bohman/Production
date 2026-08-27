@@ -244,6 +244,16 @@ DJI Assistant is used for updating Skyport firmware and binding Skyport pucks.
 
 </details>
 
+<details>
+
+<summary>QGIS</summary>
+
+Download version 3.44.7
+
+[https://qgis.org/download/](https://qgis.org/download/)
+
+</details>
+
 
 
 
