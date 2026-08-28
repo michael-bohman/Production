@@ -60,6 +60,6 @@ Write down the cost of the shipment and include it in the "Create a shipment pag
 
 ## Shipping Weight & Dimensions Estimates
 
-{% file src="../.gitbook/assets/shipment estimates (2).xlsx" %}
+{% file src="../../.gitbook/assets/shipment estimates (2).xlsx" %}
 
 See above file when determining estimated dimensions and weight of each shipped product.

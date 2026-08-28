@@ -110,7 +110,8 @@
   * [🚧 Astro Legs Shipping QC](qc-shipping/qc-systems-and-kits/astro-legs-shipping-qc.md)
   * [🚧 RTK/PPK Shipping QC](qc-shipping/qc-systems-and-kits/rtk-ppk-shipping-qc.md)
   * [PixelScout Shipping QC](qc-shipping/qc-systems-and-kits/pixelscout-shipping-qc.md)
-* [Shipping Labels](qc-shipping/shipping-labels.md)
+* [Shipping Labels](qc-shipping/shipping-labels/README.md)
+  * [International Shipping (DHL)](qc-shipping/shipping-labels/international-shipping-dhl.md)
 * [Receiving Purchase Orders](qc-shipping/receiving-purchase-orders.md)
 
 ## Space and General
