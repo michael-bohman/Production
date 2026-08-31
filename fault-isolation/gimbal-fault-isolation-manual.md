@@ -59,6 +59,7 @@ This is likely a motor controller issue. The coms board should appear in the pre
    1. If no power, message Alex Stephens describing issue. Replace the motor controller for your stack&#x20;
    2. If you have power, check step 3&#x20;
 3. Plug in coms board as well to the 24v power adapter to confirm it's getting power
+4. If all signs are normal for COMS and Motor Controller. Check the wiring harness. Grab another gimbal and switch it out to see if that solves the issue. If so, you know that the faulty gimbal needs a new wiring harness&#x20;
 
 </details>
 
@@ -84,8 +85,11 @@ The camera slowly drifts when starting up. This issue is caused by the gyro gett
 
 <details>
 
-<summary>Camera keep power cycling while on gimbal and loses all function in the gimbal</summary>
+<summary>Camera keep power cycling while on gimbal</summary>
 
-This issue can show up in multiple ways. It is likely the issue when only one axis is working or the gimbal is losing power.&#x20;
+This issue can show up in multiple ways. It is likely the issue when the camera is functioning as normal on the gimbal and then restarts after losing power.&#x20;
+
+1. Rule out motor controller issue by plugging it in and seeing if that board is functioning as normal. If no, continue step 2.&#x20;
+2. Grab another gimbal and switch it out to see if that solves the issue. If so, you know that the faulty gimbal needs a new wiring harness&#x20;
 
 </details>
