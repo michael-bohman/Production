@@ -1,5 +1,7 @@
 # 6X Fault Isolation Manual
 
+{% embed url="https://forms.zohopublic.com/senterallc/form/6XFaultIsolation/formperma/K1E0NMDtTZWyrjHhYsITyo7AOFjSpszyN1G7TUBL5hI" %}
+
 ## Common Issues (Try First)
 
 <details>
