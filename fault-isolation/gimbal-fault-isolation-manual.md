@@ -86,8 +86,6 @@ The camera slowly drifts when starting up. This issue is caused by the gyro gett
 
 <summary>Camera keep power cycling while on gimbal and loses all function in the gimbal</summary>
 
-Most likely a power issue with the wiring harness
-
-1. Replace the wiring harness
+This issue can show up in multiple ways. It is likely the issue when only one axis is working or the gimbal is losing power.&#x20;
 
 </details>
