@@ -28,7 +28,7 @@ description: Stage 2 in the 65R Process 21030-02
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="304"><figcaption></figcaption></figure>
 10. Navigate to 192.168.42.1 on chrome.
 11. Navigate to the 'Update Firmware' tab on the left side of the webpage.
-12. Click on the 'Firmware Update' field and select the file **65r-factory-update\_X.X.X-21060.swu** where ('X.X.X' is the release version) from the **firmware-factory update** folder.
+12. Click on the 'Firmware Update' field and select the file **65r-factory-update\_X.X.X-21030.swu** where ('X.X.X' is the release version) from the **firmware-factory update** folder.
 13. Once the firmware update is completed (approx. 5 minutes), power down the 65R.
     1. Note: The firmware update page may not show the correct firmware. This will be fixed once the switches are in the correct position later.
     2. Note: When unplugging the barrel0jack power connector, hold the heat-sink down with one hand pulling up on the connector with the other. This ensures the board-to-board connectors do not become loose or separate.
