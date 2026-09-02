@@ -13,9 +13,16 @@ icon: camera
 
 ## Prep
 
-1. Ensure image adjustment setting is unchecked on the camera
+1. Ensure image adjustment setting is unchecked on the camera. Start by powering on the 6x, connecting to it with your computer with a USB C cable, and navigating to Image Adjustment page using this URL:  "[http://192.168.42.1/swconfig\_adv.shtml](http://192.168.42.1/swconfig_adv.shtml)" in a web browser.
+2. Check to make sure the "image alignment" checkbox was unchecked for the Focus imagery.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (224).png" alt="" width="563"><figcaption></figcaption></figure>
+
+3. The 6x should have Focus pictures that were also taken with Image Alignment turned off. This can be double checked by opening up a File Explorer and navigating to the address: "\192.168.42.1\data\snapshots\Focus\0-Blue-475-30". Then right click on any image and go to the properties. If the Dimensions of the image under the details tab are 2048 X 1536, then this is correct. If not, then Focus pictures need to be retaken with image adjustment unchecked.
+
+<figure><img src="../../.gitbook/assets/pic1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/pic2.png" alt=""><figcaption></figcaption></figure>
 
 ## Guide
 

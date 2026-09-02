@@ -96,7 +96,7 @@ Full assembly steps are shown. If programming and/or focusing will occur immedia
 
 <figure><img src="../../.gitbook/assets/IMG_6788.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-11. Connect the USB-C and external connection board to the baseboard and secure with 2 screws (#24: 91772A065) and Loctite.
+11. Connect the USB-C and external connection board to the baseboard and secure with 2 screws (#24: 91772A065) and Loctite. For Pixelscout 65R's this will be a micro-USB connector board.
 
 <figure><img src="../../.gitbook/assets/IMG_6792 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -128,7 +128,7 @@ Full assembly steps are shown. If programming and/or focusing will occur immedia
 
 <figure><img src="../../.gitbook/assets/IMG_6799.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-16. Turn the housing over and place the lens on the other side. Secure with 2 screws (#25: 93085A621) and Loctite.
+16. Remove and hold onto the back cap of the lens before attaching. Turn the housing over and place the lens on the other side. Secure with 2 screws (#25: 93085A621) and Loctite.&#x20;
 
 <figure><img src="../../.gitbook/assets/IMG_6800.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
