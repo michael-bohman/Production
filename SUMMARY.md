@@ -95,7 +95,7 @@
 
 ## QC/Shipping
 
-* [Camera Checkin IN PROGRESS](qc-shipping/camera-checkin-in-progress.md)
+* [Camera Check-in](qc-shipping/camera-check-in.md)
 * [QC Sensors](qc-shipping/qc-sensors/README.md)
   * [65R](qc-shipping/qc-sensors/65r/README.md)
     * [65R Focusing Standards and QC](qc-shipping/qc-sensors/65r/65r-focusing-standards-and-qc.md)
