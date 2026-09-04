@@ -4,11 +4,11 @@ description: 'Owner: Isaac'
 
 # PixelScout Fault Isolation
 
+## Report Issues&#x20;
 
+> [https://forms.zohopublic.com/senterallc/form/PixelScoutFaultIsolation/formperma/bN54SqUa56CyhAohn9bULUPqirxKin4kQN4gVfnykj4](https://forms.zohopublic.com/senterallc/form/PixelScoutFaultIsolation/formperma/bN54SqUa56CyhAohn9bULUPqirxKin4kQN4gVfnykj4)
 
-{% embed url="https://forms.zohopublic.com/senterallc/form/PixelScoutFaultIsolation/formperma/bN54SqUa56CyhAohn9bULUPqirxKin4kQN4gVfnykj4" %}
-
-## Gimbal
+## Gimbal&#x20;
 
 <details>
 
