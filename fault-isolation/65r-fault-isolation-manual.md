@@ -1,6 +1,8 @@
 # 65R Fault Isolation Manual
 
-{% embed url="https://forms.zohopublic.com/senterallc/form/65Rfaultisolation1/formperma/CJcEYZErSP_-w5Tm83R5N2hj8tm-IVSsH5eRuiAEZe4" %}
+
+
+{% embed url="https://forms.zohopublic.com/senterallc/form/PixelScoutFaultIsolation/formperma/bN54SqUa56CyhAohn9bULUPqirxKin4kQN4gVfnykj4" %}
 
 ## Common Issues
 
