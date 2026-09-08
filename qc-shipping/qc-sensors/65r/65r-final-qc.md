@@ -12,10 +12,16 @@ This step should be completed by a different person that did the build and pre-s
 
 ## Camera Check&#x20;
 
-1. Power on the 65R camera and go to website "192.168.42.1".
+1. Power on the 65R camera and go to website "192.168.42.1". If you are required to enter in credentials, the username is "sentera" and leave the password blank.
 2. Confirm the following
    1. Firmware is up to date&#x20;
-   2. Correct Configuration is set&#x20;
+   2. Correct Configuration is set use the following to confirm the correct config according to the SOS part number that is being shipped.&#x20;
+      1. 21931-00, 21931-01, 21931-12, 21931-13 M300/M350 --> DJI skyport, Gimbaled
+      2. 21931-02, 21931-03, 21931-14, 21931-15 Freefly Astro --> Freefly Astro Gimbal
+      3. 21931-04, 21931-05, 21931-16, 21931-17 IF800 --> IF800, Inspired Flight Gimbal
+      4. 21931-06, 21931-07, 21931-18, 21931-19 IF1200 --> IF1200A, Inspired Flight Gimbal
+      5. 21931-08, 21931-09, 21931-20, 21931-21 OEM --> Sentera GPS, OEM
+      6. 21931-10, 21931-11 Gremsy --> MAVLink-v2, Gremsy Hyper Quick
    3. Diagnostics is the same P/N and S/N as the camera
 3. Go to File explorer and type in \\\192.168.42.1
    1. "\\\192.168.42.1\data\snapshots" is empty&#x20;
@@ -24,7 +30,7 @@ This step should be completed by a different person that did the build and pre-s
    1. Sticker is clean&#x20;
    2. Screws attaching the sensor to the gimbal are at the correct torque spec (15 inch-oz) and none of them are missing. This includes all three philips head screws and the shoulder screw.
    3. SD card is secured&#x20;
-   4. All lenses are clean and do not have any smudges or fingerprints on them
+   4. The lens is clean and do not have any smudges or fingerprints on them
 5. Taurus Check&#x20;
    1. Using File Explorer, navigate to "\\\as-taurus.jdnet.deere.com\Production\Sensors\\". Find and open the folder for the specific part number and serial number of the Sensor being QC'd.
    2. Data folder contains the Focus and Flight Test. It is also acceptable to have a folder named BPR with no images. Check Focus and Flight Test imagery.
