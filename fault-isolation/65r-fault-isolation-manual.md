@@ -2,7 +2,7 @@
 
 ## Report Issues
 
-> [https://forms.zohopublic.com/senterallc/form/65Rfaultisolation1/formperma/CJcEYZErSP\_-w5Tm83R5N2hj8tm-IVSsH5eRuiAEZe4](https://forms.zohopublic.com/senterallc/form/65Rfaultisolation1/formperma/CJcEYZErSP_-w5Tm83R5N2hj8tm-IVSsH5eRuiAEZe4)
+[65R Reporting Link](https://forms.zohopublic.com/senterallc/form/65Rfaultisolation1/formperma/CJcEYZErSP_-w5Tm83R5N2hj8tm-IVSsH5eRuiAEZe4)
 
 ## Common Issues
 

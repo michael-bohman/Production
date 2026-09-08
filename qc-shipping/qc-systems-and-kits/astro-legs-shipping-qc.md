@@ -16,13 +16,13 @@
 1. Locate the numbers on the Astro Legs being shipped&#x20;
 2. Go to this file location in Taurus
    1. \as-taurus.jdnet.deere.com\Production\Systems & Kits\11604-XX -- Astro Legs
-3.  Locate your Sales Order folder
+3. Locate your Sales Order folder
+   1. Confirm the serial numbers on the legs match the folder name on taurus&#x20;
+   2. Confirm it's the correct SO number
+   3. Confirm folder has 3 pictures&#x20;
 
-    1. Confirm the serial numbers on the legs match the folder name on taurus&#x20;
-    2. Confirm it's the correct SO number
-    3. Confirm folder has 2 videos and one picture
+<figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 4. Correct any issues that appear
 
 ### Quality Check&#x20;

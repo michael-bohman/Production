@@ -2,7 +2,7 @@
 
 ## Report Issues
 
-> [https://forms.zohopublic.com/senterallc/form/GimbalFaultIsolation/formperma/iZXHa1ZdvcrpaIV4BS-YBQmQN61NEKv\_5Y6PrZE6\_6A](https://forms.zohopublic.com/senterallc/form/GimbalFaultIsolation/formperma/iZXHa1ZdvcrpaIV4BS-YBQmQN61NEKv_5Y6PrZE6_6A)
+[Gimbal Reporting Link](https://forms.zohopublic.com/senterallc/form/GimbalFaultIsolation/formperma/iZXHa1ZdvcrpaIV4BS-YBQmQN61NEKv_5Y6PrZE6_6A)
 
 ## Common Issues&#x20;
 

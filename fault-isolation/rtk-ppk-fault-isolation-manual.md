@@ -2,7 +2,7 @@
 
 ## Report Issues
 
-> [https://forms.zohopublic.com/senterallc/form/RTKPPKFaultIsolation/formperma/W-\_j2PPkZcRHIdXBaADOI09x4XuBvGsg5t8RNWXyYV0](https://forms.zohopublic.com/senterallc/form/RTKPPKFaultIsolation/formperma/W-_j2PPkZcRHIdXBaADOI09x4XuBvGsg5t8RNWXyYV0)
+[RTK/PPK Reporting Link](https://forms.zohopublic.com/senterallc/form/RTKPPKFaultIsolation/formperma/W-_j2PPkZcRHIdXBaADOI09x4XuBvGsg5t8RNWXyYV0)
 
 ## Common Issues
 

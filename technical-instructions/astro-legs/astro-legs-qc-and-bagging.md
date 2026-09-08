@@ -4,13 +4,24 @@ description: 'Owner: Amanda Janssen'
 
 # ✅ Astro Legs QC and Bagging&#x20;
 
-## QC&#x20;
+### Note
+
+* All pictures should be taken using the big light box. It is located in the main office area in a cube.&#x20;
+
+<figure><img src="../../.gitbook/assets/20260908_083918 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+## QC/Pictures
 
 1. Grab a pair of astro legs&#x20;
 2. Inspect each of the legs&#x20;
    1. Confirm no scratches
    2. No glue is showing
    3. The pins are fully seated&#x20;
+
+{% hint style="danger" %}
+If there are scratches, wait to take pictures until those legs are polished or set aside to not be shipped
+{% endhint %}
+
 3. Place a numbered sticker on each of the legs
    1.
 

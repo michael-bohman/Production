@@ -2,7 +2,7 @@
 
 ## Report Issues
 
-> [https://forms.zohopublic.com/senterallc/form/6XFaultIsolation/formperma/K1E0NMDtTZWyrjHhYsITyo7AOFjSpszyN1G7TUBL5hI](https://forms.zohopublic.com/senterallc/form/6XFaultIsolation/formperma/K1E0NMDtTZWyrjHhYsITyo7AOFjSpszyN1G7TUBL5hI)
+[6X Reporting Link](https://forms.zohopublic.com/senterallc/form/6XFaultIsolation/formperma/K1E0NMDtTZWyrjHhYsITyo7AOFjSpszyN1G7TUBL5hI)
 
 ## Common Issues (Try First)
 
