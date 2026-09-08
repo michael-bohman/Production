@@ -63,6 +63,8 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
    2. Insert 4 <mark style="color:yellow;">#8 screws</mark> with Loctite partially but do not tighten.
    3. Align the wires, snakeskin, and heat shrink and tighten screws.
 
+> <img src="../../.gitbook/assets/IMG_3882 (1).jpg" alt="" data-size="original">    ![](<../../.gitbook/assets/IMG_3886 (1).jpg>)
+>
 >
 
 4. Check for any friction in the range of motion of the motor. If any exists, loosen screws and re-tighten.
@@ -74,6 +76,10 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt="" width="458"><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+6X zip cover will be the same for both arms
+{% endhint %}
+
 8.  Secure 2 <mark style="color:yellow;">#9 screws</mark> and Loctite through the cover, arm and into the cap.
 
     1. Before tightening completely, observe the snakeskin to ensure it is not under the cover but rather in the hole. Adjust as necessary.
@@ -82,21 +88,27 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
     &#x20;
 
     <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
-9. Attach inter-most arm to motor.
-   1. Feed the wires through the hole in the arm starting from the plug with the most wires to the least.
-   2. Ensure the tab on the arm lines up in the space provided by the arm attached to the back of the motor. This allows the arm to be pointing inwards or upwards.
-   3.  <p align="center"> </p>
+9.  Attach inter-most arm to motor.
 
-       <figure><img src="../../.gitbook/assets/unknown (27).jpeg" alt=""><figcaption></figcaption></figure>
-   4. Attach the arm to the motor using 3 <mark style="color:yellow;">#8 screws</mark> and Loctite.
-   5. Check for any friction by turning the motor and feeling for any tough spots. If this occurs, loosen and re-tighten the screws.
+    1. Feed the wires through the hole in the arm starting from the plug with the most wires to the least.
+    2. Ensure the tab on the arm lines up in the space provided by the arm attached to the back of the motor. This allows the arm to be pointing inwards or upwards.
+    3. <p align="center"></p>
 
-<p align="center"><img src="../../.gitbook/assets/unknown (28).jpeg" alt=""> </p>
+    <figure><img src="../../.gitbook/assets/IMG_3893.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-10. &#x20;Attach fourth arm to motor.
-    1. Ensure the wires’ resting point is upwards by over-rotating the motor until the wires spring back to center (up).
-    2. <p align="center"><img src="../../.gitbook/assets/unknown (29).jpeg" alt=""> </p>
-    3. <p align="center">Place the arm on the motor such that the arm is pointing upward and the tab lined up in the space provided. Additionally, the heat shrink and wires should be between the two holes in the arm so they will not be pinched.</p>
+    <p align="center"> </p>
+
+    1. Attach the arm to the motor using 3 <mark style="color:yellow;">#8 screws</mark> and Loctite.
+    2. Check for any friction by turning the motor and feeling for any tough spots. If this occurs, loosen and re-tighten the screws.
+
+<figure><img src="../../.gitbook/assets/IMG_3894.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+8. &#x20;Attach fourth arm to motor.
+   1. Ensure the wires’ resting point is upwards by over-rotating the motor until the wires spring back to center (up).
+
+<figure><img src="../../.gitbook/assets/IMG_3882 (1) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+8. <p align="center">Place the arm on the motor such that the arm is pointing upward and the tab lined up in the space provided. Additionally, the heat shrink and wires should be between the two holes in the arm so they will not be pinched.</p>
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 

@@ -50,6 +50,16 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt="" width="458"><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+65R Zip covers are different for each arm. Pay attention to the build for correct placement
+
+
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/65r gimbal pic (1).png" alt="" width="452"><figcaption></figcaption></figure>
+
+
+
 8.  Secure 2 screws <mark style="color:yellow;">Item #10 (94017A108)</mark> and Loctite through the cover, arm and into the cap.
 
     1. Before tightening completely, observe the snakeskin to ensure it is not under the cover but rather in the hole. Adjust as necessary.
