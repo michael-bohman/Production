@@ -83,6 +83,8 @@ If the green light is not visible then click <mark style="color:blue;">program</
 
 {% file src="../../../.gitbook/assets/COMS Board Heartbeat (1).mp4" %}
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FycfHWm9ckUsdZmfqLCYz%2Fuploads%2F6M2opI2Eos6OcFv2VNFC%2FCOMS%20Board%20Heartbeat.mp4?alt=media&token=23fa9808-2a45-4236-86ae-f0ee945f0405" %}
+
 9. Click <mark style="color:blue;">Disconnect</mark> and unplug the board, power first.
 10. Put COMS board back in the Static Bag and mark it completed with Sharpie&#x20;
 11. Put all cables and equipment back into the COMs Board Bin
