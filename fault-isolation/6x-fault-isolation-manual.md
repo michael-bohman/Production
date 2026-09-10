@@ -72,11 +72,19 @@ You do not need to retake CAL photos. Just retake Focus photos
 
 Most likely a bad imager. The boards go from 0-4 for positions. You can also look in the config folder which will tell you the positions as well!
 
-|              |                |
-| ------------ | -------------- |
-| Blue 475 = 0 | 840 =4         |
-| Green 550 =1 | imager-r = RGB |
-| Red 670 =2   | 715 =3         |
+|               |                |
+| ------------- | -------------- |
+| Blue 475 = 0  | 715 = 3        |
+| Green 550 = 1 | imager-r = RGB |
+| Red 670 = 2   | 840 = 4        |
+
+Here are the board positions for 6x Thermals:
+
+|               |                |
+| ------------- | -------------- |
+| No Blue       | 715 = 2        |
+| Green 550 = 0 | imager-r = RGB |
+| Red 670 = 1   | 840 = 3        |
 
 1. Replace the imager that corresponds to the position number&#x20;
    1. Try starting a session a couple of times&#x20;
