@@ -34,7 +34,7 @@ description: 'Owner: Amanda Janssen'
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
-8. Use a hammer to start the 3/4” slotted spring pin as shown.
+8. Use a hammer to start the 3/4” slotted spring pin as shown. Part number is 92373A147.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +56,7 @@ Let it sit overnight before moving onto next step
     1. Insert the cam follower into the carbon tube.
     2. Line up the cam follower and carbon tube holes.
     3. While keeping the cam follower and carbon tube together with the holes aligned, place the two items tab down on the work bench.
-    4. Use a hammer to start inserting the 3/4” pin, make sure to go from the non-clip side.
+    4. Use a hammer to start inserting the 3/4” pin, make sure to go from the non-clip side. Part number is 92373A147.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,7 +71,7 @@ e.       Use the vise jigs and a vise to press it into place, make sure the pin 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="328"><figcaption></figcaption></figure>
 
 2. Feed the slotted side of carbon tube into T joint until the holes line up.
-3. Start the 7/8” slotted spring pin into the hole with a hammer.
+3. Start the 7/8” slotted spring pin into the hole with a hammer. Part number is 92373A148
 
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 

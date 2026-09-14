@@ -23,26 +23,36 @@ If there are scratches, wait to take pictures until those legs are polished or s
 {% endhint %}
 
 3. Place a numbered sticker on each of the legs
-   1.
+   1. Note orientation of the sticker
 
-       <figure><img src="../../.gitbook/assets/DSCF0020 - Copy (2).JPG" alt="" width="375"><figcaption></figcaption></figure>
+{% hint style="danger" %}
+Only use the stickers in the Astro Leg Bin. Place the sticker roll back in the correct bin.&#x20;
+
+
+
+<p align="center"><strong>DO NOT USE THE REFLECTANCE PANEL BIN STICKER</strong></p>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/DSCF0020 - Copy (2).JPG" alt="" width="375"><figcaption></figcaption></figure>
+
 
 
 4. Take 2 pictures legs before bagging and place on taurus (See naming convention below bagging)
-   1. Confirm the light is bright enough to see any defects&#x20;
-   2. Confirm sticker is visible&#x20;
-   3. Confirm both legs are fully in the picture&#x20;
-   4. Confirm both serial numbers show each side of the leg
+   1. <mark style="background-color:$warning;">Camera should be on "P" setting</mark>
+   2. Confirm the light is bright enough to see any defects&#x20;
+   3. Confirm sticker is visible&#x20;
+   4. Confirm both legs are fully in the picture&#x20;
+   5. Confirm both serial numbers show each side of the leg
 
 {% columns %}
 {% column %}
-<p align="center">Image 1 </p>
+<p align="center">Example: Leg 0083</p>
 
 <figure><img src="../../.gitbook/assets/DSCF0020 - Copy (1).JPG" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<p align="center">Image 2</p>
+<p align="center">Example: Leg 0084</p>
 
 <figure><img src="../../.gitbook/assets/DSCF0021 - Copy.JPG" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
@@ -62,15 +72,17 @@ If there are scratches, wait to take pictures until those legs are polished or s
 
 4. Place the leg pair into the large bag and close it.
 5. Fold the bag cover in half and place it over the large bag. Use a stapler to staple it on
+   1. <mark style="background-color:yellow;">Legs should be placed, numbers facing the back side of the bag.</mark>&#x20;
 
 {% hint style="info" %}
 Try to keep the staples on either side of the Sentera logo.
 {% endhint %}
 
-6. Take a Final picture and place on taurus&#x20;
-   1.
+6.  Take a Final picture and place on taurus&#x20;
 
-       <figure><img src="../../.gitbook/assets/Final.JPG" alt=""><figcaption></figcaption></figure>
+    1. Take picture with numbers&#x20;
+
+    <figure><img src="../../.gitbook/assets/Final.JPG" alt=""><figcaption></figcaption></figure>
 
 
 

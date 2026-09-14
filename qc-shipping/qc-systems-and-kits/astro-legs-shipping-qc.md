@@ -30,6 +30,7 @@
 1. Confirm no scratches
 2. No glue is showing
 3. The pins are fully seated&#x20;
+4. Count 12 screws in the bag
 
 ### Address Confirmation
 

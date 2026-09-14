@@ -15,12 +15,12 @@ All screws will need Loctite in this guide.&#x20;
 
 ## 6X Guide
 
-1. Plug the 3 cables from the gimbal into the 6X camera. These will only plug into the camera one way.
+1. Plug the 2 cables from the gimbal into the 6X camera. These will only plug into the camera one way.
 2. Once cables are connected, slide the entire gimbal over the camera and line up the screws
    1. Be careful when doing this as the gimbal arm could scratch the camera
-3. Attach the camera to the gimbal using 3 screws with loctite on the side <mark style="color:yellow;">Item #17 (91249A615)</mark>
+3. Attach the camera to the gimbal using 3 screws with loctite <mark style="color:yellow;">Item #17 (91249A615)</mark>
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Ensure no wires are pinched between the camera and the gimbal.
 {% endhint %}
 
@@ -38,7 +38,7 @@ Ensure no wires are pinched between the camera and the gimbal.
 3. Plug the 3 cables from the gimbal into the 65R camera. These will only plug into the camera one way.
 4. Attach the camera to the gimbal using the removed screw and 2 screws on the side <mark style="color:yellow;">Item #17 (91249A615)</mark>
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Ensure no wires are pinched between the camera and the gimbal.
 {% endhint %}
 

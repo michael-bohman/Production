@@ -38,7 +38,8 @@ Note: it may be best to install the program to your machine. However, the progra
 
 
 4. Program the board using the following settings&#x20;
-   1. Network Address: 32011-xxxx. This will be listed on the build.
+   1. RTK/PPK Network Address: 32011-**00**xxx. This will be listed on the build.
+   2. PixelScout Network Address: 32011-**10**xxx. This will be listed on the build.&#x20;
 
 {% columns %}
 {% column width="50%" %}

@@ -88,13 +88,12 @@
 1. IF1200 Kit, confirm items in plastic bags according to the following
    1. IF1200 Large Bag (5x10)
       1. 1x 3’ USB-C to USB-C Cable
-      2. 1x 3’ USB-C to USB-A Cable
-      3. 1x 18” Antenna Cable with Bracket (Build bracket as shown below before packing)
-      4.
+      2. 1x 18” Antenna Cable with Bracket (Build bracket as shown below before packing)
+      3.
 
           <figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
-      5. 1x 4” USB-C to USB-A 90-degree cable
-      6. 2x Leg Cable Clip
+      4. 1x 4” USB-C to USB-A 90-degree cable
+      5. 2x Leg Cable Clip
    2. IF1200 Small Bag
       1. 1x Alcohol Wipe
       2. 1x Mini Slotted Screwdriver
@@ -132,7 +131,7 @@
 5. Tape around edges&#x20;
 6. Tape/stick-on label to the box&#x20;
 7. Use labels on both sides of the box to identify if it is IF800 or IF1200 to all sides&#x20;
-   1.
+   1.  <mark style="background-color:$warning;">Cross out any barcodes on the box</mark>
 
        <figure><img src="../../.gitbook/assets/20260804_153511.jpg" alt="" width="563"><figcaption></figcaption></figure>
 8. Place in the shipment zone

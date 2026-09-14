@@ -15,7 +15,7 @@ description: >-
 
 ## Notes
 
-1. Program your Coms Board and your Motor Controller
+1. Program your Coms Board and your Motor Controller before continuing with theses steps
    1. [..](../ "mention")
 
 ## Drawings
@@ -44,11 +44,16 @@ description: >-
    1.
 
        <figure><img src="../../../../.gitbook/assets/20260210_082707 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
-4. Attach the Cable assembly from the T3 Breakout Board to the programmed Coms board
+4. Apply Kapton tape to the coms board
+   1. This is to protect these connectors from interacting with a screw in a future step.
+
+> <img src="../../../../.gitbook/assets/image (3) (3).png" alt="" data-size="original">   ![](../../../../.gitbook/assets/20260914_081650.jpg)
+
+5. Attach the Cable assembly from the T3 Breakout Board to the programmed Coms board
 
 > ![](../../../../.gitbook/assets/20260210_092442.jpg)    ![](<../../../../.gitbook/assets/20260210_093721 (1).jpg>)
 
-5. Attach the Yaw Enclosure with 4 screws <mark style="color:yellow;">Item #21 (94017A108)</mark> with loctite
+6. Attach the Yaw Enclosure with 4 screws <mark style="color:yellow;">Item #21 (94017A108)</mark> with loctite
    1. Push the board to the front using the board-to-board connector while tightening to ensure it will line up later.
    2.
 
@@ -56,18 +61,18 @@ description: >-
 
 > ![](../../../../.gitbook/assets/20260210_094136.jpg)     ![](../../../../.gitbook/assets/20260210_094143.jpg)
 
-6. Connect the programmed motor controller to the stack using thermal paste
+7. Connect the programmed motor controller to the stack using thermal paste
 
 > ![](../../../../.gitbook/assets/20260210_094812.jpg)    ![](<../../../../.gitbook/assets/20260210_094831 (1).jpg>)
 
-7. Attach the gimbal frame to the stack using 3 screws <mark style="color:yellow;">Item #13 6X, #14 65R (94017A156)</mark> with loctite
+8. Attach the gimbal frame to the stack using 3 screws <mark style="color:yellow;">Item #13 6X, #14 65R (94017A156)</mark> with loctite
    1.
 
        <figure><img src="../../../../.gitbook/assets/20260210_102402.jpg" alt="" width="375"><figcaption></figcaption></figure>
-8. Attach the the roll and pitch (2 black cables) and camera (muti-color cable) connectors
-9. Attach the camera to gimbal and test before putting on drone.&#x20;
-10. If camera freaks out and starts twisting out of control, switch the black cables with each other&#x20;
-11. Attach cable cover with 2 screws <mark style="color:yellow;">Item #14 6X, #15 65R (95836A512)</mark>
+9. Attach the the roll and pitch (2 black cables) and camera (muti-color cable) connectors
+10. Attach the camera to gimbal and test before putting on drone.&#x20;
+11. If camera freaks out and starts twisting out of control, switch the black cables with each other&#x20;
+12. Attach cable cover with 2 screws <mark style="color:yellow;">Item #14 6X, #15 65R (95836A512)</mark>
     1.
 
         <figure><img src="../../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>

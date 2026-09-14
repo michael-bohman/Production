@@ -34,6 +34,10 @@ description: '65R Gimbal Guide Assembly 21264. Owner: Amanda Janssen'
 Note: it may be easiest to put one non-Loctite screw in to keep everything together while applying Loctite to the other screw.
 {% endhint %}
 
+{% hint style="danger" %}
+If Screw is getting stuck and never threading, you will need to drill out the hole. This can be done with a 1/8 drill bit. After drilling one piece, assemble this step before drilling out the rest.&#x20;
+{% endhint %}
+
 4. Attach second motor to arm.
    1. Place second motor into arm and route the wires and make sure all the wires are passing THROUGH the hold and not being pinched.
    2. Insert 4 screws <mark style="color:yellow;">Item #9 (94500A262)</mark> with Loctite partially but do not tighten.
@@ -52,8 +56,6 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
 
 {% hint style="info" %}
 65R Zip covers are different for each arm. Pay attention to the build for correct placement
-
-
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/65r gimbal pic (1).png" alt="" width="452"><figcaption></figcaption></figure>

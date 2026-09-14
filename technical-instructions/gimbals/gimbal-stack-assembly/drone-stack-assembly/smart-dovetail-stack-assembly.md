@@ -47,13 +47,17 @@ description: 'Owner: Amanda Janssen'
 
 <figure><img src="../../../../.gitbook/assets/image (41).png" alt="" width="270"><figcaption></figcaption></figure>
 
-5. Plug the comms board into the cable and push it into place, being careful of the wire routing to avoid pinches or creases.
+5. Apply Kapton tape to the coms board
+   1. This is to protect these connectors from interacting with a screw in a future step.
+
+> <img src="../../../../.gitbook/assets/image (3) (3).png" alt="" data-size="original">   ![](../../../../.gitbook/assets/20260914_081650.jpg)
+
+6. Plug the comms board into the cable and push it into place, being careful of the wire routing to avoid pinches or creases.
 
 <figure><img src="../../../../.gitbook/assets/image (42).png" alt="" width="281"><figcaption></figcaption></figure>
 
-Place the yaw adapter over the board and attach using 4 screws <mark style="color:yellow;">Item #11 (94017A108)</mark> and Loctite.
-
-6. Push the board to the front using the board-to-board connector while tightening to ensure it will line up later.
+7. Place the yaw adapter over the board and attach using 4 screws <mark style="color:yellow;">Item #11 (94017A108)</mark> and Loctite.
+8. Push the board to the front using the board-to-board connector while tightening to ensure it will line up later.
 
 {% columns %}
 {% column %}
@@ -65,18 +69,18 @@ Place the yaw adapter over the board and attach using 4 screws <mark style="colo
 {% endcolumn %}
 {% endcolumns %}
 
-7. Place the motor controller board on top. Push down so it connects to the comms board below.
+9. Place the motor controller board on top. Push down so it connects to the comms board below.
    1.  Ensure the 2 front holes line up with the holes below so the screws can be freely inserted. If not, remove the motor controller, loosen the 4 screws <mark style="color:yellow;">Item #11 (94017A108)</mark> and read adjust the comms board position.
 
        <figure><img src="../../../../.gitbook/assets/image (46).png" alt="" width="318"><figcaption></figcaption></figure>
-8. Apply thermal paste to the 5 protruding rectangles.
-   1.  Ensure no thermal paste will be squished into any connectors or pins.
+10. Apply thermal paste to the 5 protruding rectangles.
+    1.  Ensure no thermal paste will be squished into any connectors or pins.
 
-       <figure><img src="../../../../.gitbook/assets/image (45).png" alt="" width="311"><figcaption></figcaption></figure>
-9. Again, Place the motor controller board on top. Push down so it connects to the comms board below.
-   1. Ensure the 2 front holes still line up with the comms board holes.
-10. Place the gimbal on top. Secure using 3 screws <mark style="color:yellow;">Item #13 (94017A156)</mark> and Loctite.
-11. Plug in 3 connections as shown. Route them such that no pinching or squishing will occur when the plate is attached above.
+        <figure><img src="../../../../.gitbook/assets/image (45).png" alt="" width="311"><figcaption></figcaption></figure>
+11. Again, Place the motor controller board on top. Push down so it connects to the comms board below.
+    1. Ensure the 2 front holes still line up with the comms board holes.
+12. Place the gimbal on top. Secure using 3 screws <mark style="color:yellow;">Item #13 (94017A156)</mark> and Loctite.
+13. Plug in 3 connections as shown. Route them such that no pinching or squishing will occur when the plate is attached above.
 
 {% hint style="info" %}
 The longer of the 2 identical connections should connect to the further connector. It may be very difficult to tell which is longer. It is OK if they are plugged in incorrectly. Check using the test stand later.
@@ -84,9 +88,9 @@ The longer of the 2 identical connections should connect to the further connecto
 
 <figure><img src="../../../../.gitbook/assets/image (47).png" alt="" width="242"><figcaption></figcaption></figure>
 
-15. Attach the camera to the gimbal.
+14. Attach the camera to the gimbal.
     1. Refer to the 'Final Assembly' page for instruction on this.
-16. Check if the 2 identical connectors are oriented correctly using the test stand.
+15. Check if the 2 identical connectors are oriented correctly using the test stand.
     1. Place the entire assembly on a test stand.
     2. Ensure the correct payload is plugged into the power supply.
     3. Turn on the power supply.
@@ -98,7 +102,7 @@ The longer of the 2 identical connections should connect to the further connecto
     9. Hover over the <mark style="color:blue;">Output On/Off</mark> button while the gimbal starts, be ready to turn it off if any erratic movement occurs.
        1. If gimbal movement is as expected, turn off the output and power supply. Remove the assembly from the test stand and continue.
        2. If the gimbal movement is erratic, turn off everything and switch the 2 black identical plugs on the motor controller board and retry.
-17. Place the plate over the motor controller opening. Secure using 2 screws <mark style="color:blue;">Item 14 (95836A512)</mark> and Loctite.
+16. Place the plate over the motor controller opening. Secure using 2 screws <mark style="color:blue;">Item 14 (95836A512)</mark> and Loctite.
     1. Ensure the end of the snakeskin is completely under the plate.
     2.  Ensure no wires are pinched before tightening.
 
