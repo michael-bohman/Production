@@ -2,9 +2,9 @@
 
 ## Report Issues
 
-[65R Reporting Link](https://forms.zohopublic.com/senterallc/form/65Rfaultisolation1/formperma/CJcEYZErSP_-w5Tm83R5N2hj8tm-IVSsH5eRuiAEZe4)
+{% embed url="https://forms.zohopublic.com/senterallc/form/65Rfaultisolation1/formperma/CJcEYZErSP_-w5Tm83R5N2hj8tm-IVSsH5eRuiAEZe4" %}
 
-## Common Issues
+## Reportable Issues&#x20;
 
 <details>
 
@@ -25,22 +25,6 @@ You can add ' -t' to the end of it to run it continuously so you can monitor the
 2. Watch for the response times. They should be <=1ms. If they are consistently higher than 1 ms, the computer is trying to connect with another device on the John Deere network that uses the same IP Address as the cameras. A good fix is to connect to Sentera Guest WIFI.
 3. If you are getting errors, hit windows+r, type 'ncpa.cpl' and click 'OK'.
 4. If there are only 2 things on this page, it is likely that the computer is not seeing the device.
-
-</details>
-
-<details>
-
-<summary>One side of picture out of focus</summary>
-
-65R imager boards have been showing up with tilted imagers on the imager board. This causes on side of the frame to be out of focus compared to the other side.
-
-
-
-Replace Imager board.
-
-
-
-Possibly apply kapton tape to low side to level the imager.
 
 </details>
 
@@ -79,4 +63,22 @@ The imager board controlls the lights on the 65R. It will not let you start a se
 2. Message help-embedded or Alex Stephens to see if the board can be fixed.&#x20;
 
 </details>
+
+<details>
+
+<summary>One side of picture out of focus</summary>
+
+65R imager boards have been showing up with tilted imagers on the imager board. This causes on side of the frame to be out of focus compared to the other side.
+
+
+
+Replace Imager board.
+
+
+
+Possibly apply kapton tape to low side to level the imager.
+
+</details>
+
+## Common Errors
 

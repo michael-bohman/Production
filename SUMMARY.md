@@ -92,6 +92,7 @@
 * [RTK/PPK Fault Isolation Manual](fault-isolation/rtk-ppk-fault-isolation-manual.md)
 * [Gimbal Fault Isolation Manual](fault-isolation/gimbal-fault-isolation-manual.md)
 * [PixelScout Fault Isolation](fault-isolation/pixelscout-fault-isolation.md)
+* [🚧 Faulty Part Instructions](fault-isolation/faulty-part-instructions.md)
 
 ## QC/Shipping
 

@@ -6,7 +6,7 @@ description: 'Owner: Isaac'
 
 ## Report Issues&#x20;
 
-[PixelScout Reporting Link](https://forms.zohopublic.com/senterallc/form/PixelScoutFaultIsolation/formperma/bN54SqUa56CyhAohn9bULUPqirxKin4kQN4gVfnykj4)
+{% embed url="https://forms.zohopublic.com/senterallc/form/PixelScoutFaultIsolation/formperma/bN54SqUa56CyhAohn9bULUPqirxKin4kQN4gVfnykj4" %}
 
 ## Gimbal&#x20;
 

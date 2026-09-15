@@ -2,11 +2,13 @@
 
 ## Report Issues
 
-[RTK/PPK Reporting Link](https://forms.zohopublic.com/senterallc/form/RTKPPKFaultIsolation/formperma/W-_j2PPkZcRHIdXBaADOI09x4XuBvGsg5t8RNWXyYV0)
-
 {% embed url="https://forms.zohopublic.com/senterallc/form/RTKPPKFaultIsolation/formperma/W-_j2PPkZcRHIdXBaADOI09x4XuBvGsg5t8RNWXyYV0" %}
 
-## Common Issues
+## Reportable issues
+
+
+
+## Common Mistakes
 
 <details>
 
