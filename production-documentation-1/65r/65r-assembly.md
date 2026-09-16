@@ -73,7 +73,7 @@ Full assembly steps are shown. If programming and/or focusing will occur immedia
 
 <figure><img src="../../.gitbook/assets/IMG_6781.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-8. Insert the NVME SSD into the slot on the board. Secure it to the board using a s crew (#24: 91772A065), 2 washers (#21: 90295A322), and Loctite.
+8. Insert the NVME SSD into the slot on the board. Secure it to the board using a screw (#20: 92000a103), 2 washers (#21: 90295A322), and Loctite.
    1. Note: Ensure the 2 washers are between the NVME SSD and the board, and NOT against the screw head.
    2. Note: While tightening, ensure the metal tab stays in place. You may temporarily place the board and heatsink on top of the connectors without connecting them to visualize the correct location of the metal tab.
 

@@ -12,9 +12,14 @@ This step should be completed by a different person that did the build and pre-s
 
 ## Camera Check&#x20;
 
-1. Power on the 6X camera and go to website 192.168.42.1. If you are required to enter in credentials, the username is "sentera" and leave the password blank.
+1. Power on the 6X camera and go to website 192.168.42.1.&#x20;
+   1.  credentials if needed:
+
+       name: sentera
+
+       password: \[none]
 2. Confirm the following
-   1. Firmware is up to date&#x20;
+   1. Firmware is up to date to the latest version: "3.18.0" as of 16 September 2026.
    2. Correct Configuration is set use the following to confirm the correct config according to the SOS part number that is being shipped.&#x20;
       1. 21930-00, 21930-01, 21930-12 M300/M350 --> DJI skyport, Gimbaled
       2. 21930-02, 21930-03, 21930-13 Freefly Astro --> Freefly Astro Gimbal
@@ -59,7 +64,7 @@ This step should be completed by a different person that did the build and pre-s
 \as-taurus.jdnet.deere.com\Production\Sensors\21215-XX -- 6X Light Sensor
 {% endhint %}
 
-1. Confirm S/N of the light sensor in case is the same on the Sales order&#x20;
+1. Confirm S/N of the light sensor in case is the same on the shipment. You can find this by looking at the builds that are being shipped and all builds that are subassemblies of those builds.
 2. Confirm S/N folder in Taurus has Communication\_ship image&#x20;
 3. Look at image and confirm no issues with light sensor&#x20;
 

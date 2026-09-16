@@ -52,7 +52,7 @@ icon: camera
 
 7. Open the Calibration GUI app
    1. \as-taurus.jdnet.deere.com\Production\Technical Packages\6X SENSOR\IN PROGRESS\6X SENSOR - Technical Data Package - 260302\6X SENSOR - PIXEL ALIGNMENT
-   2. Download 1.3.1 Calibration app from taurus, unzip folder and put on desktop
+   2. Download 1.3.2 Calibration app from taurus, unzip folder and put on desktop
 
 <figure><img src="../../.gitbook/assets/Application ScreenShot.png" alt=""><figcaption></figcaption></figure>
 

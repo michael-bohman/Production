@@ -12,9 +12,14 @@ This step should be completed by a different person that did the build and pre-s
 
 ## Camera Check&#x20;
 
-1. Power on the 65R camera and go to website "192.168.42.1". If you are required to enter in credentials, the username is "sentera" and leave the password blank.
+1. Power on the 65R camera and go to website "192.168.42.1".&#x20;
+   1.  credentials if needed:
+
+       name: sentera
+
+       password: \[none]
 2. Confirm the following
-   1. Firmware is up to date&#x20;
+   1. Firmware is up to date to the latest version: "4.5.1" as of 16 September 2026.
    2. Correct Configuration is set use the following to confirm the correct config according to the SOS part number that is being shipped.&#x20;
       1. 21931-00, 21931-01, 21931-12, 21931-13 M300/M350 --> DJI skyport, Gimbaled
       2. 21931-02, 21931-03, 21931-14, 21931-15 Freefly Astro --> Freefly Astro Gimbal

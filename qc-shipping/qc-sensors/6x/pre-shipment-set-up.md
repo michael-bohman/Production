@@ -10,7 +10,7 @@
 
 <figure><img src="../../../.gitbook/assets/20260212_074732 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Second Bag includes (Bag B)
+4. Second Bag includes ILS mount parts not including the ILS or mount (Bag B)
    1. Small USB-C to C cable&#x20;
    2. Sterile Wipe&#x20;
    3. Screws&#x20;
@@ -32,7 +32,7 @@
     <figure><img src="../../../.gitbook/assets/Light sensor check.png" alt=""><figcaption></figcaption></figure>
 
     1. Change the CFG file to the correct COM port (open device manager->ports)
-    2. Run the Cummunication program
+    2. Run the Communication program
     3. Screenshot the results once the program is finished
 
     <figure><img src="../../../.gitbook/assets/Communication_ship.png" alt=""><figcaption></figcaption></figure>
@@ -46,7 +46,7 @@
 1. Complete the build for Reflectance Panel&#x20;
    1. Locate your Sales Order Number&#x20;
    2. Move the Reflectance panel number into that sales order&#x20;
-   3. Pull that number refectance panel from inventory&#x20;
+   3. Pull that number reflectance panel from inventory&#x20;
 
 <figure><img src="../../../.gitbook/assets/Reflectance Panel (1).png" alt=""><figcaption></figcaption></figure>
 

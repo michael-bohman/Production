@@ -29,9 +29,11 @@ description: Stage 2 in the 65R Process 21030-02
 10. Navigate to 192.168.42.1 on chrome.
 11. Navigate to the 'Update Firmware' tab on the left side of the webpage.
 12. Click on the 'Firmware Update' field and select the file **65r-factory-update\_X.X.X-21030.swu** where ('X.X.X' is the release version) from the **firmware-factory update** folder.
+
+    Note: If update fails, turn off power, reinsert SD card and try update again.
 13. Once the firmware update is completed (approx. 5 minutes), power down the 65R.
     1. Note: The firmware update page may not show the correct firmware. This will be fixed once the switches are in the correct position later.
-    2. Note: When unplugging the barrel0jack power connector, hold the heat-sink down with one hand pulling up on the connector with the other. This ensures the board-to-board connectors do not become loose or separate.
+    2. Note: When unplugging the barrel jack power connector, hold the heat-sink down with one hand pulling up on the connector with the other. This ensures the board-to-board connectors do not become loose or separate.
 14. Remove the microSD card from the camera and place it in the computer.
 15. Delete all files from the microSD card.
 16. Copy folder **configs/21030-XX/firmware** to the microSD card. Select the **21030-XX** folder based on what camera model is being programmed.
@@ -65,9 +67,15 @@ description: Stage 2 in the 65R Process 21030-02
 
     <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 29. In a file explorer, navigate to //192.168.42.1/.
-30. Go tot Data>Snapshots>prog test session>rgb and open the image.
+    1.  use the following credentials if needed:
+
+        name: sentera
+
+        password: \[none]
+30. Go to Data>Snapshots>prog test session>rgb and open the image.
     1. Ensure it opens correctly and the file is not corrupted.
-31. Re-secure the rear cover to the camera using the same 7 screws that were removed with new Loctite. Torque to 40 in-oz.
+31. Disconnect the 65R's power and USB C connection.
+32. Re-secure the rear cover to the camera using the same 7 screws that were removed with new Loctite. Torque to 40 in-oz.
     1.  Ensure the push button did not fall out during programming.
 
         <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
