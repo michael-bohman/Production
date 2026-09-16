@@ -2,7 +2,7 @@
 description: 'Owner: Isaac'
 ---
 
-# ✅ 1 PixelScout 65R Focusing
+# 🚧 1 PixelScout 65R Focusing - change process
 
 ## Changes required:
 
@@ -41,10 +41,15 @@ The process for focusing a PixelScout 65R is different than a regular 65R. For a
 5. Power on the camera and connect it to a laptop using the focusing micro-USB cable.
 6. In a browser, navigate to 192.168.42.1.
 7. In the 'Image Adjustments' tab, change the following settings and click 'Apply'.
-   1. Shutter MIN: 4,000 us
-   2. Shutter MAX: 10,000 us
-   3. Shutter Unlock: 100 ISO
-   4. Image Sharpening: OFF
+   1. Exposure:
+      1. Exposure Target: 60 dn
+      2. Shutter MIN: 4,000 us
+      3. Shutter MAX: 10,000 us
+      4. Shutter Unlock: 100 ISO
+   2. Color Adjustments
+      1. Brightness: -1 dn
+   3. Pipeline
+      1. Image Sharpening: OFF
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-02-19 120402.png" alt="" width="563"><figcaption></figcaption></figure>
 

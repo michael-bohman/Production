@@ -34,13 +34,27 @@ description: 'Owner: Isaac'
 2. Start a session manually using the webpage (192.168.42.1).
    1. name it anything, the pictures won't be stored in the session
       1. 'bprcreation' is usually used for clarification on an empty session folder.
-3. Right click the BPR Pictures program and select 'Edit in Notepad'.
+3. Right click the "bad\_pixel\_image\_capture.bat" program and select 'Edit in Notepad'.
    1. Change the IP Address to 192.168.42.1 if not already set.
-   2. Save and close notepad.
+   2. Change the "known\_hosts" path match your system
+      1. likely "C:\Users\\\[username]\\.ssh\known\_hosts"
+   3. Save and close notepad.
 4. Run the bpr pictures program and follow the instructions.
-5. Save the pictures created to a BPR folder on your local machine.
+   1. If prompted for a password, use "6636cedar"
+5. Save the pictures created at "\\\192.168.42.1\sdcard" to a BPR folder on your local machine.
 
 <figure><img src="../../../.gitbook/assets/image (208).png" alt="" width="339"><figcaption></figcaption></figure>
+
+### Dibris Check
+
+1. Open img\_bayer\_bright\_100.tif.
+2. Check for dibris as seen in the image:
+3. If any dibris is found:
+   1. disassemble the camera.
+   2. clean the sensor with compressed air.
+   3. restart from the focusing step
+
+<figure><img src="../../../.gitbook/assets/image (4) (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Processing
 
@@ -52,7 +66,7 @@ description: 'Owner: Isaac'
 <figure><img src="../../../.gitbook/assets/image (209).png" alt="" width="375"><figcaption></figcaption></figure>
 
 5. Ensure the program completes successfully and the number of bad pixels is reasonable.
-   1. Number of bad pixels is usually in the hundreds but good ones are still >\~20
+   1. Bad pixels should be in the range of 100-1000 roughly, with most 200-600.
 
 <figure><img src="../../../.gitbook/assets/image (210).png" alt="" width="375"><figcaption></figcaption></figure>
 
