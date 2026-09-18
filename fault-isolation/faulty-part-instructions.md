@@ -10,8 +10,10 @@
 
 
 
-1. Scan the QR code or go to Zoho and input information about the part.&#x20;
-2.
+1. Until the system is worked out online
+   1. All items should be working or suspected to work. Do not put a part into junkyard without getting it tested by Alex or the embedded team
+   2. List what the issue was or if there is minor cosmetic mark
+2. At this time, Amanda will input the items into junkyard
 
 
 
@@ -19,10 +21,10 @@
 
 Items that can be used for demo purposes only and not sent to customers should be placed in the engineering bin. These items are not tracked, simply drop off the items into the bin.&#x20;
 
-This bin is located in the engineering area .....
+This bin is located in the engineering area in the battery room, grey bin.&#x20;
 
 #### Items that Qualify&#x20;
 
-* Old but still working&#x20;
+* Older versions&#x20;
 * Cosmetic damage&#x20;
 * Not working&#x20;
