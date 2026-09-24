@@ -6,6 +6,8 @@
 
 ## Reportable Issues
 
+* If any item needs to be replaced, it should be reported.&#x20;
+
 <details>
 
 <summary>Not Starting a session and blinking red lights immediately </summary>
@@ -71,9 +73,11 @@ If none of this works, reach out to Help-Embedded
 
 </details>
 
+## Common Errors and Troubleshooting
+
 <details>
 
-<summary>Unable to get data off sd card </summary>
+<summary>Unable to get data off sd card (RMA)</summary>
 
 SD card is having issues or overheating<br>
 
@@ -82,8 +86,6 @@ example: broken camera, but still has data on that customer wants&#x20;
 * Insert that SDcard into a working camera
 
 </details>
-
-## Common Errors
 
 <details>
 
@@ -112,5 +114,23 @@ You do not need to retake CAL photos. Just retake Focus photos
 <figure><img src="../.gitbook/assets/image (58).png" alt="" width="527"><figcaption></figcaption></figure>
 
 2. Load in the CAL, New Focus
+
+</details>
+
+<details>
+
+<summary>Downgrade Firmware Issue (RMA)</summary>
+
+This can help (interrupted/downgraded firmware) to make sure the NVME is in a completely cleared/fresh state before re-programming the camera.  This will clear all imagery off the camera as well.<br>
+
+1. Reach out to help embedded to confirm if there is any data on the camera
+   1. Save customer data to send back to them, if possible
+2. Download "PuTTY" if not already installed on your Windows machine.
+3. Connect USB to the camera.
+4. Use PuTTY to set up an SSH connection and press button "Open" (see picture).
+5. Log in to the camera with password "6636cedar".
+6. In the Putty consolue enter command: `nvme format /dev/nvme0n1`
+7. Verify that the command returns "Success".
+8. After NVME is reformatted, go through the reprogramming process for 6X/6XT
 
 </details>
