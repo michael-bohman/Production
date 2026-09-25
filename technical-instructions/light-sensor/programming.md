@@ -61,9 +61,13 @@ Each board includes a u-blox GNSS module which must be configured.  The process 
 4. Connect the USB cable between the board and the PC.
 5. Open u-center.
 6. Within u-center, enabled autobauding if it isn’t already, at: Receiver > autobauding.
-7. Connect to the TTL cable’s COM interface
-   1. Open device manager -> ports for confirm COM#
-   2. Example: Your COM port might be different
+7.  Connect to the TTL cable’s COM interface
+
+    * Open Device Manager from your computer to confirm which com port you inserted the TTL cable
+
+    ![](<../../.gitbook/assets/image (262).png>)
+
+    * Example: Your COM port might be different
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
