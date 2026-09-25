@@ -72,14 +72,11 @@ Each board includes a u-blox GNSS module which must be configured.  The process 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 8. Select: Tools > Receiver Configuration …
-9. Select the configuration file _cfg-v1.txt_ from folder _2 – gnss configuration_.
+9. Select the configuration file _cfg-v1.txt_ from folder _2 – gnss configuration_. by navigating to the file saved.&#x20;
 10. Verify that “Store configuration into BBR/Flash” is checked.
-11. Select: File > GNSS.
-
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
+11. Select: Transfer File -> GNSS.                                                                        ![](<../../.gitbook/assets/image (264).png>)
 12. If a warning message is displayed regarding firmware version click “YES” to continue
-13. Perform steps 8-11 a second time.  This is required as a failure is experienced the first time most way through the update, because the baud rate of the interface is changed.
+13. If needed Perform steps 8-11 a second time.  This is required as a failure is experienced the first time most way through the update, because the baud rate of the interface is changed.
 14. Select: View >> Packet Console.
 15. Verify that messages are output at the following rates.  This can be accomplished by looking at a one second interval of the output messages.
     1. NAV-PVT: 5Hz
