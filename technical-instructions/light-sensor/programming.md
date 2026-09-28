@@ -15,6 +15,14 @@ Download the 23122 - ILS - GPS + AUX from taurus onto your desktop&#x20;
 \as-taurus.jdnet.deere.com\Production\Sensors\21215-XX -- 6X Light Sensor\23122 - ILS + GPS + AUX
 {% endhint %}
 
+## PC Setup (one-time)
+
+The following must be downloaded (or installed) a single time to the user’s PC:
+
+·         MPLAB IPE.  This is accessible from the following download.  During the installation only IPE needs to be installed, not the MPLAB IDE&#x20;
+
+[https://ww1.microchip.com/downloads/en/DeviceDoc/MPLABX-v5.20-windows-installer.exe](https://ww1.microchip.com/downloads/en/DeviceDoc/MPLABX-v5.20-windows-installer.exe)
+
 ## Guide
 
 #### 1-Program
