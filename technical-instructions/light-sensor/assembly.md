@@ -8,9 +8,7 @@ description: ILS GPS Push Button 21215-01
 {% step %}
 ### Adding the <mark style="color:yellow;">LED Diffuser (25248-00)</mark> to the <mark style="color:yellow;">Top Cover (25246-00)</mark> with screw <mark style="color:yellow;">Item#15 (92470A049)</mark>.
 
-Using a tweezer along with the 75mm screw driver can be helpful.  This step should be done first to avoid scratching of the white diffuser. However can be done after the white diffuser has been applied.&#x20;
-
-<figure><img src="../../.gitbook/assets/LEDDiffuser (2).gif" alt=""><figcaption></figcaption></figure>
+Using a tweezer along with the 75mm screw driver insert 25248-00 into the cover.  This step should be done first to avoid scratching of the white diffuser. However can be done after the white diffuser has been applied.                                    ![](<../../.gitbook/assets/image (265).png>)
 {% endstep %}
 
 {% step %}
@@ -44,7 +42,7 @@ The Filter needs to be placed with the more mirrored side to face away from the 
 
 <figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
-Place filter onto a clean surface for review. Clean both sides of the filter with Kim wipes and Isopropyl if debris is found. Use your tweezer and place the filter into the position shown in the above diagram.
+Place filter onto a clean surface for review. Clean both sides of the filter with Kim wipes and Isopropyl if debris is found. Use your tweezer and place the filter into the position shown in the above diagram. The filters should all be placed the the numbers upside down.
 
 
 
