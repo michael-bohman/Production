@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # ✅ 2-B Gimbal Frame Assembly
@@ -39,14 +41,14 @@ layout:
 * Mark the JST connectors on the ROLL motor and encoders using a black sharpie.
   * This will help later when attaching the mounting stack.
   * Note: The dash number correlates to the motor position
-    * -00: Pitch Motor/Encoder
-    * -01: Roll Motor/Encoder
+    * -00: Pitch Motor/Encoder (long wires)
+    * -01: Roll Motor/Encoder (short wires)
 
 <figure><img src="../../../.gitbook/assets/IMG_7445.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Guide
 
-1. Connect the right and left arms. Secure using 3 screws (<mark style="color:yellow;">91698A302 M3x6 Flt Hd Blk</mark>) and Loctite.
+1. Connect the right and left arms. Secure using 3 screws (<mark style="color:yellow;">91698A242 M2.5x6 Flt Hd</mark>) and Loctite.
 
 <div><figure><img src="../../../.gitbook/assets/IMG_7376 (1).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_7378.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -97,7 +99,7 @@ layout:
 <figure><img src="../../../.gitbook/assets/IMG_7391.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 11. Attach the roll encoders to the back of the motor. Secure using 4 screws (I THINK <mark style="color:yellow;">92010A020 M2.5x10 Flt Hd</mark>) and Loctite
-    1. Make sure the wires' resting point is upward before securing.
+    1. Make sure the wires' resting point is upward (opposite the locking screw bump) before securing.
 
 <figure><img src="../../../.gitbook/assets/IMG_7392.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

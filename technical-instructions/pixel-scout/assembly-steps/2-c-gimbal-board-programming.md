@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # ✅ 2-C Gimbal Board Programming
@@ -140,7 +142,8 @@ NOTE: some errors may pop up. This is okay, just click 'OK'.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 145217.png" alt="" width="534"><figcaption></figcaption></figure>
 
-11. Flip the 'CTRL PROG' switch on the SBG Breakout Board to 'OFF'.
+11. Disconnect the power cable.
+12. Flip the 'CTRL PROG' switch on the SBG Breakout Board to 'OFF'.
 
 <figure><img src="../../../.gitbook/assets/IMG_8153.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
