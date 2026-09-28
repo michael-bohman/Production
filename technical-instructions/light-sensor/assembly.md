@@ -42,7 +42,7 @@ The Filter needs to be placed with the more mirrored side to face away from the 
 
 <figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
-Place filter onto a clean surface for review. Clean both sides of the filter with Kim wipes and Isopropyl if debris is found. Use your tweezer and place the filter into the position shown in the above diagram. The filters should all be placed the the numbers upside down.
+Place filter onto a clean surface for review. Clean both sides of the filter with Kim wipes and Isopropyl if debris is found. Use your tweezer and place the filter into the position shown in the above diagram. The filters should all be placed the the numbers upside down. Make sure this step is completed for all the filters on the bill of materials.&#x20;
 
 
 
@@ -56,6 +56,12 @@ Right after filter is in place add <mark style="color:yellow;">25239-00</mark> o
 {% endstep %}
 
 {% step %}
+### REPEAT the above for all filters before moving to the next step
+
+
+{% endstep %}
+
+{% step %}
 ### Adding CCA
 
 Take <mark style="color:yellow;">23122-01 CCA</mark> carefully fit the C usb port into the slot on the cover with sensor side down. Then with QTY 4 screws <mark style="color:yellow;">Item#15 (92470A049)</mark> secure the CCA to the top cover.
@@ -63,7 +69,7 @@ Take <mark style="color:yellow;">23122-01 CCA</mark> carefully fit the C usb por
 <figure><img src="../../.gitbook/assets/CCA.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-STOP! Now move to programming instructions before moving to step 7
+STOP! Now move to programming instructions before moving to step 8
 {% endhint %}
 {% endstep %}
 
