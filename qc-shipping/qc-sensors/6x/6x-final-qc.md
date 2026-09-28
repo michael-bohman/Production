@@ -19,7 +19,7 @@ This step should be completed by a different person that did the build and pre-s
 
        password: \[none]
 2. Confirm the following
-   1. Firmware is up to date to the latest version: "3.18.0" as of 16 September 2026.
+   1. Firmware is up to date to the latest version: "4.8.1" as of 25 September 2026.
    2. Correct Configuration is set use the following to confirm the correct config according to the SOS part number that is being shipped.&#x20;
       1. 21930-00, 21930-01, 21930-12 M300/M350 --> DJI skyport, Gimbaled
       2. 21930-02, 21930-03, 21930-13 Freefly Astro --> Freefly Astro Gimbal
@@ -42,7 +42,17 @@ This step should be completed by a different person that did the build and pre-s
    1. Using File Explorer, navigate to "\\\as-taurus.jdnet.deere.com\Production\Sensors\\". Find and open the folder for the specific part number and serial number of the Sensor being QC'd.
    2. Data folder contains the Cal, Focus, and Flight Test&#x20;
    3. SDcard includes Firmware, info, and System Volume Information
-   4. CheckinDoc is in folder, Click into Checkin and read through it
+   4. CheckinDoc is in folder, Click into Checkin and verify the following:
+      1. Visual inspection was completed
+      2. The part number and serial number match the information on the 6x's label.
+      3. Alignment = py\_camera\_calibration\_1.3.2
+      4. Firmware is up to date, and configuration is set to the configuration listed in section 2
+      5. "Flight Test" and "Focus" folders exist and flight images were approved
+      6. The recorded wall temperature falls between the given Thermal QC image temps range.
+      7. Multimeter beep was heard to confirm PPS signal.
+      8. XXX\_CheckInDoc.txt was added to the sensor checkout folder. Where XXX is the 6x's serial number.
+      9. "sdcard" and "data" folders were copied over to XXX. Where XXX is the 6x's serial number.
+      10. All items were removed from sensor's "snapshots" folder.
 
 <figure><img src="../../../.gitbook/assets/Camera Check in Taurus.png" alt=""><figcaption></figcaption></figure>
 
