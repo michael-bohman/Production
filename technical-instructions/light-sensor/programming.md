@@ -25,7 +25,7 @@ The following must be downloaded (or installed) a single time to the user’s PC
 
 ## Guide
 
-#### 1-Program
+#### Program
 
 Hardware programming is performed by the following process:
 
