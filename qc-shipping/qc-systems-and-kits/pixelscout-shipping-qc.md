@@ -91,6 +91,11 @@ Note: This process also checks **Sensors>21030-XX — 65R>21030-04**
 
 <div><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption><p>GOOD CALIBRATION</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption><p>BAD CALIBRATION</p></figcaption></figure></div>
 
+* You may close <mark style="color:blue;">QGIS</mark> at this point leave it open for more QC-ing
+  * If prompted to save, click '<mark style="color:blue;">Discard</mark>'
+
+<figure><img src="../../.gitbook/assets/QGIS_close_arrow.png" alt="" width="202"><figcaption></figcaption></figure>
+
 </details>
 
 <details>
