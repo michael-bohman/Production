@@ -151,14 +151,15 @@ Note: This process also checks **Sensors>21030-XX — 65R>21030-04**
 
 
 1. plug in power (24V) and USB-C on the front of the gimbal
-2. Open file explorer and navigate to <mark style="color:blue;">192.168.42.1</mark>
+2. Open file explorer and navigate to <mark style="color:blue;">\\\192.168.42.1</mark>
    1. If prompted, use the following username and password.
       1. Username: sentera
       2. Password: \[leave empty]
-   2. Make sure there's no sessions on the camera.
-   3. Ensure the <mark style="color:blue;">hw\_config.yaml</mark> file has the correct serial number/part number.
-   4. Ensure the <mark style="color:blue;">hw\_config.yaml</mark> has calibration method set to pix4d and the 'rig\_relatives\_deg' values are set to values other than 0.
-   5. Ensure the <mark style="color:blue;">bpr\_map.csv</mark> file exists in the '<mark style="color:blue;">info</mark>' folder.
+   2. Make sure there's no sessions in <mark style="color:blue;">\\\192.168.42.1\data\snapshots</mark>
+   3. Open <mark style="color:blue;">\\\192.168.42.1\sdcard\info\hw\_config.yaml</mark>
+   4. Ensure the <mark style="color:blue;">hw\_config.yaml</mark> file has the correct serial number/part number.
+   5. Ensure the <mark style="color:blue;">hw\_config.yaml</mark> has calibration method set to pix4d and the 'rig\_relatives\_deg' values are set to values other than 0.
+   6. Ensure the <mark style="color:blue;">bpr\_map.csv</mark> file exists in the '<mark style="color:blue;">info</mark>' folder.
 
 <details>
 
@@ -251,7 +252,7 @@ Primary and Secondary are the same
 
 Current firmware version: <mark style="color:blue;">4.8.1</mark>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-03-27 085753.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/firmware_page.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
