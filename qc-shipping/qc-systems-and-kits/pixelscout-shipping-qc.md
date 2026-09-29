@@ -19,7 +19,7 @@ description: 'Owner: Isaac'
 Note: This process also checks **Sensors>21030-XX — 65R>21030-04**
 
 * Navigate to PixelScout directory "<mark style="color:blue;">\as-taurus.jdnet.deere.com\Production\Systems & Kits\21282-00 -- PixelScout Phase 4\\###</mark>" where ### is the s/n of the PixelScout
-* Ensure all sub-directories and files are present
+* Ensure all sub-directories and files are present (NOTE: extra files may be present if irregularities were documented)
   * <mark style="color:blue;">Calibration</mark>
   * <mark style="color:blue;">Verification</mark>
   * <mark style="color:blue;">sbgc\_IMU\_calib\_phase4SN###.data</mark>
