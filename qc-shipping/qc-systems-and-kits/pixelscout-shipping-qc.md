@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Simon'
+description: 'Owner: Isaac'
 ---
 
 # PixelScout Shipping QC
@@ -145,7 +145,7 @@ Note: This process also checks **Sensors>21030-XX — 65R>21030-04**
 
 
 
-1. plug in power and USB-C on the front of the gimbal
+1. plug in power (24V) and USB-C on the front of the gimbal
 2. Open file explorer and navigate to <mark style="color:blue;">192.168.42.1</mark>
    1. If prompted, use the following username and password.
       1. Username: sentera
