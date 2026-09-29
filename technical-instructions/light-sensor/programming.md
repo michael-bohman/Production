@@ -19,7 +19,7 @@ Download the 23122 - ILS - GPS + AUX from taurus onto your desktop&#x20;
 
 The following must be downloaded (or installed) a single time to the user’s PC:
 
-·         MPLAB IPE.  This is accessible from the following download.  During the installation only IPE needs to be installed, not the MPLAB IDE. Click the link below for the installer for you computer.
+·         MPLAB IPE.  This is accessible from the following download.  During the installation only IPE needs to be installed, not the MPLAB IDE. Click the link below for the installer for your computer.
 
 [https://ww1.microchip.com/downloads/en/DeviceDoc/MPLABX-v5.20-windows-installer.exe](https://ww1.microchip.com/downloads/en/DeviceDoc/MPLABX-v5.20-windows-installer.exe)
 
@@ -31,7 +31,7 @@ Hardware programming is performed by the following process:
 
 <details>
 
-<summary>If update is needed for program file go to \as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-xxxx-xxxx -- 6x ILS\23122 - ILS + GPS + AUX and this folder to your desktop</summary>
+<summary>If update is needed for program file go to \as-taurus.jdnet.deere.com\Data\Part Database (things we sell)\SW-xxxx-xxxx -- 6x ILS\23122 - ILS + GPS + AUX and save folder 23122 - ILS + GPS + AUX to your desktop</summary>
 
 Perform the instructions included in file _README.md_ in folder _1 – program_. This will vary depending on the Microchip device / cable assembly that is being used. Update accordingly.
 
@@ -46,7 +46,9 @@ Perform the instructions included in file _README.md_ in folder _1 – program_.
 2.  Power on ILS with C usb cable. Image below shows programmer and power.
 
     <figure><img src="../../.gitbook/assets/IMG_8560 (1).jpeg" alt="" width="188"><figcaption></figcaption></figure>
-3. Click on the <mark style="color:blue;">Program-23122</mark> file - located in the 1- Program folder on your desktop
+3.  Locate the 23122 - ILS + GPS + AUX on your desk top and click into the folder. Find the folder named  1- Program folder and click into the folder. Click on the <mark style="color:blue;">Program-23122</mark> file
+
+    <figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 4. Verify the LED next to the USB connector illuminates GREEN (after briefly being RED for \~5 seconds). The LED indicator on the CCA next to PIC PROG will be blinking RED![](../../.gitbook/assets/program.gif)
 5. The program will complete and show success, follow program instructions to close
 6. Disconnect the USB power cable between the board and the PC

@@ -72,7 +72,7 @@ ALL filters must be placed into the proper position with <mark style="color:yell
 {% step %}
 ### Adding CCA
 
-Take <mark style="color:yellow;">23122-01 CCA</mark> carefully fit the C usb port into the slot on the cover with sensor side down. Then with QTY 4 screws <mark style="color:yellow;">Item#15 (92470A049)</mark> secure the CCA to the top cover.![](<../../.gitbook/assets/image (266).png>) The USC C connector goes into the open slot on the cover
+Take <mark style="color:yellow;">23122-01 CCA</mark> carefully fit the C usb port into the slot on the cover with sensor side down. Then with QTY 4 screws <mark style="color:yellow;">Item#15 (92470A049)</mark> secure the CCA to the top cover.![](<../../.gitbook/assets/image (266).png>) The USB C connector goes into the open slot on the cover
 
 <figure><img src="../../.gitbook/assets/CCA.gif" alt="" width="120"><figcaption></figcaption></figure>
 
