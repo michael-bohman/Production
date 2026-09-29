@@ -39,20 +39,30 @@ Perform the instructions included in file _README.md_ in folder _1 – program_.
 
 </details>
 
-1. Connect the USB cable between the board and the PC. (Below is the Microchip programmer between PC and pic32-6xIls board)
+1.  Locate the 23122 - ILS + GPS + AUX on your desk top and click into the folder. Find the folder named  1- Program folder and click into the folder. Click on the README.md file to confirm the programming code you need for the next step.&#x20;
+
+    <figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+2.  This step is showing you the programming code PK4.  Still working on files within 1 - program folder RIGHT click on program-23122 and edit in notepad.  Update the SET pgmDev=PK4
+
+    <figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+
+    If you are using a different programing device this value may be different. Go back to step one to confirm what you need.&#x20;
+3. Connect the USB cable between the board and the PC. (Below is the Microchip programmer between PC and pic32-6xIls board)
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-2.  Power on ILS with C usb cable. Image below shows programmer and power.
+4. Power on ILS with C usb cable. Image below shows programmer and power.
 
-    <figure><img src="../../.gitbook/assets/IMG_8560 (1).jpeg" alt="" width="188"><figcaption></figcaption></figure>
-3.  Locate the 23122 - ILS + GPS + AUX on your desk top and click into the folder. Find the folder named  1- Program folder and click into the folder. Click on the <mark style="color:blue;">Program-23122</mark> file
+<figure><img src="../../.gitbook/assets/IMG_8560 (1).jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
-4. Verify the LED next to the USB connector illuminates GREEN (after briefly being RED for \~5 seconds). The LED indicator on the CCA next to PIC PROG will be blinking RED![](../../.gitbook/assets/program.gif)
-5. The program will complete and show success, follow program instructions to close
-6. Disconnect the USB power cable between the board and the PC
-7. Disconnect the Microchip programmer
+5. Locate the 23122 - ILS + GPS + AUX on your desk top and click into the folder. Find the folder named  1- Program folder and click into the folder. Double-Click on the <mark style="color:blue;">Program-23122</mark> file
+
+<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+
+6. Verify the LED next to the USB connector illuminates GREEN (after briefly being RED for \~5 seconds). The LED indicator on the CCA next to PIC PROG will be blinking RED![](../../.gitbook/assets/program.gif)
+7. The program will complete and show success, follow program instructions to close
+8. Disconnect the USB power cable between the board and the PC
+9. Disconnect the Microchip programmer
 
 #### 2- GNSS Configuration
 

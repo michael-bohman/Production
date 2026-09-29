@@ -54,7 +54,9 @@ Right after filter is in place add <mark style="color:yellow;">25239-00</mark> o
 
 &#x20;Complete this with all filters for each position. &#x20;
 
-ALL filters must be placed into the proper position with <mark style="color:yellow;">25239-00</mark> before adding the CCA
+ALL filters must be placed into the proper position (See diagram above for position place of each filter) with <mark style="color:yellow;">25239-00</mark> before adding the CCA.
+
+Below is a list of each filter that must be placed.&#x20;
 
 * 475BP30-6.5
 * 550BP20-6.5
