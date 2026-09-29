@@ -52,7 +52,15 @@ Right after filter is in place add <mark style="color:yellow;">25239-00</mark> o
 
 <figure><img src="../../.gitbook/assets/25239.gif" alt=""><figcaption></figcaption></figure>
 
-&#x20;Complete this with all filters for each position.
+&#x20;Complete this with all filters for each position. &#x20;
+
+ALL filters must be placed into the proper position with <mark style="color:yellow;">25239-00</mark> before adding the CCA
+
+* 475BP30-6.5
+* 550BP20-6.5
+* 670BP30-6.5
+* 715BP10-6.5
+* 840BP20-6.5
 {% endstep %}
 
 {% step %}
@@ -64,9 +72,9 @@ Right after filter is in place add <mark style="color:yellow;">25239-00</mark> o
 {% step %}
 ### Adding CCA
 
-Take <mark style="color:yellow;">23122-01 CCA</mark> carefully fit the C usb port into the slot on the cover with sensor side down. Then with QTY 4 screws <mark style="color:yellow;">Item#15 (92470A049)</mark> secure the CCA to the top cover.
+Take <mark style="color:yellow;">23122-01 CCA</mark> carefully fit the C usb port into the slot on the cover with sensor side down. Then with QTY 4 screws <mark style="color:yellow;">Item#15 (92470A049)</mark> secure the CCA to the top cover.![](<../../.gitbook/assets/image (266).png>) The USC C connector goes into the open slot on the cover
 
-<figure><img src="../../.gitbook/assets/CCA.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CCA.gif" alt="" width="120"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 STOP! Now move to programming instructions before moving to step 8
