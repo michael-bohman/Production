@@ -21,7 +21,7 @@ description: '6X Gimbal Guide Assembly 21264-01. Owner: Amanda Janssen'
 
 
 
-2. Attach arm to the motor between the snakeskin wire wraps as shown. Secure with 4 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">8 ()</mark> and Loctite.
+2. Attach arm to the motor between the snakeskin wire wraps as shown. Secure with 4 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">8 (94500A262)</mark> and Loctite.
    1.
 
        <figure><img src="../../.gitbook/assets/IMG_3877.jpg" alt="" width="375"><figcaption></figcaption></figure>
@@ -60,7 +60,7 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
 
 4. Attach second motor to arm.
    1. Place second motor into arm and route the wires and make sure all the wires are passing THROUGH the hold and not being pinched.
-   2. Insert 4 <mark style="color:yellow;">#8 screws</mark> with Loctite partially but do not tighten.
+   2. Insert 4 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">8 (94500A262)</mark> and Loctite&#x20;
    3. Align the wires, snakeskin, and heat shrink and tighten screws.
 
 > <img src="../../.gitbook/assets/IMG_3882 (1).jpg" alt="" data-size="original">    ![](<../../.gitbook/assets/IMG_3886 (1).jpg>)
@@ -98,7 +98,7 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
 
     <p align="center"> </p>
 
-    1. Attach the arm to the motor using 3 <mark style="color:yellow;">#8 screws</mark> and Loctite.
+    1. Attach the arm to the motor using 3 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">8 (94500A262)</mark> and Loctite.
     2. Check for any friction by turning the motor and feeling for any tough spots. If this occurs, loosen and re-tighten the screws.
 
 <figure><img src="../../.gitbook/assets/IMG_3894.jpg" alt="" width="375"><figcaption></figcaption></figure>
@@ -112,7 +112,7 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-11. Attach arm to the back of the motor using 4 <mark style="color:yellow;">#8 screws</mark> and Loctite.
+11. Attach arm to the back of the motor using 4 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">8 (94500A262) screws</mark> and Loctite.
 
 <p align="center"><img src="../../.gitbook/assets/unknown (30).jpeg" alt=""> </p>
 
@@ -126,7 +126,7 @@ Note: it may be easiest to put one non-Loctite screw in to keep everything toget
     3. Place the open-end cover into place over the snakeskin and slide it against the motor.
     4. Place cap on the back of the motor.
     5. <p align="center"><img src="../../.gitbook/assets/unknown (32).jpeg" alt=""> </p>
-13. Secure 2 <mark style="color:yellow;">#9 screws</mark> and Loctite through the cover, arm and into the cap.
+13. Secure 2 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">9 (94017A108) screws</mark> and Loctite through the cover, arm and into the cap.
 
 {% hint style="info" %}
 Before tightening completely, observe the snakeskin to ensure it is not under the cover but rather in the hole. Adjust as necessary.

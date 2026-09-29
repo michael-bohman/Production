@@ -38,7 +38,7 @@ DJI Binding only has to be done for skyport gimbal stacks. Binding is for the Gi
 7. Update the firmware through DJI assistant
    1. Go to <mark style="color:$primary;">firmware update</mark> > <mark style="color:$primary;">DJI Skyport V2.0 (Primary)</mark>
       1. Note: DJI Assistant usually opens to this screen.
-   2. If the current version isn't <mark style="color:$primary;">V01.03.0500</mark>, click on the <mark style="color:$primary;">upgrade</mark> or <mark style="color:$primary;">downgrade</mark> button next to that version
+   2. Click on the <mark style="color:$primary;">upgrade</mark> or <mark style="color:$primary;">downgrade</mark> button next to V01.04.11.14. Should read current version at top of screen when completed.&#x20;
    3.
 
        <figure><img src="../../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>

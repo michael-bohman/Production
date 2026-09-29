@@ -41,15 +41,9 @@ Note: it may be best to install the program to your machine. However, the progra
    1. RTK/PPK Network Address: 32011-**00**xxx. This will be listed on the build.
    2. PixelScout Network Address: 32011-**10**xxx. This will be listed on the build.&#x20;
 
-{% columns %}
-{% column width="50%" %}
-<figure><img src="../../.gitbook/assets/pp master values .png" alt=""><figcaption><p>Use for Air Module Boards</p></figcaption></figure>
-{% endcolumn %}
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/pp master values .png" alt=""><figcaption><p>Use for Air Module Boards</p></figcaption></figure></div>
 
-{% column width="50%" %}
-<figure><img src="../../.gitbook/assets/pp remote values .png" alt=""><figcaption><p>Use for Ground Module Boards</p></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/pp romote updaste.png" alt=""><figcaption><p>Use for Ground Module Boards</p></figcaption></figure></div>
 
 5. Click <mark style="color:blue;">Read Board</mark> to double check the values have been set correctly, and the board itself has not been bricked.
    1. The light should be the following:
