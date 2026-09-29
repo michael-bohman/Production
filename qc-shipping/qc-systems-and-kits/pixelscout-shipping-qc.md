@@ -4,111 +4,156 @@ description: 'Owner: Simon'
 
 # PixelScout Shipping QC
 
+## Required Software/Documents
+
+* QGIS ([#qgis](../../space-and-general/software-installation-guide.md#qgis "mention"))
+* Sales Order&#x20;
+* Shipping Label
+* Packing List
+* Build
+
 ## Artifact Locations in Taurus>Production
 
 ### Systems & Kits>21282-00 — PixelScout Phase 4
 
-<figure><img src="../../.gitbook/assets/Artifacts.png" alt=""><figcaption></figcaption></figure>
+Note: This process also checks **Sensors>21030-XX — 65R>21030-04**
 
-* Calibration Flight Files
-  * Ensure files are present
-* Verification Flight Files
-  * Ensure files are present.
-  * Open the file 'quicktile\_0.050m\_rgb\_dewarp.tif' from the '\_out' folder in QGIS and ensure it looks well-stitched.
-    * Open QGIS and drag the file into the blank space
+* Navigate to PixelScout directory "<mark style="color:blue;">\as-taurus.jdnet.deere.com\Production\Systems & Kits\21282-00 -- PixelScout Phase 4\\###</mark>" where ### is the s/n of the PixelScout
+* Ensure all sub-directories and files are present
+  * <mark style="color:blue;">Calibration</mark>
+  * <mark style="color:blue;">Verification</mark>
+  * <mark style="color:blue;">sbgc\_IMU\_calib\_phase4SN###.data</mark>
+  * <mark style="color:blue;">sbgc\_IMU\_calib\_phase4SN###\_tuned.data</mark>
+  * <mark style="color:blue;">sensor\_###</mark> (shortcut for primary sensor)
+  * <mark style="color:blue;">sensor\_###</mark> (shortcut for secondary sensor)
+
+<figure><img src="../../.gitbook/assets/PS_QC_folder.png" alt=""><figcaption></figcaption></figure>
+
+* Check within each sub-directory & shortcut
+
+<details>
+
+<summary><mark style="color:blue;">Calibration</mark> (Preferred but not required)</summary>
+
+* Two directories should be present: <mark style="color:blue;">###\_primary</mark>, <mark style="color:blue;">###\_secondary</mark>
+
+<figure><img src="../../.gitbook/assets/PS_QC_Calibration.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">Calibration\###_primary</mark> &#x26; <mark style="color:blue;">Calibration\###_secondary</mark></summary>
+
+* Each directory should contain the following files:
+  * <mark style="color:blue;">\[session]</mark>
+  * <mark style="color:blue;">\[session]\_cal</mark>
+  * <mark style="color:blue;">\[session]\_cal\_out</mark>
+  * <mark style="color:blue;">\[session]\_out</mark>
+  * <mark style="color:blue;">\[session]\_pix4d</mark>
+  * <mark style="color:blue;">info</mark>
+  * <mark style="color:blue;">\[session]\_pix4d.p4d</mark>
+
+<figure><img src="../../.gitbook/assets/PS_QC_Calibration_SN.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">Verification</mark></summary>
+
+* Two directories should be present: <mark style="color:blue;">###\_primary</mark>, <mark style="color:blue;">###\_secondary</mark>
+
+<figure><img src="../../.gitbook/assets/PS_QC_Calibration.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">Verification\###_primary</mark> &#x26; <mark style="color:blue;">Verification\###_secondary</mark></summary>
+
+* Each directory should contain the following files:
+  * <mark style="color:blue;">\[session]</mark>
+  * <mark style="color:blue;">\[session]\_val\_out</mark>
+  * <mark style="color:blue;">info</mark>
+
+<figure><img src="../../.gitbook/assets/PS_QC_Verification_SN.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">Verification\###_primary\[session]_val_out</mark> &#x26; <mark style="color:blue;">Verification\###_secondary\[session]_val_out</mark></summary>
+
+* Open <mark style="color:blue;">QGIS</mark>
+* Drag the '<mark style="color:blue;">quicktile\_0.050m\_rgb\_dewarp.tif</mark>' image into the blank space
+* Ensure the image looks well-stitched (i.e. no jumps significantly bigger than 5 pixels/the width of a parking spot line)
 
 <div><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption><p>GOOD CALIBRATION</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption><p>BAD CALIBRATION</p></figcaption></figure></div>
 
-* IMU Calibration Data (tuned and untuned)
-* Optional: BPR Files
+</details>
 
 <details>
 
-<summary>Calibration Files (Preferred but not required)</summary>
+<summary><mark style="color:blue;">sensor_###</mark> (Do this for both sensors)</summary>
 
-<figure><img src="../../.gitbook/assets/Calibration Flight Artifacts (2).png" alt=""><figcaption></figcaption></figure>
+* The directory should contain the following sub-directories and files:
+  * <mark style="color:blue;">BPR\_###</mark>
+  * <mark style="color:blue;">Focus</mark>
+  * <mark style="color:blue;">bottom.jpg</mark>
+  * <mark style="color:blue;">cap photo.jpg</mark>
+  * <mark style="color:blue;">middle.jpg</mark>
+  * <mark style="color:blue;">top.jpg</mark>
 
-| File                                       | Description                                                                                   |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| Session                                    | Session folder of calibration flight                                                          |
-| \_cal                                      | Files from calibration tool (includes offsets and new hw\_config)                             |
-| \__cal\__&#x6F;ut (optional but preferred) | Quicktile files using calculated offsets to predict how well the verification flight will be. |
-| \_out (optional but preferred)             | output of original quicktile before calibration or offsets are applied                        |
-| _pix4d (and \_2nd for secondary cam)_      | pix4d files used in the calibration                                                           |
-| info                                       | info folder from the camera                                                                   |
-| .p4d file                                  | File generated during pix4d processing                                                        |
+<figure><img src="../../.gitbook/assets/PS_QC_sensor.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 <details>
 
-<summary>Verification Files</summary>
+<summary><mark style="color:blue;">sensor_###\BPR_###</mark> (Do this for both sensors)</summary>
 
-<figure><img src="../../.gitbook/assets/Verification Flight Artifacts.png" alt=""><figcaption></figcaption></figure>
+* The directory should contain the following sub-directories and files:
+  * <mark style="color:blue;">BPR\_###\_bad\_pixels</mark>
+  * <mark style="color:blue;">img\_bayer\_bright\_##.tif</mark> (45, 100, 255)
+  * <mark style="color:blue;">img\_bayer\_dark\_##.tif</mark> (0, 45, 100)
 
-| Folder  | Description                                         |
-| ------- | --------------------------------------------------- |
-| Session | Session folder of verification flight               |
-| \_out   | quicktile output                                    |
-| info    | info folder from SD card during verification flight |
-
-
+<figure><img src="../../.gitbook/assets/PS_QC_sensor_BPR (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 <details>
 
-<summary>BPR Files</summary>
+<summary><mark style="color:blue;">sensor_###\BPR_###\BPR_###_bad_pixels</mark> (Do this for both sensors)</summary>
 
-<div><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/BPR Artifacts.png" alt=""><figcaption></figcaption></figure></div>
+* The directory should contain the following sub-directories and files:
+  * <mark style="color:blue;">bad\_pixel\_details.csv</mark>
+  * <mark style="color:blue;">bad\_pixel\_mask.tif</mark>
+  * <mark style="color:blue;">bpr\_map.csv</mark>
+  * <mark style="color:blue;">image\_summary.csv</mark>
+  *   <mark style="color:blue;">transient\_pixels.csv</mark>
 
-Two folders per camera, one with the raw pictures, and one with the output files.
-
-
-
-bpr\_map.csv is applied to camera to be used for BPR.
-
-</details>
-
-### Sensors>21030-XX — 65R>21030-04
-
-<figure><img src="../../.gitbook/assets/Focus Artifacts.png" alt=""><figcaption></figcaption></figure>
-
-* Focus Session Folder (Same as 65R 21030-02)
-  * Optional to take a quick look at a few pictures to see the focus.
-* Left, middle, and right target screenshots from the focus app (including right starting with 65R SN 022)&#x20;
-  * Only need to make sure all 3 target screenshots are present.
-* 'Numbers' file containing max, target, and ending focus scores.
-  * Not required but optional to check final score percentages.
-    * Above 96% required for middle
-    * Above \~75% is required for sides (Prefer closer to 92% but not required)
-* Refer to [1-pixelscout-65r-focusing-change-process.md](../../technical-instructions/pixel-scout/assembly-steps/1-pixelscout-65r-focusing-change-process.md "mention") for more context if desired.
-
-<details>
-
-<summary>What the screenshots look like</summary>
-
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/PS_QC_sensor_BPR_badpixel.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 ## Checking the Cameras
 
-192.168.42.1 is the address for the Primary Camera
+<mark style="color:blue;">192.168.42.1</mark> is the address for the Primary Camera
 
-192.168.42.2 is the address for the Secondary Camera
+<mark style="color:blue;">192.168.42.2</mark> is the address for the Secondary Camera
 
 
 
 1. plug in power and USB-C on the front of the gimbal
-2. Open file explorer and navigate to 192.168.42.1
+2. Open file explorer and navigate to <mark style="color:blue;">192.168.42.1</mark>
    1. If prompted, use the following username and password.
       1. Username: sentera
       2. Password: \[leave empty]
    2. Make sure there's no sessions on the camera.
-   3. Ensure the hw\_config file has the correct serial number/part number.
-   4. Ensure the hw\_config has calibration method set to pix4d and the 'rig\_relatives\_deg' values are set to values other than 0.
-   5. Ensure the bpr.csb file exists in the 'info' folder.
+   3. Ensure the <mark style="color:blue;">hw\_config.yaml</mark> file has the correct serial number/part number.
+   4. Ensure the <mark style="color:blue;">hw\_config.yaml</mark> has calibration method set to pix4d and the 'rig\_relatives\_deg' values are set to values other than 0.
+   5. Ensure the <mark style="color:blue;">bpr\_map.csv</mark> file exists in the '<mark style="color:blue;">info</mark>' folder.
 
 <details>
 
@@ -134,7 +179,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
 
 </details>
 
-3. Navigate to a web browser and go to 192.168.42.1
+3. Navigate to a web browser and go to <mark style="color:blue;">192.168.42.1</mark>
    1. Check all the pages to make sure they are agreeable with the following drop down menus.
 
 <details>
@@ -183,7 +228,7 @@ Primary and Secondary are the same:
 
 Note: the Serial numbers will be different than pictured
 
-The Connection status in the pictures shows both USB and Ethernet. One or both might say 'Disconnected'
+The Connection status in the pictures shows both USB and Ethernet. One or both might say 'Disconnected' depending on how you are connected.
 
 Primary and secondary are the same:
 
@@ -199,13 +244,13 @@ Primary and secondary are the same:
 
 Primary and Secondary are the same
 
-Current firmware version: 4.5.1
+Current firmware version: <mark style="color:blue;">4.8.1</mark>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-03-27 085753.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
-4. Repeat steps 2 and 3 using IP Address 192.168.42.2
+4. Repeat steps 2 and 3 using IP Address <mark style="color:blue;">192.168.42.2</mark>
 
 
 
