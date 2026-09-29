@@ -124,7 +124,7 @@ Securing the bottom but make sure the button is opposite of the usb C port.&#x20
 {% step %}
 ### Adding the adhesive back to the tray
 
-Peel off one side of the double-sided tape <mark style="color:yellow;">8516</mark> and place this face up on the jig. Then you can place the mounting tray 25249-00 on top for worry free applying.
+First clean off the flat side of 25249-00 with acetone or Isopropyl Alcohol or an equivalent. Make sure the surface is dry. Peel off one side of the double-sided tape <mark style="color:yellow;">8516</mark> and place this face up  / sticky side up in the jig. Then you can place the mounting tray 25249-00 flat side on top of the sticky foam.
 
 <figure><img src="../../.gitbook/assets/tray.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
