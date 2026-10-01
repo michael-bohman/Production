@@ -264,4 +264,66 @@ Current firmware version: <mark style="color:blue;">4.8.1</mark>
 
 Refer to [#final-packing](../../technical-instructions/pixel-scout/calibration-and-verification/case-assembling-and-packing.md#final-packing "mention") for a guide on packing the case. Ensure the case follows this guide correctly.
 
-(in the future, may copy everything to this page.
+(in the future, may copy everything to this page.)
+
+## Label Check
+
+* Check each label
+
+<details>
+
+<summary>Sensor Unit (3 Labels)</summary>
+
+* One label on each 65R Sensor
+  * Primary should have the lower S/N
+
+<figure><img src="../../.gitbook/assets/label_arrow_sensor_top.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+* One label on the bottom of the sensor unit (facing up when in the case)
+  * Ensure the S/N is correct
+
+<figure><img src="../../.gitbook/assets/label_arrow_sensor_bottom (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Dual Antenna (2 Labels)</summary>
+
+* One label on the back cover of the Dual Antenna
+  * Ensure the S/N is correct
+  * Radio Net ID: 32011-10### where ### is the PixelScout S/N
+
+<figure><img src="../../.gitbook/assets/label_arrow_dual_antenna_back.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+* One label between indicator LEDs and Ethernet port
+
+<figure><img src="../../.gitbook/assets/label_arrow_dual_antenna_front.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Emlid (1 Label)</summary>
+
+* One label on the Emlid above the power button
+  * Ensure the S/N is correct
+
+<figure><img src="../../.gitbook/assets/label_arrow_emlid.jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Base Station (2 Labels)</summary>
+
+* Large RTK/PPK label
+  * LED holes should line up on the bottom of the large Label
+* Small PixelScout label
+  * Ensure S/N is correct
+  * Radio Net ID: 32011-10### where ### is the PixelScout S/N
+  * Sticker should be right-side-up when attached to the tripod (as seen below)
+
+<figure><img src="../../.gitbook/assets/label_arrow_base_station (1).jpg" alt="" width="360"><figcaption></figcaption></figure>
+
+</details>
