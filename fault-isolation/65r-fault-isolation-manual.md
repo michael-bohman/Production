@@ -6,6 +6,13 @@
 
 ## Reportable Issues&#x20;
 
+Adding a new issue:
+
+* Summarize a title&#x20;
+* Add description of how it happened
+* Add possible soulution or troubleshooting&#x20;
+* Slack [Amanda Janssen](https://sentera.slack.com/archives/D06TB8LH7B2) to update form
+
 <details>
 
 <summary>Poor Communication/Random dropouts</summary>
@@ -80,5 +87,14 @@ Possibly apply kapton tape to low side to level the imager.
 
 </details>
 
-## Common Errors
+<details>
+
+<summary>Factory Firmware Update Fail</summary>
+
+When booting off the SD card for the first time and trying to do a factory update, it fails.&#x20;
+
+1. Unplug power, reinsert SD card and try again&#x20;
+2. If unsuccessful, reapply boot files to the SD card and try update again
+
+</details>
 

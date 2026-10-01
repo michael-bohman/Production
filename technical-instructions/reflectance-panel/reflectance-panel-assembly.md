@@ -1,5 +1,5 @@
 ---
-description: '21226 -00 Owner: Amanda Janssen'
+description: 'Owner: Lee Vang'
 ---
 
 # 🚧 Reflectance Panel Assembly

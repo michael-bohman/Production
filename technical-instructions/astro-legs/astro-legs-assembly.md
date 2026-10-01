@@ -1,8 +1,8 @@
 ---
-description: 'Owner: Amanda Janssen'
+description: 'Owner: Lee Vang'
 ---
 
-# ✅ Astro Legs Assembly
+# 🚧 Astro Legs Assembly
 
 ## Guide
 
@@ -66,7 +66,7 @@ e.       Use the vise jigs and a vise to press it into place, make sure the pin 
 
 ### Complete T joint
 
-1. Apply a small Araldite to the inside of the open section on the T joint
+1. Apply Araldite to the inside of the open section on the T joint
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="328"><figcaption></figcaption></figure>
 

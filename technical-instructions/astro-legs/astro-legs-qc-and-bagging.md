@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Amanda Janssen'
+description: 'Owner: Lee Vang'
 ---
 
 # ✅ Astro Legs QC and Bagging&#x20;

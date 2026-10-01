@@ -2,7 +2,6 @@
 
 ## Notes
 
-* RTK/PPK QC Check must be accomplished by someone who did not build it.
 * This document is to be used as reference only. For a complete checklist, refer to the document being used (doc # 27300).
 * The steps for normal indoor procedures are listed. For outdoor tests (more accurate), accomplish both 'System Setup' parts first, before the 'System Testing' parts.
 

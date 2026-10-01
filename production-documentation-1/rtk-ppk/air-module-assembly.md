@@ -23,7 +23,7 @@ The P900 and GPS Board programming need to be completed before assembly. Refer t
 ## Guide
 
 {% hint style="info" %}
-If the cable picked from inventory already has a white wire in pin 7 of the single side, skip Step 1a, c and d  and use the wire already on the cable.
+If the cable picked from inventory already has a white wire in pin 7 of the single side, skip Step 1a, c and d  and use the wire already on the cable. If white 28 gauge wire is not present, cut (4 inches), solder and crimp wire from wiring station.&#x20;
 {% endhint %}
 
 1. Solder the white wire to the pin on the back of the connector of the GPS board.

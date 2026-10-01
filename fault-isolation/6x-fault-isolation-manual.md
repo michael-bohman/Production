@@ -6,7 +6,7 @@
 
 ## Reportable Issues
 
-* If any item needs to be replaced, it should be reported.&#x20;
+*
 
 <details>
 
@@ -72,8 +72,6 @@ If none of this works, reach out to Help-Embedded
    1. Sometimes when taking photos the 6X just needs a refresh. Keep it on Sentera OEM GPS
 
 </details>
-
-## Common Errors and Troubleshooting
 
 <details>
 
