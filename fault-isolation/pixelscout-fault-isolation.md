@@ -1,14 +1,19 @@
----
-description: 'Owner: Isaac'
----
-
 # PixelScout Fault Isolation
 
 ## Report Issues&#x20;
 
+{% hint style="danger" %}
+Do not report issues for RMA's. You can add an expandable below in "Known Issues".&#x20;
+{% endhint %}
+
 {% embed url="https://forms.zohopublic.com/senterallc/form/PixelScoutFaultIsolation/formperma/bN54SqUa56CyhAohn9bULUPqirxKin4kQN4gVfnykj4" %}
 
-## Gimbal&#x20;
+## Known Gimbal Issues
+
+* Add expandable and summarize a title&#x20;
+* Add description of how it happened
+* Add possible soulution or troubleshooting&#x20;
+* Slack [Amanda Janssen](https://sentera.slack.com/archives/D06TB8LH7B2) to update form
 
 <details>
 
@@ -61,7 +66,12 @@ This was most likely caused by the vibration of the SBG board. This is why we en
 
 </details>
 
-## Antenna
+## Known Antenna Issues
+
+* Add expandable and summarize a title&#x20;
+* Add description of how it happened
+* Add possible soulution or troubleshooting&#x20;
+* Slack [Amanda Janssen](https://sentera.slack.com/archives/D06TB8LH7B2) to update form
 
 <details>
 

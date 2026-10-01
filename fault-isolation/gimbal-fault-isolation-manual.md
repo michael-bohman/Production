@@ -2,9 +2,18 @@
 
 ## Report Issues
 
+{% hint style="danger" %}
+Do not report issues for RMA's. You can add an expandable below in "Know Issues".&#x20;
+{% endhint %}
+
 {% embed url="https://forms.zohopublic.com/senterallc/form/GimbalFaultIsolation/formperma/iZXHa1ZdvcrpaIV4BS-YBQmQN61NEKv_5Y6PrZE6_6A" %}
 
-## Common Issues&#x20;
+## Known Issues&#x20;
+
+* Add expandable and summarize a title&#x20;
+* Add description of how it happened
+* Add possible soulution or troubleshooting&#x20;
+* Slack [Amanda Janssen](https://sentera.slack.com/archives/D06TB8LH7B2) to update form
 
 <details>
 
