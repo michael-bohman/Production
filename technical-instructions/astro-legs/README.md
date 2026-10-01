@@ -8,14 +8,14 @@ description: '11604 Owner: Owner: Lee Vang'
 
 ## Equipment Needed
 
-| Power drill    | Blue paper towel        |                   |
-| -------------- | ----------------------- | ----------------- |
-|                | Scissors                | Araldite          |
-|                | Latex or nitrile gloves | mixing tray       |
-| Alignment jigs | Safety glasses          | stirring sticks   |
-| Vise jigs      | Bench Vise              | isopropyl alcohol |
-| Hammer         | Piano wire cutter       | Loctite           |
-| Wrench         | Ruler                   | 2mm hex           |
+| Power drill    | Blue paper towel  |                   |
+| -------------- | ----------------- | ----------------- |
+|                | Scissors          | Araldite          |
+|                | Latex gloves      | mixing tray       |
+| Alignment jigs | Safety glasses    | stirring sticks   |
+| Vise jigs      | Bench Vise        | isopropyl alcohol |
+| Hammer         | Piano wire cutter | Loctite           |
+| Wrench         | Ruler             | 2mm hex           |
 
 <details>
 
@@ -60,12 +60,8 @@ description: '11604 Owner: Owner: Lee Vang'
 [#astro-legs-greater-than-11604](../../space-and-general/drawings.md#astro-legs-greater-than-11604)
 {% endcontent-ref %}
 
-## Prep
+## Preparation
 
-1. Using the power drill and sanding bits, scratch the inside of the T joint.
+1. Attached Sanding brush to power drill. Using the sanding brush throughly clean the inside to the T joint tube as shown in the picture's below.
 
 > ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
-
-2. Cut paper towels into pieces
-
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="218"><figcaption></figcaption></figure>
