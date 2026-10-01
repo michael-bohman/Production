@@ -1,5 +1,5 @@
 ---
-description: '11604 Owner: Owner: Lee Vang'
+description: '11604 Owner: Amanda Janssen'
 ---
 
 # 🚧 Astro Legs
@@ -62,6 +62,6 @@ description: '11604 Owner: Owner: Lee Vang'
 
 ## Preparation
 
-1. Attached Sanding brush to power drill. Using the sanding brush throughly clean the inside to the T joint tube as shown in the picture's below.
+1. Attach Sanding tube brush to power drill. Use the sanding brush to thoroughly clean the inside of the T joint tube as shown in pictures below.
 
 > ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)

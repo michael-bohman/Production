@@ -6,106 +6,110 @@ description: 'Owner: Lee Vang'
 
 ## Guide
 
-1\. Glue .57” (smaller) diameter carbon tube to the T Joint.
-
-* Use jigs to mark where to glue, mark \~1/4” past jigs with a white sharpie as shown:
+1\. Place the small carbon tube .57 diameter (Small) part number #15626-00 into jig as shown in the picture. Use a sharpie, mark the carbon tube where's the end of the jig. This is where the T joint will be placed later as shown:
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
-2. Mix Araldite epoxy by pouring some onto a mixing tray and mixing it around with a stirring stick. Stir the Araldite until the solution is completely mixed.
-3. Apply a layer of Araldite to the area between the marks. Make sure to THINLY coat the carbon tube all the way around. Do not get Araldite anywhere outside of the marks.
-4. Feed the carbon tube through the T joint as shown:
+2. Using the Araldite gun squeeze Araldite onto a mixing tray. Wipe off any excessive Araldite from the tip of the gun with a blue cleaning napkin to prevent stuck for future use. Use a stirring stick, mix Araldite until the solution is completely mixed as shown:
 
-<p align="center"><img src="../../.gitbook/assets/unknown.jpeg" alt=""> </p>
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/2288.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Make sure T is centered, use jigs to align it
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2289.jpg" alt="" width="375"><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+2. Apply Araldite to the area of the carbon tube in between the mark. Make sure to THINLY apply Araldite thoroughly around the carbon tube. Do not get Araldite anywhere outside of the markings as shown:
+
+<figure><img src="../../.gitbook/assets/2291.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+2. Slightly twist the small .57 diameter (Small) carbon tube onto the T joint.
+3. Using the jigs. Make sure that the T joint is now aligned and centered as shown:&#x20;
 
 <p align="center"><img src="../../.gitbook/assets/unknown (1).jpeg" alt=""> </p>
 
 {% hint style="info" %}
-&#x20;If any Araldite is oozing out from the T joint, wipe off the excess Epoxy with isopropyl alcohol and paper&#x20;
+&#x20;Wipe off ANY excessive Araldite on the side of the T joint with Isopropyl alcohol and cleaning blue paper.&#x20;
 {% endhint %}
 
-6. Attach the jig to the T Joint
-
-<p align="center"><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""></p>
-
-7. Drill a hole through the T joint using the 3/32 bit designed for carbon fiber
-
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
-
-8. Use a hammer to start the 3/4” slotted spring pin as shown. Part number is 92373A147.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-9. Fully press the pin into the T joint &#x20;
-
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="danger" icon="hand" %}
-Let it sit overnight before moving onto next step
+<figure><img src="../../.gitbook/assets/2292.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <p align="center"> <img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""></p>
-{% endhint %}
 
-10. On the next day, after the Araldite is cured. Fit the end caps over the carbon tube.’
+<p align="center">🛑🤚ALLOW ARALDITE TO CURE OVER NIGHT!!! Processed to the next following step.</p>
 
-<p align="center"><img src="../../.gitbook/assets/unknown (2).jpeg" alt=""> </p>
-
-11. Attach cam follower to .695” carbon tube.
-    1. Insert the cam follower into the carbon tube.
-    2. Line up the cam follower and carbon tube holes.
-    3. While keeping the cam follower and carbon tube together with the holes aligned, place the two items tab down on the work bench.
-    4. Use a hammer to start inserting the 3/4” pin, make sure to go from the non-clip side. Part number is 92373A147.&#x20;
+6. Grab the big carbon tube diameter .695" (Big) part number #15627-00 and insert cam follower part number #15621-03 into the top of the carbon tube where's the hole is nearest to the edge of the tube. Make sure the holes are aligned.&#x20;
+7. Use a Hammer and insert the 3/4" long Stainless-steel pin part number #92373A147 into the hole where's the non-clip side as shown:
 
 <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-e.       Use the vise jigs and a vise to press it into place, make sure the pin is not protruding.
+8. Using a plier grab the pin where's the pin is at halfway into the carbon tube and slightly twisted the pin at 180 degrees. Then using the compression clamp suppressed the pin into the carbon tube for a flush look as shown below:
 
-> ![](<../../.gitbook/assets/image (11) (1) (1).png>)      ![](<../../.gitbook/assets/image (12) (1) (1).png>)
+<p align="center"><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="">      <img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""></p>
+
+9. After the Araldite is cured overnight. Attach the provided jig to the bottom of T Joint to prepare it for drilling.
+10. Use the 3/32 bit provided specifically for carbon fiber tubes. Drill a hole through the center of the T joint with the provided jig as shown:
+11. Use a hammer and insert the 3/4” long stainless-steel spring pin part number #92373A147 into the T joint as shown:
+
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+12. Fully press the 3/4" long stainless-steel spring pin into the T joint using compression clamp as shown below: &#x20;
+
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+10. Fit end cap's part #15624-00 over the carbon tube ends as shown:
+
+>
 
 ### Complete T joint
 
-1. Apply Araldite to the inside of the open section on the T joint
+1. Apply Araldite into the inside of the top open section of the T joint as shown:
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="328"><figcaption></figcaption></figure>
 
-2. Feed the slotted side of carbon tube into T joint until the holes line up.
-3. Start the 7/8” slotted spring pin into the hole with a hammer. Part number is 92373A148
+2. Insert the big carbon tube .697" diameter (Big) part number #15627-00 into the top of the T joint until the holes aligned.
+3. Next insert the 7/8” stainless-steel slotted spring pin part number #92373A148 into the hole with a Hammer as shown below:
 
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Use a vice to press it into place, make sure the pin is not protruding.
+4. Use the compression clamp to suppress it into place, make sure the pin is not protruding for a flush and clean look.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (4).jpeg" alt=""> </p>
+<p align="center"><img src="../../.gitbook/assets/unknown (4).jpeg" alt=""></p>
+
+5. Now your legs should be complete as shown below:
 
 ### Assemble Cam Lock Bracket
 
-1. Using the wire cutter, clip the short side to <mark style="color:blue;">1/32"</mark> past the spring.
+1. Using the wire cutter, clip torsion spring part number #9271K636 one side short to <mark style="color:blue;">1/32"</mark> on a ruler. To be sure please use a google image as reference.
 
 <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Using the wire cutter, clip the long side to <mark style="color:blue;">7/32"</mark> past the spring.
+2. For the other side, using the wire cutter. Clip one side long side to <mark style="color:blue;">7/32"</mark> on a ruler. To be sure please use a google image as reference.
 
 <p align="center"> <img src="../../.gitbook/assets/image (18) (1).png" alt=""></p>
 
-3. Fit the spring into the cam lever as shown. The spring may be trimmed more to fit.
+3. Fit the spring into the cam lever part number #15623-02. Long side of spring should be pointing out as shown. Make sure the spring don't fall out of the lever and is nicely secured and fitted.
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. &#x20;Insert the cam lock as shown. Pay attention to spring orientation.
-
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="362"><figcaption></figcaption></figure>
-
-5. Apply a generous amount of Loctite to the shoulder screw.
-6. Feed the shoulder screw through the cam and cam lock as shown. Screw in the shoulder screw and tighten to 40 in-oz.
+4. &#x20;Insert the cam lever onto cam lock bracket part number #15620-01. The spring should NOT be protruding and should sit flush with the edge of the cam lock bracket as shown:&#x20;
 
 {% hint style="info" %}
-If the spring is pretruding too much, then trim it down and reinsert it.&#x20;
+If the spring is protruding too much, trim it down and reinsert it. If the spring is too short, throw away and recut a new spring.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+5. Dip shoulder screw part number #90278A733 threaded side into provided Loctite. Make sure to dap the threaded end onto a blue clean napkin to wipe off any excessive Loctite before inserting into cam lock for screwing.
+6. Next insert the shoulder screw through the hole of the cam lock as shown. Make sure your provided screwdriver is torqued to 40.0 in-oz as shown. Screw in the shoulder screw and tighten it to 40 in-oz as shown:
+7.
 
-7. Pull down on the cam lever and feed the T joint assembly into the bracket. Push up on the cam lever all the way to secure.
+    <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+8. Insert the cam locker onto the top of the big carbon fiber tube part number #15627-00. Pull down on the cam lever to fit it into the T joint assemble. Push up on the cam lever all the way to secure and lock it in place. You're now finish with this build. Your Astro Leg's should look like the image provided below: &#x20;
 
 <figure><img src="../../.gitbook/assets/image (22) (1).png" alt="" width="301"><figcaption></figcaption></figure>
