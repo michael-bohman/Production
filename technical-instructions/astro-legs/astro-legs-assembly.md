@@ -37,7 +37,7 @@ description: 'Owner: Lee Vang'
     <figure><img src="../../.gitbook/assets/20261002_093802.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-&#x20;Wipe off ANY excessive Araldite on the side of the T joint with Isopropyl alcohol and cleaning blue paper.&#x20;
+&#x20;Wipe off ANY excessive Araldite on the side of the T joint with Isopropyl alcohol and blue paper napkins.&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/2292.jpg" alt="" width="375"><figcaption></figcaption></figure>
