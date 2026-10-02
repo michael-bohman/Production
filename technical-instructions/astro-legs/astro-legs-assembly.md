@@ -32,8 +32,9 @@ description: 'Owner: Lee Vang'
 
 2. Slightly twist the small .57 diameter (Small) carbon tube onto the T joint.
 3. Using the jigs. Make sure that the T joint is now aligned and centered as shown:&#x20;
+4.
 
-<p align="center"><img src="../../.gitbook/assets/unknown (1).jpeg" alt=""> </p>
+    <figure><img src="../../.gitbook/assets/20261002_093802.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 &#x20;Wipe off ANY excessive Araldite on the side of the T joint with Isopropyl alcohol and cleaning blue paper.&#x20;
