@@ -44,7 +44,9 @@ This step should be completed by a different person that did the build and pre-s
 
 <figure><img src="../../../.gitbook/assets/Camera Check in Taurus.png" alt=""><figcaption></figcaption></figure>
 
-## &#x20;Paper Information Check
+{% embed url="https://forms.zohopublic.com/senterallc/form/65RFinalQC/formperma/QawKn3FaroxBhviKSSNsRAQO-zjf2sMuenu_h75f-L8" %}
+
+## Paper Information Check
 
 1. On the packing list, confirm the following
    1. Item QTY being shipped matches
@@ -53,6 +55,8 @@ This step should be completed by a different person that did the build and pre-s
    1. Address is correct&#x20;
    2. Names are spelled correctly&#x20;
    3. Tracking order is the same
+
+{% embed url="https://forms.zohopublic.com/senterallc/form/65RFinalQC/formperma/QawKn3FaroxBhviKSSNsRAQO-zjf2sMuenu_h75f-L8" %}
 
 ## Accessories Check&#x20;
 
@@ -69,6 +73,8 @@ Remove the items out of the case to check them. &#x20;
 3. Confirm case looks like the image below(pic needed)
 4. Put the Sentera sticker in the case
 
+{% embed url="https://forms.zohopublic.com/senterallc/form/65RFinalQC/formperma/QawKn3FaroxBhviKSSNsRAQO-zjf2sMuenu_h75f-L8" %}
+
 ## Pack the Shipment
 
 1. Get a blue Sentera box and tape the bottom
@@ -80,3 +86,5 @@ Remove the items out of the case to check them. &#x20;
 7. Tape the top of the box&#x20;
 8. Stick on the label&#x20;
 9. Put package in shipping location&#x20;
+
+{% embed url="https://forms.zohopublic.com/senterallc/form/65RFinalQC/formperma/QawKn3FaroxBhviKSSNsRAQO-zjf2sMuenu_h75f-L8" %}
