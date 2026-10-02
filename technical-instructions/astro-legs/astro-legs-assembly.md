@@ -50,7 +50,7 @@ description: 'Owner: Lee Vang'
 
 <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-8. Using a plier, grab the pin where's the pin is at halfway into the carbon tube. Straighten out the pin, if necessary. Slightly twisted the pin at 180 degrees. The cut out of the pin should facing downward as shown:
+8. Using a plier, grab the pin where's the pin is at halfway into the carbon tube. Slightly twisted the pin at 180 degrees. Straighten out the pin, if necessary. The cut out of the pin should facing downward as shown:
 
 {% columns %}
 {% column %}
