@@ -45,8 +45,10 @@ description: 'Owner: Lee Vang'
 
 <p align="center">🛑🤚ALLOW ARALDITE TO CURE OVER NIGHT!!! Proceed to the next following step.</p>
 
-6. Grab the big carbon tube diameter .695" (Big) part number #15627-00 and insert cam follower part number #15621-03 into the top of the carbon tube where's the hole is nearest to the edge of the tube. Verify visual through the hole's. If the hole's don't aligned, report defect to someone immediately.
-7. Use a Hammer and insert the 3/4" long Stainless-steel pin part number #92373A147 into the hole where's the non-clip side as shown:
+6. Grab the big carbon tube diameter .695" (Big) part number #15627-00 and insert cam follower part number #15621-03 into the top of the carbon tube where's the hole is nearest to the edge of the tube. Verify visual through the holes. If the holes don't align, report defect to someone immediately.
+7. Use a Hammer and insert the 3/4" long Stainless-steel pin part number #92373A147 into the hole where's the non-clip side as shown:&#x20;
+
+NOTE: Only hammered the pin HALFWAY!
 
 <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
