@@ -43,7 +43,7 @@ description: 'Owner: James'
 <figure><img src="../../.gitbook/assets/Screenshot 2026-10-02 131507.png" alt=""><figcaption></figcaption></figure>
 
 8. Be sure to select the "847626849" account as we have two. As for the other two columns, have them situationally assigned to either sender/receiver pays and the payment being to "Bill to account"
-   1. As for the terms of trade there's an extended list of options. For this case CPT (Carriage Paid To) was selected. CPT transfers the risk of good to the buyer once the contracted carrier picks up the shipment.&#x20;
+   1. As for the terms of trade there's an extended list of options. For this case CPT (Carriage Paid To) was selected. CPT transfers the risk of goods to the buyer once the contracted carrier picks up the shipment.&#x20;
    2. The one I most use is DAP (Delivered at Place) which transfers risk to the buyer once the items are at their disposal.&#x20;
    3. Link: [https://mydhl.express.dhl/us/en/shipment-settings/terms-of-trade-definitions.html](https://mydhl.express.dhl/us/en/shipment-settings/terms-of-trade-definitions.html)&#x20;
 
