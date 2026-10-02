@@ -8,14 +8,14 @@ description: '11604 Owner: Amanda Janssen'
 
 ## Equipment Needed
 
-| Power drill    | Blue paper towel  |                   |
-| -------------- | ----------------- | ----------------- |
-|                | Scissors          | Araldite          |
-|                | Latex gloves      | mixing tray       |
-| Alignment jigs | Safety glasses    | stirring sticks   |
-| Vise jigs      | Bench Vise        | isopropyl alcohol |
-| Hammer         | Piano wire cutter | Loctite           |
-| Wrench         | Ruler             | 2mm hex           |
+| Power drill    | Blue cleaning napkins |                   |
+| -------------- | --------------------- | ----------------- |
+|                | Scissor               | Araldite          |
+|                | Latex gloves          | Mixing tray       |
+| Alignment jigs | Safety glass          | Stirring sticks   |
+| Vise jigs      | Bench Vise            | Isopropyl alcohol |
+| Hammer         | Piano wire cutter     | Loctite           |
+| Wrench         | Ruler                 | 2mm Hex           |
 
 <details>
 

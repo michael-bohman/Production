@@ -24,7 +24,7 @@ description: 'Owner: Lee Vang'
 {% endcolumn %}
 {% endcolumns %}
 
-2. Apply Araldite to the area of the carbon tube in between the mark. Make sure to THINLY apply Araldite thoroughly around the carbon tube. Do not get Araldite anywhere outside of the markings as shown:
+2. Apply Araldite to the area of the carbon tube in between the markings. SLIGHTLY apply Araldite thoroughly around the carbon tube. Please make sure you don't get Araldite anywhere outside of the markings as shown:
 
 <figure><img src="../../.gitbook/assets/2291.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
