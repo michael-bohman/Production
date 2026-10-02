@@ -8,14 +8,14 @@ description: '11604 Owner: Amanda Janssen'
 
 ## Equipment Needed
 
-| Power drill    | Blue cleaning napkins |                   |
-| -------------- | --------------------- | ----------------- |
-|                | Scissor               | Araldite          |
-|                | Latex gloves          | Mixing tray       |
-| Alignment jigs | Safety glass          | Stirring sticks   |
-| Vise jigs      | Bench Vise            | Isopropyl alcohol |
-| Hammer         | Piano wire cutter     | Loctite           |
-| Wrench         | Ruler                 | 2mm Hex           |
+| Power drill    | Blue paper napkins | Tape              |
+| -------------- | ------------------ | ----------------- |
+| Sanding brush  | Scissor            | Araldite          |
+| Alignment Jigs | Latex gloves       | Mixing tray       |
+| Vice jigs      | Safety glasses     | Stirring sticks   |
+| Hammer         | Bench Vise         | Isopropyl alcohol |
+| Wrench         | Piano wire cutter  | Loctite           |
+| Stapler        | Ruler              | 2mm Hex           |
 
 <details>
 
@@ -62,6 +62,6 @@ description: '11604 Owner: Amanda Janssen'
 
 ## Preparation
 
-1. Attach Sanding tube brush to power drill. Use the sanding brush to thoroughly clean the inside of the T joint tube as shown in pictures below.
+1. Attach sanding brush to power drill. Use the sanding brush to thoroughly clean the inside of the T joint tube as shown in pictures below:
 
 > ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
