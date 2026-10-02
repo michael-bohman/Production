@@ -24,14 +24,14 @@ description: 'Owner: Lee Vang'
 {% endcolumn %}
 {% endcolumns %}
 
-2. Apply Araldite to the area of the carbon tube in between the markings. SLIGHTLY apply Araldite thoroughly around the carbon tube. Please make sure you don't get Araldite anywhere outside of the markings as shown:
+3. Apply Araldite to the area of the carbon tube in between the markings. SLIGHTLY apply Araldite thoroughly around the carbon tube. Please make sure you don't get Araldite anywhere outside of the markings as shown:
 
 <figure><img src="../../.gitbook/assets/2291.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-2. Slightly twist the small .57 diameter (Small) carbon tube onto the T joint.
-3. Using the jigs. Make sure that the T joint is now aligned and centered as shown:&#x20;
+4. Slightly twist the small .57 diameter (Small) carbon tube onto the T joint.
+5. Using the jigs. Make sure that the T joint is now aligned and centered as shown:&#x20;
 
 <figure><img src="../../.gitbook/assets/20261002_093802.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ description: 'Owner: Lee Vang'
 
 <p align="center"><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="">      <img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""></p>
 
-9. After the Araldite is cured overnight. Attach the provided jig to the bottom of T Joint to prepare it for drilling.
+9. AFTER ARALDITE IS CURED OVERNIGHT. Attach the provided jig to the bottom of T Joint to prepare it for drilling.
 10. Use the 3/32 bit provided specifically for carbon fiber tubes. Drill a hole through the center of the T joint with the provided jig as shown:
 11. Use a hammer and insert the 3/4” long stainless-steel spring pin part number #92373A147 into the T joint as shown:
 12. Fully press the 3/4" long stainless-steel spring pin into the T joint using compression clamp as shown below: &#x20;
