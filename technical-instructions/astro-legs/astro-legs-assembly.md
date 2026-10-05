@@ -72,13 +72,83 @@ NOTE: Only hammered the pin HALFWAY!
 
 <p align="center"><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="">      <img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""></p>
 
-10. AFTER ARALDITE IS CURED OVERNIGHT. Attach the provided jig to the bottom of T Joint to prepare it for drilling.
-11. Use the 3/32 bit provided specifically for carbon fiber tubes. Drill a hole through the center of the T joint with the provided jig as shown:
-12. Use a hammer and insert the 3/4” long stainless-steel spring pin part number #92373A147 into the T joint as shown:
-13. Fully press the 3/4" long stainless-steel spring pin into the T joint using compression clamp as shown below: &#x20;
-14. Fit end cap's part #15624-00 over the carbon tube ends as shown:
+10. AFTER ARALDITE IS CURED OVERNIGHT. Attach the provided jig to the bottom of T Joint to prepare it for drilling as shown:
 
->
+<figure><img src="../../.gitbook/assets/2444.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+11. Locate the 3/32 bit and attached it onto drilling machine. After you attach the drill bit onto the drilling machine. Make sure to use the attached torque wrench on the side to tighten it down for a secured fit as shown:
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/2441.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2442.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+<figure><img src="../../.gitbook/assets/2443.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+
+
+10. Use the 3/32 bit provided specifically for carbon fiber tubes. Drill a hole through the center of the T joint with the provided jig as shown:
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/2445.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2447.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+10. Use a hammer and insert the 3/4” long stainless-steel spring pin part number #92373A147 into the T joint as shown:
+
+NOTE: Only hammered the pin HALFWAY!
+
+<figure><img src="../../.gitbook/assets/2451.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+10. Fully press the 3/4" long stainless-steel spring pin into the T joint using compression clamp as shown below:&#x20;
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/2452.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2453.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+10. Fit end cap's part #15624-00 over the carbon tube ends as shown:
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/2457.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2455.jpg" alt=""><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
 
 ### Complete T joint
 
