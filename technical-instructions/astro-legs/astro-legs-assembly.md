@@ -159,13 +159,29 @@ NOTE: Only hammered the pin HALFWAY!
 2. Insert the big carbon tube .697" diameter (Big) part number #15627-00 into the top of the T joint until the holes aligned.
 3. Next insert the 7/8” stainless-steel slotted spring pin part number #92373A148 into the hole with a Hammer as shown below:
 
+NOTE: Only hammered the pin HALFWAY!
+
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Use the compression clamp to suppress it into place, make sure the pin is not protruding for a flush and clean look.
+4. Use the compression clamp suppress the pin it into place, make sure the pin is not protruding for a flush and clean look.
 
+{% columns %}
+{% column %}
 <p align="center"><img src="../../.gitbook/assets/unknown (4).jpeg" alt=""></p>
 
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2460.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
 5. Now your legs should be complete as shown below:
+
+<figure><img src="../../.gitbook/assets/2461.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Assemble Cam Lock Bracket
 
