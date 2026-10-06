@@ -60,6 +60,7 @@ Uploaded 3/23/2026
        <figure><img src="../../../../.gitbook/assets/20260313_131522 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 8. Attach the Yaw Enclosure with 4 screws <mark style="color:yellow;">Item #10 (94017A108)</mark>
    1. Push the board to the front using the board-to-board connector while tightening to ensure it will line up later.
+   2. Loctite and Torque to 30 LBS
 
 > ![](<../../../../.gitbook/assets/image (113).png>)    ![](<../../../../.gitbook/assets/image (114).png>)
 
@@ -70,12 +71,12 @@ Uploaded 3/23/2026
 > ![](<../../../../.gitbook/assets/image (117).png>)
 
 10. Attach the gimbal frame to the stack using 3 screws <mark style="color:yellow;">Item #11 (94017A156)</mark>
-    1.
+    1.  Loctite and Torque to 40 LBS
 
         <figure><img src="../../../../.gitbook/assets/image (118).png" alt="" width="375"><figcaption></figcaption></figure>
 11. Attach the the roll and pitch (2 black cables) and camera (muti-color cable) connectors
     1. Attach the camera to gimbal and test before putting on drone.&#x20;
-    2. If camera freaks out and starts twisting out of control, switch the black cables with each other
+    2. If camera freaks out and starts twisting out of control, switch the black cables and test again
 12. &#x20;Attach cable cover with 2 screws <mark style="color:yellow;">Item #12 (95836A512)</mark>
     1.
 

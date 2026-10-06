@@ -16,7 +16,7 @@ description: '65R Gimbal Guide Assembly 21264. Owner: Amanda Janssen'
 
 <p align="center"><img src="../../.gitbook/assets/unknown (21).jpeg" alt=""> </p>
 
-2. Attach arm to the motor between the snakeskin wire wraps as shown. Secure with 4 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">#9 (94500A262)</mark> and Loctite.
+2. Attach arm to the motor between the snakeskin wire wraps as shown. Secure with 4 <mark style="color:yellow;">Item</mark> <mark style="color:yellow;">#9 (94500A262)</mark> and Loctite. Torque to 40 LBS
 
 <p align="center"><img src="../../.gitbook/assets/unknown (22).jpeg" alt=""> </p>
 
@@ -40,7 +40,7 @@ If Screw is getting stuck and never threading, you will need to drill out the ho
 
 4. Attach second motor to arm.
    1. Place second motor into arm and route the wires and make sure all the wires are passing THROUGH the hold and not being pinched.
-   2. Insert 4 screws <mark style="color:yellow;">Item #9 (94500A262)</mark> with Loctite partially but do not tighten.
+   2. Insert 4 screws <mark style="color:yellow;">Item #9 (94500A262).</mark> Torque to 40 LBS
    3. Align the wires, snakeskin, and heat shrink and tighten screws.
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
@@ -76,7 +76,7 @@ If Screw is getting stuck and never threading, you will need to drill out the ho
    3.  <p align="center"> </p>
 
        <figure><img src="../../.gitbook/assets/unknown (27).jpeg" alt=""><figcaption></figcaption></figure>
-   4. Attach the arm to the motor using 3 screws <mark style="color:yellow;">Item #9 (94500A262)</mark> and Loctite.
+   4. Attach the arm to the motor using 3 screws <mark style="color:yellow;">Item #9 (94500A262)</mark> and Loctite. Torque to 40 LBS
    5. Check for any friction by turning the motor and feeling for any tough spots. If this occurs, loosen and re-tighten the screws.
 
 <p align="center"><img src="../../.gitbook/assets/unknown (28).jpeg" alt=""> </p>
@@ -88,7 +88,7 @@ If Screw is getting stuck and never threading, you will need to drill out the ho
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-11. Attach arm to the back of the motor using 4 screws <mark style="color:yellow;">Item #9 (94500A262)</mark> and Loctite.
+11. Attach arm to the back of the motor using 4 screws <mark style="color:yellow;">Item #9 (94500A262)</mark> and Loctite. Torque to 40 LBS
 
 <p align="center"><img src="../../.gitbook/assets/unknown (30).jpeg" alt=""> </p>
 

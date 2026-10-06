@@ -23,7 +23,9 @@ description: 'Owner: Amanda Janssen'
 
 ## Guide
 
-1. Place the filler plate into the body of the smart dovetail. Secure with 2 screws <mark style="color:yellow;">Item #20 65R, #21 6X (99461A916)</mark>.
+1. Place the filler plate into the body of the smart dovetail. Secure with 2 screws
+   1. &#x20;<mark style="color:yellow;">Item #20 65R (99461A916)</mark>
+   2. <mark style="color:yellow;">Item #21 6X (99461A916)</mark>
 
 {% columns %}
 {% column %}
@@ -39,7 +41,7 @@ description: 'Owner: Amanda Janssen'
 
 <figure><img src="../../../../.gitbook/assets/image (39).png" alt="" width="286"><figcaption></figcaption></figure>
 
-3. Run the wires through the smart dovetail adapter and place it on the body. Secure using 3 screws <mark style="color:yellow;">Item #12 (94017A202)</mark> and Loctite.
+3. Run the wires through the smart dovetail adapter and place it on the body. Secure using 3 screws <mark style="color:yellow;">Item #12 (94017A202)</mark> and Loctite. Torque to 40 LBS
 
 <figure><img src="../../../../.gitbook/assets/image (40).png" alt="" width="279"><figcaption></figcaption></figure>
 
@@ -56,7 +58,7 @@ description: 'Owner: Amanda Janssen'
 
 <figure><img src="../../../../.gitbook/assets/image (42).png" alt="" width="281"><figcaption></figcaption></figure>
 
-7. Place the yaw adapter over the board and attach using 4 screws <mark style="color:yellow;">Item #11 (94017A108)</mark> and Loctite.
+7. Place the yaw adapter over the board and attach using 4 screws <mark style="color:yellow;">Item #11 (94017A108)</mark> and Loctite. <mark style="color:yellow;">(99461A916).</mark> Torque to 30 LBS
 8. Push the board to the front using the board-to-board connector while tightening to ensure it will line up later.
 
 {% columns %}
@@ -79,7 +81,7 @@ description: 'Owner: Amanda Janssen'
         <figure><img src="../../../../.gitbook/assets/image (45).png" alt="" width="311"><figcaption></figcaption></figure>
 11. Again, Place the motor controller board on top. Push down so it connects to the comms board below.
     1. Ensure the 2 front holes still line up with the comms board holes.
-12. Place the gimbal on top. Secure using 3 screws <mark style="color:yellow;">Item #13 (94017A156)</mark> and Loctite.
+12. Place the gimbal on top. Secure using 3 screws <mark style="color:yellow;">Item #13 (94017A156)</mark> and Loctite. Torque to 40 LBS
 13. Plug in 3 connections as shown. Route them such that no pinching or squishing will occur when the plate is attached above.
 
 {% hint style="info" %}
@@ -90,18 +92,8 @@ The longer of the 2 identical connections should connect to the further connecto
 
 14. Attach the camera to the gimbal.
     1. Refer to the 'Final Assembly' page for instruction on this.
-15. Check if the 2 identical connectors are oriented correctly using the test stand.
-    1. Place the entire assembly on a test stand.
-    2. Ensure the correct payload is plugged into the power supply.
-    3. Turn on the power supply.
-    4. Click on <mark style="color:blue;">1</mark> in the output area
-    5. Click <mark style="color:blue;">High</mark> in the Voltage Range area.
-    6. Click <mark style="color:blue;">Display Limit</mark>
-    7. Turn the knob to set it to 15V.
-    8. Click <mark style="color:blue;">Output On/Off</mark>
-    9. Hover over the <mark style="color:blue;">Output On/Off</mark> button while the gimbal starts, be ready to turn it off if any erratic movement occurs.
-       1. If gimbal movement is as expected, turn off the output and power supply. Remove the assembly from the test stand and continue.
-       2. If the gimbal movement is erratic, turn off everything and switch the 2 black identical plugs on the motor controller board and retry.
+15. Check if the 2 identical connectors are oriented correctly using the ground tester
+    1. Switch the black cable connectors if camera starts freaking out
 16. Place the plate over the motor controller opening. Secure using 2 screws <mark style="color:blue;">Item 14 (95836A512)</mark> and Loctite.
     1. Ensure the end of the snakeskin is completely under the plate.
     2.  Ensure no wires are pinched before tightening.
