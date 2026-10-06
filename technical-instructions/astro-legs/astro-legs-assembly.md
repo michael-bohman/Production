@@ -156,7 +156,7 @@ NOTE: Only hammered the pin HALFWAY!
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="328"><figcaption></figcaption></figure>
 
-2. Insert the big carbon tube .697" diameter (Big) part number #15627-00 into the top of the T joint until the holes aligned. Verify visual that the holes are aligned with the T joint. If the holes don't align, report defect to someone immediately.&#x20;
+2. Sightly twist and insert the big carbon tube .697" diameter (Big) part number #15627-00 into the top of the T joint until the holes aligned. Verify visual that the holes are aligned with the T joint. If the holes don't align, report defect to someone immediately.&#x20;
 3. Next insert the 7/8” stainless-steel slotted spring pin part number #92373A148 into the hole with a Hammer as shown below:
 
 NOTE: Only hammered the pin HALFWAY!
@@ -187,27 +187,52 @@ NOTE: Only hammered the pin HALFWAY!
 
 1. Using the wire cutter, clip torsion spring part number #9271K636 one side short to <mark style="color:blue;">1/32"</mark> on a ruler. To be sure please use a google image as reference.
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2487.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-2. For the other side, using the wire cutter. Clip one side long side to <mark style="color:blue;">7/32"</mark> on a ruler. To be sure please use a google image as reference.
 
-<p align="center"> <img src="../../.gitbook/assets/image (18) (1).png" alt=""></p>
 
-3. Fit the spring into the cam lever part number #15623-02. Long side of spring should be pointing out as shown. Make sure the spring don't fall out of the lever and is nicely secured and fitted.
+2. Fit the spring into the cam lever part number #15623-02. Long side of spring should be pointing out as shown. If the pin doesn't fit, continue trimming until it's fitted. Make sure the spring doesn't fall out of the lever and is nicely secured and fit.
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2486.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-4. &#x20;Insert the cam lever onto cam lock bracket part number #15620-01. The spring should NOT be protruding and should sit flush with the edge of the cam lock bracket as shown:&#x20;
+3. Dip shoulder screw part number #90278A733 threaded side into provided Loctite. Make sure to dap the threaded end onto a blue clean napkin to wipe off any excessive Loctite before inserting into cam lock bracket for screwing as shown:
 
-{% hint style="info" %}
-If the spring is protruding too much, trim it down and reinsert it. If the spring is too short, throw away and recut a new spring.
-{% endhint %}
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/2481.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Dip shoulder screw part number #90278A733 threaded side into provided Loctite. Make sure to dap the threaded end onto a blue clean napkin to wipe off any excessive Loctite before inserting into cam lock for screwing.
-6. Next insert the shoulder screw through the hole of the cam lock as shown. Make sure your provided screwdriver is torqued to 40.0 in-oz as shown. Screw in the shoulder screw and tighten it to 40 in-oz as shown:
-7.
 
-    <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
-8. Insert the cam locker onto the top of the big carbon fiber tube part number #15627-00. Pull down on the cam lever to fit it into the T joint assemble. Push up on the cam lever all the way to secure and lock it in place. You're now finish with this build. Your Astro Leg's should look like the image provided below: &#x20;
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2482.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+4. Take the provided screwdriver and torqued it to 40.0 in-oz. Screw in the shoulder screw and tighten it to 40 in-oz as shown:
+
+NOTE: You should torque it to hear 3 clicks.
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/2483.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2484.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+5. Using the wire cutter. Trim the extending tip of the long spring. Leverage the wire cutter at the edge of the cam lock bracket as shown below and trim off the extending spring.
+
+<figure><img src="../../.gitbook/assets/2485.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+6. Insert the cam locker onto the top of the big carbon fiber tube part number #15627-00. Pull down on the cam lever to fit it into the T joint assemble. Push up on the cam lever all the way to secure and lock it in place. You're now finish with this build. Your Astro Leg's should look like the image provided below: &#x20;
 
 <figure><img src="../../.gitbook/assets/image (22) (1).png" alt="" width="301"><figcaption></figcaption></figure>
