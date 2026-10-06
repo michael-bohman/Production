@@ -52,7 +52,7 @@ NOTE: Only hammered the pin HALFWAY!
 
 <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-8. Using a plier, grab the pin where's the pin is at halfway into the carbon tube. Slightly twisted the pin at 180 degrees. Straighten out the pin, if necessary. The cut out of the pin should facing downward as shown:
+8. Using a plier, grab the pin where's the pin is at halfway into the carbon tube. Slightly twist the pin at 180 degrees. Straighten out the pin, if necessary. The cut out of the pin should facing downward as shown:
 
 {% columns %}
 {% column %}
@@ -118,7 +118,7 @@ NOTE: Only hammered the pin HALFWAY!
 
 <figure><img src="../../.gitbook/assets/2451.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-10. Fully press the 3/4" long stainless-steel spring pin into the T joint using compression clamp as shown below:&#x20;
+10. Suppress the 3/4" long stainless-steel spring pin into the T joint where's the hole was drilled using compression clamp as shown below:&#x20;
 
 {% columns %}
 {% column %}
@@ -156,14 +156,14 @@ NOTE: Only hammered the pin HALFWAY!
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="328"><figcaption></figcaption></figure>
 
-2. Insert the big carbon tube .697" diameter (Big) part number #15627-00 into the top of the T joint until the holes aligned.
+2. Insert the big carbon tube .697" diameter (Big) part number #15627-00 into the top of the T joint until the holes aligned. Verify visual that the holes are aligned with the T joint. If the holes don't align, report defect to someone immediately.&#x20;
 3. Next insert the 7/8” stainless-steel slotted spring pin part number #92373A148 into the hole with a Hammer as shown below:
 
 NOTE: Only hammered the pin HALFWAY!
 
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Use the compression clamp suppress the pin it into place, make sure the pin is not protruding for a flush and clean look.
+4. Use the compression clamp suppress the pin it into place, make sure the pin is not protruding for a flush and clean look. As shown below:
 
 {% columns %}
 {% column %}
@@ -179,7 +179,7 @@ NOTE: Only hammered the pin HALFWAY!
 {% endcolumn %}
 {% endcolumns %}
 
-5. Now your legs should be complete as shown below:
+5. Now your legs should be completed as shown below:
 
 <figure><img src="../../.gitbook/assets/2461.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
