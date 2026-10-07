@@ -249,6 +249,15 @@ NOTE: You should torque it to hear 3 clicks.
 
 <figure><img src="../../.gitbook/assets/2485.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-6. Insert the cam locker onto the top of the big carbon fiber tube part number #15627-00. Pull down on the cam lever to fit it into the T joint assemble. Push up on the cam lever all the way to secure and lock it in place. STOP!!! You're now finish with this build. Your Astro Leg's should look like the image provided below: &#x20;
+6. Insert the cam locker onto the top of the big carbon fiber tube part number #15627-00. Pull down on the cam lever to fit it into the T joint assemble. Push up on the cam lever all the way to secure and lock it in place. Your Astro Leg's should look like the image provided below: &#x20;
 
 <figure><img src="../../.gitbook/assets/image (22) (1).png" alt="" width="301"><figcaption></figcaption></figure>
+
+7. For a final and QC check. Lay the Astro Leg's on a flat surface and push downward on the cam lock bracket. Make sure that both ends of the flexible cap doesn't lift as shown below:
+
+NOTE: If one side is lifted, report defect to someone immediately!!!
+
+<figure><img src="../../.gitbook/assets/0d17f109-1b97-4e25-84b7-e5fd75cb7a70.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+8. STOP!!! You're now finish with this build. 🛑
+
