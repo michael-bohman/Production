@@ -39,9 +39,7 @@ description: 'Owner: Lee Vang'
 &#x20;Wipe off ANY excessive Araldite on the side of the T joint with Isopropyl alcohol and blue paper napkins.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/2292.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-<p align="center"> <img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""></p>
+&#x20;                                                     ![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 <p align="center">🛑🤚ALLOW ARALDITE TO CURE OVER NIGHT!!! Proceed to the next following step.</p>
 
