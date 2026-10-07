@@ -257,7 +257,19 @@ NOTE: You should torque it to hear 3 clicks.
 
 NOTE: If one side is lifted, report defect to someone immediately!!!
 
+{% columns %}
+{% column %}
 <figure><img src="../../.gitbook/assets/0d17f109-1b97-4e25-84b7-e5fd75cb7a70.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/905c39f9-3325-4d0c-8602-14f9f0f172ff.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
 
 8. STOP!!! You're now finish with this build. 🛑
 
