@@ -36,10 +36,28 @@ description: 'Owner: Lee Vang'
 <figure><img src="../../.gitbook/assets/20261002_093802.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-&#x20;Wipe off ANY excessive Araldite on the side of the T joint with Isopropyl alcohol and blue paper napkins.&#x20;
+&#x20;Wipe off ANY excessive Araldite on the side of the T joint with Acetone and blue cleaning paper.&#x20;
 {% endhint %}
 
-&#x20;                                                     ![](<../../.gitbook/assets/image (9) (1) (1).png>)
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/3f7ee9b1-97d1-451a-af26-c72583939626.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../.gitbook/assets/2292 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+{% hint style="info" %}
+NOTE: Make sure there's NO excessive Araldite exposing outside the side of the T Joint!!!
+{% endhint %}
+
+&#x20;                                                  ![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 <p align="center">🛑🤚ALLOW ARALDITE TO CURE OVER NIGHT!!! Proceed to the next following step.</p>
 
@@ -193,7 +211,7 @@ NOTE: Only hammered the pin HALFWAY!
 
 <figure><img src="../../.gitbook/assets/2486.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Dip shoulder screw part number #90278A733 threaded side into provided Loctite. Make sure to dap the threaded end onto a blue clean napkin to wipe off any excessive Loctite before inserting into cam lock bracket for screwing as shown:
+3. Dip shoulder screw part number #90278A733 threaded side into provided Loctite. Make sure to dap the threaded end onto a blue cleaning paper to wipe off any excessive Loctite before inserting into cam lock bracket for screwing as shown:
 
 {% columns %}
 {% column %}
