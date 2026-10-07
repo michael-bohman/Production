@@ -8,14 +8,14 @@ description: '11604 Owner: Lee Vang'
 
 ## Equipment Needed
 
-| Power drill    | Blue paper napkins | Tape              |
-| -------------- | ------------------ | ----------------- |
-| Sanding brush  | Scissor            | Araldite          |
-| Alignment Jigs | Latex gloves       | Mixing tray       |
-| Vice jigs      | Safety glasses     | Stirring sticks   |
-| Hammer         | Bench Vise         | Isopropyl alcohol |
-| Wrench         | Piano wire cutter  | Loctite           |
-| Stapler        | Ruler              | 2mm Hex           |
+| Power Drill    | Blue Cleaning Paper | Tape            |
+| -------------- | ------------------- | --------------- |
+| Sanding Brush  | Scissor             | Araldite        |
+| Alignment Jigs | Latex Gloves        | Mixing Tray     |
+| Vice Jigs      | Safety Glasses      | Stirring Sticks |
+| Hammer         | Bench Vise          | Acetone         |
+| Wrench         | Piano Wire Cutter   | Loctite         |
+| Stapler        | Ruler               | 2mm Hex         |
 
 <details>
 
