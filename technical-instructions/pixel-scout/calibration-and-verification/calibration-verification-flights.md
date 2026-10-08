@@ -13,6 +13,10 @@ description: 'Owner: Isaac'
 
 ## Calibration Flight Guide
 
+{% hint style="warning" %}
+Calibration MUST be done with a non-calibrated hw\_config.yaml. If reperforming calibration, first set the calibration method to "defaults" and re-zero rig\_relatives\_deg in BOTH the primary and secondary sensor's hw\_config.yaml file.
+{% endhint %}
+
 1. Set up the System in the same manner as the ground test.
    1. [ground-test.md](ground-test.md "mention")
 2. Set up a flight plan
