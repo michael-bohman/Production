@@ -17,6 +17,34 @@ Do not report issues for RMA's. You can add an expandable below in "Known Issues
 
 <details>
 
+<summary>Not Taking Pictures </summary>
+
+1. Reconfigure camera&#x20;
+   1. Sometimes when taking photos the 6X just needs a refresh. Keep it on Sentera OEM GPS
+
+</details>
+
+<details>
+
+<summary>No Connection to the webpage</summary>
+
+1. Confirm all the switches on the baseboard are in the correct position
+2. Power cycle camera&#x20;
+3. Switch cables&#x20;
+4. In the start menu, search <mark style="color:blue;">**RUN**</mark>
+5. In the search box type in <mark style="color:blue;">**ncpa.cpl**</mark>
+
+<figure><img src="../.gitbook/assets/image (55).png" alt="" width="429"><figcaption></figcaption></figure>
+
+6. Click enter, after a few seconds another window will appear&#x20;
+7. With power and usb connected, you should see 2 ethernets appear. This will tell you if the camera is reading any network. If no network appears, the webpage will not show up
+
+<figure><img src="../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
 <summary>Not Starting a session and blinking red lights immediately </summary>
 
 Most likely a bad imager. The boards go from 0-4 for positions. You can also look in the config folder which will tell you the positions as well!
@@ -54,46 +82,6 @@ If none of this works, reach out to Help-Embedded
 
 <details>
 
-<summary>No Connection to the webpage</summary>
-
-1. Confirm all the switches on the baseboard are in the correct position
-2. Power cycle camera&#x20;
-3. Switch cables&#x20;
-4. In the start menu, search <mark style="color:blue;">**RUN**</mark>
-5. In the search box type in <mark style="color:blue;">**ncpa.cpl**</mark>
-
-<figure><img src="../.gitbook/assets/image (55).png" alt="" width="429"><figcaption></figcaption></figure>
-
-6. Click enter, after a few seconds another window will appear&#x20;
-7. With power and usb connected, you should see 2 ethernets appear. This will tell you if the camera is reading any network. If no network appears, the webpage will not show up
-
-<figure><img src="../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Not Taking Pictures </summary>
-
-1. Reconfigure camera&#x20;
-   1. Sometimes when taking photos the 6X just needs a refresh. Keep it on Sentera OEM GPS
-
-</details>
-
-<details>
-
-<summary>Unable to get data off sd card (RMA)</summary>
-
-SD card is having issues or overheating<br>
-
-example: broken camera, but still has data on that customer wants&#x20;
-
-* Insert that SDcard into a working camera
-
-</details>
-
-<details>
-
 <summary>Pixel Alignment Error (Some Pictures are dark)</summary>
 
 * After running through pixel alignment program the results have some completely blacked out photos
@@ -119,6 +107,26 @@ You do not need to retake CAL photos. Just retake Focus photos
 <figure><img src="../.gitbook/assets/image (58).png" alt="" width="527"><figcaption></figcaption></figure>
 
 2. Load in the CAL, New Focus
+
+</details>
+
+<details>
+
+<summary>Pixel Alignment "Make Current" Error</summary>
+
+This happens after pixel allignment program is finished. It doesn't effect the output of the calibration.&#x20;
+
+</details>
+
+<details>
+
+<summary>Unable to get data off sd card (RMA)</summary>
+
+SD card is having issues or overheating<br>
+
+example: broken camera, but still has data on that customer wants&#x20;
+
+* Insert that SDcard into a working camera
 
 </details>
 

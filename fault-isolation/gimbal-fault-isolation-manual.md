@@ -44,21 +44,6 @@ Solution
 
 <details>
 
-<summary>When testing gimbal the camera twitches after initialization </summary>
-
-This is a different issue then switching the black cords. This issue would happen after the camera initializes and its a slow twitch.&#x20;
-
-
-
-1. Switch out the gimbal (possible wiring harness issue)
-   1. Use the same stack&#x20;
-2. Connect camera to basecam&#x20;
-   1. Reload the backup manager 6X or 65R gimbal file&#x20;
-
-</details>
-
-<details>
-
 <summary>No motor control on the gimbal</summary>
 
 This is likely a motor controller issue. The coms board should appear in the previous logs. If you don't see any sign of the logs showing gimbal operation, it could be a coms issue. See no gimbal connection issue for more info&#x20;
@@ -78,20 +63,15 @@ This is likely a motor controller issue. The coms board should appear in the pre
 
 <details>
 
-<summary>Slow IMU Issue </summary>
+<summary>Slow twitch every few seconds</summary>
 
-The camera slowly drifts when starting up. This issue is caused by the gyro getting too much vibration, which we have learned is caused by the fan
+This is a different issue then switching the black cords. This issue would happen after the camera initializes and its a slow twitch.&#x20;
 
-1. Switch out the fan until the drift stops
-2. Contact Wayne if you want to confirm with the computer
 
-</details>
 
-<details>
-
-<summary>Slow twitch every few seconds </summary>
-
-1. Connect camera to basecam&#x20;
+1. Switch out the gimbal (possible wiring harness issue)
+   1. Use the same stack&#x20;
+2. Connect camera to basecam&#x20;
    1. Reload the backup manager 6X or 65R gimbal file&#x20;
 
 </details>
@@ -104,5 +84,17 @@ This issue can show up in multiple ways. It is likely the issue when the camera 
 
 1. Rule out motor controller issue by plugging it in and seeing if that board is functioning as normal. If no, continue step 2.&#x20;
 2. Grab another gimbal and switch it out to see if that solves the issue. If so, you know that the faulty gimbal needs a new wiring harness&#x20;
+
+</details>
+
+<details>
+
+<summary>Gimbal fails in Pitch and/or roll</summary>
+
+This is most likely the wiring harness. This happens a lot more with 65R gimbals. Try using the same upper stack with a different gimbal to confirm it is the wiring harness
+
+1. Replace wiring harness&#x20;
+2. Issue is in the process of getting fixed.&#x20;
+3. Enter into Junkyard and give harness to wayne
 
 </details>

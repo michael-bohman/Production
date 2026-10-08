@@ -41,42 +41,6 @@ You can add ' -t' to the end of it to run it continuously so you can monitor the
 
 <details>
 
-<summary>Red stripped image, then black</summary>
-
-During focusing, the first image taken was a weird, red, stripped image and every image after that was black.
-
-<div><figure><img src="../.gitbook/assets/IMG_0001 (1).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_0002 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
-
-This camera was fixed by replacing the imager board.
-
-</details>
-
-<details>
-
-<summary>Failed BPR (Bad Pixel Replacement)</summary>
-
-1. As of 7/15/2026 we are switching the mount for the 65R.&#x20;
-2. Send images to Zach Thorson to confirm
-3. Switch out mount and try BPR again&#x20;
-4. Send Images to Zach again if it passes BPR
-
-</details>
-
-<details>
-
-<summary>No lights on the camera </summary>
-
-The imager board controlls the lights on the 65R. It will not let you start a session without the lights working properly
-
-
-
-1. Switch out the imager board and see if the lights come back.&#x20;
-2. Message help-embedded or Alex Stephens to see if the board can be fixed.&#x20;
-
-</details>
-
-<details>
-
 <summary>One side of picture out of focus</summary>
 
 65R imager boards have been showing up with tilted imagers on the imager board. This causes on side of the frame to be out of focus compared to the other side.
@@ -93,12 +57,92 @@ Possibly apply kapton tape to low side to level the imager.
 
 <details>
 
-<summary>Factory Firmware Update Fail</summary>
+<summary>Red stripped image, then black</summary>
+
+During focusing, the first image taken was a weird, red, stripped image and every image after that was black.
+
+<div><figure><img src="../.gitbook/assets/IMG_0001 (1).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_0002 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+1. Enter into asset tracker and give to Alex Stephens
+2. You will likely need to replace imager board
+
+</details>
+
+<details>
+
+<summary>Failed BPR (Bad Pixel Replacement)</summary>
+
+1. Rotate the lens mount, retake pictures and run map again.&#x20;
+
+</details>
+
+<details>
+
+<summary>No lights on the camera </summary>
+
+The imager board controlls the lights on the 65R. It will not let you start a session without the lights working properly
+
+
+
+* Enter into asset tracker and give to Alex Stephens
+* You will likely need to replace imager board
+
+</details>
+
+<details>
+
+<summary>When on a gimbal the camera slowly rotates to one side </summary>
+
+This is caused by the fan. It vibrates and the camera rotates because of it.&#x20;
+
+1. Replace fan&#x20;
+2. Confirm issue does not happen before shipping with multiple start ups&#x20;
+
+</details>
+
+<details>
+
+<summary>Factory Firmware Update Failed</summary>
 
 When booting off the SD card for the first time and trying to do a factory update, it fails.&#x20;
 
 1. Unplug power, reinsert SD card and try again&#x20;
 2. If unsuccessful, reapply boot files to the SD card and try update again
+
+</details>
+
+<details>
+
+<summary>Snapshots folder disappeared</summary>
+
+When deleting all sessions from 65R the snapshots folder disappears after restart.
+
+1. This is an issue being looked at, but does not prevent shipping. Once a new session starts the snapshots folder will come back.&#x20;
+
+</details>
+
+<details>
+
+<summary>Unable to start a session</summary>
+
+When trying to start a session, the 192.168.42.1 homepage website errors out with a red screen and the camera displays flashing red lights.
+
+<p align="center">or </p>
+
+When trying to start a session, the 192.168.42.1 homepage website never loads the "capture image" button. The baseboard doesn't consistently flash the green and orange lights.&#x20;
+
+
+
+This is usually the imager board. Look at the logs and see if any of the following messages are seen.&#x20;
+
+* Bad imager initialization
+* Unable to initialize imager! Missing Start of Frame!
+* GMAX is missing
+
+
+
+1. Enter into asset tracker and give to Alex Stephens
+2. You will likely need to replace imager board
 
 </details>
 
