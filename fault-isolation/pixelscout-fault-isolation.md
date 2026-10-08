@@ -6,7 +6,15 @@
 Do not report issues for RMA's. You can add an expandable below in "Known Issues".&#x20;
 {% endhint %}
 
+<details>
+
+<summary>Report Issue Form</summary>
+
 {% embed url="https://forms.zohopublic.com/senterallc/form/PixelScoutFaultIsolation/formperma/bN54SqUa56CyhAohn9bULUPqirxKin4kQN4gVfnykj4" %}
+
+
+
+</details>
 
 ## Known Gimbal Issues
 
