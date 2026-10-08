@@ -36,7 +36,7 @@ description: 'Owner: Lee Vang'
 <figure><img src="../../.gitbook/assets/20261002_093802.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-&#x20;Wipe off ANY excessive Araldite on the side of the T joint with Acetone and blue cleaning paper.&#x20;
+&#x20;NOTE: Wipe off ANY excessive Araldite on the side of the T joint with Acetone and blue cleaning paper.&#x20;
 {% endhint %}
 
 {% columns %}
@@ -61,10 +61,16 @@ NOTE: Make sure there's NO excessive Araldite exposing outside the side of the T
 
 <p align="center">🛑🤚ALLOW ARALDITE TO CURE OVER NIGHT!!! Proceed to the next following step.</p>
 
+{% hint style="info" %}
+NOTE: It takes 24 hour's for Araldite to cure. So the carbon tube inside the T Joint will wiggle!!!
+{% endhint %}
+
 6. Grab the big carbon tube diameter .695" (Big) part number #15627-00 and insert cam follower part number #15621-03 into the top of the carbon tube where's the hole is nearest to the edge of the tube. Verify visual through the holes. If the holes don't align, report defect to someone immediately.
 7. Use a Hammer and insert the 3/4" long Stainless-steel pin part number #92373A147 into the hole where's the non-clip side as shown:&#x20;
 
-NOTE: Only hammered the pin HALFWAY!
+{% hint style="info" %}
+NOTE: Only hammered the pin Halfway!!!
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -112,7 +118,7 @@ NOTE: Only hammered the pin HALFWAY!
 
 
 
-10. Use the 3/32 bit provided specifically for carbon fiber tubes. Drill a hole through the center of the T joint with the provided jig as shown:
+10. Using the 3/32 bit provided specifically for carbon fiber tubes. Drill a hole through the center of the T joint with the provided jig as shown:
 
 {% columns %}
 {% column %}
@@ -130,7 +136,9 @@ NOTE: Only hammered the pin HALFWAY!
 
 10. Use a hammer and insert the 3/4” long stainless-steel spring pin part number #92373A147 into the T joint as shown:
 
-NOTE: Only hammered the pin HALFWAY!
+{% hint style="info" %}
+NOTE: Only hammered the pin in Halfway!!!
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/2451.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -166,7 +174,7 @@ NOTE: Only hammered the pin HALFWAY!
 {% endcolumn %}
 {% endcolumns %}
 
-### Complete T joint
+### Complete T Joint
 
 1. Apply Araldite into the inside of the top open section of the T joint as shown:
 
@@ -175,7 +183,9 @@ NOTE: Only hammered the pin HALFWAY!
 2. Sightly twist and insert the big carbon tube .697" diameter (Big) part number #15627-00 into the top of the T joint until the holes aligned. Verify visual that the holes are aligned with the T joint. If the holes don't align, report defect to someone immediately.&#x20;
 3. Next insert the 7/8” stainless-steel slotted spring pin part number #92373A148 into the hole with a Hammer as shown below:
 
-NOTE: Only hammered the pin HALFWAY!
+{% hint style="info" %}
+NOTE: Only hammered the pin in Halfway!!!
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -229,7 +239,9 @@ NOTE: Only hammered the pin HALFWAY!
 
 4. Take the provided screwdriver and torqued it to 40.0 in-oz. Screw in the shoulder screw and tighten it to 40 in-oz as shown:
 
-NOTE: You should torque it to hear 3 clicks.
+{% hint style="info" %}
+NOTE: Torque or screw it until you hear 3 clicks.
+{% endhint %}
 
 {% columns %}
 {% column %}
@@ -255,7 +267,9 @@ NOTE: You should torque it to hear 3 clicks.
 
 7. For a final and QC check. Lay the Astro Leg's on a flat surface and push downward on the cam lock bracket. Make sure that both ends of the flexible cap doesn't lift as shown below:
 
-NOTE: If one side is lifted, report defect to someone immediately!!!
+{% hint style="info" %}
+NOTE: If one side is lifted as shown, report defect to someone immediately!!!
+{% endhint %}
 
 {% columns %}
 {% column %}
