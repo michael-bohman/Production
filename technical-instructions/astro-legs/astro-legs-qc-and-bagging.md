@@ -22,7 +22,7 @@ description: 'Owner: Lee Vang'
 If there are scratches, pause DON'T take pictures until those legs are inspected or set aside not be shipped!
 {% endhint %}
 
-3. Place a numbered sticker on each of the legs as shown:
+3. Place numbered serial sticker on each of the legs as shown:
 
 {% hint style="danger" %}
 Only use the stickers in the Astro Leg Bin. Please place the sticker roll back in the correct bin.&#x20;
