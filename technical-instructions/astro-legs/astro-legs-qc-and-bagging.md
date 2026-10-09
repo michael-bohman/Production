@@ -6,7 +6,7 @@ description: 'Owner: Lee Vang'
 
 ### Note
 
-* All pictures should be taken using the big light box. It is located in the main office area in a cube.&#x20;
+* All pictures should be taken using the BIG light box. It is located in the main office area in a cube. Switched on the lights to prepare for photos. &#x20;
 
 <figure><img src="../../.gitbook/assets/20260908_083918 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -37,12 +37,12 @@ Only use the stickers in the Astro Leg Bin. Place the sticker roll back in the c
 
 
 
-4. Take 2 pictures legs before bagging and place on taurus (See naming convention below bagging)
+4. Take 2 picture of legs and a final bagged picture of the clipped Astro legs with a bag of black 8 mm head screws before uploading pictures onto Taurus. (See naming convention below bagging)
    1. <mark style="background-color:$warning;">Camera should be on "P" setting</mark>
    2. Confirm the light is bright enough to see any defects&#x20;
-   3. Confirm sticker is visible&#x20;
+   3. Confirm sticker is visible on each of the legs
    4. Confirm both legs are fully in the picture&#x20;
-   5. Confirm both serial numbers show each side of the leg
+   5. Confirm both serial numbers show each side of the legs
 
 {% columns %}
 {% column %}
@@ -60,27 +60,27 @@ Only use the stickers in the Astro Leg Bin. Place the sticker roll back in the c
 
 ## Bagging
 
-1. Place 12 of the M3 x 8mm screws into the 2” by 3” plastic bag.
+1. Place 12 of the M3 x 8mm head screws into the 2” x 3” plastic bag. Part number #91290A113.
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;2\. Tape the screw bag to the inside of the 18” by 15” bag where it can be visible with the legs inside.
+&#x20;2\. Using tape. Tape the 2" x 3" screw bag to the inside of the 18” x 15” bag.
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;3\. Take two legs that were built and combine them with the leg clip facing the same direction
+&#x20;3\. Take 2 legs that were built. Use the clip and attach both of them facing the same direction.
 
-4. Place the leg pair into the large bag and close it.
-5. Fold the bag cover in half and place it over the large bag. Use a stapler to staple it on
-   1. <mark style="background-color:yellow;">Legs should be placed, numbers facing the back side of the bag.</mark>&#x20;
+4. Place the leg pairs into the large 18" x 15" bag and close it. Make sure the number side of the legs are facing on the side where you taped the head screws.   &#x20;
+5. Use a stapler and staple it.
+   1. <mark style="background-color:yellow;">With legs inside, before stapling bag. Make sure numbers side should be facing the back side of the bag. As shown below:</mark>&#x20;
 
 {% hint style="info" %}
-Try to keep the staples on either side of the Sentera logo.
+Staple both side of the 18" x 15" big bag secured with the provided Sentera logo. Avoid stapling the Sentera logo.
 {% endhint %}
 
-6.  Take a Final picture and place on taurus&#x20;
+6.  Take a final picture and upload it to Taurus with the other taken photos.
 
-    1. Take picture with numbers&#x20;
+    1. Take a picture with the numbers being visible.
 
     <figure><img src="../../.gitbook/assets/Final.JPG" alt=""><figcaption></figcaption></figure>
 
@@ -88,11 +88,11 @@ Try to keep the staples on either side of the Sentera logo.
 
 ## Taurus Naming Convention
 
-1. Create a folder in taurus&#x20;
+1. Create a folder in Taurus. Follow procedure to Astro Legs file.  &#x20;
    1. \as-taurus.jdnet.deere.com\Production\Systems & Kits\11604-XX -- Astro Legs
-2. Label the folder based on their serial numbers&#x20;
+2. Label the new folder based on their serial numbers&#x20;
    1. Example: 0083-0084
-   2. Put the 2 images before bagging and the final image after bagging in the new folder&#x20;
+   2. Put the 2 images before bagging and the final bagged image in the new folder label it 'Final'.&#x20;
    3.
 
        <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
