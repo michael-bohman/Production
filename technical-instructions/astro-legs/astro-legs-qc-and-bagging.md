@@ -94,5 +94,5 @@ Staple both side of the 18" x 15" big bag secured with the provided Sentera logo
    3.
 
        <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
-3. Repeat step 2 process for ALL Astro Leg images until ALL Astro Legs images are saved in their own files/folders.
-4. STOP!!! You are now done. Slack someone that you are now done with the Astro Leg's and appoint them to where you store the picture files ready for shipping. 🛑
+3. Repeat step 2 process for ALL Astro Leg images until ALL Astro Legs images are saved in their own files/ folders.
+4. STOP!!! You are now done. Slack someone that you are now done with the Astro Leg's and appoint them to where you store the picture files/ folders ready for shipping. 🛑
