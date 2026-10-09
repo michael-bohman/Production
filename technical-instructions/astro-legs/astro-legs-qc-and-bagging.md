@@ -10,39 +10,36 @@ description: 'Owner: Lee Vang'
 
 <figure><img src="../../.gitbook/assets/20260908_083918 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-## QC/Pictures
+## QC & Pictures
 
-1. Grab a pair of astro legs&#x20;
-2. Inspect each of the legs&#x20;
+1. Grab 2 pair of Astro Legs&#x20;
+2. Inspect each individual legs&#x20;
    1. Confirm no scratches
    2. No glue is showing
-   3. The pins are fully seated&#x20;
+   3. Pins are fully inserted&#x20;
 
 {% hint style="danger" %}
-If there are scratches, wait to take pictures until those legs are polished or set aside to not be shipped
+If there are scratches, pause DON'T take pictures until those legs are inspected or set aside not be shipped!
 {% endhint %}
 
-3. Place a numbered sticker on each of the legs
-   1. Note orientation of the sticker
+3. Place a numbered sticker on each of the legs as shown:
 
 {% hint style="danger" %}
-Only use the stickers in the Astro Leg Bin. Place the sticker roll back in the correct bin.&#x20;
+Only use the stickers in the Astro Leg Bin. Please place the sticker roll back in the correct bin.&#x20;
 
 
 
-<p align="center"><strong>DO NOT USE THE REFLECTANCE PANEL BIN STICKER</strong></p>
+<p align="center"><strong>DO NOT USE THE REFLECTANCE PANEL BIN STICKER!!!</strong></p>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/DSCF0020 - Copy (2).JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-4. Take 2 picture of legs and a final bagged picture of the clipped Astro legs with a bag of black 8 mm head screws before uploading pictures onto Taurus. (See naming convention below bagging)
-   1. <mark style="background-color:$warning;">Camera should be on "P" setting</mark>
-   2. Confirm the light is bright enough to see any defects&#x20;
-   3. Confirm sticker is visible on each of the legs
-   4. Confirm both legs are fully in the picture&#x20;
-   5. Confirm both serial numbers show each side of the legs
+4. Take 2 picture of the legs and a final bagged picture of the clipped Astro Legs with a bag of black 8 mm head screws before uploading pictures onto Taurus. (See naming convention below bagging)
+   1. <mark style="background-color:$warning;">Confirm camera is set on "P" setting</mark>
+   2. Confirm light inside big cube is bright enough to see any defects and sticker of serial numbers is visible on each of the legs
+   3. Take the first picture as shown in picture 1 Leg 0083, Flip BOTH legs so that the other legs serial number is shown. Take another picture as shown in picture 2 Leg 0084.
 
 {% columns %}
 {% column %}
@@ -58,7 +55,7 @@ Only use the stickers in the Astro Leg Bin. Place the sticker roll back in the c
 {% endcolumn %}
 {% endcolumns %}
 
-## Bagging
+## Bagging Astro Legs
 
 1. Place 12 of the M3 x 8mm head screws into the 2” x 3” plastic bag. Part number #91290A113.
 
@@ -68,23 +65,24 @@ Only use the stickers in the Astro Leg Bin. Place the sticker roll back in the c
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;3\. Take 2 legs that were built. Use the clip and attach both of them facing the same direction.
+&#x20;3\. Take the 2 legs that you just took pictures of. Use the clip and attach both of them facing the same direction.
 
-4. Place the leg pairs into the large 18" x 15" bag and close it. Make sure the number side of the legs are facing on the side where you taped the head screws.   &#x20;
+4. Place the leg pairs into the large 18" x 15" bag and close it. Make sure the serial number side of the legs are facing on the side where you taped the head screws.   &#x20;
 5. Use a stapler and staple it.
-   1. <mark style="background-color:yellow;">With legs inside, before stapling bag. Make sure numbers side should be facing the back side of the bag. As shown below:</mark>&#x20;
+   1. <mark style="background-color:yellow;">With the legs inside, BEFORE stapling the bag. Make sure serial numbers should be facing the back side of the bag. As shown below:</mark>&#x20;
 
 {% hint style="info" %}
 Staple both side of the 18" x 15" big bag secured with the provided Sentera logo. Avoid stapling the Sentera logo.
 {% endhint %}
 
-6.  Take a final picture and upload it to Taurus with the other taken photos.
+6.  Take a final picture of the bagged Astro Legs and upload it to Taurus with the other taken photos.
 
-    1. Take a picture with the numbers being visible.
+    1. Take a picture with the serial numbers being visible.
 
     <figure><img src="../../.gitbook/assets/Final.JPG" alt=""><figcaption></figcaption></figure>
 
 
+7. Repeat QC, Pictures, and Bagging process until ALL Astro Legs are bagged up.
 
 ## Taurus Naming Convention
 
