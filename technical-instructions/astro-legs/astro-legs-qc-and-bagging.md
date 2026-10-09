@@ -90,7 +90,9 @@ Staple both side of the 18" x 15" big bag secured with the provided Sentera logo
    1. \as-taurus.jdnet.deere.com\Production\Systems & Kits\11604-XX -- Astro Legs
 2. Label the new folder based on their serial numbers&#x20;
    1. Example: 0083-0084
-   2. Put the 2 images before bagging and the final bagged image in the new folder label it 'Final'.&#x20;
+   2. Put the 2 images before bagging and the final bagged image last, name it 'Final' as shown&#x20;
    3.
 
        <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+3. Repeat step 2 process for ALL Astro Leg images until ALL Astro Legs images are saved in their own files/folders.
+4. STOP!!! You are now done. Slack someone that you are now done with the Astro Leg's and appoint them to where you store the picture files ready for shipping. 🛑
