@@ -6,7 +6,7 @@ description: 'Owner: Lee Vang'
 
 ### Note
 
-* All pictures should be taken using the BIG light box. It is located in the main office area in a cube. Switched on the lights to prepare for photos. &#x20;
+* ALL pictures should be taken using the BIG light box cube. Located in the main office area. Switched on the lights to prepare for photos. &#x20;
 
 <figure><img src="../../.gitbook/assets/20260908_083918 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
