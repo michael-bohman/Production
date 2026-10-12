@@ -10,7 +10,7 @@ description: 'Owner: Lee Vang'
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 
-2. Using the Araldite gun squeeze Araldite onto a mixing tray. Wipe off any excessive Araldite from the tip of the gun with a blue cleaning napkin to prevent stuck for future use. Use a stirring stick, mix Araldite until the solution is completely mixed as shown:
+2. Using the Araldite gun squeeze Araldite onto a mixing tray. Wipe off any excessive Araldite from the tip of the gun with a blue cleaning paper to prevent it getting stuck for future use. Use a stirring stick, mix Araldite until the solution is completely mixed as shown:
 
 {% columns %}
 {% column %}
@@ -74,7 +74,7 @@ NOTE: Only hammered the pin Halfway!!!
 
 <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-8. Using a plier, grab the pin where's the pin is at halfway into the carbon tube. Slightly twist the pin at 180 degrees. Straighten out the pin, if necessary. The cut out of the pin should facing downward as shown:
+8. Using a plier, grab the pin where's the pin is at halfway into the carbon tube. Slightly twist the pin at 180 degrees. Straighten out the pin, if necessary. The cut out of the pin should facing downward before fully suppressed as shown:
 
 {% columns %}
 {% column %}
@@ -174,7 +174,7 @@ NOTE: Only hammered the pin in Halfway!!!
 {% endcolumn %}
 {% endcolumns %}
 
-### Complete T Joint
+### Assemble T Joint
 
 1. Apply Araldite into the inside of the top open section of the T joint as shown:
 
