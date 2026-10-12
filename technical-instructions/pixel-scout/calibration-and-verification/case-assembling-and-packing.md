@@ -100,9 +100,8 @@ After flying the validation flight, use these instructions for packing the final
 
 2. Place the following in the small pocket above the gimbal.
    1. 2 USB C to A adapters in a small bag.
-   2. 2 bags with rubber O-rings.
+   2. 2 bags with rubber O-rings. (Qty. 12 per bag)
    3. Anker wall block.
-   4. Anker wall block user manual
 
 <figure><img src="../../../.gitbook/assets/IMG_8032.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
