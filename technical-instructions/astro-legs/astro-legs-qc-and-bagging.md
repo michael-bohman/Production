@@ -19,7 +19,7 @@ description: 'Owner: Lee Vang'
    3. Pins are fully inserted&#x20;
 
 {% hint style="danger" %}
-If there are scratches, pause DON'T take pictures until those legs are inspected or set aside not be shipped!
+If there are scratches, pause DON'T take pictures until those legs are inspected or set aside NOT to be shipped!
 {% endhint %}
 
 3. Place numbered serial sticker on each of the legs as shown:
@@ -32,11 +32,23 @@ Only use the stickers in the Astro Leg Bin. Please place the sticker roll back i
 <p align="center"><strong>DO NOT USE THE REFLECTANCE PANEL BIN STICKER!!!</strong></p>
 {% endhint %}
 
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/2623.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
+{% endcolumn %}
+
+{% column %}
 <figure><img src="../../.gitbook/assets/DSCF0020 - Copy (2).JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 
+{% endcolumn %}
+{% endcolumns %}
 
-4. Take 2 picture of the legs and a final bagged picture of the clipped Astro Legs with a bag of black 8 mm head screws before uploading pictures onto Taurus. (See naming convention below bagging)
+
+
+4. Take 2 picture of the legs and a final bagged picture of the clipped Astro Legs with a bag of black 8 mm head screws before uploading ALL pictures onto Taurus. (See 'Naming Convention' below)
    1. <mark style="background-color:$warning;">Confirm camera is set on "P" setting</mark>
    2. Confirm light inside big cube is bright enough to see any defects and sticker of serial numbers is visible on each of the legs
    3. Take the first picture as shown in picture 1 Leg 0083, Flip BOTH legs so that the other legs serial number is shown. Take another picture as shown in picture 2 Leg 0084.
@@ -61,15 +73,22 @@ Only use the stickers in the Astro Leg Bin. Please place the sticker roll back i
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;2\. Using tape. Tape the 2" x 3" screw bag to the inside of the 18” x 15” bag.
+&#x20;2\. Using tape. Tape the 2" x 3" head screw bag to the inside of the 18” x 15” bag as shown:
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2620.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 &#x20;3\. Take the 2 legs that you just took pictures of. Use the clip and attach both of them facing the same direction.
 
-4. Place the leg pairs into the large 18" x 15" bag and close it. Make sure the serial number side of the legs are facing on the side where you taped the head screws.   &#x20;
-5. Use a stapler and staple it.
+<figure><img src="../../.gitbook/assets/2619.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+4. Place the leg pairs into the large 18" x 15" bag and close it. Make sure the serial number side of the legs are facing on the side where you taped the head screws, this is the backside of the bag.&#x20;
+
+<figure><img src="../../.gitbook/assets/2621.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+4. Use a stapler and staple it.
    1. <mark style="background-color:yellow;">With the legs inside, BEFORE stapling the bag. Make sure serial numbers should be facing the back side of the bag. As shown below:</mark>&#x20;
+
+<figure><img src="../../.gitbook/assets/2622.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Staple both side of the 18" x 15" big bag secured with the provided Sentera logo. Avoid stapling the Sentera logo.
