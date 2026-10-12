@@ -86,7 +86,7 @@ Only use the stickers in the Astro Leg Bin. Please place the sticker roll back i
 <figure><img src="../../.gitbook/assets/2621.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 4. Use a stapler and staple it.
-   1. <mark style="background-color:yellow;">With the legs inside, BEFORE stapling the bag. Make sure serial numbers should be facing the back side of the bag. As shown below:</mark>&#x20;
+   1. <mark style="background-color:yellow;">With the legs inside, BEFORE stapling the bag. Make sure serial numbers should be facing the back side of the bag. Sentera logo should be visible in front of the bag as shown below:</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/2622.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -113,5 +113,5 @@ Staple both side of the 18" x 15" big bag secured with the provided Sentera logo
    3.
 
        <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
-3. Repeat step 2 process for ALL Astro Leg images until ALL Astro Legs images are saved in their own files/ folders.
+3. REPEAT step 2 process for ALL Astro Leg images until all Astro Legs images are saved in their own files/ folders.
 4. STOP!!! You are now done. Slack someone that you are now done with the Astro Leg's and appoint them to where you store the picture files/ folders ready for shipping. 🛑
