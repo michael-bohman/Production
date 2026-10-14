@@ -88,11 +88,11 @@ Only use the stickers in the Astro Leg Bin. Please place the sticker roll back i
 4. Use a stapler and staple it.
    1. <mark style="background-color:yellow;">With the legs inside, BEFORE stapling the bag. Make sure serial numbers should be facing the back side of the bag. Sentera logo should be visible in front of the bag as shown below:</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/2622.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 Staple both side of the 18" x 15" big bag secured with the provided Sentera logo. Avoid stapling the Sentera logo.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/20261014_142740.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 6.  Take a final picture of the bagged Astro Legs and upload it to Taurus with the other taken photos.
 
