@@ -23,10 +23,7 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 ## Guide
 
-1.  If present, remove any stickers with acetone and foam from the cases
-
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
-2. Cases should come with the outside sticker and inside QR code already installed.&#x20;
+1. Cases should come with the outside sticker and inside QR code already installed.&#x20;
 
 <details>
 
@@ -34,6 +31,10 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 
 
+* If present, remove any stickers with acetone and foam from the cases
+*
+
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
 *   Cut Strips of foam tape and attach to the inside faces of the containers as shown, ensuring edges of the tape match closely with the container walls
 
     <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption></figcaption></figure>
@@ -51,7 +52,7 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 </details>
 
-3. Apply the 3M tape to the lower section of the case.&#x20;
+3. Wipe the bottom with acetone to clear any debris and apply 2 strips of the 3M tape to the lower section of the case. The strips should be about 1/4 " away from any edge.
    1.
 
        <div align="center"><figure><img src="../../.gitbook/assets/reflectance panel (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
@@ -82,7 +83,7 @@ Metallic Side
 
 <figure><img src="../../.gitbook/assets/IMG_7848.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-10. Cut and place a S-23029 tissue paper sheet over the panel with it overlapping the front.
+10. Place a Kimwipe tissue paper sheet over the panel with it overlapping the front.
 
 <figure><img src="../../.gitbook/assets/IMG_7850.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
