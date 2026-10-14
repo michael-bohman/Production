@@ -31,6 +31,10 @@ Note: This process also checks **Sensors>21030-XX — 65R>21030-04**
 
 * Check within each sub-directory & shortcut
 
+{% hint style="info" %}
+<mark style="color:blue;">Calibration</mark> and <mark style="color:blue;">Verification</mark> may be formatted with a date, eg. <mark style="color:blue;">Calibration\_YYYY\_MM\_DD</mark>. Either with or without a date is OK.
+{% endhint %}
+
 <details>
 
 <summary><mark style="color:blue;">Calibration</mark> (Preferred but not required)</summary>
