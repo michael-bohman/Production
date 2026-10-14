@@ -5,7 +5,7 @@
 1. Sales Order&#x20;
 2. Shipping Label
 3. Packing List
-4. Build
+4. Build (You may need to look this up in the system)
 
 ## QC
 
@@ -19,6 +19,7 @@
 3. Locate your Sales Order folder
 4. Confirm the number on reflectance panel is the same in the SO folder
    1. Photo naming convention: "Panel XXXX" where XXXX is the number on the sticker.
+   2. Open photo and confirm no issues are present on the reflectance panel. If the image(s) are not clear or appears to have an anomaly. Do not ship and show the person who prepped the order so they can research and pull another panel.
 5. Correct any issues that appear
 
 ### Address Confirmation
@@ -29,7 +30,7 @@
 
 ### Ship Package
 
-1. Insert bubble wrap for safe shipping&#x20;
+1. Insert bubble wrap for safe shipping and add additional bubble wrap as needed to secure in box.
 2. Place reflectance panel in box, face up&#x20;
 3. Place Packing List on top of reflectance panel
 4. Place sticker on top&#x20;
