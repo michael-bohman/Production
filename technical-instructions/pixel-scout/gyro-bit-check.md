@@ -39,12 +39,16 @@ You will need <mark style="color:blue;">sbgCenter</mark> installed: \[insert lin
 <figure><img src="../../.gitbook/assets/Screenshot 2026-10-15 120033.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * You may close the <mark style="color:blue;">`Open new graph`</mark> window
-* Scroll the bottom (blue-ish) bar to zoom in & out and to pan the view
+* Scroll the bottom (blue-ish) bar to zoom in & out and to pan the view, use the <mark style="color:blue;">`Euler Angles (°)`</mark> graph for reference
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-10-15 143335.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-10-15 143335.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Check for any anomalies along the IMU Status lines
 
-<div><figure><img src="../../.gitbook/assets/Screenshot 2026-10-15 142821.png" alt=""><figcaption><p>GOOD: All "IMU Status" lines flat—no flags</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2026-10-15 142611.png" alt=""><figcaption><p>BAD: Orange flags reading "0"</p></figcaption></figure></div>
+{% hint style="warning" %}
+The Gyro BIT erros may not be immediately visible and can appear/disappear when zooming in & out. Pan/zoom around a bit to make sure you don't miss them.
+{% endhint %}
+
+<div><figure><img src="../../.gitbook/assets/Screenshot 2026-10-15 142821.png" alt="" width="563"><figcaption><p>GOOD: All "IMU Status" lines flat—no flags</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2026-10-15 142611.png" alt="" width="563"><figcaption><p>BAD: Orange flags reading "0"</p></figcaption></figure></div>
 
 * If good, continue with assembly/programming. If bad, reach out to engineering
