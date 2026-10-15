@@ -31,6 +31,7 @@
     * [✅ 4-A Gimbal Tuning](technical-instructions/pixel-scout/assembly-steps/4-a-gimbal-tuning.md)
     * [✅ 4-B Antenna Assembly](technical-instructions/pixel-scout/assembly-steps/4-b-antenna-assembly.md)
     * [✅ 5 System Configuration](technical-instructions/pixel-scout/assembly-steps/5-system-configuration.md)
+  * [Gyro BIT Check](technical-instructions/pixel-scout/gyro-bit-check.md)
   * [Calibration and Verification](technical-instructions/pixel-scout/calibration-and-verification/README.md)
     * [✅ Case Assembling and Packing](technical-instructions/pixel-scout/calibration-and-verification/case-assembling-and-packing.md)
     * [✅ Ground Test](technical-instructions/pixel-scout/calibration-and-verification/ground-test.md)
