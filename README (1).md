@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Amanda'
+description: 'Owner: Amanda Janssen'
 ---
 
 # 🚧 RTK/PPK
@@ -33,3 +33,9 @@ description: 'Owner: Amanda'
 {% content-ref url="space-and-general/drawings.md#rtk-ppk-ground-module-greater-than-31039" %}
 [#rtk-ppk-ground-module-greater-than-31039](space-and-general/drawings.md#rtk-ppk-ground-module-greater-than-31039)
 {% endcontent-ref %}
+
+## Case Stickers
+
+{% file src=".gitbook/assets/Avery5160  IF800 Case Stickers (1).doc" %}
+
+{% file src=".gitbook/assets/Avery5160  IF1200 Case Stickers (1).doc" %}

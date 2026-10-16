@@ -56,3 +56,15 @@ the **Space and General** group has misc. pages with logistical guides and refer
 :camera: = Needs Images&#x20;
 
 :white\_check\_mark: = Page Completed&#x20;
+
+
+
+## Tag Status &#x20;
+
+:blue\_circle: = Used for build status. Write down everything completed on tag to know progress of a specific unit.&#x20;
+
+:green\_circle: = Used for completed status. The unit is ready to ship and can be put on shipping rack.&#x20;
+
+:red\_circle: = Used for error status. Something is wrong with unit and needs to be fixed.&#x20;
+
+:yellow\_circle: = Random colored tag, can be used for other tasks

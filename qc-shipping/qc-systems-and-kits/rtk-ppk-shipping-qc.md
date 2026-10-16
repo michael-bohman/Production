@@ -126,12 +126,14 @@
 
 1. Place plastic bag around case
 2. Place Packing List, support book, and sticker on top of the case inside the plastic bag
-3. Put case in the box&#x20;
+3. Put everything in the Sentera logo box&#x20;
 4. Close up box
 5. Tape around edges&#x20;
 6. Tape/stick-on label to the box&#x20;
 7. Use labels on both sides of the box to identify if it is IF800 or IF1200 to all sides&#x20;
-   1.  <mark style="background-color:$warning;">Cross out any barcodes on the box</mark>
 
-       <figure><img src="../../.gitbook/assets/20260804_153511.jpg" alt="" width="563"><figcaption></figcaption></figure>
+{% file src="../../.gitbook/assets/Avery5160  IF800 Case Stickers.doc" %}
+
+{% file src="../../.gitbook/assets/Avery5160  IF1200 Case Stickers.doc" %}
+
 8. Place in the shipment zone
