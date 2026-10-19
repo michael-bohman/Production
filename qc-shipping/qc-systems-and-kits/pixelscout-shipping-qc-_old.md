@@ -4,6 +4,14 @@ description: 'Owner: Isaac'
 
 # ⚠️ PixelScout Shipping QC \_old
 
+{% hint style="danger" %}
+THIS PAGE IS OUT OF DATE. This is here solely for reference while the new PixelScout QC page is being finalized. Use the new PixelScout QC page for all QC needs.
+{% endhint %}
+
+{% content-ref url="pixelscout-shipping-qc.md" %}
+[pixelscout-shipping-qc.md](pixelscout-shipping-qc.md)
+{% endcontent-ref %}
+
 ## Artifact Locations in Taurus>Production
 
 ### Systems & Kits>21282-00 — PixelScout Phase 4
