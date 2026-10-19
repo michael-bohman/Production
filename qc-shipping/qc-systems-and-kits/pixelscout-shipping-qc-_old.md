@@ -90,7 +90,7 @@ bpr\_map.csv is applied to camera to be used for BPR.
   * Not required but optional to check final score percentages.
     * Above 96% required for middle
     * Above \~75% is required for sides (Prefer closer to 92% but not required)
-* Refer to [1-pixelscout-65r-focusing-change-process.md](../../technical-instructions/pixel-scout/assembly-steps/1-pixelscout-65r-focusing-change-process.md "mention") for more context if desired.
+* Refer to [1-pixelscout-65r-focusing-change-process.md](../../technical-instructions/pixel-scout/current/assembly-steps/1-pixelscout-65r-focusing-change-process.md "mention") for more context if desired.
 
 <details>
 
@@ -219,6 +219,6 @@ Current firmware version: 4.5.1
 
 ## Checking the Case
 
-Refer to [#final-packing](../../technical-instructions/pixel-scout/calibration-and-verification/case-assembling-and-packing.md#final-packing "mention") for a guide on packing the case. Ensure the case follows this guide correctly.
+Refer to [#final-packing](../../technical-instructions/pixel-scout/current/calibration-and-verification/case-assembling-and-packing.md#final-packing "mention") for a guide on packing the case. Ensure the case follows this guide correctly.
 
 (in the future, may copy everything to this page.

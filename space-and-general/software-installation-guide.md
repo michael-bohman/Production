@@ -138,7 +138,7 @@ MikTex is a Latex interpreter used for the conversion of Markdown files to print
 
 The Focus App is used for focusing PixelScout 65Rs inside with the targets. Later, it will be used for regular 65R and 6X cameras.
 
-[1-pixelscout-65r-focusing-change-process.md](../technical-instructions/pixel-scout/assembly-steps/1-pixelscout-65r-focusing-change-process.md "mention")
+[1-pixelscout-65r-focusing-change-process.md](../technical-instructions/pixel-scout/current/assembly-steps/1-pixelscout-65r-focusing-change-process.md "mention")
 
 
 
@@ -172,7 +172,7 @@ The Pico Configurator program may be run directly off of taurus without download
 
 The BPR programs are used for creating and applying bad pixel replacement to 65R cameras.
 
-[bad-pixel-replacement.md](../technical-instructions/pixel-scout/assembly-steps/bad-pixel-replacement.md "mention")
+[bad-pixel-replacement.md](../technical-instructions/pixel-scout/current/assembly-steps/bad-pixel-replacement.md "mention")
 
 
 

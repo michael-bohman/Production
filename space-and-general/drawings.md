@@ -42,7 +42,11 @@ Up to date as of 3/24/2026
 
 <summary>PixelScout V4 -> 21282</summary>
 
+Up to date as of 10/16/2026
 
+\as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21282 - Sensor Assembly, PixelScout Phase 4
+
+{% file src="../.gitbook/assets/21282_reva.pdf" %}
 
 </details>
 
@@ -50,7 +54,11 @@ Up to date as of 3/24/2026
 
 <summary>PixelScout V4 Camera Pod -> 21283</summary>
 
+Up to date as of 10/16/2026
 
+\as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21283 - Camera Pod Assembly, PixelScout Phase 4
+
+{% file src="../.gitbook/assets/21283_rev-.pdf" %}
 
 </details>
 
@@ -58,7 +66,7 @@ Up to date as of 3/24/2026
 
 <summary>PixelScout V4 Antenna -> 21284</summary>
 
-Up to date as of 3/24/2026
+Up to date as of 10/16/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21284 - Dual Antenna Module, M300, PixelScout V4
 
@@ -240,7 +248,11 @@ Up to date as of 3/24/2026
 
 <summary>PixelScout V4 Gimbal -> 21263-01</summary>
 
+Up to date as of 10/16/2026
 
+\as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21263 - Gimbal Assembly, WeedScout Phase 2
+
+{% file src="../.gitbook/assets/21263_reva.pdf" %}
 
 </details>
 
@@ -252,7 +264,7 @@ Up to date as of 3/24/2026
 
 <summary>PixelScout V4 Case -> 21281</summary>
 
-Up to date as of 4/6/2026
+Up to date as of 10/16/2026
 
 \as-odyssey.jdnet.deere.com\EVault\Sentera\2XXXX - Payload\21XXX - Assemblies\21281 - PixelScout Phase 4 System, Dual 65R Gimbal, SBG\Rev A\21281\_reva.pdf
 
