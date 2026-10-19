@@ -62,7 +62,7 @@ NOTE: Make sure there's NO excessive Araldite exposing outside the side of the T
 <p align="center">🛑🤚ALLOW ARALDITE TO CURE OVER NIGHT!!! Proceed to the next following step.</p>
 
 {% hint style="info" %}
-NOTE: It takes 24 hour's for Araldite to cure. So the carbon tube inside the T Joint will wiggle!!!
+NOTE: It takes 12 hours or overnight for Araldite to cure.
 {% endhint %}
 
 6. Grab the big carbon tube diameter .695" (Big) part number #15627-00 and insert cam follower part number #15621-03 into the top of the carbon tube where's the hole is nearest to the edge of the tube. Verify visual through the holes. If the holes don't align, report defect to someone immediately.
