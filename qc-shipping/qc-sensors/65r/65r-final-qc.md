@@ -19,7 +19,7 @@ This step should be completed by a different person that did the build and pre-s
 
        password: \[none]
 2. Confirm the following
-   1. Firmware is up to date to the latest version: "4.5.1" as of 16 September 2026.
+   1. Firmware is up to date to the latest version: "4.8.1" as of 25 September 2026.
    2. Correct Configuration is set use the following to confirm the correct config according to the SOS part number that is being shipped.&#x20;
       1. 21931-00, 21931-01, 21931-12, 21931-13 M300/M350 --> DJI skyport, Gimbaled
       2. 21931-02, 21931-03, 21931-14, 21931-15 Freefly Astro --> Freefly Astro Gimbal
@@ -33,9 +33,9 @@ This step should be completed by a different person that did the build and pre-s
    2. "\\\192.168.42.1\sdcard\info\hw\_config.yaml" has the correct S/N. Make sure this S/N matches the 6x's SOS build and the label on the outside of the sensor.
 4. Visual Check&#x20;
    1. Sticker is clean&#x20;
-   2. Screws attaching the sensor to the gimbal are at the correct torque spec (15 inch-oz) and none of them are missing. This includes all three philips head screws and the shoulder screw.
+   2. Screws attaching the sensor to the gimbal are at the correct torque spec (15 inch-oz) and none of them are missing. This includes all three Philips head screws and the shoulder screw.
    3. SD card is secured&#x20;
-   4. The lens is clean and do not have any smudges or fingerprints on them
+   4. The lens is clean and does not have any smudges or fingerprints on it
 5. Taurus Check&#x20;
    1. Using File Explorer, navigate to "\\\as-taurus.jdnet.deere.com\Production\Sensors\\". Find and open the folder for the specific part number and serial number of the Sensor being QC'd.
    2. Data folder contains the Focus and Flight Test. It is also acceptable to have a folder named BPR with no images. Check Focus and Flight Test imagery.
