@@ -10,22 +10,22 @@ QC must be performed by another person who did NOT complete the build
 
 ## QC Steps
 
-1. Put on gloves.
+1. Put on a pair of latex gloves.
 2. Open a reflectance panel, inspect the reflectance panel for any nicks, gouges, discoloration, etc.
    1. If any damage is present, put aside and mark as 'Do Not Ship'.&#x20;
-      1. consult others for ship-ability
+      1. consult with others for ship-ability
    2. Confirm stickers are correctly installed
 
 > <img src="../../.gitbook/assets/20260805_092536.jpg" alt="" data-size="original">    ![](../../.gitbook/assets/20260805_092549.jpg)
 >
 >
 
-3. Select the next number sticker. Temporarily stick it on the top edge of the open panel as shown, ensuring it is not covering any part of the reflectance panel.
+3. Select the next number sticker. Temporarily stick it on the top edge of the open panel, ensuring it is not covering any part of the reflectance panel.
 
 {% hint style="danger" %}
 Only use the stickers in the 'Reflectance Panel' Bin. Please place the sticker roll back in the correct bin.&#x20;
 
-<p align="center"><strong>DO NOT USE THE ASTRO BIN STICKER</strong></p>
+&#x20;                                                       **DO NOT USE THE ASTRO BIN STICKER**
 {% endhint %}
 
 4. Locate the 'Small' light box in the room to take a photo of the Reflectance Panel:
