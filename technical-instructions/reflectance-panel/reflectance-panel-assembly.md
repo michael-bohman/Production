@@ -94,6 +94,6 @@ Metallic Side
 
 <figure><img src="../../.gitbook/assets/IMG_7850.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-10. Close the panel with the Kimwipe tissue paper ready for QC.&#x20;
+10. Close the panel with the Kimwipe tissue paper ready for QC. 🛑
 
 <figure><img src="../../.gitbook/assets/IMG_7851.jpg" alt="" width="375"><figcaption></figcaption></figure>
