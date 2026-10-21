@@ -52,14 +52,14 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 </details>
 
-2. Wipe the bottom half with Acetone to clear any dirt or debris and apply 2 strips of the 3M tape to the lower section of the case. The tape strips should be about 1/4" away from the edges.
+2. Wipe the bottom half with Acetone to clean up any dirt or debris and apply 2 strips of the 3M tape to the lower section of the case. The tape strips should be about 1/4" away from the edges.
 
 <div align="center"><figure><img src="../../.gitbook/assets/reflectance panel (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
 
 3. Remove red film from tape in the lower section.
 4. **Put on a new pair of disposable latex gloves**.
 5. Carefully remove the reflectance panel from its packaging.
-6. Place the 'M**etallic Side' of the panel down** on the bottom adhesive 3M tape strips. Slightly press down with pressure using both your palms.
+6. Place the '**Metallic Side**' of the panel down on the bottom adhesive 3M tape strips. Slightly press down with pressure using both your palms.
 
 {% columns %}
 {% column %}
@@ -93,6 +93,6 @@ Metallic Side
 
 <figure><img src="../../.gitbook/assets/IMG_7850.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-9. Close the panel with the tissue paper ready for QC.&#x20;
+9. Close the panel with the Kimwipe tissue paper ready for QC.&#x20;
 
 <figure><img src="../../.gitbook/assets/IMG_7851.jpg" alt="" width="375"><figcaption></figcaption></figure>
