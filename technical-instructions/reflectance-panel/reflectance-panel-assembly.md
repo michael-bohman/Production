@@ -6,11 +6,11 @@ description: 'Owner: Lee Vang'
 
 ## Equipment
 
-|          |               |
-| -------- | ------------- |
-| Gloves   | Scissors      |
-| 3M Tape  | Tissue Paper  |
-| Knife    | Acetone       |
+|              |                      |
+| ------------ | -------------------- |
+| Latex Gloves | Box Cutter Blade     |
+| 3M Tape      | Blue Cleaning Paper  |
+|              | Acetone              |
 
 ## Notes
 
@@ -18,12 +18,12 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 ## Prep
 
-* Clear workspace and wipe down with cleaning spray or wipes to ensure it is very clean
+* Clear workspace and wipe down with cleaning spray or wipes to ensure area is cleaned.
 * Gather all materials necessary
 
 ## Guide
 
-1. Cases should come with the outside sticker and inside QR code already installed.&#x20;
+1. Cases should come with the outside Sentera sticker and a sndeiQR   code already installed.&#x20;
 
 <details>
 
@@ -52,14 +52,14 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 </details>
 
-3. Wipe the bottom with acetone to clear any debris and apply 2 strips of the 3M tape to the lower section of the case. The strips should be about 1/4 " away from any edge.
-   1.
+2. Wipe the bottom half with Acetone to clear any dirt or debris and apply 2 strips of the 3M tape to the lower section of the case. The tape strips should be about 1/4" away from the edges.
 
-       <div align="center"><figure><img src="../../.gitbook/assets/reflectance panel (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
-4. Remove red film from the tape in the lower section
-5. **Put on a new pair of disposable gloves**.
-6. Carefully remove the reflectance panel from its packaging.
-7. Place the panel **metallic side down** on the bottom adhesive strips with light even pressure.
+<div align="center"><figure><img src="../../.gitbook/assets/reflectance panel (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
+
+3. Remove red film from tape in the lower section.
+4. **Put on a new pair of disposable latex gloves**.
+5. Carefully remove the reflectance panel from its packaging.
+6. Place the 'M**etallic Side' of the panel down** on the bottom adhesive 3M tape strips. Slightly press down with pressure using both your palms.
 
 {% columns %}
 {% column %}
@@ -75,18 +75,24 @@ Metallic Side
 {% endcolumn %}
 {% endcolumns %}
 
-8. Press down to make sure the glue sticks using the inside side of the original panel packaging as it is clean and free of oils and debris.
+7. Press down to make sure the 'metallic side' sticks using the inside of the original panel packaging as it is clean and free of oils and debris.
 
+{% columns %}
+{% column %}
 <figure><img src="../../.gitbook/assets/IMG_7849.jpg" alt="" width="375"><figcaption></figcaption></figure>
+{% endcolumn %}
 
-9.
-
+{% column %}
 <figure><img src="../../.gitbook/assets/IMG_7848.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-10. Place a Kimwipe tissue paper sheet over the panel with it overlapping the front.
+
+{% endcolumn %}
+{% endcolumns %}
+
+8. Place a Kimwipe tissue paper over the reflectance panel with it overlapping the front.
 
 <figure><img src="../../.gitbook/assets/IMG_7850.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-13. Close the panel on the tissue paper.
+9. Close the panel with the tissue paper.&#x20;
 
 <figure><img src="../../.gitbook/assets/IMG_7851.jpg" alt="" width="375"><figcaption></figcaption></figure>
