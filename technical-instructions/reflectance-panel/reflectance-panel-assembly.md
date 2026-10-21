@@ -52,14 +52,15 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 </details>
 
-2. Wipe the bottom half with Acetone to clean up any dirt or debris and apply 2 strips of the 3M tape to the lower section of the case. The tape strips should be about 1/4" away from the edges.
+2. **Put on a pair of disposable latex gloves**.
+3. Wipe the bottom half with Acetone to clean up any dirt or debris and apply 2 strips of the 3M tape to the lower half of the case. Cautiously use the box cutter blade to cut the tape. The tape strips should be about 1/4" away from the edges.
 
 <div align="center"><figure><img src="../../.gitbook/assets/reflectance panel (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
 
-3. Remove red film from tape in the lower section.
 4. **Put on a new pair of disposable latex gloves**.
-5. Carefully remove the reflectance panel from its packaging.
-6. Place the '**Metallic Side**' of the panel down on the bottom adhesive 3M tape strips. Slightly press down with pressure using both your palms.
+5. Remove red film from tape in the lower section.
+6. Carefully remove the reflectance panel from its packaging.
+7. Place the '**Metallic Side**' of the panel down on the bottom half with the adhesive 3M tape strips.
 
 {% columns %}
 {% column %}
@@ -75,7 +76,7 @@ Metallic Side
 {% endcolumn %}
 {% endcolumns %}
 
-7. Press down to make sure the 'metallic side' sticks using the inside of the original panel packaging as it is clean and free of oils and debris.
+8. Slightly press down using the inside of the original panel packaging, as it's clean of oils and debris with both your palms. Make sure the 'Metallic Side' sticks inside the cover.
 
 {% columns %}
 {% column %}
@@ -89,10 +90,10 @@ Metallic Side
 {% endcolumn %}
 {% endcolumns %}
 
-8. Place a Kimwipe tissue paper over the reflectance panel with it overlapping the front.
+9. Place a Kimwipe tissue paper over the reflectance panel with it overlapping the front.
 
 <figure><img src="../../.gitbook/assets/IMG_7850.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-9. Close the panel with the Kimwipe tissue paper ready for QC.&#x20;
+10. Close the panel with the Kimwipe tissue paper ready for QC.&#x20;
 
 <figure><img src="../../.gitbook/assets/IMG_7851.jpg" alt="" width="375"><figcaption></figcaption></figure>
