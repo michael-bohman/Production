@@ -23,7 +23,7 @@ Before starting, ensure someone else will be able to QC the panels within 24 hou
 
 ## Guide
 
-1. Cases should come with the outside Sentera sticker and a sndeiQR   code already installed.&#x20;
+1. Cases should come with the outside Sentera sticker and an inside QR code already installed.&#x20;
 
 <details>
 
