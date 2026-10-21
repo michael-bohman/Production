@@ -20,7 +20,7 @@ QC must be performed by another person who did NOT complete the build
 >
 >
 
-3. Select the next number sticker. Temporarily stick it on the top edge of the open panel, ensuring it is not covering any part of the reflectance panel.
+3. Select the next number sticker. Temporarily stick it on the top right edge of the open panel, ensuring it is not covering any part of the reflectance panel.
 
 {% hint style="danger" %}
 Only use the stickers in the 'Reflectance Panel' Bin. Please place the sticker roll back in the correct bin.&#x20;
@@ -34,11 +34,11 @@ Only use the stickers in the 'Reflectance Panel' Bin. Please place the sticker r
 
 
 
-* The panel number is visible, and 3M tape should NOT be visible.
-* The entire reflectance panel is in view
+* Panel serial number is visible, and the entire panel is in view.
+* 3M tape should NOT be visible.
 * Every picture is visible with NO blur.
 
-<figure><img src="../../.gitbook/assets/20260805_092759.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Panel 420.JPG" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Close the container with the Kimwipe tissue paper placed back in between the two halves of the container with an even overhang.
 6. Place the sticker on the back of the case, position it in the lower right-hand corner.
@@ -46,13 +46,13 @@ Only use the stickers in the 'Reflectance Panel' Bin. Please place the sticker r
 
 <figure><img src="../../.gitbook/assets/IMG_7923.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-7. Place the container into an S-9482 Poly Bag and seal with the Uline Sealer.
-   1.  Sealer should be set to 3. Place the container in the bag sticker side first so that the sticker is furthest from the excess material
+7. Place the panel into an S-9482 Poly Bag and seal with the Uline Sealer.
+   1.  Impulse Sealer should be set to 3. Place the panel in the bag with Sentera sticker side first so that the sticker is furthest from the excess material.
 
 
 
        <figure><img src="../../.gitbook/assets/20260805_093037.jpg" alt="" width="188"><figcaption></figcaption></figure>
-8. Grab a folded "Sentera Documentation" and staple it on the sides of the bag to keep it secured.&#x20;
+8. Grab a folded "Sentera Documentation" and staple it on both sides of the bag to keep it secured.&#x20;
 
 > ![](<../../.gitbook/assets/image (261).png>)     ![](../../.gitbook/assets/20260805_093135.jpg)
 
