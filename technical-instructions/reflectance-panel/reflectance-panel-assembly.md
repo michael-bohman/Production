@@ -93,6 +93,6 @@ Metallic Side
 
 <figure><img src="../../.gitbook/assets/IMG_7850.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-9. Close the panel with the tissue paper.&#x20;
+9. Close the panel with the tissue paper ready for QC.&#x20;
 
 <figure><img src="../../.gitbook/assets/IMG_7851.jpg" alt="" width="375"><figcaption></figcaption></figure>
