@@ -16,10 +16,12 @@ description: 'Owner: Isaac'
 
 {% stepper %}
 {% step %}
-### Assembly
+### Assembly (1/2)
 
 {% hint style="info" %}
 Leave the back cover detached for programming
+
+Stop assembly just before installing the button.
 {% endhint %}
 
 {% content-ref url="../../../../production-documentation-1/65r/65r-assembly.md" %}
@@ -59,6 +61,20 @@ Leave the back cover detached for programming
 {% endcontent-ref %}
 
 * Upload BPR folder to Taurus
+{% endstep %}
+
+{% step %}
+### Assembly (2/2)
+
+* Install button
+* Install lens shroud
+* Sticker on big cap
+* Install big cap
+* Discard small cap
+
+{% hint style="info" %}
+The back cover can be left off until the Camera Pod Assembly step when the micro-coax cables are attached
+{% endhint %}
 {% endstep %}
 {% endstepper %}
 

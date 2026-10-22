@@ -38,6 +38,7 @@ Final directory layout: (<mark style="color:green;">initial directory</mark>, <m
 * <mark style="color:$warning;">Focus</mark>
   * <mark style="color:$warning;">rgb</mark>
     * <mark style="color:blue;">IMG\_0001.jpg</mark>
+    * <mark style="color:blue;">...</mark>
 * <mark style="color:blue;">bottom.jpg</mark>
 * <mark style="color:blue;">cap.jpg</mark>
 * <mark style="color:blue;">middle.jpg</mark>
