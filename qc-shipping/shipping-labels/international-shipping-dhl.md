@@ -54,10 +54,9 @@ description: 'Owner: James'
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-10-02 121946.png" alt=""><figcaption></figcaption></figure>
 
-10. In this section, you'll type your name and your title at Sentera. As well as your written signature you can upload to DHL.
-    1. However, You can always just use my name and title as well as this file containing my signature.
+10. In this section, you'll type your name and your title at Sentera. As well as your written signature you can upload to DHL as an image.
 
-{% file src="../../.gitbook/assets/Signature.png" %}
+
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-10-02 122004.png" alt=""><figcaption></figcaption></figure>
 
