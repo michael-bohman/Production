@@ -80,7 +80,7 @@
   * [✅ Assembly](technical-instructions/double-4k/assembly.md)
   * [🚧 Programming](technical-instructions/double-4k/programming.md)
 * [🚧 Gimbals](technical-instructions/gimbals/README.md)
-  * [📷 6X Frame](technical-instructions/gimbals/6x-frame.md)
+  * [✅ 6X Frame](technical-instructions/gimbals/6x-frame.md)
   * [✅ 65R Frame ](technical-instructions/gimbals/65r-frame.md)
   * [✅ Gimbal Stack](technical-instructions/gimbals/gimbal-stack-assembly/README.md)
     * [🚧 Drone Stack Assembly](technical-instructions/gimbals/gimbal-stack-assembly/drone-stack-assembly/README.md)
