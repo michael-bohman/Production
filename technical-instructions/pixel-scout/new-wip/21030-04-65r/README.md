@@ -66,15 +66,15 @@ Stop assembly just before installing the button.
 {% step %}
 ### Assembly (2/2)
 
-* Install button
-* Install lens shroud
-* Sticker on big cap
-* Install big cap
-* Discard small cap
+* Continue 65R assembly instructions to the end
 
 {% hint style="info" %}
 The back cover can be left off until the Camera Pod Assembly step when the micro-coax cables are attached
 {% endhint %}
+
+{% content-ref url="../../../../production-documentation-1/65r/65r-assembly.md" %}
+[65r-assembly.md](../../../../production-documentation-1/65r/65r-assembly.md)
+{% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
 
