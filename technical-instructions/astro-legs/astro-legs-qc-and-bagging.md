@@ -1,8 +1,8 @@
 ---
-description: 'Owner: Lee Vang'
+description: 'Owner: Amanda Janssen'
 ---
 
-# ✅ Astro Legs QC and Bagging&#x20;
+# 📷 Astro Legs QC and Bagging&#x20;
 
 ### Note
 
@@ -10,18 +10,22 @@ description: 'Owner: Lee Vang'
 
 <figure><img src="../../.gitbook/assets/20260908_083918 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-## QC & Pictures
+## Initial QC
+
+1. <mark style="color:$danger;">(Insert picture of speed bump jig)</mark>
+2. This is to be completed by someone that did not make the Astro Legs.&#x20;
+
+{% hint style="danger" %}
+If there are scratches, pause DON'T take pictures until those legs are inspected or set aside NOT to be shipped!
+{% endhint %}
+
+## Pictures
 
 1. Grab 2 pair of Astro Legs&#x20;
 2. Inspect each individual legs&#x20;
    1. Confirm no scratches
    2. No glue is showing
    3. Pins are fully inserted&#x20;
-
-{% hint style="danger" %}
-If there are scratches, pause DON'T take pictures until those legs are inspected or set aside NOT to be shipped!
-{% endhint %}
-
 3. Place numbered serial sticker on each of the legs as shown:
 
 {% hint style="danger" %}

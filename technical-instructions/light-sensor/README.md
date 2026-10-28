@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Lee Vang'
+description: 'Owner: Kristen Nielson'
 ---
 
 # 🚧 Light Sensor

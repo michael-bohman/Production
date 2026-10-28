@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Lee Vang'
+description: 'Owner: Amanda Janssen'
 ---
 
 # 🚧 Reflectance Panel
